@@ -6,13 +6,204 @@
     <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
     <link rel="stylesheet" href="css/main.css">
   </head>
-  <body>
-    <a-scene id="app">
-      <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
-      <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
-      <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
-      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
-      <a-sky color="#ECECEC"></a-sky>
+  <body >
+    <a-scene id="mainapp">
+      <a-assets>
+        <img id="wallpaper" src="img/plaster-wall-03.jpg">
+        <img id="floor" src="img/floor.jpg">
+        <img id="wood" src="img/wood01.jpg">
+      </a-assets>
+      <a-plane position="0 3 0" rotation="-90 0 0" width="20" height="20" color="white" side="double"></a-plane>
+      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="0 1.5 -10" rotation="0 0 0" width="20" height="3" color="white" side="double"></a-plane>
+      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="10 1.5 0" rotation="0 90 0" width="20" height="3" color="white" side="double"></a-plane>
+      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="-10 1.5 0" rotation="0 -90 0" width="20" height="3" color="white" side="double"></a-plane>
+      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="0 1.5 10" rotation="0 180 0" width="20" height="3" color="white" side="double"></a-plane>
+      <a-entity position="10 0 0" rotation="0 -90 0">
+        <a-box src="#wood" repeat="10 10" class="wall" width="20" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-9.45 0 0" bookshelf></a-entity>
+        <a-entity position="-8.55 0 0" bookshelf></a-entity>
+        <a-entity position="-7.65 0 0" bookshelf></a-entity>
+        <a-entity position="-6.75 0 0" bookshelf></a-entity>
+        <a-entity position="-5.85 0 0" bookshelf></a-entity>
+        <a-entity position="-4.95 0 0" bookshelf></a-entity>
+        <a-entity position="-4.05 0 0" bookshelf></a-entity>
+        <a-entity position="-3.15 0 0" bookshelf></a-entity>
+        <a-entity position="-2.25 0 0" bookshelf></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+        <a-entity position="2.25 0 0" bookshelf></a-entity>
+        <a-entity position="3.15 0 0" bookshelf></a-entity>
+        <a-entity position="4.05 0 0" bookshelf></a-entity>
+        <a-entity position="4.95 0 0" bookshelf></a-entity>
+        <a-entity position="5.85 0 0" bookshelf></a-entity>
+        <a-entity position="6.75 0 0" bookshelf></a-entity>
+        <a-entity position="7.65 0 0" bookshelf></a-entity>
+        <a-entity position="8.55 0 0" bookshelf></a-entity>
+        <a-entity position="9.45 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="5 0 -10">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="5 0 -6" rotation="0 180 0">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="5 0 -6">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="5 0 -2" rotation="0 180 0">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+        <a-entity id="books1" position="-1.35 0 0" booktest></a-entity>
+        <a-entity id="books1" position="-0.45 0 0" booktest></a-entity>
+        <a-entity id="books1" position="0.45 0 0" booktest></a-entity>
+        <a-entity id="books1" position="1.35 0 0" booktest></a-entity>
+      </a-entity>
+      <a-entity position="5 0 -2">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+        <a-entity id="books1" position="-1.35 0 0" booktest></a-entity>
+        <a-entity id="books1" position="-0.45 0 0" booktest></a-entity>
+        <a-entity id="books1" position="0.45 0 0" booktest></a-entity>
+        <a-entity id="books1" position="1.35 0 0" booktest></a-entity>
+      </a-entity>
+      <a-entity position="5 0 2" rotation="0 180 0">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="5 0 2">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="5 0. 6" rotation="0 180 0">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="5 0. 6">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="5 0. 10" rotation="0 180 0">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="-5 0 -10">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="-5 0 -6" rotation="0 180 0">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="-5 0 -6">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="-5 0 -2" rotation="0 180 0">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="-5 0 -2">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="-5 0 2" rotation="0 180 0">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="-5 0 2">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="-5 0 6" rotation="0 180 0">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="-5 0 6">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-entity position="-5 0 10" rotation="0 180 0">
+        <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+      </a-entity>
+      <a-plane src="#floor" repeat="20 20" position="0 0 0" rotation="-90 0 0" width="20" height="20"></a-plane>
+      <a-entity id="rig" 
+      position="0 0 0"
+      raycaster="objects: .wall; far: 0.6; direction: 0 0 -1;"
+      player
+      >
+        <a-entity id="camera" position="0 1.6 0" camera look-controls="pointerLockEnabled: false">
+          <a-text id="debug-text" position="-1 2 -3" value="no hit"></a-text>
+
+        </a-entity>
+      </a-entity>
+      <a-text position="0 2 -3" v-bind:value="message" font="font/mplus-msdf.json" font-image="font/mplus-msdf.png" negate="false"></a-text>
+      <a-sky color="#5CE5EC"></a-sky>
     </a-scene>
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
