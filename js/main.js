@@ -75,14 +75,14 @@ var app = new Vue({
             backcover.setAttribute("font-image","font/mplus-msdf.png" );
             backcover.setAttribute("negate","false" );
             backcover.setAttribute("baseline","top");
-            backcover.setAttribute("anchor","align");
+            backcover.setAttribute("alight","center");
             backcover.setAttribute("scale","0.06 0.06" );
             backcover.setAttribute("color", "black");
             backcover.setAttribute("position", "-0.01 0.12 0.1");
             book.appendChild(backcover);
             return book;
         };
-        for(var i=0;i<176;i++){
+        for(var i=0;i<44;i++){
             this.el.appendChild(addbook("ベンガーデルZ","青木まりこ"+i,((i%44)*0.02 - 0.43) + " " + (1.95 - Math.floor(i/44)*0.4) + " 0.2"));
         }
     },tick: function(){}
