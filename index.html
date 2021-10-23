@@ -226,7 +226,7 @@
         <a-entity id="ctlL" raycaster="objects: .collidable; far:1.2;" laser-controls="hand: left" input-listener="hand: left" touch-checker></a-entity>
         <a-entity id="ctlR" laser-controls="hand: right" input-listener="hand: right"></a-entity>  
         <a-entity id="camera" position="0 1.6 0" camera look-controls="pointerLockEnabled: false">
-          <a-text id="debug-text" position="0 0.5 -2" value="no hit"></a-text>
+          <a-text id="debug-text" position="0 0 -2" value="no hit" align="center"></a-text>
         </a-entity>
       </a-entity>
       <a-text position="0 2 -3" v-bind:value="message" font="font/mplus-msdf.json" font-image="font/mplus-msdf.png" negate="false"></a-text>
