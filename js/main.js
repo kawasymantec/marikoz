@@ -170,18 +170,18 @@ var app = new Vue({
     tick: function() {
         // joystick処理
         if(joy_y!=null){
-            if(joy_y>0){
-                this.speeding = 'up';
-            }else if(joy_y<0){
+            if(joy_y>0.2){
                 this.speeding = 'down';
+            }else if(joy_y<-0.2){
+                this.speeding = 'up';
             }else{
                 this.speeding = null;
             }
         }
         if(joy_x!=null){
-            if(joy_x>0){
+            if(joy_x>0.2){
                 this.rotating = 'right';
-            }else if(joy_x<0){
+            }else if(joy_x<-0.2){
                 this.rotating = 'left';
             }else{
                 this.rotating = null;
