@@ -5,6 +5,10 @@ var app = new Vue({
       message: '青木書店'
     }
   });
+
+  var joy_x = null;
+  var joy_y = null;
+
   AFRAME.registerComponent("bookshelf", {
     init: function () {
         var topboard = document.createElement("a-box");
@@ -164,6 +168,27 @@ var app = new Vue({
     
     },
     tick: function() {
+        // joystick処理
+        if(joy_x!=null){
+            if(joy_x>0){
+                this.speeding = 'up';
+            }else if(joy_x<0){
+                this.speeding = 'down';
+            }else{
+                this.speeding = null;
+            }
+
+        }
+        if(joy_y!=null){
+            if(joy_y>0){
+                this.rotating = 'right';
+            }else if(joy_y<0){
+                this.rotating = 'left';
+            }else{
+                this.rotating = null;
+            }
+
+        }
         // 回転処理
         const rotation = this.el.getAttribute('rotation')
         if (this.rotating == 'left') {
@@ -235,3 +260,175 @@ var app = new Vue({
     },
     update: function() {}
   });
+
+  AFRAME.registerComponent('mouse-listener', {
+    init: function () {
+      this.el.isMouseDown = false;
+      this.el.addEventListener('raycaster-intersection', function (e) {
+        this.selectedObj = e.detail.els[0];
+        this.selectedObj.setAttribute("opacity",0.5);
+        this.isMouseDown = false;
+      });
+      this.el.addEventListener('raycaster-intersection-cleared', function (e) {
+        //レイキャスターと接触しているオブジェクトの情報をクリア
+        if(this.selectedObj){
+          this.selectedObj.setAttribute("opacity",0);              
+        }
+        this.selectedObj = null;
+        this.isMouseDown = false;
+      });
+      this.el.addEventListener('mousedown', function (event) {
+        if(!this.selectedObj){return;}
+        this.isMouseDown = true;
+      });
+      this.el.addEventListener('mouseup', function (event) {
+        if(this.selectedObj&&this.isMouseDown){
+//            soundPlay("sound_button");          
+        }
+        this.isMouseDown = false;
+      });
+      
+    },
+    
+  });
+  
+  AFRAME.registerComponent('touch-checker', {
+    init: function () {
+      this.isTriggerd = false;
+      //Trigger Pressed
+      this.el.addEventListener('triggerdown', function (event) {
+        this.isTriggerd = true;
+      });
+      //Trigger Released
+      this.el.addEventListener('triggerup', function (event) {
+        this.isTriggerd = false;
+      });
+      this.el.addEventListener('raycaster-intersection', function (e) {
+        this.selectedObj = e.detail.els[0];           
+        this.selectedObj.setAttribute("opacity",0.5);
+      });
+
+      //レイキャスターとオブジェクトとの接触完了
+      this.el.addEventListener('raycaster-intersection-cleared', function (e) {
+        //レイキャスターと接触しているオブジェクトの情報をクリア
+        if(this.selectedObj){
+          this.selectedObj.setAttribute("opacity",0);              
+        }
+        this.selectedObj = null;
+      });        
+    },
+    tick: function () {
+      if(!this.el.isTriggerd){ return; }
+      if(!this.el.selectedObj) { return; }
+      this.el.isTriggerd = false;
+//      soundPlay("sound_button");
+    }
+  });
+
+  AFRAME.registerComponent('input-listener', {
+    //Definition of right or left hand as a controller's property.
+    schema: { 
+        hand: {type: "string", default: "" }
+    },
+    //Initialization
+    init:function () {
+      //Stick Moved
+      this.el.addEventListener('axismove',function(event){
+        if(event.detail.axis.length>=4){
+          //for oculus
+          joy_x = event.detail.axis[2];
+          joy_y = event.detail.axis[3];
+        }else{
+          //for vive
+          joy_x = event.detail.axis[0];
+          joy_y = event.detail.axis[1];
+        }
+      }); 
+      
+      //Trigger Touch Started
+      this.el.addEventListener('triggertouchstart', function (event) {
+
+      });
+      //Trigger Touch Ended
+      this.el.addEventListener('triggertouchend', function (event) {
+
+      });
+      
+      //Trigger Pressed
+      this.el.addEventListener('triggerdown', function (event) {
+      });
+      //Trigger Released
+      this.el.addEventListener('triggerup', function (event) {
+      });
+      
+      //Grip Pressed
+      this.el.addEventListener('gripdown', function (event) {
+      }); 
+
+      //Grip Up
+      this.el.addEventListener('gripup', function (event) {
+      }); 
+
+      let key_ctrl_on = false;
+      if(this.data.hand=="left"){
+        document.addEventListener('keydown', (event) => {
+          var keyName = event.key;
+          console.log('keydown:' + keyName);
+          switch (keyName){
+          case 'z':
+          case 'Z':
+//            zoomUp();
+            break;
+          }
+        });
+        document.addEventListener('keyup', (event) => {
+          var keyName = event.key;
+          console.log('keyup:' + keyName);
+          switch (keyName){
+          case 'z':
+          case 'Z':
+//            zoomDown();
+            break;
+          }
+        });
+      }
+             //Grip Released
+      this.el.addEventListener('gripup', function (event) {
+      });
+      //A-buttorn Pressed 
+      this.el.addEventListener('abuttondown', function (event) {
+      });
+      //A-buttorn Released
+      this.el.addEventListener('abuttonup', function (event) {
+      });
+      //B-buttorn Pressed
+      this.el.addEventListener('bbuttondown', function (event) {
+      });
+      //B-buttorn Released
+      this.el.addEventListener('bbuttonup', function (event) {
+      });
+      //Y-buttorn Pressed 
+      this.el.addEventListener('ybuttondown', function (event) {
+      });
+      //Y-buttorn Released
+      this.el.addEventListener('ybuttonup', function (event) {
+        this.txt.setAttribute("value","Y-button up");
+      });
+      //X-buttorn Pressed
+      this.el.addEventListener('xbuttondown', function (event) {
+      });
+      //X-buttorn Released
+      this.el.addEventListener('xbuttonup', function (event) {
+        this.txt.setAttribute("value","X-button up");
+      });
+    },
+    //called evry frame
+    tick: function () {
+      //Position of left-hand controller is shown in real-time.
+      if(this.data.hand=="left"){
+//            var p=this.el.object3D.position;
+//            this.el.txt2.setAttribute("value","R-Position: "+ p.x.toFixed(2)+", "+p.y.toFixed(2)+", "+p.z.toFixed(2));
+      }
+    }
+});
+

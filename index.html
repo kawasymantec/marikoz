@@ -43,6 +43,31 @@
         <a-entity position="8.55 0 0" bookshelf></a-entity>
         <a-entity position="9.45 0 0" bookshelf></a-entity>
       </a-entity>
+      <a-entity position="-10 0 0" rotation="0 90 0">
+        <a-box src="#wood" repeat="10 10" class="wall" width="20" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
+        <a-entity position="-9.45 0 0" bookshelf></a-entity>
+        <a-entity position="-8.55 0 0" bookshelf></a-entity>
+        <a-entity position="-7.65 0 0" bookshelf></a-entity>
+        <a-entity position="-6.75 0 0" bookshelf></a-entity>
+        <a-entity position="-5.85 0 0" bookshelf></a-entity>
+        <a-entity position="-4.95 0 0" bookshelf></a-entity>
+        <a-entity position="-4.05 0 0" bookshelf></a-entity>
+        <a-entity position="-3.15 0 0" bookshelf></a-entity>
+        <a-entity position="-2.25 0 0" bookshelf></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf></a-entity>
+        <a-entity position="0.45 0 0" bookshelf></a-entity>
+        <a-entity position="1.35 0 0" bookshelf></a-entity>
+        <a-entity position="2.25 0 0" bookshelf></a-entity>
+        <a-entity position="3.15 0 0" bookshelf></a-entity>
+        <a-entity position="4.05 0 0" bookshelf></a-entity>
+        <a-entity position="4.95 0 0" bookshelf></a-entity>
+        <a-entity position="5.85 0 0" bookshelf></a-entity>
+        <a-entity position="6.75 0 0" bookshelf></a-entity>
+        <a-entity position="7.65 0 0" bookshelf></a-entity>
+        <a-entity position="8.55 0 0" bookshelf></a-entity>
+        <a-entity position="9.45 0 0" bookshelf></a-entity>
+      </a-entity>
       <a-entity position="5 0 -10">
         <a-box src="#wood" repeat="10 5" class="wall" width="5" height="0.5" depth="1" position="0 0.25 0.5" rotation="0 0 0" ></a-box>
         <a-entity position="-1.35 0 0" bookshelf></a-entity>
@@ -202,6 +227,8 @@
 
         </a-entity>
       </a-entity>
+      <a-entity id="ctlL" raycaster="objects: .collidable; far:1.2;" laser-controls="hand: left" input-listener="hand: left" touch-checker></a-entity>
+      <a-entity id="ctlR" laser-controls="hand: right" input-listener="hand: right"></a-entity>  
       <a-text position="0 2 -3" v-bind:value="message" font="font/mplus-msdf.json" font-image="font/mplus-msdf.png" negate="false"></a-text>
       <a-sky color="#5CE5EC"></a-sky>
     </a-scene>
