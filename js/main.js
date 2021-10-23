@@ -192,7 +192,7 @@ var app = new Vue({
 
         }
         if(joy_x!=null&&joy_y!=null){
-        debugMessage("x:"+ tjoy_x +" z:" +joy_y);
+        debugMessage("x:"+ joy_x +" z:" +joy_y);
 
         }
         // 回転処理
