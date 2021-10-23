@@ -177,7 +177,6 @@ var app = new Vue({
             }else{
                 this.speeding = null;
             }
-
         }
         if(joy_y!=null){
             if(joy_y>0){
