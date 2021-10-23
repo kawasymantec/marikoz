@@ -8,6 +8,9 @@ var app = new Vue({
 
   var joy_x = null;
   var joy_y = null;
+  function debugMessage(message){
+    document.getElementById("debug-text").setAttribute("value",message);
+  }
 
   AFRAME.registerComponent("bookshelf", {
     init: function () {
@@ -188,6 +191,10 @@ var app = new Vue({
             }
 
         }
+        if(joy_x!=null&&joy_y!=null){
+        debugMessage("x:"+ tjoy_x +" z:" +joy_y);
+
+        }
         // 回転処理
         const rotation = this.el.getAttribute('rotation')
         if (this.rotating == 'left') {
@@ -232,10 +239,9 @@ var app = new Vue({
       // 交差していなければ常に現在位置をバックアップ
       if(!this.normalVec){
         Object.assign(this.currentPosition, this.el.object3D.position);
-        document.getElementById("debug-text").setAttribute("value","");
         return;
       }else{
-        document.getElementById("debug-text").setAttribute("value","x:"+ this.normalVec.x +" z:" +this.normalVec.z);
+     //   debugMessage("x:"+ this.normalVec.x +" z:" +this.normalVec.z);
         this.el.object3D.position.x = this.currentPosition.x;
         this.el.object3D.position.z = this.currentPosition.z;
 
