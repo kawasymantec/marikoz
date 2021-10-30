@@ -18,30 +18,30 @@ var app = new Vue({
         var topboard = document.createElement("a-box");
         topboard.setAttribute("height",0.02);
         topboard.setAttribute("width", 0.9);
-        topboard.setAttribute("depth", 0.5);
-        topboard.setAttribute("position","0 1.8 0.25");
+        topboard.setAttribute("depth", 0.4);
+        topboard.setAttribute("position","0 1.8 0.2");
         topboard.setAttribute("src", "#wood");
         var sideboard_L = document.createElement("a-box");
         sideboard_L.setAttribute("height",1.8);
         sideboard_L.setAttribute("width", 0.02);
-        sideboard_L.setAttribute("depth", 0.5);
-        sideboard_L.setAttribute("position","-0.45 0.9 0.25");
+        sideboard_L.setAttribute("depth", 0.4);
+        sideboard_L.setAttribute("position","-0.45 0.9 0.2");
         sideboard_L.setAttribute("src", "#wood");
         var sideboard_R = sideboard_L.cloneNode(true);
-        sideboard_R.setAttribute("position","0.45 0.9 0.25");
+        sideboard_R.setAttribute("position","0.45 0.9 0.2");
         var backboard = document.createElement("a-box");
         backboard.setAttribute("height",1.8);
         backboard.setAttribute("width", 0.87);
         backboard.setAttribute("depth", 0.02);
         backboard.setAttribute("position","0 0.9 0");
         var board01 = topboard.cloneNode(true);
-        board01.setAttribute("position","0 1.5 0.25");
+        board01.setAttribute("position","0 1.5 0.2");
         var board02 = topboard.cloneNode(true);
-        board02.setAttribute("position","0 1.2 0.25");
+        board02.setAttribute("position","0 1.2 0.2");
         var board03 = topboard.cloneNode(true);
-        board03.setAttribute("position","0 0.9 0.25");
+        board03.setAttribute("position","0 0.9 0.2");
         var board04 = topboard.cloneNode(true);
-        board04.setAttribute("position","0 0.6 0.25");
+        board04.setAttribute("position","0 0.6 0.2");
         this.el.appendChild(topboard);
         this.el.appendChild(backboard);
         this.el.appendChild(board01);
@@ -50,6 +50,18 @@ var app = new Vue({
         this.el.appendChild(board04);
         this.el.appendChild(sideboard_L);
         this.el.appendChild(sideboard_R);
+        var addbookbody = function(id,pos){
+            var bookbody = document.createElement("a-box");
+            bookbody.setAttribute("height",0.2);
+            bookbody.setAttribute("width", 0.88);
+            bookbody.setAttribute("depth",0.15);
+            bookbody.setAttribute("position",pos);
+            return bookbody;
+        };
+        this.el.appendChild(addbookbody("#test","0 0.7 0.275"));
+        this.el.appendChild(addbookbody("#test","0 1.0 0.275"));
+        this.el.appendChild(addbookbody("#test","0 1.3 0.275"));
+        this.el.appendChild(addbookbody("#test","0 1.6 0.275"));
         var addbooks = function(id,pos){
             var bookface = document.createElement("a-plane");
             bookface.setAttribute("src",id);
@@ -59,10 +71,10 @@ var app = new Vue({
             bookface.classList.add("collidable");
             return bookface;
         };
-        this.el.appendChild(addbooks("#test","0 0.7 0.4"));
-        this.el.appendChild(addbooks("#test","0 1.0 0.4"));
-        this.el.appendChild(addbooks("#test","0 1.3 0.4"));
-        this.el.appendChild(addbooks("#test","0 1.6 0.4"));
+        this.el.appendChild(addbooks("#test1-1","0 0.7 0.351"));
+        this.el.appendChild(addbooks("#test1-2","0 1.0 0.351"));
+        this.el.appendChild(addbooks("#test1-3","0 1.3 0.351"));
+        this.el.appendChild(addbooks("#test1-4","0 1.6 0.351"));
 
     }
   });
