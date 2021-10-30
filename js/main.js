@@ -90,7 +90,57 @@ var app = new Vue({
         }
     },tick: function(){}
     });
+    AFRAME.registerComponent("booktest2", {
+        init: function () {
+            var bookbody = document.createElement("a-plane");
+            bookbody.setAttribute("height",0.25);
+            bookbody.setAttribute("width", 0.90);
+            if(Math.random()<0.1){
+                bookbody.setAttribute("color", "lightblue");
+            }else{
+                bookbody.setAttribute("color", "white");
+            }
+        
 
+/*
+            var addbook = function(title, author, pos){
+                var book = document.createElement("a-text");
+                book.setAttribute("position",pos);
+                var bookbody = document.createElement("a-box");
+                bookbody.setAttribute("height",0.25);
+                bookbody.setAttribute("width", 0.02);
+                bookbody.setAttribute("depth", 0.2);
+                if(Math.random()<0.1){
+                    bookbody.setAttribute("color", "lightblue");
+                }else{
+                    bookbody.setAttribute("color", "white");
+                }
+                book.appendChild(bookbody);
+                var tate =function(str){
+                    return str.split('').reduce(function (accumulator, currentValue, currentIndex, array) {
+                        return accumulator + "\n" + currentValue;
+                    });
+                };
+                var backcover = document.createElement("a-text");
+                backcover.setAttribute("value",tate(title) + "\n\n" +tate(author) );
+                backcover.setAttribute("font","font/mplus-msdf.json" );
+                backcover.setAttribute("font-image","font/mplus-msdf.png" );
+                backcover.setAttribute("negate","false" );
+                backcover.setAttribute("baseline","top");
+                backcover.setAttribute("alight","center");
+                backcover.setAttribute("scale","0.06 0.06" );
+                backcover.setAttribute("color", "black");
+                backcover.setAttribute("position", "-0.01 0.12 0.1");
+                book.appendChild(backcover);
+                return book;
+            };
+            for(var i=0;i<44;i++){
+                this.el.appendChild(addbook("ベンガーデルZ","青木まりこ"+i,((i%44)*0.02 - 0.43) + " " + (1.95 - Math.floor(i/44)*0.4) + " 0.2"));
+            }
+            */
+        },tick: function(){}
+        });
+    
   AFRAME.registerComponent("player", {
     dependencies: ["raycaster"],
     init: function () {
