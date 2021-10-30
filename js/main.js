@@ -14,6 +14,7 @@ var app = new Vue({
 
   AFRAME.registerComponent("bookshelf", {
     init: function () {
+
         var topboard = document.createElement("a-box");
         topboard.setAttribute("height",0.02);
         topboard.setAttribute("width", 0.9);
@@ -49,6 +50,20 @@ var app = new Vue({
         this.el.appendChild(board04);
         this.el.appendChild(sideboard_L);
         this.el.appendChild(sideboard_R);
+        var addbooks = function(id,pos){
+            var bookface = document.createElement("a-plane");
+            bookface.setAttribute("src",id);
+            bookface.setAttribute("height",0.2);
+            bookface.setAttribute("width", 0.88);
+            bookface.setAttribute("position",pos);
+            bookface.classList.add("collidable");
+            return bookface;
+        };
+        this.el.appendChild(addbooks("#test","0 0.7 0.4"));
+        this.el.appendChild(addbooks("#test","0 1.0 0.4"));
+        this.el.appendChild(addbooks("#test","0 1.3 0.4"));
+        this.el.appendChild(addbooks("#test","0 1.6 0.4"));
+
     }
   });
 
@@ -92,52 +107,6 @@ var app = new Vue({
     });
     AFRAME.registerComponent("booktest2", {
         init: function () {
-            var bookbody = document.createElement("a-plane");
-            bookbody.setAttribute("height",0.25);
-            bookbody.setAttribute("width", 0.90);
-            if(Math.random()<0.1){
-                bookbody.setAttribute("color", "lightblue");
-            }else{
-                bookbody.setAttribute("color", "white");
-            }
-        
-
-/*
-            var addbook = function(title, author, pos){
-                var book = document.createElement("a-text");
-                book.setAttribute("position",pos);
-                var bookbody = document.createElement("a-box");
-                bookbody.setAttribute("height",0.25);
-                bookbody.setAttribute("width", 0.02);
-                bookbody.setAttribute("depth", 0.2);
-                if(Math.random()<0.1){
-                    bookbody.setAttribute("color", "lightblue");
-                }else{
-                    bookbody.setAttribute("color", "white");
-                }
-                book.appendChild(bookbody);
-                var tate =function(str){
-                    return str.split('').reduce(function (accumulator, currentValue, currentIndex, array) {
-                        return accumulator + "\n" + currentValue;
-                    });
-                };
-                var backcover = document.createElement("a-text");
-                backcover.setAttribute("value",tate(title) + "\n\n" +tate(author) );
-                backcover.setAttribute("font","font/mplus-msdf.json" );
-                backcover.setAttribute("font-image","font/mplus-msdf.png" );
-                backcover.setAttribute("negate","false" );
-                backcover.setAttribute("baseline","top");
-                backcover.setAttribute("alight","center");
-                backcover.setAttribute("scale","0.06 0.06" );
-                backcover.setAttribute("color", "black");
-                backcover.setAttribute("position", "-0.01 0.12 0.1");
-                book.appendChild(backcover);
-                return book;
-            };
-            for(var i=0;i<44;i++){
-                this.el.appendChild(addbook("ベンガーデルZ","青木まりこ"+i,((i%44)*0.02 - 0.43) + " " + (1.95 - Math.floor(i/44)*0.4) + " 0.2"));
-            }
-            */
         },tick: function(){}
         });
     
@@ -327,7 +296,7 @@ var app = new Vue({
       this.el.addEventListener('raycaster-intersection-cleared', function (e) {
         //レイキャスターと接触しているオブジェクトの情報をクリア
         if(this.selectedObj){
-          this.selectedObj.setAttribute("opacity",0);              
+          this.selectedObj.setAttribute("opacity",1);              
         }
         this.selectedObj = null;
         this.isMouseDown = false;
@@ -367,7 +336,7 @@ var app = new Vue({
       this.el.addEventListener('raycaster-intersection-cleared', function (e) {
         //レイキャスターと接触しているオブジェクトの情報をクリア
         if(this.selectedObj){
-          this.selectedObj.setAttribute("opacity",0);              
+          this.selectedObj.setAttribute("opacity",1);              
         }
         this.selectedObj = null;
       });        
