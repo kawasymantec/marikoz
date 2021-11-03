@@ -11,10 +11,15 @@ var app = new Vue({
   function debugMessage(message){
     document.getElementById("debug-text").setAttribute("value",message);
   }
+  function zoomUp(){
+    document.getElementById("camera").setAttribute('zoom','5');
+  }
+  function zoomDown(){
+    document.getElementById("camera").setAttribute('zoom','1');
+  }
 
   AFRAME.registerComponent("bookshelf", {
     init: function () {
-
         var topboard = document.createElement("a-box");
         topboard.setAttribute("height",0.02);
         topboard.setAttribute("width", 0.9);
@@ -42,6 +47,13 @@ var app = new Vue({
         board03.setAttribute("position","0 0.9 0.15");
         var board04 = topboard.cloneNode(true);
         board04.setAttribute("position","0 0.6 0.15");
+        var bottomShelf = document.createElement("a-box");
+        bottomShelf.setAttribute("height",0.6);
+        bottomShelf.setAttribute("width", 0.9);
+        bottomShelf.setAttribute("depth", 0.3);
+        bottomShelf.setAttribute("position","0 0.3 0.45");
+        bottomShelf.setAttribute("src", "#wood");
+        bottomShelf.classList.add("wall");
         this.el.appendChild(topboard);
         this.el.appendChild(backboard);
         this.el.appendChild(board01);
@@ -50,6 +62,59 @@ var app = new Vue({
         this.el.appendChild(board04);
         this.el.appendChild(sideboard_L);
         this.el.appendChild(sideboard_R);
+        this.el.appendChild(bottomShelf);
+        var addbookbody = function(id,pos){
+            var bookbody = document.createElement("a-box");
+            bookbody.setAttribute("height",0.2);
+            bookbody.setAttribute("width", 0.88);
+            bookbody.setAttribute("depth",0.15);
+            bookbody.setAttribute("position",pos);
+            return bookbody;
+        };
+        this.el.appendChild(addbookbody("#test","0 0.71 0.175"));
+        this.el.appendChild(addbookbody("#test","0 1.01 0.175"));
+        this.el.appendChild(addbookbody("#test","0 1.31 0.175"));
+        this.el.appendChild(addbookbody("#test","0 1.61 0.175"));
+        var addbooks = function(id,pos){
+            var bookface = document.createElement("a-plane");
+            bookface.setAttribute("src",id);
+            bookface.setAttribute("height",0.2);
+            bookface.setAttribute("width", 0.88);
+            bookface.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
+            var addbook = function(id,pos){
+                var book = document.createElement("a-plane");
+                book.setAttribute("id",id);
+                book.setAttribute("height",0.2);
+                book.setAttribute("width", 0.02);
+                book.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
+                book.classList.add("collidable");
+                return book;
+            };
+            
+/*            for(var i=1;i<=44;i++){
+                bookface.appendChild(addbook(id + "-" + i*0.02-0.44,pos[1],pos[2]))
+            }
+*/
+            return bookface;
+        };
+        this.el.appendChild(addbooks("#test1-1",[0,0.71,0.251]));
+        this.el.appendChild(addbooks("#test1-2",[0,1.01,0.251]));
+        this.el.appendChild(addbooks("#test1-3",[0,1.31,0.251]));
+        this.el.appendChild(addbooks("#test1-4",[0,1.61,0.251]));
+    }
+  });
+
+  AFRAME.registerComponent("sideshelf", {
+    init: function () {
+        var bottomShelf = document.createElement("a-box");
+        bottomShelf.setAttribute("height",0.6);
+        bottomShelf.setAttribute("width",1.2);
+        bottomShelf.setAttribute("depth", 0.6);
+        bottomShelf.setAttribute("position","0 0.3 0");
+        bottomShelf.setAttribute("src", "#wood");
+        bottomShelf.classList.add("wall");
+        this.el.appendChild(bottomShelf);
+        /*
         var addbookbody = function(id,pos){
             var bookbody = document.createElement("a-box");
             bookbody.setAttribute("height",0.2);
@@ -75,9 +140,10 @@ var app = new Vue({
         this.el.appendChild(addbooks("#test1-2","0 1.0 0.251"));
         this.el.appendChild(addbooks("#test1-3","0 1.3 0.251"));
         this.el.appendChild(addbooks("#test1-4","0 1.6 0.251"));
-
+        */
     }
   });
+
 
   AFRAME.registerComponent("booktest", {
     init: function () {
@@ -223,7 +289,7 @@ var app = new Vue({
 
         }
         if(joy_x!=null&&joy_y!=null){
-        debugMessage("x:"+ joy_x +" z:" +joy_y);
+//        debugMessage("x:"+ joy_x +" z:" +joy_y);
 
         }
         // 回転処理
@@ -413,7 +479,7 @@ var app = new Vue({
           switch (keyName){
           case 'z':
           case 'Z':
-//            zoomUp();
+            zoomUp();
             break;
           }
         });
@@ -423,7 +489,7 @@ var app = new Vue({
           switch (keyName){
           case 'z':
           case 'Z':
-//            zoomDown();
+            zoomDown();
             break;
           }
         });
