@@ -5,9 +5,11 @@ var app = new Vue({
       message: '青木書店'
     }
   });
-
+  /* global */
   var joy_x = null;
   var joy_y = null;
+  var selectedShelf = null;
+
   function debugMessage(message){
     document.getElementById("debug-text").setAttribute("value",message);
   }
@@ -68,40 +70,55 @@ var app = new Vue({
             bookbody.setAttribute("height",0.2);
             bookbody.setAttribute("width", 0.88);
             bookbody.setAttribute("depth",0.15);
-            bookbody.setAttribute("position",pos);
+            bookbody.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
             return bookbody;
         };
-        this.el.appendChild(addbookbody("#test","0 0.71 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.01 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.31 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.61 0.175"));
         var addbooks = function(id,pos){
             var bookface = document.createElement("a-plane");
+            bookface.setAttribute("id",id);
             bookface.setAttribute("src",id);
             bookface.setAttribute("height",0.2);
             bookface.setAttribute("width", 0.88);
             bookface.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
-            var addbook = function(id,pos){
-                var book = document.createElement("a-plane");
-                book.setAttribute("id",id);
-                book.setAttribute("height",0.2);
-                book.setAttribute("width", 0.02);
-                book.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
-                book.classList.add("collidable");
-                return book;
-            };
-            
-/*            for(var i=1;i<=44;i++){
-                bookface.appendChild(addbook(id + "-" + i*0.02-0.44,pos[1],pos[2]))
-            }
-*/
+            bookface.setAttribute("bookface","\"shelf_id\"=\"" +id +"\"");
+            bookface.classList.add("collidable");
             return bookface;
         };
-        this.el.appendChild(addbooks("#test1-1",[0,0.71,0.251]));
-        this.el.appendChild(addbooks("#test1-2",[0,1.01,0.251]));
-        this.el.appendChild(addbooks("#test1-3",[0,1.31,0.251]));
-        this.el.appendChild(addbooks("#test1-4",[0,1.61,0.251]));
+        for(var i=1;i<=4;i++){
+            this.el.appendChild(addbookbody("#test1"+"-"+i,[0,0.41+i*0.3,0.175]));
+            this.el.appendChild(addbooks("#test1"+"-"+i,[0,0.41+i*0.3,0.251]));
+        }
     }
+  });
+  AFRAME.registerComponent("bookface",{
+    schema:{shelf_id:{type:'string'}},
+    init: function() {
+        this.isFocused=false;
+        this.el.addEventListener('shelf_select',(event) => {
+            console.log("bookface select");
+            for(var i=1;i<=44;i++){
+                console.log("bookface select add!: " + i);
+                var addbook = function(id,pos){
+                    var book = document.createElement("a-plane");
+                    book.setAttribute("id",id);
+                    book.setAttribute("height",0.2);
+                    book.setAttribute("width", 0.02);
+                    book.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
+                    book.setAttribute("opacity",0);
+                    book.classList.add("collidable");
+                    return book;
+                };
+                this.el.appendChild(addbook(this.data.shelf_id +"-" +i,[i*0.02-0.45,0,0.005] ));
+            }
+        });
+        this.el.addEventListener('shelf_release',(event) => {
+            console.log("bookface reelase");
+            while( this.el.firstChild ){
+                console.log("bookface reelase remove!");
+                this.el.removeChild( this.el.firstChild );
+              }
+        });
+      }
   });
 
   AFRAME.registerComponent("sideshelf", {
@@ -114,33 +131,6 @@ var app = new Vue({
         bottomShelf.setAttribute("src", "#wood");
         bottomShelf.classList.add("wall");
         this.el.appendChild(bottomShelf);
-        /*
-        var addbookbody = function(id,pos){
-            var bookbody = document.createElement("a-box");
-            bookbody.setAttribute("height",0.2);
-            bookbody.setAttribute("width", 0.88);
-            bookbody.setAttribute("depth",0.15);
-            bookbody.setAttribute("position",pos);
-            return bookbody;
-        };
-        this.el.appendChild(addbookbody("#test","0 0.7 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.0 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.3 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.6 0.175"));
-        var addbooks = function(id,pos){
-            var bookface = document.createElement("a-plane");
-            bookface.setAttribute("src",id);
-            bookface.setAttribute("height",0.2);
-            bookface.setAttribute("width", 0.88);
-            bookface.setAttribute("position",pos);
-            bookface.classList.add("collidable");
-            return bookface;
-        };
-        this.el.appendChild(addbooks("#test1-1","0 0.7 0.251"));
-        this.el.appendChild(addbooks("#test1-2","0 1.0 0.251"));
-        this.el.appendChild(addbooks("#test1-3","0 1.3 0.251"));
-        this.el.appendChild(addbooks("#test1-4","0 1.6 0.251"));
-        */
     }
   });
 
@@ -366,18 +356,55 @@ var app = new Vue({
   AFRAME.registerComponent('mouse-listener', {
     init: function () {
       this.el.isMouseDown = false;
+      this.selectedShelf = null; //選択中の棚
       this.el.addEventListener('raycaster-intersection', function (e) {
-        this.selectedObj = e.detail.els[0];
-        this.selectedObj.setAttribute("opacity",0.5);
-        this.isMouseDown = false;
+        var hit = false;
+        e.detail.els.forEach(item =>{
+            if(item.getAttribute("bookface")!=null){
+                console.log("bookface");
+                if(selectedShelf!=null){
+                    console.log("release!!");
+                    {
+                        var ev = new Event("shelf_release");
+                        selectedShelf.dispatchEvent(ev);
+                    }
+                }
+                var ev = new Event("shelf_select");
+                item.dispatchEvent(ev);
+                this.selectedShelf = item;
+            }
+        });
+        for(var i=0;i<e.detail.els.length;i++){
+            if(e.detail.els[i].getAttribute("bookface")==null){
+                this.selectedObj = e.detail.els[i];
+                this.selectedObj.setAttribute("opacity",0.5);
+                this.isMouseDown = false;
+                return;
+            }
+        }
       });
       this.el.addEventListener('raycaster-intersection-cleared', function (e) {
         //レイキャスターと接触しているオブジェクトの情報をクリア
-        if(this.selectedObj){
-          this.selectedObj.setAttribute("opacity",1);              
+        console.log("cleard");
+        if(this.selectedShelf){
+            var hit = false;
+                e.detail.clearedEls.forEach(item =>{
+                if(this.selectedShelf == item){
+                    console.log("release!!");
+                    var ev = new Event("shelf_release");
+                    this.selectedShelf.dispatchEvent(ev);
+                    this.selectedShelf = null;
+                }
+            });
         }
-        this.selectedObj = null;
-        this.isMouseDown = false;
+        for(var i=0;i<e.detail.clearedEls.length;i++){
+            if(this.selectedObj==e.detail.clearedEls[i]){
+                this.selectedObj.setAttribute("opacity",0);              
+                this.selectedObj = null;
+                this.isMouseDown = false;
+                return;
+            }
+        }
       });
       this.el.addEventListener('mousedown', function (event) {
         if(!this.selectedObj){return;}
@@ -385,6 +412,7 @@ var app = new Vue({
       });
       this.el.addEventListener('mouseup', function (event) {
         if(this.selectedObj&&this.isMouseDown){
+            this.selectedObj
 //            soundPlay("sound_button");          
         }
         this.isMouseDown = false;
@@ -414,7 +442,7 @@ var app = new Vue({
       this.el.addEventListener('raycaster-intersection-cleared', function (e) {
         //レイキャスターと接触しているオブジェクトの情報をクリア
         if(this.selectedObj){
-          this.selectedObj.setAttribute("opacity",1);              
+          this.selectedObj.setAttribute("opacity",0);              
         }
         this.selectedObj = null;
       });        
