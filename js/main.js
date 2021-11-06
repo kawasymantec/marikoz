@@ -1,21 +1,18 @@
-var app = new Vue({
-    el: '#mainapp',
-    data: {
-      status: 0,
-      message: '青木書店'
-    }
-  });
-
+  /* global */
   var joy_x = null;
   var joy_y = null;
+  var selectedShelf = null;
+
   function debugMessage(message){
     document.getElementById("debug-text").setAttribute("value",message);
   }
   function zoomUp(){
-    document.getElementById("camera").setAttribute('zoom','5');
+      console.log("zoomUp");
+    document.getElementById("camera").setAttribute("zoom",5);
   }
   function zoomDown(){
-    document.getElementById("camera").setAttribute('zoom','1');
+    console.log("zoomDown");
+    document.getElementById("camera").setAttribute("zoom",1);
   }
 
   AFRAME.registerComponent("bookshelf", {
@@ -68,40 +65,76 @@ var app = new Vue({
             bookbody.setAttribute("height",0.2);
             bookbody.setAttribute("width", 0.88);
             bookbody.setAttribute("depth",0.15);
-            bookbody.setAttribute("position",pos);
+            bookbody.setAttribute("src","#book_top");
+            bookbody.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
             return bookbody;
         };
-        this.el.appendChild(addbookbody("#test","0 0.71 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.01 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.31 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.61 0.175"));
         var addbooks = function(id,pos){
             var bookface = document.createElement("a-plane");
-            bookface.setAttribute("src",id);
+            bookface.setAttribute("id",id);
+            bookface.setAttribute("nearsrc",id);
+            bookface.setAttribute("src",'img/sample_shelf_low.png');
             bookface.setAttribute("height",0.2);
             bookface.setAttribute("width", 0.88);
             bookface.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
-            var addbook = function(id,pos){
-                var book = document.createElement("a-plane");
-                book.setAttribute("id",id);
-                book.setAttribute("height",0.2);
-                book.setAttribute("width", 0.02);
-                book.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
-                book.classList.add("collidable");
-                return book;
-            };
-            
-/*            for(var i=1;i<=44;i++){
-                bookface.appendChild(addbook(id + "-" + i*0.02-0.44,pos[1],pos[2]))
-            }
-*/
+            bookface.setAttribute("bookface","\"shelf_id\"=\"" +id +"\"");
+            bookface.classList.add("collidable");
             return bookface;
         };
-        this.el.appendChild(addbooks("#test1-1",[0,0.71,0.251]));
-        this.el.appendChild(addbooks("#test1-2",[0,1.01,0.251]));
-        this.el.appendChild(addbooks("#test1-3",[0,1.31,0.251]));
-        this.el.appendChild(addbooks("#test1-4",[0,1.61,0.251]));
+        for(var i=1;i<=4;i++){
+            this.el.appendChild(addbookbody("#test1"+"-"+i,[0,0.41+i*0.3,0.175]));
+            this.el.appendChild(addbooks("#test1"+"-"+i,[0,0.41+i*0.3,0.251]));
+        }
     }
+  });
+  AFRAME.registerComponent("bookface",{
+    schema:{shelf_id:{type:'string'}},
+    init: function() {
+        this.nearTexture = this.el.getAttribute("nearsrc");
+        this.farTexture = this.el.getAttribute("src");
+        this.targetCam = document.getElementById("camera");
+        this.isFocused=false;
+        this.isFar=true;
+        this.el.addEventListener('shelf_select',(event) => {
+            console.log("bookface select");
+            for(var i=1;i<=44;i++){
+                var addbook = function(id,pos){
+                    var book = document.createElement("a-plane");
+                    book.setAttribute("id",id);
+                    book.setAttribute("height",0.2);
+                    book.setAttribute("width", 0.02);
+                    book.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
+                    book.setAttribute("opacity",0);
+                    book.classList.add("collidable");
+                    return book;
+                };
+                this.el.appendChild(addbook(this.data.shelf_id +"-" +i,[i*0.02-0.45,0,0.005] ));
+            }
+        });
+        this.el.addEventListener('shelf_release',(event) => {
+            console.log("bookface reelase");
+            while( this.el.firstChild ){
+                this.el.removeChild( this.el.firstChild );
+              }
+        });
+      },
+      tick: function(){
+        const selfPos = this.el.object3D.getWorldPosition(new THREE.Vector3());
+        const targetPos = this.targetCam.object3D.getWorldPosition(new THREE.Vector3());
+        if(selfPos.distanceTo(targetPos)>3){
+            if(!this.isFar){
+                this.isFar =true;
+                this.el.setAttribute("src",this.farTexture);
+            }
+        }else{
+            if(this.isFar){
+                this.isFar =false;
+                this.el.setAttribute("src",this.nearTexture);
+            }
+
+        }
+
+      }
   });
 
   AFRAME.registerComponent("sideshelf", {
@@ -114,33 +147,6 @@ var app = new Vue({
         bottomShelf.setAttribute("src", "#wood");
         bottomShelf.classList.add("wall");
         this.el.appendChild(bottomShelf);
-        /*
-        var addbookbody = function(id,pos){
-            var bookbody = document.createElement("a-box");
-            bookbody.setAttribute("height",0.2);
-            bookbody.setAttribute("width", 0.88);
-            bookbody.setAttribute("depth",0.15);
-            bookbody.setAttribute("position",pos);
-            return bookbody;
-        };
-        this.el.appendChild(addbookbody("#test","0 0.7 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.0 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.3 0.175"));
-        this.el.appendChild(addbookbody("#test","0 1.6 0.175"));
-        var addbooks = function(id,pos){
-            var bookface = document.createElement("a-plane");
-            bookface.setAttribute("src",id);
-            bookface.setAttribute("height",0.2);
-            bookface.setAttribute("width", 0.88);
-            bookface.setAttribute("position",pos);
-            bookface.classList.add("collidable");
-            return bookface;
-        };
-        this.el.appendChild(addbooks("#test1-1","0 0.7 0.251"));
-        this.el.appendChild(addbooks("#test1-2","0 1.0 0.251"));
-        this.el.appendChild(addbooks("#test1-3","0 1.3 0.251"));
-        this.el.appendChild(addbooks("#test1-4","0 1.6 0.251"));
-        */
     }
   });
 
@@ -183,10 +189,6 @@ var app = new Vue({
         }
     },tick: function(){}
     });
-    AFRAME.registerComponent("booktest2", {
-        init: function () {
-        },tick: function(){}
-        });
     
   AFRAME.registerComponent("player", {
     dependencies: ["raycaster"],
@@ -235,6 +237,10 @@ var app = new Vue({
                 key_down_arrow_right = true;
                 this.rotating = 'right';
                 break;
+            case 'z':
+            case 'Z':
+                zoomUp();
+                break;
         }});
         document.addEventListener('keyup', (event) => {
             var keyName = event.key;
@@ -264,8 +270,11 @@ var app = new Vue({
                 }
                 key_down_arrow_right = false;
                 break;
-        }});
-    
+            case 'z':
+            case 'Z':
+                zoomDown();
+                break;
+            }});
     },
     tick: function() {
         // joystick処理
@@ -298,14 +307,14 @@ var app = new Vue({
             rotation.y+=2;
             this.el.setAttribute('rotation', rotation)
         } else if (this.rotating == 'right') {
-            rotation.y+=-2;
+            rotation.y-=2;
             this.el.setAttribute('rotation', rotation)
         }
         // 移動処理
         if (this.speeding == 'up') {
-            this.speed = Math.min(this.speed + 0.01, 0.15)
+            this.speed = Math.min(this.speed + 0.015, 0.1)
         } else if (this.speeding == 'down') {
-            this.speed = Math.max(this.speed - 0.01, -0.15)
+            this.speed = Math.max(this.speed - 0.015, -0.1)
         }
         const position = this.el.getAttribute('position')
         position.x += -Math.cos((rotation.y - 90) * Math.PI / 180) * this.speed;
@@ -338,26 +347,10 @@ var app = new Vue({
         Object.assign(this.currentPosition, this.el.object3D.position);
         return;
       }else{
-     //   debugMessage("x:"+ this.normalVec.x +" z:" +this.normalVec.z);
         this.el.object3D.position.x = this.currentPosition.x;
         this.el.object3D.position.z = this.currentPosition.z;
 
       }
-      /*
-      // 右側面の衝突
-      if (this.normalVec.x < 0) {
-        this.el.object3D.position.x = this.currentPosition.x
-      // 左側面の衝突
-      }else if (this.normalVec.x > 0) {
-        this.el.object3D.position.x = this.currentPosition.x
-      // 正面の衝突
-      }else if (this.normalVec.z > 0) {
-        this.el.object3D.position.z = this.currentPosition.z
-      // 背面の衝突
-      }else if (this.normalVec.z < 0) {
-        this.el.object3D.position.z = this.currentPosition.z
-
-      }*/
 
     },
     update: function() {}
@@ -366,18 +359,54 @@ var app = new Vue({
   AFRAME.registerComponent('mouse-listener', {
     init: function () {
       this.el.isMouseDown = false;
+      this.selectedShelf = null; //選択中の棚
       this.el.addEventListener('raycaster-intersection', function (e) {
-        this.selectedObj = e.detail.els[0];
-        this.selectedObj.setAttribute("opacity",0.5);
-        this.isMouseDown = false;
+        e.detail.els.forEach(item =>{
+            if(item.getAttribute("bookface")!=null){
+                console.log("bookface");
+                if(selectedShelf!=null){
+                    console.log("release!!");
+                    {
+                        var ev = new Event("shelf_release");
+                        selectedShelf.dispatchEvent(ev);
+                    }
+                }
+                var ev = new Event("shelf_select");
+                item.dispatchEvent(ev);
+                this.selectedShelf = item;
+            }
+        });
+        for(var i=0;i<e.detail.els.length;i++){
+            if(e.detail.els[i].getAttribute("bookface")==null){
+                this.selectedObj = e.detail.els[i];
+                this.selectedObj.setAttribute("opacity",0.5);
+                this.isMouseDown = false;
+                return;
+            }
+        }
       });
       this.el.addEventListener('raycaster-intersection-cleared', function (e) {
         //レイキャスターと接触しているオブジェクトの情報をクリア
-        if(this.selectedObj){
-          this.selectedObj.setAttribute("opacity",1);              
+        console.log("cleard");
+        if(this.selectedShelf){
+            var hit = false;
+                e.detail.clearedEls.forEach(item =>{
+                if(this.selectedShelf == item){
+                    console.log("release!!");
+                    var ev = new Event("shelf_release");
+                    this.selectedShelf.dispatchEvent(ev);
+                    this.selectedShelf = null;
+                }
+            });
         }
-        this.selectedObj = null;
-        this.isMouseDown = false;
+        for(var i=0;i<e.detail.clearedEls.length;i++){
+            if(this.selectedObj==e.detail.clearedEls[i]){
+                this.selectedObj.setAttribute("opacity",0);              
+                this.selectedObj = null;
+                this.isMouseDown = false;
+                return;
+            }
+        }
       });
       this.el.addEventListener('mousedown', function (event) {
         if(!this.selectedObj){return;}
@@ -385,6 +414,7 @@ var app = new Vue({
       });
       this.el.addEventListener('mouseup', function (event) {
         if(this.selectedObj&&this.isMouseDown){
+            this.selectedObj
 //            soundPlay("sound_button");          
         }
         this.isMouseDown = false;
@@ -397,6 +427,7 @@ var app = new Vue({
   AFRAME.registerComponent('touch-checker', {
     init: function () {
       this.isTriggerd = false;
+      this.selectedShelf = null; //選択中の棚
       //Trigger Pressed
       this.el.addEventListener('triggerdown', function (event) {
         this.isTriggerd = true;
@@ -406,17 +437,52 @@ var app = new Vue({
         this.isTriggerd = false;
       });
       this.el.addEventListener('raycaster-intersection', function (e) {
-        this.selectedObj = e.detail.els[0];           
-        this.selectedObj.setAttribute("opacity",0.5);
+        e.detail.els.forEach(item =>{
+            if(item.getAttribute("bookface")!=null){
+                console.log("bookface");
+                if(selectedShelf!=null){
+                    console.log("release!!");
+                    {
+                        var ev = new Event("shelf_release");
+                        selectedShelf.dispatchEvent(ev);
+                    }
+                }
+                var ev = new Event("shelf_select");
+                item.dispatchEvent(ev);
+                this.selectedShelf = item;
+            }
+        });
+        for(var i=0;i<e.detail.els.length;i++){
+            if(e.detail.els[i].getAttribute("bookface")==null){
+                this.selectedObj = e.detail.els[i];
+                this.selectedObj.setAttribute("opacity",0.5);
+                this.isTriggerd = false;
+                return;
+            }
+        }
       });
 
       //レイキャスターとオブジェクトとの接触完了
       this.el.addEventListener('raycaster-intersection-cleared', function (e) {
-        //レイキャスターと接触しているオブジェクトの情報をクリア
-        if(this.selectedObj){
-          this.selectedObj.setAttribute("opacity",1);              
+        if(this.selectedShelf){
+            var hit = false;
+                e.detail.clearedEls.forEach(item =>{
+                if(this.selectedShelf == item){
+                    console.log("release!!");
+                    var ev = new Event("shelf_release");
+                    this.selectedShelf.dispatchEvent(ev);
+                    this.selectedShelf = null;
+                }
+            });
         }
-        this.selectedObj = null;
+        for(var i=0;i<e.detail.clearedEls.length;i++){
+            if(this.selectedObj==e.detail.clearedEls[i]){
+                this.selectedObj.setAttribute("opacity",0);              
+                this.selectedObj = null;
+                this.isTriggerd = false;
+                return;
+            }
+        }
       });        
     },
     tick: function () {
@@ -472,7 +538,7 @@ var app = new Vue({
       }); 
 
       let key_ctrl_on = false;
-      if(this.data.hand=="left"){
+/*      if(this.data.hand=="left"){
         document.addEventListener('keydown', (event) => {
           var keyName = event.key;
           console.log('keydown:' + keyName);
@@ -494,6 +560,7 @@ var app = new Vue({
           }
         });
       }
+*/
              //Grip Released
       this.el.addEventListener('gripup', function (event) {
       });
