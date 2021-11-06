@@ -2,7 +2,1368 @@
 "shelf_title":"小説あーさ",
 "category":"小説",
 "back_cover_images":["sample_shelf1.png","sample_shelf1.png","sample_shelf1.png","sample_shelf1.png"],
+"back_cover_low_images":["sample_shelf_low.png","sample_shelf_low.png","sample_shelf_low.png","sample_shelf_low.png"],
 "books":[
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
+{
+    "isbn": "1234-5678-9012",
+    "title": "本気の悪役令嬢！",
+    "contributor": "きゃる",
+    "imprint": "アルファポリス",
+    "page": "384",
+    "main_cover": "https://cover.openbd.jp/9784434286414.jpg"
+},
+{
+    "isbn": "1234-5678-9021",
+    "title": "京都祇園もも吉庵のあまから帖3",
+    "contributor": "志賀内 泰弘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "306",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+},
+{
+    "isbn": "1234-5678-9013",
+    "title": "後宮の薬師",
+    "contributor": "小田 菜摘",
+    "imprint": "ＰＨＰ研究所",
+    "page": "272",
+    "main_cover": "https://cover.openbd.jp/9784569901091.jpg"
+},
+{
+    "isbn": "1234-5678-9014",
+    "title": "占い日本茶カフェ「迷い猫」",
+    "contributor": "標野 凪",
+    "imprint": "ＰＨＰ研究所",
+    "page": "320",
+    "main_cover": "https://cover.openbd.jp/9784569901107.jpg"
+},
+{
+    "isbn": "1234-5678-9015",
+    "title": "海辺の館の一か月",
+    "contributor": "クリスティーナ・ブリトン, 如月 有",
+    "imprint": "原書房",
+    "page": "440",
+    "main_cover": "https://cover.openbd.jp/9784562065400.jpg"
+},
 {
     "isbn": "1234-5678-9012",
     "title": "本気の悪役令嬢！",
