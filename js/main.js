@@ -189,10 +189,6 @@
         }
     },tick: function(){}
     });
-    AFRAME.registerComponent("booktest2", {
-        init: function () {
-        },tick: function(){}
-        });
     
   AFRAME.registerComponent("player", {
     dependencies: ["raycaster"],
@@ -311,14 +307,14 @@
             rotation.y+=2;
             this.el.setAttribute('rotation', rotation)
         } else if (this.rotating == 'right') {
-            rotation.y+=-2;
+            rotation.y-=2;
             this.el.setAttribute('rotation', rotation)
         }
         // 移動処理
         if (this.speeding == 'up') {
-            this.speed = Math.min(this.speed + 0.01, 0.15)
+            this.speed = Math.min(this.speed + 0.015, 0.1)
         } else if (this.speeding == 'down') {
-            this.speed = Math.max(this.speed - 0.01, -0.15)
+            this.speed = Math.max(this.speed - 0.015, -0.1)
         }
         const position = this.el.getAttribute('position')
         position.x += -Math.cos((rotation.y - 90) * Math.PI / 180) * this.speed;
@@ -351,26 +347,10 @@
         Object.assign(this.currentPosition, this.el.object3D.position);
         return;
       }else{
-     //   debugMessage("x:"+ this.normalVec.x +" z:" +this.normalVec.z);
         this.el.object3D.position.x = this.currentPosition.x;
         this.el.object3D.position.z = this.currentPosition.z;
 
       }
-      /*
-      // 右側面の衝突
-      if (this.normalVec.x < 0) {
-        this.el.object3D.position.x = this.currentPosition.x
-      // 左側面の衝突
-      }else if (this.normalVec.x > 0) {
-        this.el.object3D.position.x = this.currentPosition.x
-      // 正面の衝突
-      }else if (this.normalVec.z > 0) {
-        this.el.object3D.position.z = this.currentPosition.z
-      // 背面の衝突
-      }else if (this.normalVec.z < 0) {
-        this.el.object3D.position.z = this.currentPosition.z
-
-      }*/
 
     },
     update: function() {}
@@ -381,7 +361,6 @@
       this.el.isMouseDown = false;
       this.selectedShelf = null; //選択中の棚
       this.el.addEventListener('raycaster-intersection', function (e) {
-        var hit = false;
         e.detail.els.forEach(item =>{
             if(item.getAttribute("bookface")!=null){
                 console.log("bookface");
@@ -448,6 +427,7 @@
   AFRAME.registerComponent('touch-checker', {
     init: function () {
       this.isTriggerd = false;
+      this.selectedShelf = null; //選択中の棚
       //Trigger Pressed
       this.el.addEventListener('triggerdown', function (event) {
         this.isTriggerd = true;
@@ -457,17 +437,52 @@
         this.isTriggerd = false;
       });
       this.el.addEventListener('raycaster-intersection', function (e) {
-        this.selectedObj = e.detail.els[0];           
-        this.selectedObj.setAttribute("opacity",0.5);
+        e.detail.els.forEach(item =>{
+            if(item.getAttribute("bookface")!=null){
+                console.log("bookface");
+                if(selectedShelf!=null){
+                    console.log("release!!");
+                    {
+                        var ev = new Event("shelf_release");
+                        selectedShelf.dispatchEvent(ev);
+                    }
+                }
+                var ev = new Event("shelf_select");
+                item.dispatchEvent(ev);
+                this.selectedShelf = item;
+            }
+        });
+        for(var i=0;i<e.detail.els.length;i++){
+            if(e.detail.els[i].getAttribute("bookface")==null){
+                this.selectedObj = e.detail.els[i];
+                this.selectedObj.setAttribute("opacity",0.5);
+                this.isTriggerd = false;
+                return;
+            }
+        }
       });
 
       //レイキャスターとオブジェクトとの接触完了
       this.el.addEventListener('raycaster-intersection-cleared', function (e) {
-        //レイキャスターと接触しているオブジェクトの情報をクリア
-        if(this.selectedObj){
-          this.selectedObj.setAttribute("opacity",0);              
+        if(this.selectedShelf){
+            var hit = false;
+                e.detail.clearedEls.forEach(item =>{
+                if(this.selectedShelf == item){
+                    console.log("release!!");
+                    var ev = new Event("shelf_release");
+                    this.selectedShelf.dispatchEvent(ev);
+                    this.selectedShelf = null;
+                }
+            });
         }
-        this.selectedObj = null;
+        for(var i=0;i<e.detail.clearedEls.length;i++){
+            if(this.selectedObj==e.detail.clearedEls[i]){
+                this.selectedObj.setAttribute("opacity",0);              
+                this.selectedObj = null;
+                this.isTriggerd = false;
+                return;
+            }
+        }
       });        
     },
     tick: function () {
