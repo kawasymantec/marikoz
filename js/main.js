@@ -1,10 +1,3 @@
-var app = new Vue({
-    el: '#mainapp',
-    data: {
-      status: 0,
-      message: '青木書店'
-    }
-  });
   /* global */
   var joy_x = null;
   var joy_y = null;
@@ -14,10 +7,12 @@ var app = new Vue({
     document.getElementById("debug-text").setAttribute("value",message);
   }
   function zoomUp(){
-    document.getElementById("camera").setAttribute('zoom','5');
+      console.log("zoomUp");
+    document.getElementById("camera").setAttribute("zoom",5);
   }
   function zoomDown(){
-    document.getElementById("camera").setAttribute('zoom','1');
+    console.log("zoomDown");
+    document.getElementById("camera").setAttribute("zoom",1);
   }
 
   AFRAME.registerComponent("bookshelf", {
@@ -70,13 +65,15 @@ var app = new Vue({
             bookbody.setAttribute("height",0.2);
             bookbody.setAttribute("width", 0.88);
             bookbody.setAttribute("depth",0.15);
+            bookbody.setAttribute("src","#book_top");
             bookbody.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
             return bookbody;
         };
         var addbooks = function(id,pos){
             var bookface = document.createElement("a-plane");
             bookface.setAttribute("id",id);
-            bookface.setAttribute("src",id);
+            bookface.setAttribute("nearsrc",id);
+            bookface.setAttribute("src",'img/sample_shelf_low.png');
             bookface.setAttribute("height",0.2);
             bookface.setAttribute("width", 0.88);
             bookface.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
@@ -93,11 +90,14 @@ var app = new Vue({
   AFRAME.registerComponent("bookface",{
     schema:{shelf_id:{type:'string'}},
     init: function() {
+        this.nearTexture = this.el.getAttribute("nearsrc");
+        this.farTexture = this.el.getAttribute("src");
+        this.targetCam = document.getElementById("camera");
         this.isFocused=false;
+        this.isFar=true;
         this.el.addEventListener('shelf_select',(event) => {
             console.log("bookface select");
             for(var i=1;i<=44;i++){
-                console.log("bookface select add!: " + i);
                 var addbook = function(id,pos){
                     var book = document.createElement("a-plane");
                     book.setAttribute("id",id);
@@ -114,10 +114,26 @@ var app = new Vue({
         this.el.addEventListener('shelf_release',(event) => {
             console.log("bookface reelase");
             while( this.el.firstChild ){
-                console.log("bookface reelase remove!");
                 this.el.removeChild( this.el.firstChild );
               }
         });
+      },
+      tick: function(){
+        const selfPos = this.el.object3D.getWorldPosition(new THREE.Vector3());
+        const targetPos = this.targetCam.object3D.getWorldPosition(new THREE.Vector3());
+        if(selfPos.distanceTo(targetPos)>3){
+            if(!this.isFar){
+                this.isFar =true;
+                this.el.setAttribute("src",this.farTexture);
+            }
+        }else{
+            if(this.isFar){
+                this.isFar =false;
+                this.el.setAttribute("src",this.nearTexture);
+            }
+
+        }
+
       }
   });
 
@@ -225,6 +241,10 @@ var app = new Vue({
                 key_down_arrow_right = true;
                 this.rotating = 'right';
                 break;
+            case 'z':
+            case 'Z':
+                zoomUp();
+                break;
         }});
         document.addEventListener('keyup', (event) => {
             var keyName = event.key;
@@ -254,8 +274,11 @@ var app = new Vue({
                 }
                 key_down_arrow_right = false;
                 break;
-        }});
-    
+            case 'z':
+            case 'Z':
+                zoomDown();
+                break;
+            }});
     },
     tick: function() {
         // joystick処理
@@ -500,7 +523,7 @@ var app = new Vue({
       }); 
 
       let key_ctrl_on = false;
-      if(this.data.hand=="left"){
+/*      if(this.data.hand=="left"){
         document.addEventListener('keydown', (event) => {
           var keyName = event.key;
           console.log('keydown:' + keyName);
@@ -522,6 +545,7 @@ var app = new Vue({
           }
         });
       }
+*/
              //Grip Released
       this.el.addEventListener('gripup', function (event) {
       });
