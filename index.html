@@ -15,220 +15,148 @@
         <img id="test" src="img/sample_shelf.png">
         <img id="ceiling" src="img/ceiling.jpg">
         <img id="book_top" src="img/base_top.png">
-        <img id="test1-1" src="img/sample_shelf1.png">
-        <img id="test1-2" src="img/sample_shelf2.png">
-        <img id="test1-3" src="img/sample_shelf3.png">
-        <img id="test1-4" src="img/sample_shelf4.png">
-        <img id="test2-1" src="img/sample_shelf5.png">
-        <img id="test2-2" src="img/sample_shelf6.png">
-        <img id="test2-3" src="img/sample_shelf7.png">
-        <img id="test2-4" src="img/sample_shelf8.png">
-        <img id="test3-1" src="img/sample_shelf9.png">
-        <img id="test3-2" src="img/sample_shelf10.png">
-        <img id="test3-3" src="img/sample_shelf11.png">
-        <img id="test3-4" src="img/sample_shelf12.png">
-        <img id="test4-1" src="img/sample_shelf13.png">
-        <img id="test4-2" src="img/sample_shelf14.png">
-        <img id="test4-3" src="img/sample_shelf15.png">
-        <img id="test4-4" src="img/sample_shelf16.png">
       </a-assets>
-      <a-plane position="0 3 0" repeat="50 50" src="#ceiling" rotation="-90 0 0" width="20" height="20" side="double"></a-plane>
-      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="0 1.5 -10" rotation="0 0 0" width="20" height="3" color="white" side="double"></a-plane>
-      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="10 1.5 0" rotation="0 90 0" width="20" height="3" color="white" side="double"></a-plane>
-      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="-10 1.5 0" rotation="0 -90 0" width="20" height="3" color="white" side="double"></a-plane>
-      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="0 1.5 10" rotation="0 180 0" width="20" height="3" color="white" side="double"></a-plane>
-      <a-entity position="10 0 0" rotation="0 -90 0">
-<!--
-        <a-box src="#wood" repeat="10 10" class="wall" width="20" height="0.5" depth="0.6" position="0 0.25 0.3" rotation="0 0 0" ></a-box>
--->
-        <a-entity position="-9.45 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-8.55 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-7.65 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-6.75 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-5.85 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-4.95 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-4.05 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-3.15 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-2.25 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="0.45 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="1.35 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="2.25 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="3.15 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="4.05 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="4.95 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="5.85 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="6.75 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="7.65 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="8.55 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="9.45 0 0" bookshelf="no: sample01"></a-entity>
+      <a-plane position="0 3 0" repeat="50 50" src="#ceiling" rotation="-90 0 0" width="8.4" height="12" side="double"></a-plane>
+      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="0 1.5 -6" rotation="0 0 0" width="20" height="3" color="white" side="double"></a-plane>
+      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="4.2 1.5 0" rotation="0 90 0" width="20" height="3" color="white" side="double"></a-plane>
+      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="-4.2 1.5 0" rotation="0 -90 0" width="20" height="3" color="white" side="double"></a-plane>
+      <a-plane src="#wallpaper" repeat="40 6" class="wall" position="0 1.5 6" rotation="0 180 0" width="20" height="3" color="white" side="double"></a-plane>
+
+      <!-- ラノベ側の壁棚 -->
+      <a-entity position="0 0 6" rotation="0 -180 0">
+        <a-entity position="-3.15 0 0" bookshelf="no: 5"></a-entity>
+        <a-entity position="-2.25 0 0" bookshelf="no: 6"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 19"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 20"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 21"></a-entity>
+        <a-entity position="1.35 0 0" bookshelf="no: 30"></a-entity>
+        <a-entity position="2.25 0 0" bookshelf="no: 31"></a-entity>
+        <a-entity position="3.15 0 0" bookshelf="no: 32"></a-entity>
       </a-entity>
-      <a-entity position="-10 0 0" rotation="0 90 0">
-<!--
-        <a-box src="#wood" repeat="10 10" class="wall" width="20" height="0.5" depth="0.6" position="0 0.25 0.3" rotation="0 0 0" ></a-box>
--->        
-        <a-entity position="-9.45 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-8.55 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-7.65 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-6.75 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-5.85 0 0" bookshelf></a-entity>
-        <a-entity position="-4.95 0 0" bookshelf></a-entity>
-        <a-entity position="-4.05 0 0" bookshelf></a-entity>
-        <a-entity position="-3.15 0 0" bookshelf></a-entity>
-        <a-entity position="-2.25 0 0" bookshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
-        <a-entity position="2.25 0 0" bookshelf></a-entity>
-        <a-entity position="3.15 0 0" bookshelf></a-entity>
-        <a-entity position="4.05 0 0" bookshelf></a-entity>
-        <a-entity position="4.95 0 0" bookshelf></a-entity>
-        <a-entity position="5.85 0 0" bookshelf></a-entity>
-        <a-entity position="6.75 0 0" bookshelf></a-entity>
-        <a-entity position="7.65 0 0" bookshelf></a-entity>
-        <a-entity position="8.55 0 0" bookshelf></a-entity>
-        <a-entity position="9.45 0 0" bookshelf></a-entity>
+
+      <!-- 漫画側の壁棚 -->
+      <a-entity position="-0.3 0 -6" rotation="0 0 0">
+        <a-entity position="-2.25 0 0" bookshelf="no: 66"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 65"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 64"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 63"></a-entity>
+        <a-entity position="1.35 0 0" bookshelf="no: 62"></a-entity>
+        <a-entity position="2.25 0 0" bookshelf="no: 61"></a-entity>
       </a-entity>
-      <a-entity position="5 0 -10">
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+      <!-- 入口(文庫)側の壁棚 -->
+      <a-entity position="4.2 0 2.7" rotation="0 -90 0">
+        <a-entity position="1.35 0 0" bookshelf="no: 4"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 3"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 2"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 1"></a-entity>
       </a-entity>
-      <a-entity position="5 0 -6" rotation="0 180 0">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+      <!-- 科学・PC側の壁棚 -->
+      <a-entity position="-4.2 0 2.7" rotation="0 90 0">
+        <a-entity position="1.35 0 0" bookshelf="no: 37"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 38"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 39"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 40"></a-entity>
+
+        <a-entity position="3.75 0 0" bookshelf="no: 45"></a-entity>
+        <a-entity position="4.65 0 0" bookshelf="no: 46"></a-entity>
+
+        <a-entity position="6.15 0 0" bookshelf="no: 55"></a-entity>
+        <a-entity position="7.05 0 0" bookshelf="no: 56"></a-entity>
       </a-entity>
-      <a-entity position="5 0 -6">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+      <!-- 文庫1棚 -->
+      <a-entity position="2.1 0 2.7" rotation="0 90 0">
+        <a-entity position="1.35 0 0" bookshelf="no: 7"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 8"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 9"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 10"></a-entity>
       </a-entity>
-      <a-entity position="5 0 -2" rotation="0 180 0">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="0.45 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="1.35 0 0" bookshelf="no: sample01"></a-entity>
+
+      <!-- 文庫2棚 -->
+      <a-entity position="2.1 0 2.7" rotation="0 -90 0">
+        <a-entity position="1.35 0 0" bookshelf="no: 14"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 13"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 12"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 11"></a-entity>
       </a-entity>
-      <a-entity position="5 0 -2">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="0.45 0 0" bookshelf="no: sample01"></a-entity>
-        <a-entity position="1.35 0 0" bookshelf="no: sample01"></a-entity>
+
+      <!-- 文庫3棚 -->
+      <a-entity position="0 0 2.7" rotation="0 90 0">
+        <a-entity position="1.35 0 0" bookshelf="no: 15"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 16"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 17"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 18"></a-entity>
       </a-entity>
-      <a-entity position="5 0 2" rotation="0 180 0">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+      <!-- 旅行棚 -->
+      <a-entity position="0 0 2.7" rotation="0 -90 0">
+        <a-entity position="1.35 0 0" bookshelf="no: 25"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 24"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 23"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 22"></a-entity>
       </a-entity>
-      <a-entity position="5 0 2">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+      <!-- 暮らし棚 -->
+      <a-entity position="-2.1 0 2.7" rotation="0 90 0">
+        <a-entity position="1.35 0 0" bookshelf="no: 26"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 27"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 28"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 29"></a-entity>
       </a-entity>
-      <a-entity position="5 0. 6" rotation="0 180 0">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+      <!-- 医学・資格棚 -->
+      <a-entity position="-2.1 0 2.7" rotation="0 -90 0">
+        <a-entity position="1.35 0 0" bookshelf="no: 36"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 35"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 34"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 33"></a-entity>
       </a-entity>
-      <a-entity position="5 0. 6">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+
+      <!-- 人文1棚 -->
+      <a-entity position="-2.1 0 -1.5" rotation="0 90 0">
+        <a-entity position="0.45 0 0" bookshelf="no: 42"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 41"></a-entity>
       </a-entity>
-      <a-entity position="5 0. 10" rotation="0 180 0">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+      <!-- 人文2棚 -->
+      <a-entity position="-2.1 0 -1.5" rotation="0 -90 0">
+        <a-entity position="0.45 0 0" bookshelf="no: 43"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 44"></a-entity>
       </a-entity>
-      <a-entity position="-5 0 -10">
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+      <!-- ビジネス1棚 -->
+      <a-entity position="0.3 0 -1.8" rotation="0 0 0">
+        <a-entity position="0.45 0 0" bookshelf="no: 47"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 48"></a-entity>
       </a-entity>
-      <a-entity position="-5 0 -6" rotation="0 180 0">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+      <!-- ビジネス2棚 -->
+      <a-entity position="0.3 0 -1.8" rotation="0 -180 0">
+        <a-entity position="0.45 0 0" bookshelf="no: 50"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 49"></a-entity>
       </a-entity>
-      <a-entity position="-5 0 -6">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+
+      <!-- ビジネス3・語学棚 -->
+      <a-entity position="-0.6 0 -3.9" rotation="0 0 0">
+        <a-entity position="1.35 0 0" bookshelf="no: 51"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 52"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 53"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 54"></a-entity>
       </a-entity>
-      <a-entity position="-5 0 -2" rotation="0 180 0">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
+
+      <!-- ビジネス2棚 -->
+      <a-entity position="-0.6 0 -3.9" rotation="0 -180 0">
+        <a-entity position="1.35 0 0" bookshelf="no: 60"></a-entity>
+        <a-entity position="0.45 0 0" bookshelf="no: 59"></a-entity>
+        <a-entity position="-0.45 0 0" bookshelf="no: 58"></a-entity>
+        <a-entity position="-1.35 0 0" bookshelf="no: 57"></a-entity>
       </a-entity>
-      <a-entity position="-5 0 -2">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
-      </a-entity>
-      <a-entity position="-5 0 2" rotation="0 180 0">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
-      </a-entity>
-      <a-entity position="-5 0 2">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
-      </a-entity>
-      <a-entity position="-5 0 6" rotation="0 180 0">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
-      </a-entity>
-      <a-entity position="-5 0 6">
-        <a-entity position="-2.1 0 0" rotation="0 90 0" sideshelf></a-entity>
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
-      </a-entity>
-      <a-entity position="-5 0 10" rotation="0 180 0">
-        <a-entity position="-1.35 0 0" bookshelf></a-entity>
-        <a-entity position="-0.45 0 0" bookshelf></a-entity>
-        <a-entity position="0.45 0 0" bookshelf></a-entity>
-        <a-entity position="1.35 0 0" bookshelf></a-entity>
-      </a-entity>
-      <a-plane src="#floor" repeat="20 20" position="0 0 0" rotation="-90 0 0" width="20" height="20"></a-plane>
+
+      <a-plane src="#floor" repeat="20 20" position="0 0 0" rotation="-90 0 0" width="8.4" height="12"></a-plane>
       <a-entity id="rig" 
       position="0 0 0"
       raycaster="objects: .wall; far: 0.6; direction: 0 0 -1;"
