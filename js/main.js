@@ -1,7 +1,9 @@
   /* global */
   var joy_x = null;
   var joy_y = null;
-  var selectedShelf = null;
+  var g_selectedShelf = null;
+  let g_ShelfDatas = {};
+  let g_BookDatas = {};
 
   function debugMessage(message){
     document.getElementById("debug-text").setAttribute("value",message);
@@ -14,8 +16,10 @@
     console.log("zoomDown");
     document.getElementById("camera").setAttribute("zoom",1);
   }
-
   AFRAME.registerComponent("bookshelf", {
+    schema: { 
+      no: {type: "string", default: "" }
+    },
     init: function () {
         var topboard = document.createElement("a-box");
         topboard.setAttribute("height",0.02);
@@ -69,22 +73,50 @@
             bookbody.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
             return bookbody;
         };
-        var addbooks = function(id,pos){
-            var bookface = document.createElement("a-plane");
-            bookface.setAttribute("id",id);
-            bookface.setAttribute("nearsrc",id);
-            bookface.setAttribute("src",'img/sample_shelf_low.png');
-            bookface.setAttribute("height",0.2);
-            bookface.setAttribute("width", 0.88);
-            bookface.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
-            bookface.setAttribute("bookface","\"shelf_id\"=\"" +id +"\"");
-            bookface.classList.add("collidable");
-            return bookface;
-        };
-        for(var i=1;i<=4;i++){
-            this.el.appendChild(addbookbody("#test1"+"-"+i,[0,0.41+i*0.3,0.175]));
-            this.el.appendChild(addbooks("#test1"+"-"+i,[0,0.41+i*0.3,0.251]));
-        }
+        var addbooks = function(id,srcImg,srcLowImg,pos,offset,shelf_id){
+          var bookface = document.createElement("a-plane");
+          bookface.setAttribute("id",id);
+          bookface.setAttribute("nearsrc",srcImg);
+          bookface.setAttribute("src",srcLowImg);
+          bookface.setAttribute("bookOffet",offset);
+          bookface.setAttribute("shelf_id",shelf_id);
+          bookface.setAttribute("height",0.2);
+          bookface.setAttribute("width", 0.88);
+          bookface.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
+          bookface.setAttribute("bookface","shelf_id: " + shelf_id);
+          bookface.classList.add("collidable");
+          return bookface;
+      };
+      if(this.data.no){
+        //json 読み込み
+        fetch('json/' + this.data.no + '.json')
+        .then((response) => {
+            if (!response.ok) {
+                throw new Error();
+            }
+            return response.json(); 
+        })
+        .then((blob) => {
+          console.log("load json! :" + this.data.no);
+          if(!g_ShelfDatas[this.data.no]){
+              g_ShelfDatas[this.data.no] = blob;
+              blob.books.forEach((item)=>{
+                g_BookDatas[item.isbn] = item;
+              });
+          }
+          for(var i=1;i<=4;i++){
+            this.el.appendChild(addbookbody(this.data.no+"-"+i,[0,0.41+i*0.3,0.175]));
+            this.el.appendChild(addbooks(this.data.no+"-"+i,blob.back_cover_images[i-1],blob.back_cover_low_images[i-1],[0,0.41+i*0.3,0.251],(i-1)*44,this.data.no));
+          }
+        })
+        .catch((reason) => {
+            // エラー
+            console.log(reason);
+        });
+
+      }
+
+        
     }
   });
   AFRAME.registerComponent("bookface",{
@@ -93,22 +125,24 @@
         this.nearTexture = this.el.getAttribute("nearsrc");
         this.farTexture = this.el.getAttribute("src");
         this.targetCam = document.getElementById("camera");
+        this.bookOffet = this.el.getAttribute("bookOffet");
         this.isFocused=false;
         this.isFar=true;
         this.el.addEventListener('shelf_select',(event) => {
-            console.log("bookface select");
             for(var i=1;i<=44;i++){
-                var addbook = function(id,pos){
+                var addbook = function(id,pos,isbn){
                     var book = document.createElement("a-plane");
                     book.setAttribute("id",id);
+                    book.setAttribute("isbn",isbn);
                     book.setAttribute("height",0.2);
                     book.setAttribute("width", 0.02);
                     book.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
                     book.setAttribute("opacity",0);
+                    book.setAttribute("book","isbn: " + isbn);
                     book.classList.add("collidable");
                     return book;
                 };
-                this.el.appendChild(addbook(this.data.shelf_id +"-" +i,[i*0.02-0.45,0,0.005] ));
+                this.el.appendChild(addbook(this.data.shelf_id +"-" +i,[i*0.02-0.45,0,0.005],g_ShelfDatas[this.data.shelf_id].books[i-1].isbn));
             }
         });
         this.el.addEventListener('shelf_release',(event) => {
@@ -136,6 +170,19 @@
 
       }
   });
+  AFRAME.registerComponent("book", {
+    schema:{isbn:{type:'string'}},
+    init: function () {
+      this.el.addEventListener('book_select',(event) =>{
+
+      });
+
+    },
+    tick: function () {
+
+    }
+  });
+
 
   AFRAME.registerComponent("sideshelf", {
     init: function () {
@@ -189,6 +236,23 @@
         }
     },tick: function(){}
     });
+  AFRAME.registerComponent("game_master",{
+    init: function () {
+      this.el.addEventListener("game_start", (event) => {
+        
+      });
+      
+      this.el.addEventListener("book_select", (event) => {
+        
+      });
+      
+      
+    },
+    tick: function (){
+
+
+    }
+  });
     
   AFRAME.registerComponent("player", {
     dependencies: ["raycaster"],
@@ -204,13 +268,13 @@
         // 衝突面の法線ベクトル
         this.normalVec = null;
         // raycasterの交差イベント
-        this.el.addEventListener("raycaster-intersection", (e) => {
-            console.log("hit");
-            this.normalVec = e.detail.intersections[0].face.normal
+        this.el.addEventListener("raycaster-intersection", (event) => {
+//            console.log("hit");
+            this.normalVec = event.detail.intersections[0].face.normal
         });
         // raycasterの交差解放イベント
-        this.el.addEventListener("raycaster-intersection-cleared", () => {
-            console.log("clear");
+        this.el.addEventListener("raycaster-intersection-cleared", (event) => {
+//            console.log("clear");
             this.normalVec = null
         });
         this.key_down_arrow_up = false;
@@ -359,48 +423,44 @@
   AFRAME.registerComponent('mouse-listener', {
     init: function () {
       this.el.isMouseDown = false;
-      this.selectedShelf = null; //選択中の棚
-      this.el.addEventListener('raycaster-intersection', function (e) {
-        e.detail.els.forEach(item =>{
+      this.el.selectedShelf = null; //選択中の棚
+      this.el.addEventListener('raycaster-intersection',  (event) => {
+        event.detail.els.forEach(item =>{
             if(item.getAttribute("bookface")!=null){
                 console.log("bookface");
-                if(selectedShelf!=null){
+                if(this.selectedShelf!=null){
                     console.log("release!!");
                     {
-                        var ev = new Event("shelf_release");
-                        selectedShelf.dispatchEvent(ev);
+                        this.selectedShelf.dispatchEvent(new Event("shelf_release"));
                     }
                 }
-                var ev = new Event("shelf_select");
-                item.dispatchEvent(ev);
+                item.dispatchEvent(new Event("shelf_select"));
                 this.selectedShelf = item;
             }
         });
-        for(var i=0;i<e.detail.els.length;i++){
-            if(e.detail.els[i].getAttribute("bookface")==null){
-                this.selectedObj = e.detail.els[i];
+        for(var i=0;i<event.detail.els.length;i++){
+            if(event.detail.els[i].getAttribute("bookface")==null){
+                this.selectedObj = event.detail.els[i];
                 this.selectedObj.setAttribute("opacity",0.5);
                 this.isMouseDown = false;
                 return;
             }
         }
       });
-      this.el.addEventListener('raycaster-intersection-cleared', function (e) {
+      this.el.addEventListener('raycaster-intersection-cleared',  (event)=> {
         //レイキャスターと接触しているオブジェクトの情報をクリア
         console.log("cleard");
         if(this.selectedShelf){
-            var hit = false;
-                e.detail.clearedEls.forEach(item =>{
+            event.detail.clearedEls.forEach(item =>{
                 if(this.selectedShelf == item){
                     console.log("release!!");
-                    var ev = new Event("shelf_release");
-                    this.selectedShelf.dispatchEvent(ev);
+                    this.selectedShelf.dispatchEvent(new Event("shelf_release"));
                     this.selectedShelf = null;
                 }
             });
         }
-        for(var i=0;i<e.detail.clearedEls.length;i++){
-            if(this.selectedObj==e.detail.clearedEls[i]){
+        for(var i=0;i<event.detail.clearedEls.length;i++){
+            if(this.selectedObj==event.detail.clearedEls[i]){
                 this.selectedObj.setAttribute("opacity",0);              
                 this.selectedObj = null;
                 this.isMouseDown = false;
@@ -408,14 +468,13 @@
             }
         }
       });
-      this.el.addEventListener('mousedown', function (event) {
+      this.el.addEventListener('mousedown',(event)=> {
         if(!this.selectedObj){return;}
         this.isMouseDown = true;
       });
-      this.el.addEventListener('mouseup', function (event) {
+      this.el.addEventListener('mouseup', (event)=> {
         if(this.selectedObj&&this.isMouseDown){
-            this.selectedObj
-//            soundPlay("sound_button");          
+          this.selectedObj.dispatchEvent(new CustomEvent("book_select",{detail:{isbn: this.selectedObj.getAttribute('isbn')}}));
         }
         this.isMouseDown = false;
       });
@@ -429,32 +488,30 @@
       this.isTriggerd = false;
       this.selectedShelf = null; //選択中の棚
       //Trigger Pressed
-      this.el.addEventListener('triggerdown', function (event) {
+      this.el.addEventListener('triggerdown',  (event) => {
         this.isTriggerd = true;
       });
       //Trigger Released
-      this.el.addEventListener('triggerup', function (event) {
+      this.el.addEventListener('triggerup',  (event) => {
         this.isTriggerd = false;
       });
-      this.el.addEventListener('raycaster-intersection', function (e) {
-        e.detail.els.forEach(item =>{
+      this.el.addEventListener('raycaster-intersection', (event) => {
+        event.detail.els.forEach(item =>{
             if(item.getAttribute("bookface")!=null){
                 console.log("bookface");
                 if(selectedShelf!=null){
                     console.log("release!!");
                     {
-                        var ev = new Event("shelf_release");
-                        selectedShelf.dispatchEvent(ev);
+                        selectedShelf.dispatchEvent(new Event("shelf_release"));
                     }
                 }
-                var ev = new Event("shelf_select");
-                item.dispatchEvent(ev);
+                item.dispatchEvent(new Event("shelf_select"));
                 this.selectedShelf = item;
             }
         });
-        for(var i=0;i<e.detail.els.length;i++){
-            if(e.detail.els[i].getAttribute("bookface")==null){
-                this.selectedObj = e.detail.els[i];
+        for(var i=0;i<event.detail.els.length;i++){
+            if(event.detail.els[i].getAttribute("bookface")==null){
+                this.selectedObj = event.detail.els[i];
                 this.selectedObj.setAttribute("opacity",0.5);
                 this.isTriggerd = false;
                 return;
@@ -463,20 +520,19 @@
       });
 
       //レイキャスターとオブジェクトとの接触完了
-      this.el.addEventListener('raycaster-intersection-cleared', function (e) {
+      this.el.addEventListener('raycaster-intersection-cleared',  (event) => {
         if(this.selectedShelf){
             var hit = false;
-                e.detail.clearedEls.forEach(item =>{
+            event.detail.clearedEls.forEach(item =>{
                 if(this.selectedShelf == item){
                     console.log("release!!");
-                    var ev = new Event("shelf_release");
-                    this.selectedShelf.dispatchEvent(ev);
+                    this.selectedShelf.dispatchEvent(new Event("shelf_release"));
                     this.selectedShelf = null;
                 }
             });
         }
-        for(var i=0;i<e.detail.clearedEls.length;i++){
-            if(this.selectedObj==e.detail.clearedEls[i]){
+        for(var i=0;i<event.detail.clearedEls.length;i++){
+            if(this.selectedObj==event.detail.clearedEls[i]){
                 this.selectedObj.setAttribute("opacity",0);              
                 this.selectedObj = null;
                 this.isTriggerd = false;
@@ -501,7 +557,7 @@
     //Initialization
     init:function () {
       //Stick Moved
-      this.el.addEventListener('axismove',function(event){
+      this.el.addEventListener('axismove',(event)=>{
         if(event.detail.axis.length>=4){
           //for oculus
           joy_x = event.detail.axis[2];
@@ -514,27 +570,27 @@
       }); 
       
       //Trigger Touch Started
-      this.el.addEventListener('triggertouchstart', function (event) {
+      this.el.addEventListener('triggertouchstart', (event)=> {
 
       });
       //Trigger Touch Ended
-      this.el.addEventListener('triggertouchend', function (event) {
+      this.el.addEventListener('triggertouchend',  (event) =>{
 
       });
       
       //Trigger Pressed
-      this.el.addEventListener('triggerdown', function (event) {
+      this.el.addEventListener('triggerdown', (event) =>{
       });
       //Trigger Released
-      this.el.addEventListener('triggerup', function (event) {
+      this.el.addEventListener('triggerup', (event) => {
       });
       
       //Grip Pressed
-      this.el.addEventListener('gripdown', function (event) {
+      this.el.addEventListener('gripdown', (event) =>{
       }); 
 
       //Grip Up
-      this.el.addEventListener('gripup', function (event) {
+      this.el.addEventListener('gripup', (event) => {
       }); 
 
       let key_ctrl_on = false;
@@ -562,32 +618,32 @@
       }
 */
              //Grip Released
-      this.el.addEventListener('gripup', function (event) {
+      this.el.addEventListener('gripup',  (event)=> {
       });
       //A-buttorn Pressed 
-      this.el.addEventListener('abuttondown', function (event) {
+      this.el.addEventListener('abuttondown', (event)=> {
       });
       //A-buttorn Released
-      this.el.addEventListener('abuttonup', function (event) {
+      this.el.addEventListener('abuttonup', (event)=> {
       });
       //B-buttorn Pressed
-      this.el.addEventListener('bbuttondown', function (event) {
+      this.el.addEventListener('bbuttondown', (event)=> {
       });
       //B-buttorn Released
-      this.el.addEventListener('bbuttonup', function (event) {
+      this.el.addEventListener('bbuttonup', (event)=> {
       });
       //Y-buttorn Pressed 
-      this.el.addEventListener('ybuttondown', function (event) {
+      this.el.addEventListener('ybuttondown', (event)=>  {
       });
       //Y-buttorn Released
-      this.el.addEventListener('ybuttonup', function (event) {
+      this.el.addEventListener('ybuttonup', (event)=> {
         this.txt.setAttribute("value","Y-button up");
       });
       //X-buttorn Pressed
-      this.el.addEventListener('xbuttondown', function (event) {
+      this.el.addEventListener('xbuttondown', (event)=> {
       });
       //X-buttorn Released
-      this.el.addEventListener('xbuttonup', function (event) {
+      this.el.addEventListener('xbuttonup',(event)=>  {
         this.txt.setAttribute("value","X-button up");
       });
     },

@@ -1,8 +1,8 @@
 {
 "shelf_title":"小説あーさ",
 "category":"小説",
-"back_cover_images":["sample_shelf1.png","sample_shelf1.png","sample_shelf1.png","sample_shelf1.png"],
-"back_cover_low_images":["sample_shelf_low.png","sample_shelf_low.png","sample_shelf_low.png","sample_shelf_low.png"],
+"back_cover_images":["img/sample_shelf1.png","img/sample_shelf1.png","img/sample_shelf1.png","img/sample_shelf1.png"],
+"back_cover_low_images":["img/sample_shelf_low.png","img/sample_shelf_low.png","img/sample_shelf_low.png","img/sample_shelf_low.png"],
 "books":[
 {
     "isbn": "1234-5678-9012",
@@ -18,7 +18,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -58,7 +58,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -98,7 +98,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -138,7 +138,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -178,7 +178,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -218,7 +218,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -258,7 +258,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -298,7 +298,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -338,7 +338,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -378,7 +378,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -418,7 +418,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -458,7 +458,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -498,7 +498,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -538,7 +538,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -578,7 +578,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -618,7 +618,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -658,7 +658,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -698,7 +698,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -738,7 +738,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -778,7 +778,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -818,7 +818,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -858,7 +858,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -898,7 +898,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -938,7 +938,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -978,7 +978,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -1018,7 +1018,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -1058,7 +1058,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -1098,7 +1098,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -1138,7 +1138,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -1178,7 +1178,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -1218,7 +1218,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -1258,7 +1258,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -1298,7 +1298,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -1338,7 +1338,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
@@ -1378,7 +1378,7 @@
     "contributor": "志賀内 泰弘",
     "imprint": "ＰＨＰ研究所",
     "page": "306",
-    "main_cover": "https://cover.openbd.jp/9784569901152.jpg",
+    "main_cover": "https://cover.openbd.jp/9784569901152.jpg"
 },
 {
     "isbn": "1234-5678-9013",
