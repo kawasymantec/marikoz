@@ -22,7 +22,7 @@
     },
     init: function () {
         var topboard = document.createElement("a-box");
-        topboard.setAttribute("height",0.02);
+        topboard.setAttribute("height",0.06);
         topboard.setAttribute("width", 0.9);
         topboard.setAttribute("depth", 0.3);
         topboard.setAttribute("position","0 1.8 0.15");
@@ -122,6 +122,26 @@
       book.appendChild(cover);
       return book;
     };
+    var addShelfTitle = function(title){
+      var titlepanel = document.createElement("a-entity");
+      titlepanel.setAttribute("position","0 1.8 0.3");
+      var titleback = document.createElement("a-plane");
+      titleback.setAttribute("height",0.05);
+      titleback.setAttribute("width", 0.5);
+      titleback.setAttribute("position","0 0 0.001");
+      var titletext = document.createElement("a-text");
+      titletext.setAttribute("value",title);
+      titletext.setAttribute("font", "font/mplus-msdf.json");
+      titletext.setAttribute("font-image", "font/mplus-msdf.png");
+      titletext.setAttribute("negate", "false");
+      titletext.setAttribute("align", "center");
+      titletext.setAttribute("color", "black");
+      titletext.setAttribute("scale", "0.1 0.1");
+      titletext.setAttribute("position","0 0 0.002");
+      titlepanel.appendChild(titleback);
+      titlepanel.appendChild(titletext);
+      return titlepanel;
+  };
 
     if(this.data.no){
         //json 読み込み
@@ -140,12 +160,22 @@
                 g_BookDatas[item.isbn] = item;
               });
           }
+          this.el.appendChild(addShelfTitle(blob.shelf_title));
           for(var i=1;i<=4;i++){
             this.el.appendChild(addbookbody(this.data.no+"-"+i,[0,0.41+i*0.3,0.175]));
             this.el.appendChild(addbooks(this.data.no+"-"+i,blob.back_cover_images[i-1],blob.back_cover_low_images[i-1],[0,0.41+i*0.3,0.251],(i-1)*44,this.data.no));
           }
-          for(var i=0;i<6;i++){
-            this.el.appendChild(addStackBook(this.data.no+"-h-"+i,blob.books[i].isbn,blob.books[i].main_cover,[-0.375+i*0.15,0.6,0.4],Math.floor( Math.random() * 3 )+1));        
+          {
+            var i=0;
+            var j=0;
+            while(i<6&&j<176){
+              if(blob.books[j].main_cover.length>0){
+                this.el.appendChild(addStackBook(this.data.no+"-h-"+i,blob.books[j].isbn,blob.books[j].main_cover,[-0.375+i*0.15,0.6,0.4],Math.floor( Math.random() * 3 )+1));
+                i++;
+              }
+              j++;
+            }
+  
           }
         })
         .catch((reason) => {
