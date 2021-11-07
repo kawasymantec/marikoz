@@ -6,6 +6,8 @@ import os
 import math
 from PIL import ImageFont, ImageDraw, Image
 
+OPENBD_URL       = "https://api.openbd.jp/v1/get"                                        # OpenBD接続URL
+
 RAKUTEN_URL      = "https://app.rakuten.co.jp/services/api/BooksBook/Search/20170404"    # 楽天ブックスAPI接続URL
 RAKUTEN_APP_ID   = "1019073917048612338"                                                 # 楽天ブックスAPIアプリケーションID
 SORT             = "-releaseDate"                                                        # 楽天ブックスAPIソートキー（新しい順）
@@ -47,8 +49,8 @@ def getBookInfo():
             print("------------------------------------------------------")
 
             # 背表紙画像ファイル名リストに1枚目の画像ファイル名を追加
-            back_cover_image.append("back_cover_image/" + str(json_count+1).zfill(4) + "_1.png")
-            back_cover_low_image.append("back_cover_low_image/" + str(json_count+1).zfill(4) + "_1_low.png")
+            back_cover_image.append("back_cover_img/" + str(json_count+1).zfill(4) + "_1.png")
+            back_cover_low_image.append("back_cover_low_img/" + str(json_count+1).zfill(4) + "_1_low.png")
 
             # 各ページから本情報を取得
             for page in range(1, response.json()["pageCount"] + 1):
@@ -99,10 +101,20 @@ def getBookInfo():
                             imprint = ""
 
                         # 表紙画像のURL
-                        try:
-                            main_cover = response.json()["Items"][count]["Item"]["largeImageUrl"]
-                        except :
-                            main_cover = ""
+                        response_openbd = requests.get("{}?isbn={}".format(OPENBD_URL, isbn))
+                        if response_openbd.status_code != requests.codes.ok:
+                                print("Requests failed")
+                        else:
+                            res = response_openbd.json()
+                            # ISBNコードが見つからなければスキップ
+                            if res[0] is None:
+                                main_cover = ""
+                            else:
+                                # 表紙画像のURL
+                                try:
+                                    main_cover = res[0]["onix"]["CollateralDetail"]["SupportingResource"][0]["ResourceVersion"][0]["ResourceLink"]
+                                except :
+                                    main_cover = ""
                         
                         # 背表紙画像に表示するタイトル、作者が3行を超えないもののみリストに追加
                         if len(title) <= 32 and len(contributor) <= 12:
@@ -125,8 +137,8 @@ def getBookInfo():
                                 list_count       = 0
                                 cover_count     += 1
                                 cover_count_flg  = False
-                                back_cover_image.append("back_cover_image/" + str(json_count+1).zfill(4) + "_" + str(cover_count) + ".png")
-                                back_cover_low_image.append("back_cover_low_image/" + str(json_count+1).zfill(4) + "_" + str(cover_count) + "_low.png")
+                                back_cover_image.append("back_cover_img/" + str(json_count+1).zfill(4) + "_" + str(cover_count) + ".png")
+                                back_cover_low_image.append("back_cover_low_img/" + str(json_count+1).zfill(4) + "_" + str(cover_count) + "_low.png")
 
                             list_count += 1
 
@@ -159,7 +171,7 @@ def getBookInfo():
                                 output_json.append(obj)
                                 shelf_num = str(json_count).zfill(4)
 
-                                outputJson(output_json, shelf_num)
+                                outputJson(obj, shelf_num)
 
                                 # リストを初期化
                                 output_json          = list()
@@ -169,8 +181,8 @@ def getBookInfo():
                                 book_tmp             = list()
 
                                 # 背表紙画像ファイル名リストに1枚目の画像ファイル名を追加
-                                back_cover_image.append("back_cover_image/" + str(json_count+1).zfill(4) + "_1.png")
-                                back_cover_low_image.append("back_cover_low_image/" + str(json_count+1).zfill(4) + "_1_low.png")
+                                back_cover_image.append("back_cover_img/" + str(json_count+1).zfill(4) + "_1.png")
+                                back_cover_low_image.append("back_cover_low_img/" + str(json_count+1).zfill(4) + "_1_low.png")
 
                                 if shelf_count == genre["shelf_count"]:
                                     break
@@ -242,7 +254,7 @@ def outputBackCoverImage(books, shelf_num, cover_num):
     count = 0
 
     # ジャンル名フォルダが存在しなければ作成
-    path = "back_cover_image/"
+    path = "back_cover_img/"
     if not os.path.exists(path):
         os.mkdir(path)
 
@@ -323,7 +335,7 @@ def outputBackCoverLowImage(books, shelf_num, cover_num):
     count = 0
 
     # ジャンル名フォルダが存在しなければ作成
-    path = "back_cover_low_image/"
+    path = "back_cover_low_img/"
     if not os.path.exists(path):
         os.mkdir(path)
 
