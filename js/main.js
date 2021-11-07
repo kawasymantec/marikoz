@@ -42,12 +42,13 @@
         backboard.setAttribute("depth", 0.02);
         backboard.setAttribute("position","0 0.9 0");
         var board01 = topboard.cloneNode(true);
+        board01.setAttribute("height",0.02);
         board01.setAttribute("position","0 1.5 0.15");
-        var board02 = topboard.cloneNode(true);
+        var board02 = board01.cloneNode(true);
         board02.setAttribute("position","0 1.2 0.15");
-        var board03 = topboard.cloneNode(true);
+        var board03 = board01.cloneNode(true);
         board03.setAttribute("position","0 0.9 0.15");
-        var board04 = topboard.cloneNode(true);
+        var board04 = board01.cloneNode(true);
         board04.setAttribute("position","0 0.6 0.15");
         var bottomShelf = document.createElement("a-box");
         bottomShelf.setAttribute("height",0.6);
