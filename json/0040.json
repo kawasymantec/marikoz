@@ -15,22 +15,22 @@
     ],
     "books": [
         {
-            "isbn": "9784415234021",
-            "title": "本試験型　漢字検定6級試験問題集　’22年版",
-            "title_collation_key": "ホンシケンガタカンジケンテイロッキュウシケンモンダイシュウニセンニジュウニネンバン",
-            "contributor": "成美堂出版編集部",
-            "contributor_collation_key": "セイビドウシュッパンヘンシュウブ",
-            "imprint": "成美堂出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4021/9784415234021_1_4.jpg?_ex=200x200"
-        },
-        {
             "isbn": "9784415234007",
             "title": "本試験型　漢字検定4級試験問題集　’22年版",
             "title_collation_key": "ホンシケンガタカンジケンテイヨンキュウシケンモンダイシュウニセンニジュウニネンバン",
             "contributor": "成美堂出版編集部",
             "contributor_collation_key": "セイビドウシュッパンヘンシュウブ",
             "imprint": "成美堂出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4007/9784415234007_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784415234007.jpg"
+        },
+        {
+            "isbn": "9784415234021",
+            "title": "本試験型　漢字検定6級試験問題集　’22年版",
+            "title_collation_key": "ホンシケンガタカンジケンテイロッキュウシケンモンダイシュウニセンニジュウニネンバン",
+            "contributor": "成美堂出版編集部",
+            "contributor_collation_key": "セイビドウシュッパンヘンシュウブ",
+            "imprint": "成美堂出版",
+            "main_cover": "https://cover.openbd.jp/9784415234021.jpg"
         },
         {
             "isbn": "9784789018012",
@@ -39,7 +39,7 @@
             "contributor": "鎌田修/山森理恵",
             "contributor_collation_key": "カマダオサム/ヤマモリミチエ",
             "imprint": "ジャパンタイムズ出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8012/9784789018012.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784789018012.jpg"
         },
         {
             "isbn": "9784418215010",
@@ -48,7 +48,7 @@
             "contributor": "小池 直己",
             "contributor_collation_key": "コイケ ナオミ",
             "imprint": "株式会社 世界文化社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5010/9784418215010_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784418215010.jpg"
         },
         {
             "isbn": "9784254510713",
@@ -57,16 +57,16 @@
             "contributor": "日本国語教育学会",
             "contributor_collation_key": "ニホンコクゴキョウイクガッカイ",
             "imprint": "朝倉書店",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0713/9784254510713.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784254510713.jpg"
         },
         {
-            "isbn": "9784254510713",
-            "title": "国語教育総合事典（新装版）",
-            "title_collation_key": "コクゴキョウイクソウゴウジテン",
-            "contributor": "日本国語教育学会",
-            "contributor_collation_key": "ニホンコクゴキョウイクガッカイ",
+            "isbn": "9784254516197",
+            "title": "辞書の成り立ち",
+            "title_collation_key": "ジショノナリタチ",
+            "contributor": "沖森 卓也/木村 義之",
+            "contributor_collation_key": "オキモリ タクヤ/キムラ ヨシユキ",
             "imprint": "朝倉書店",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0713/9784254510713.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784254516197.jpg"
         },
         {
             "isbn": "9784866240473",
@@ -75,16 +75,7 @@
             "contributor": "柳原孝敦",
             "contributor_collation_key": "ヤナギハラ,タカアツ",
             "imprint": "教育評論社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0473/9784866240473_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784904235485",
-            "title": "ちょっと難しい1000のことばジュニア改訂版",
-            "title_collation_key": "チョット ムズカシイ セン ノ コトバ ジュニア",
-            "contributor": "アーバン",
-            "contributor_collation_key": "アーバン",
-            "imprint": "アーバン",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5485/9784904235485_1_2.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784866393643",
@@ -93,7 +84,16 @@
             "contributor": "アスク出版編集部",
             "contributor_collation_key": "アスクシュッパンヘンシュウブ",
             "imprint": "アスク出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3643/9784866393643.jpg?_ex=200x200"
+            "main_cover": ""
+        },
+        {
+            "isbn": "9784904235485",
+            "title": "ちょっと難しい1000のことばジュニア改訂版",
+            "title_collation_key": "チョット ムズカシイ セン ノ コトバ ジュニア",
+            "contributor": "アーバン",
+            "contributor_collation_key": "アーバン",
+            "imprint": "アーバン",
+            "main_cover": ""
         },
         {
             "isbn": "9784866394374",
@@ -102,7 +102,7 @@
             "contributor": "三屋仁 菅原由加里",
             "contributor_collation_key": "ミツヤジン スガワラユカリ",
             "imprint": "アスク出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4374/9784866394374.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784864701631",
@@ -111,7 +111,7 @@
             "contributor": "出口汪",
             "contributor_collation_key": "デグチヒロシ",
             "imprint": "水王舎",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1631/9784864701631_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784864701631.jpg"
         },
         {
             "isbn": "9784036299003",
@@ -120,7 +120,7 @@
             "contributor": "山口理",
             "contributor_collation_key": "ヤマグチサトシ",
             "imprint": "偕成社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9003/9784036299003.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784036299003.jpg"
         },
         {
             "isbn": "9784910132150",
@@ -129,16 +129,7 @@
             "contributor": "金 世徳/張 京花",
             "contributor_collation_key": "キム セドク/チャン ギョンファ",
             "imprint": "博英社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2150/9784910132150_1_76.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784325248064",
-            "title": "風呂で覚える古文単語［改訂新装版］",
-            "title_collation_key": "フロデオボエルコブンタンゴカイテイシンソウバン",
-            "contributor": "北村　七呂和",
-            "contributor_collation_key": "キタムラ　ヒロカズ",
-            "imprint": "教学社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8064/9784325248064_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784910132150.jpg"
         },
         {
             "isbn": "9784325248071",
@@ -147,7 +138,16 @@
             "contributor": "教学社編集部",
             "contributor_collation_key": "キョウガクシャヘンシュウブ",
             "imprint": "教学社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8071/9784325248071_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784325248071.jpg"
+        },
+        {
+            "isbn": "9784325248064",
+            "title": "風呂で覚える古文単語［改訂新装版］",
+            "title_collation_key": "フロデオボエルコブンタンゴカイテイシンソウバン",
+            "contributor": "北村　七呂和",
+            "contributor_collation_key": "キタムラ　ヒロカズ",
+            "imprint": "教学社",
+            "main_cover": "https://cover.openbd.jp/9784325248064.jpg"
         },
         {
             "isbn": "9784478109809",
@@ -156,25 +156,7 @@
             "contributor": "西角　けい子",
             "contributor_collation_key": "ニシカドケイコ",
             "imprint": "ダイヤモンド社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9809/9784478109809.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784325248088",
-            "title": "風呂で覚える漢文［改訂新装版］",
-            "title_collation_key": "フロデオボエルカンブンカイテイシンソウバン",
-            "contributor": "教学社編集部",
-            "contributor_collation_key": "キョウガクシャヘンシュウブ",
-            "imprint": "教学社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8088/9784325248088_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784883198788",
-            "title": "TOEIC® L＆R テスト リスニング 解き方のスタートライン",
-            "title_collation_key": "トーイックエルアンドアールテストリスニングトキカタノスタートライン",
-            "contributor": "中村信子/山科美智子",
-            "contributor_collation_key": "ナカムラノブコ/ヤマシナミチコ",
-            "imprint": "スリーエーネットワーク",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8788/9784883198788_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784478109809.jpg"
         },
         {
             "isbn": "9784010348840",
@@ -183,7 +165,25 @@
             "contributor": "山下幸穂",
             "contributor_collation_key": "ヤマシタ ユキホ",
             "imprint": "旺文社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8840/9784010348840_1_27.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784010348840.jpg"
+        },
+        {
+            "isbn": "9784325248088",
+            "title": "風呂で覚える漢文［改訂新装版］",
+            "title_collation_key": "フロデオボエルカンブンカイテイシンソウバン",
+            "contributor": "教学社編集部",
+            "contributor_collation_key": "キョウガクシャヘンシュウブ",
+            "imprint": "教学社",
+            "main_cover": "https://cover.openbd.jp/9784325248088.jpg"
+        },
+        {
+            "isbn": "9784883198788",
+            "title": "TOEIC® L＆R テスト リスニング 解き方のスタートライン",
+            "title_collation_key": "トーイックエルアンドアールテストリスニングトキカタノスタートライン",
+            "contributor": "中村信子/山科美智子",
+            "contributor_collation_key": "ナカムラノブコ/ヤマシナミチコ",
+            "imprint": "スリーエーネットワーク",
+            "main_cover": "https://cover.openbd.jp/9784883198788.jpg"
         },
         {
             "isbn": "9784801305663",
@@ -192,7 +192,7 @@
             "contributor": "漢字力研究会",
             "contributor_collation_key": "カンジリョクケンキュウカイ",
             "imprint": "彩図社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5663/9784801305663_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784801305663.jpg"
         },
         {
             "isbn": "9784801305625",
@@ -201,7 +201,7 @@
             "contributor": "平川 裕貴",
             "contributor_collation_key": "ヒラカワ ユウキ",
             "imprint": "彩図社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5625/9784801305625_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784801305625.jpg"
         },
         {
             "isbn": "9784327453046",
@@ -210,7 +210,7 @@
             "contributor": "柴田 耕太郎",
             "contributor_collation_key": "シバタ コウタロウ",
             "imprint": "研究社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3046/9784327453046_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784327453046.jpg"
         },
         {
             "isbn": "9784255012612",
@@ -219,16 +219,7 @@
             "contributor": "沈国威",
             "contributor_collation_key": "シンコクイ",
             "imprint": "朝日出版社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2612/9784255012612_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784255012629",
-            "title": "選抜！ 中国語単語 常用フレーズ集",
-            "title_collation_key": "センバツチュウゴクゴタンゴジョウヨウフレーズシュウ",
-            "contributor": "相原茂/林屋啓子",
-            "contributor_collation_key": "アイハラシゲル/ハヤシヤケイコ",
-            "imprint": "朝日出版社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2629/9784255012629_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784255012612.jpg"
         },
         {
             "isbn": "9784255012605",
@@ -237,7 +228,7 @@
             "contributor": "沈国威",
             "contributor_collation_key": "シンコクイ",
             "imprint": "朝日出版社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2605/9784255012605_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784255012605.jpg"
         },
         {
             "isbn": "9784327453039",
@@ -246,7 +237,16 @@
             "contributor": "大島 希巳江",
             "contributor_collation_key": "オオシマ キミエ",
             "imprint": "研究社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3039/9784327453039_1_5.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784327453039.jpg"
+        },
+        {
+            "isbn": "9784255012629",
+            "title": "選抜！ 中国語単語 常用フレーズ集",
+            "title_collation_key": "センバツチュウゴクゴタンゴジョウヨウフレーズシュウ",
+            "contributor": "相原茂/林屋啓子",
+            "contributor_collation_key": "アイハラシゲル/ハヤシヤケイコ",
+            "imprint": "朝日出版社",
+            "main_cover": "https://cover.openbd.jp/9784255012629.jpg"
         },
         {
             "isbn": "9784469246506",
@@ -255,16 +255,7 @@
             "contributor": "白畑知彦",
             "contributor_collation_key": "シラハタトモヒコ",
             "imprint": "大修館書店",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6506/9784469246506_1_5.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784757439320",
-            "title": "キャラクターと学ぶ　リアル日本語会話",
-            "title_collation_key": "キャラクタートマナブ リアルニホンゴカイワ",
-            "contributor": "山本 弘子/松尾 恵美",
-            "contributor_collation_key": "ヤマモト ヒロコ/マツオ エミ",
-            "imprint": "株式会社アルク",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9320/9784757439320_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784469246506.jpg"
         },
         {
             "isbn": "9784811328560",
@@ -273,7 +264,16 @@
             "contributor": "ながたみかこ/多屋光孫",
             "contributor_collation_key": "ナガタミカコ/タヤミツヒロ",
             "imprint": "汐文社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8560/9784811328560.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784811328560.jpg"
+        },
+        {
+            "isbn": "9784757439320",
+            "title": "キャラクターと学ぶ　リアル日本語会話",
+            "title_collation_key": "キャラクタートマナブ リアルニホンゴカイワ",
+            "contributor": "山本 弘子/松尾 恵美",
+            "contributor_collation_key": "ヤマモト ヒロコ/マツオ エミ",
+            "imprint": "株式会社アルク",
+            "main_cover": ""
         },
         {
             "isbn": "9784657210135",
@@ -282,16 +282,7 @@
             "contributor": "菅田 茂昭",
             "contributor_collation_key": "スゲタ シゲアキ",
             "imprint": "早稲田大学出版部",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0135/9784657210135.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784907422448",
-            "title": "新・ゴロゴ漢文問題集　共通テスト編",
-            "title_collation_key": "シンゴロゴカンブンモンダイシュウ　キョウツウテストヘン",
-            "contributor": "ゴロゴネット編集部",
-            "contributor_collation_key": "ゴロゴネットヘンシュウブ",
-            "imprint": "スタディカンパニー",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2448/9784907422448_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784657210135.jpg"
         },
         {
             "isbn": "9784907422431",
@@ -300,7 +291,16 @@
             "contributor": "ゴロゴネット編集部",
             "contributor_collation_key": "ゴロゴネットヘンシュウブ",
             "imprint": "スタディカンパニー",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2431/9784907422431_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784907422431.jpg"
+        },
+        {
+            "isbn": "9784907422448",
+            "title": "新・ゴロゴ漢文問題集　共通テスト編",
+            "title_collation_key": "シンゴロゴカンブンモンダイシュウ　キョウツウテストヘン",
+            "contributor": "ゴロゴネット編集部",
+            "contributor_collation_key": "ゴロゴネットヘンシュウブ",
+            "imprint": "スタディカンパニー",
+            "main_cover": "https://cover.openbd.jp/9784907422448.jpg"
         },
         {
             "isbn": "9784758912181",
@@ -309,7 +309,7 @@
             "contributor": "千葉 修司",
             "contributor_collation_key": "チバ シュウジ",
             "imprint": "開拓社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2181/9784758912181_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784758912181.jpg"
         },
         {
             "isbn": "9784864541701",
@@ -318,7 +318,7 @@
             "contributor": "李 軼倫",
             "contributor_collation_key": "リ イツリン",
             "imprint": "コスモピア",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1701/9784864541701_1_56.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784864541701.jpg"
         },
         {
             "isbn": "9784808602727",
@@ -327,16 +327,7 @@
             "contributor": "マリ・ガボリオ/小石　悟",
             "contributor_collation_key": "ガボリオ，M．（マリ）/コイシ　サトル",
             "imprint": "第三書房",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2727/9784808602727_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784295406082",
-            "title": "美しい文学を読んで英文法を学ぶ",
-            "title_collation_key": "ウツクシイブンガクヲヨンデエイブンポウヲマナブ",
-            "contributor": "杉山　靖明",
-            "contributor_collation_key": "スギヤマヤスアキ",
-            "imprint": "クロスメディア・ランゲージ",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6082/9784295406082_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784808602727.jpg"
         },
         {
             "isbn": "9784863925359",
@@ -345,7 +336,16 @@
             "contributor": "植田 一三/上田敏子",
             "contributor_collation_key": "ウエダイチゾウ/ウエダトシコ",
             "imprint": "Jリサーチ出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5359/9784863925359_1_43.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784863925359.jpg"
+        },
+        {
+            "isbn": "9784295406082",
+            "title": "美しい文学を読んで英文法を学ぶ",
+            "title_collation_key": "ウツクシイブンガクヲヨンデエイブンポウヲマナブ",
+            "contributor": "杉山　靖明",
+            "contributor_collation_key": "スギヤマヤスアキ",
+            "imprint": "クロスメディア・ランゲージ",
+            "main_cover": ""
         },
         {
             "isbn": "9784860646622",
@@ -354,16 +354,7 @@
             "contributor": "難波江 ティチャー",
             "contributor_collation_key": "ナバエ ティチャー",
             "imprint": "ベレ出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6622/9784860646622_1_5.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784262169859",
-            "title": "＃（ハッシュタグ）で覚える韓国語　単語＆フレーズ集",
-            "title_collation_key": "ハッシュタグデオボエルカンコクゴタンゴアンドフレーズシュウ",
-            "contributor": "柳 志英/金 信英",
-            "contributor_collation_key": "リュウ ジヨン/キム シンヨン",
-            "imprint": "池田書店",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9859/9784262169859_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784860646622.jpg"
         },
         {
             "isbn": "9784876153732",
@@ -372,7 +363,7 @@
             "contributor": "浅見　子緒",
             "contributor_collation_key": "アサミシオ",
             "imprint": "語研",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3732/9784876153732.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784876153732.jpg"
         },
         {
             "isbn": "9784053043900",
@@ -381,16 +372,16 @@
             "contributor": "山田 雄一郎/学研編集部",
             "contributor_collation_key": "ヤマダ ユウイチロウ/ガッケンヘンシュウブ",
             "imprint": "学研プラス",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3900/9784053043900_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784053043900.jpg"
         },
         {
-            "isbn": "9784023333680",
-            "title": "ひらがなで覚えるハングルノート",
-            "title_collation_key": "ヒラガナデオボエルハングルノート",
-            "contributor": "金孝珍",
-            "contributor_collation_key": "キムヒョジン",
-            "imprint": "朝日新聞出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3680/9784023333680_1_7.jpg?_ex=200x200"
+            "isbn": "9784262169859",
+            "title": "＃（ハッシュタグ）で覚える韓国語　単語＆フレーズ集",
+            "title_collation_key": "ハッシュタグデオボエルカンコクゴタンゴアンドフレーズシュウ",
+            "contributor": "柳 志英/金 信英",
+            "contributor_collation_key": "リュウ ジヨン/キム シンヨン",
+            "imprint": "池田書店",
+            "main_cover": ""
         },
         {
             "isbn": "9784342011573",
@@ -399,7 +390,16 @@
             "contributor": "桐原書店編集部",
             "contributor_collation_key": "キリハラショテンヘンシュウブ",
             "imprint": "桐原書店",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1573/9784342011573_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784342011573.jpg"
+        },
+        {
+            "isbn": "9784023333680",
+            "title": "ひらがなで覚えるハングルノート",
+            "title_collation_key": "ヒラガナデオボエルハングルノート",
+            "contributor": "金孝珍",
+            "contributor_collation_key": "キムヒョジン",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://cover.openbd.jp/9784023333680.jpg"
         },
         {
             "isbn": "9784585380023",
@@ -408,7 +408,7 @@
             "contributor": "伊藤孝行",
             "contributor_collation_key": "イトウタカユキ",
             "imprint": "勉誠出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0023/9784585380023_1_3.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784816370991",
@@ -417,7 +417,7 @@
             "contributor": "金 孝珍",
             "contributor_collation_key": "キムヒョジン",
             "imprint": "ナツメ社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0991/9784816370991_1_3.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784560089187",
@@ -426,7 +426,7 @@
             "contributor": "若狭　基道",
             "contributor_collation_key": "ワカサ　モトミチ",
             "imprint": "白水社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9187/9784560089187_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784560089187.jpg"
         },
         {
             "isbn": "9784560089170",
@@ -435,7 +435,7 @@
             "contributor": "桑野　隆",
             "contributor_collation_key": "クワノ　タカシ",
             "imprint": "白水社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9170/9784560089170_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784560089170.jpg"
         },
         {
             "isbn": "9784794606822",
@@ -444,7 +444,7 @@
             "contributor": "アラン・ムーア",
             "contributor_collation_key": "アランムーア",
             "imprint": "IBCパブリッシング",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6822/9784794606822_1_3.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784794606846",
@@ -453,7 +453,7 @@
             "contributor": "小林佳代",
             "contributor_collation_key": "コバヤシカヨ",
             "imprint": "IBCパブリッシング",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6846/9784794606846_1_3.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784887246546",
@@ -462,16 +462,7 @@
             "contributor": "長尾和夫",
             "contributor_collation_key": "ナガオカズオ",
             "imprint": "ディーエイチシー",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6546/9784887246546_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784143312961",
-            "title": "NHK　CD　ラジオ　まいにちフランス語　2021年11月号",
-            "title_collation_key": "エヌエイチケイシーディーラジオマイニチフランスゴ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2961/9784143312961_1_3.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784143302962",
@@ -480,7 +471,7 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2962/9784143302962_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143302962.jpg"
         },
         {
             "isbn": "9784594089115",
@@ -489,7 +480,16 @@
             "contributor": "ヨンシル",
             "contributor_collation_key": "ヨンシル",
             "imprint": "扶桑社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9115/9784594089115_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784594089115.jpg"
+        },
+        {
+            "isbn": "9784143312961",
+            "title": "NHK　CD　ラジオ　まいにちフランス語　2021年11月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオマイニチフランスゴ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784143312961.jpg"
         },
         {
             "isbn": "9784816370922",
@@ -498,7 +498,7 @@
             "contributor": "小川こころ",
             "contributor_collation_key": "オガワココロ",
             "imprint": "ナツメ社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0922/9784816370922_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784816370922.jpg"
         },
         {
             "isbn": "9784794606839",
@@ -507,16 +507,7 @@
             "contributor": "安辰明",
             "contributor_collation_key": "アンシンメイ",
             "imprint": "IBCパブリッシング",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6839/9784794606839_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784143352967",
-            "title": "NHK　CD　ラジオ　まいにちスペイン語　2021年11月号",
-            "title_collation_key": "エヌエイチケイシーディーラジオマイニチスペインゴ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2967/9784143352967_1_3.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784143342968",
@@ -525,16 +516,7 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2968/9784143342968_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784143332969",
-            "title": "NHK　CD　ラジオ　まいにちハングル講座　2021年11月号",
-            "title_collation_key": "エヌエイチケイシーディーラジオマイニチハングルコウザ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2969/9784143332969_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143342968.jpg"
         },
         {
             "isbn": "9784143322960",
@@ -543,7 +525,16 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2960/9784143322960_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143322960.jpg"
+        },
+        {
+            "isbn": "9784143352967",
+            "title": "NHK　CD　ラジオ　まいにちスペイン語　2021年11月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオマイニチスペインゴ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784143352967.jpg"
         },
         {
             "isbn": "9784143362966",
@@ -552,7 +543,16 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2966/9784143362966_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143362966.jpg"
+        },
+        {
+            "isbn": "9784143332969",
+            "title": "NHK　CD　ラジオ　まいにちハングル講座　2021年11月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオマイニチハングルコウザ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784143332969.jpg"
         },
         {
             "isbn": "9784798065854",
@@ -561,7 +561,7 @@
             "contributor": "イム・ジョンデ",
             "contributor_collation_key": "イムジョンデ",
             "imprint": "秀和システム",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5854/9784798065854_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784798065854.jpg"
         },
         {
             "isbn": "9784492047019",
@@ -570,16 +570,7 @@
             "contributor": "樋口 裕一/大原 理志",
             "contributor_collation_key": "ヒグチ ユウイチ/オオハラ マサシ",
             "imprint": "東洋経済新報社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7019/9784492047019_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784862281173",
-            "title": "英文法の正体",
-            "title_collation_key": "エイブンポウノショウタイ",
-            "contributor": "濱田 英人",
-            "contributor_collation_key": "ハマダヒデト",
-            "imprint": "青灯社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1173/9784862281173_1_60.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784492047019.jpg"
         },
         {
             "isbn": "9784411005571",
@@ -588,16 +579,16 @@
             "contributor": "久松 健一",
             "contributor_collation_key": "ヒサマツ ケンイチ",
             "imprint": "駿河台出版社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5571/9784411005571_1_30.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784411005571.jpg"
         },
         {
-            "isbn": "9784143252960",
-            "title": "NHK　CD　ラジオ　英会話タイムトライアル　2021年11月号",
-            "title_collation_key": "エヌエイチケイシーディーラジオエイカイワタイムトライアル",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2960/9784143252960_1_3.jpg?_ex=200x200"
+            "isbn": "9784862281173",
+            "title": "英文法の正体",
+            "title_collation_key": "エイブンポウノショウタイ",
+            "contributor": "濱田 英人",
+            "contributor_collation_key": "ハマダヒデト",
+            "imprint": "青灯社",
+            "main_cover": "https://cover.openbd.jp/9784862281173.jpg"
         },
         {
             "isbn": "9784053054173",
@@ -606,16 +597,16 @@
             "contributor": "河守 晃芳",
             "contributor_collation_key": "カワモリ アキヨシ",
             "imprint": "学研プラス",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4173/9784053054173_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784053054173.jpg"
         },
         {
-            "isbn": "9784010777329",
-            "title": "旺文社図解全訳古語辞典",
-            "title_collation_key": "オウブンシャズカイゼンヤクコゴジテン",
-            "contributor": "宮腰賢/石井正己",
-            "contributor_collation_key": "ミヤコシマサル/イシイマサミ",
-            "imprint": "旺文社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7329/9784010777329_1_68.jpg?_ex=200x200"
+            "isbn": "9784143252960",
+            "title": "NHK　CD　ラジオ　英会話タイムトライアル　2021年11月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオエイカイワタイムトライアル",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784143252960.jpg"
         },
         {
             "isbn": "9784883198887",
@@ -624,16 +615,7 @@
             "contributor": "瀬川由美/紙谷幸子",
             "contributor_collation_key": "セガワユミ/カミヤサチコ",
             "imprint": "スリーエーネットワーク",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8887/9784883198887_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784143242961",
-            "title": "NHK　CD　ラジオ　ラジオビジネス英語　2021年11月号",
-            "title_collation_key": "エヌエイチケイシーディーラジオラジオビジネスエイゴ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2961/9784143242961_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784883198887.jpg"
         },
         {
             "isbn": "9784143232962",
@@ -642,16 +624,25 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2962/9784143232962_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143232962.jpg"
         },
         {
-            "isbn": "9784578221050",
-            "title": "短文で覚える中学英単語1900",
-            "title_collation_key": "タンブンデオボエルチュウガクエイタンゴ センキュウヒャク",
-            "contributor": "組田 幸一郎",
-            "contributor_collation_key": "クミタ コウイチロウ",
-            "imprint": "文英堂",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1050/9784578221050_1_2.jpg?_ex=200x200"
+            "isbn": "9784010777329",
+            "title": "旺文社図解全訳古語辞典",
+            "title_collation_key": "オウブンシャズカイゼンヤクコゴジテン",
+            "contributor": "宮腰賢/石井正己",
+            "contributor_collation_key": "ミヤコシマサル/イシイマサミ",
+            "imprint": "旺文社",
+            "main_cover": "https://cover.openbd.jp/9784010777329.jpg"
+        },
+        {
+            "isbn": "9784143242961",
+            "title": "NHK　CD　ラジオ　ラジオビジネス英語　2021年11月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオラジオビジネスエイゴ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784143242961.jpg"
         },
         {
             "isbn": "9784578234500",
@@ -660,7 +651,16 @@
             "contributor": "文英堂編集部",
             "contributor_collation_key": "ブンエイドウヘンシュウブ",
             "imprint": "文英堂",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4500/9784578234500_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784578234500.jpg"
+        },
+        {
+            "isbn": "9784578221050",
+            "title": "短文で覚える中学英単語1900",
+            "title_collation_key": "タンブンデオボエルチュウガクエイタンゴ センキュウヒャク",
+            "contributor": "組田 幸一郎",
+            "contributor_collation_key": "クミタ コウイチロウ",
+            "imprint": "文英堂",
+            "main_cover": "https://cover.openbd.jp/9784578221050.jpg"
         },
         {
             "isbn": "9784426127428",
@@ -669,7 +669,7 @@
             "contributor": "吉野 周",
             "contributor_collation_key": "ヨシノ シュウ",
             "imprint": "自由国民社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7428/9784426127428_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784426127428.jpg"
         },
         {
             "isbn": "9784756921727",
@@ -678,16 +678,7 @@
             "contributor": "林松濤",
             "contributor_collation_key": "リンショウトウ",
             "imprint": "明日香出版社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1727/9784756921727_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784816370885",
-            "title": "オールカラー　基礎から学べる　はじめての中国語文法",
-            "title_collation_key": "オールカラーキソカラマナベルハジメテノチュウゴクゴブンポウ",
-            "contributor": "南雲大悟",
-            "contributor_collation_key": "ナグモダイゴ",
-            "imprint": "ナツメ社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0885/9784816370885_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784756921727.jpg"
         },
         {
             "isbn": "9784523266044",
@@ -696,7 +687,16 @@
             "contributor": "福田昇八/平川洌",
             "contributor_collation_key": "フクダショウハチ/ヒラカワキヨシ",
             "imprint": "南雲堂",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6044/9784523266044_1_3.jpg?_ex=200x200"
+            "main_cover": ""
+        },
+        {
+            "isbn": "9784816370885",
+            "title": "オールカラー　基礎から学べる　はじめての中国語文法",
+            "title_collation_key": "オールカラーキソカラマナベルハジメテノチュウゴクゴブンポウ",
+            "contributor": "南雲大悟",
+            "contributor_collation_key": "ナグモダイゴ",
+            "imprint": "ナツメ社",
+            "main_cover": "https://cover.openbd.jp/9784816370885.jpg"
         },
         {
             "isbn": "9784490109252",
@@ -705,7 +705,7 @@
             "contributor": "石黒　圭",
             "contributor_collation_key": "イシグロ　ケイ",
             "imprint": "東京堂出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9252/9784490109252_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784490109252.jpg"
         },
         {
             "isbn": "9784480510730",
@@ -714,7 +714,7 @@
             "contributor": "遠藤　嘉基/渡辺　実",
             "contributor_collation_key": "エンドウ　ヨシモト/ワタナベ　ミノル",
             "imprint": "筑摩書房",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0730/9784480510730_1_4.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784480510730.jpg"
         },
         {
             "isbn": "9784802210799",
@@ -723,7 +723,7 @@
             "contributor": "上田麻鈴",
             "contributor_collation_key": "",
             "imprint": "イカロス出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0799/9784802210799_1_3.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784053054296",
@@ -732,7 +732,7 @@
             "contributor": "HANA/学研プラス",
             "contributor_collation_key": "ハナ/ガッケンプラス",
             "imprint": "学研プラス",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4296/9784053054296_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784053054296.jpg"
         },
         {
             "isbn": "9784762950797",
@@ -741,16 +741,7 @@
             "contributor": "黄　興濤/孫　鹿",
             "contributor_collation_key": "コウ　コウトウ/ソン　ロク",
             "imprint": "汲古書院",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0797/9784762950797.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784866514314",
-            "title": "うんこドリル　カタカナプラス5・6さい",
-            "title_collation_key": "ウンコドリル　カタカナプラスゴロクサイ",
-            "contributor": "文響社",
-            "contributor_collation_key": "ブンキョウシャ",
-            "imprint": "文響社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4314/9784866514314_1_5.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784762950797.jpg"
         },
         {
             "isbn": "9784023319691",
@@ -759,7 +750,16 @@
             "contributor": "八島晶",
             "contributor_collation_key": "ヤジマアキラ",
             "imprint": "朝日新聞出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9691/9784023319691_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784023319691.jpg"
+        },
+        {
+            "isbn": "9784866514314",
+            "title": "うんこドリル　カタカナプラス5・6さい",
+            "title_collation_key": "ウンコドリル　カタカナプラスゴロクサイ",
+            "contributor": "文響社",
+            "contributor_collation_key": "ブンキョウシャ",
+            "imprint": "文響社",
+            "main_cover": "https://cover.openbd.jp/9784866514314.jpg"
         },
         {
             "isbn": "9784758923590",
@@ -768,16 +768,7 @@
             "contributor": "傅 建良",
             "contributor_collation_key": "フ ケンリョウ",
             "imprint": "開拓社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3590/9784758923590_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784894076136",
-            "title": "ビリーブ　未来への大逆転",
-            "title_collation_key": "ビリーブ　ミライヘノダイギャクテン",
-            "contributor": "子安惠子",
-            "contributor_collation_key": "コヤスケイコ",
-            "imprint": "フォーイン　スクリーンプレイ事業部",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6136/9784894076136_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784758923590.jpg"
         },
         {
             "isbn": "9784582646115",
@@ -786,16 +777,16 @@
             "contributor": "白川　静",
             "contributor_collation_key": "シラカワ　シズカ",
             "imprint": "平凡社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6115/9784582646115_1_4.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784582646115.jpg"
         },
         {
-            "isbn": "9784758910231",
-            "title": "現代高等英文法",
-            "title_collation_key": "ゲンダイコウトウエイブンポウ",
-            "contributor": "八木 克正",
-            "contributor_collation_key": "ヤギ カツマサ",
-            "imprint": "開拓社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0231/9784758910231_1_3.jpg?_ex=200x200"
+            "isbn": "9784894076136",
+            "title": "ビリーブ　未来への大逆転",
+            "title_collation_key": "ビリーブ　ミライヘノダイギャクテン",
+            "contributor": "子安惠子",
+            "contributor_collation_key": "コヤスケイコ",
+            "imprint": "フォーイン　スクリーンプレイ事業部",
+            "main_cover": "https://cover.openbd.jp/9784894076136.jpg"
         },
         {
             "isbn": "9784798065847",
@@ -804,7 +795,16 @@
             "contributor": "イム・ジョンデ",
             "contributor_collation_key": "イムジョンデ",
             "imprint": "秀和システム",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5847/9784798065847_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784798065847.jpg"
+        },
+        {
+            "isbn": "9784758910231",
+            "title": "現代高等英文法",
+            "title_collation_key": "ゲンダイコウトウエイブンポウ",
+            "contributor": "八木 克正",
+            "contributor_collation_key": "ヤギ カツマサ",
+            "imprint": "開拓社",
+            "main_cover": "https://cover.openbd.jp/9784758910231.jpg"
         },
         {
             "isbn": "9784864541688",
@@ -813,7 +813,7 @@
             "contributor": "田中 茂範",
             "contributor_collation_key": "タナカ シゲノリ",
             "imprint": "コスモピア",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1688/9784864541688_1_10.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784864541688.jpg"
         },
         {
             "isbn": "9784910292014",
@@ -822,7 +822,7 @@
             "contributor": "岸本秀樹",
             "contributor_collation_key": "キシモト,ヒデキ",
             "imprint": "教養検定会議",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2014/9784910292014_1_3.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784324110607",
@@ -831,7 +831,7 @@
             "contributor": "文化庁国語課",
             "contributor_collation_key": "ブンカチョウ コクゴカ",
             "imprint": "ぎょうせい",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0607/9784324110607_1_3.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784860155599",
@@ -840,7 +840,7 @@
             "contributor": "啓明館/さなる教材研究室",
             "contributor_collation_key": "ケイメイカン/サナルキョウザイケンキュウシツ",
             "imprint": "みらい",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5599/9784860155599_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784860155599.jpg"
         },
         {
             "isbn": "9784903738482",
@@ -849,7 +849,7 @@
             "contributor": "里中哲彦",
             "contributor_collation_key": "サトナカ,テツヒコ",
             "imprint": "プレイス",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8482/9784903738482_1_2.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784910003245",
@@ -858,34 +858,7 @@
             "contributor": "一宅仁",
             "contributor_collation_key": "ヒヤケ,ヒトシ",
             "imprint": "英文研出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3245/9784910003245_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784910292007",
-            "title": "じっとしていない語彙",
-            "title_collation_key": "ジットシテイナイ ゴイ",
-            "contributor": "西山國雄",
-            "contributor_collation_key": "ニシヤマ,クニオ",
-            "imprint": "教養検定会議",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2007/9784910292007_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784838607600",
-            "title": "名目鈔声点本の研究",
-            "title_collation_key": "ミョウモク ショウショウ テンボン ノ ケンキュウ",
-            "contributor": "上野和昭",
-            "contributor_collation_key": "ウエノ,カズアキ",
-            "imprint": "武蔵野書院",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7600/9784838607600_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784811313191",
-            "title": "きちんと伝わる手紙の書きかた（全3巻セット）",
-            "title_collation_key": "キチン ト ツタワル テガミ ノ カキカタ ゼン サンカン セット",
-            "contributor": "手紙の書きかた研究会",
-            "contributor_collation_key": "テガミ ノ カキカタ ケンキュウカイ",
-            "imprint": "汐文社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3191/9784811313191_1_2.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784480910950",
@@ -894,7 +867,16 @@
             "contributor": "安藤宏/井島正博",
             "contributor_collation_key": "アンドウ,ヒロシ/イジマ,マサヒロ",
             "imprint": "筑摩書房",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0950/9784480910950_1_2.jpg?_ex=200x200"
+            "main_cover": ""
+        },
+        {
+            "isbn": "9784811313191",
+            "title": "きちんと伝わる手紙の書きかた（全3巻セット）",
+            "title_collation_key": "キチン ト ツタワル テガミ ノ カキカタ ゼン サンカン セット",
+            "contributor": "手紙の書きかた研究会",
+            "contributor_collation_key": "テガミ ノ カキカタ ケンキュウカイ",
+            "imprint": "汐文社",
+            "main_cover": ""
         },
         {
             "isbn": "9784384059632",
@@ -903,7 +885,7 @@
             "contributor": "アークアカデミー",
             "contributor_collation_key": "アークアカデミー",
             "imprint": "三修社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9632/9784384059632_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784384059632.jpg"
         },
         {
             "isbn": "9784864701600",
@@ -912,16 +894,25 @@
             "contributor": "出口汪",
             "contributor_collation_key": "デグチヒロシ",
             "imprint": "水王舎",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1600/9784864701600_1_4.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784864701600.jpg"
         },
         {
-            "isbn": "9784910265094",
-            "title": "TOEIC　L＆Rテスト詳説英文法",
-            "title_collation_key": "トーイック エル アンド アール テスト ショウセツ エイブンポウ",
-            "contributor": "濱崎潤之輔",
-            "contributor_collation_key": "ハマサキ,ジュンノスケ",
-            "imprint": "オープンゲート",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5094/9784910265094_1_2.jpg?_ex=200x200"
+            "isbn": "9784910292007",
+            "title": "じっとしていない語彙",
+            "title_collation_key": "ジットシテイナイ ゴイ",
+            "contributor": "西山國雄",
+            "contributor_collation_key": "ニシヤマ,クニオ",
+            "imprint": "教養検定会議",
+            "main_cover": ""
+        },
+        {
+            "isbn": "9784838607600",
+            "title": "名目鈔声点本の研究",
+            "title_collation_key": "ミョウモク ショウショウ テンボン ノ ケンキュウ",
+            "contributor": "上野和昭",
+            "contributor_collation_key": "ウエノ,カズアキ",
+            "imprint": "武蔵野書院",
+            "main_cover": ""
         },
         {
             "isbn": "9784065248133",
@@ -930,7 +921,7 @@
             "contributor": "山下 まさよ",
             "contributor_collation_key": "ヤマシタ マサヨ",
             "imprint": "講談社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8133/9784065248133.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784065248133.jpg"
         },
         {
             "isbn": "9784904235447",
@@ -939,7 +930,16 @@
             "contributor": "福田尚弘",
             "contributor_collation_key": "フクダ,ナオヒロ",
             "imprint": "アーバン",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5447/9784904235447_1_2.jpg?_ex=200x200"
+            "main_cover": ""
+        },
+        {
+            "isbn": "9784910265094",
+            "title": "TOEIC　L＆Rテスト詳説英文法",
+            "title_collation_key": "トーイック エル アンド アール テスト ショウセツ エイブンポウ",
+            "contributor": "濱崎潤之輔",
+            "contributor_collation_key": "ハマサキ,ジュンノスケ",
+            "imprint": "オープンゲート",
+            "main_cover": ""
         },
         {
             "isbn": "9784874248683",
@@ -948,7 +948,7 @@
             "contributor": "角田 太作",
             "contributor_collation_key": "ツノダ タサク",
             "imprint": "くろしお出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8683/9784874248683_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784874248683.jpg"
         },
         {
             "isbn": "9784890858774",
@@ -957,7 +957,7 @@
             "contributor": "輿水淳一",
             "contributor_collation_key": "コシミズジュンイチ",
             "imprint": "ナガセ",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8774/9784890858774_1_6.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784890858774.jpg"
         },
         {
             "isbn": "9784890858798",
@@ -966,7 +966,7 @@
             "contributor": "寺師貴憲",
             "contributor_collation_key": "テラシタカノリ",
             "imprint": "ナガセ",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8798/9784890858798_1_6.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784890858798.jpg"
         },
         {
             "isbn": "9784890858781",
@@ -975,7 +975,7 @@
             "contributor": "栗原隆",
             "contributor_collation_key": "クリハラタカシ",
             "imprint": "ナガセ",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8781/9784890858781_1_6.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784890858781.jpg"
         },
         {
             "isbn": "9784874248690",
@@ -984,7 +984,7 @@
             "contributor": "碓井 智子/田村 幸誠",
             "contributor_collation_key": "ウスイ トモコ/タムラ ユキシゲ",
             "imprint": "くろしお出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8690/9784874248690_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784874248690.jpg"
         },
         {
             "isbn": "9784863331686",
@@ -993,7 +993,7 @@
             "contributor": "辻千春",
             "contributor_collation_key": "ツジチハル",
             "imprint": "あるむ",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1686/9784863331686.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784863331686.jpg"
         },
         {
             "isbn": "9784478111086",
@@ -1002,7 +1002,7 @@
             "contributor": "田口　まこ",
             "contributor_collation_key": "タグチ　マコ",
             "imprint": "ダイヤモンド社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1086/9784478111086_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784478111086.jpg"
         },
         {
             "isbn": "9784909025739",
@@ -1011,7 +1011,7 @@
             "contributor": "行知学園",
             "contributor_collation_key": "コウチガクエン",
             "imprint": "行知学園",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5739/9784909025739.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784909025739.jpg"
         },
         {
             "isbn": "9784341132682",
@@ -1020,7 +1020,7 @@
             "contributor": "長島康二",
             "contributor_collation_key": "ナガシマコウジ",
             "imprint": "ごま書房新社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2682/9784341132682_1_6.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784341132682.jpg"
         },
         {
             "isbn": "9784046050205",
@@ -1029,7 +1029,7 @@
             "contributor": "竹内　健/モゲラッタ",
             "contributor_collation_key": "タケウチ　ケン/モゲラッタ",
             "imprint": "KADOKAWA",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0205/9784046050205_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784046050205.jpg"
         },
         {
             "isbn": "9784883198962",
@@ -1038,7 +1038,7 @@
             "contributor": "白崎佐夜子",
             "contributor_collation_key": "シラサキサヨコ",
             "imprint": "スリーエーネットワーク",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8962/9784883198962.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784883198962.jpg"
         },
         {
             "isbn": "9784864701624",
@@ -1047,7 +1047,7 @@
             "contributor": "安武内　ひろし",
             "contributor_collation_key": "アブナイ　ヒロシ",
             "imprint": "水王舎",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1624/9784864701624_1_4.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784864701624.jpg"
         },
         {
             "isbn": "9784864701501",
@@ -1056,16 +1056,7 @@
             "contributor": "出口汪",
             "contributor_collation_key": "デグチヒロシ",
             "imprint": "水王舎",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1501/9784864701501_1_4.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784046050083",
-            "title": "改訂版　ゼッタイわかる　中1英語",
-            "title_collation_key": "カイテイバン　ゼッタイワカル　チュウイチエイゴ",
-            "contributor": "竹内　健/モゲラッタ",
-            "contributor_collation_key": "タケウチ　ケン/モゲラッタ",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0083/9784046050083_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784864701501.jpg"
         },
         {
             "isbn": "9784046050137",
@@ -1074,7 +1065,16 @@
             "contributor": "竹内　健/モゲラッタ",
             "contributor_collation_key": "タケウチ　ケン/モゲラッタ",
             "imprint": "KADOKAWA",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0137/9784046050137_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784046050137.jpg"
+        },
+        {
+            "isbn": "9784046050083",
+            "title": "改訂版　ゼッタイわかる　中1英語",
+            "title_collation_key": "カイテイバン　ゼッタイワカル　チュウイチエイゴ",
+            "contributor": "竹内　健/モゲラッタ",
+            "contributor_collation_key": "タケウチ　ケン/モゲラッタ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784046050083.jpg"
         },
         {
             "isbn": "9784327764944",
@@ -1083,7 +1083,7 @@
             "contributor": "富岡 龍明",
             "contributor_collation_key": "トミオカ タツアキ",
             "imprint": "研究社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4944/9784327764944_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784327764944.jpg"
         },
         {
             "isbn": "9784327411053",
@@ -1092,7 +1092,7 @@
             "contributor": "亘理 陽一/草薙 邦広",
             "contributor_collation_key": "ワタリ ヨウイチ/クサナギ クニヒロ",
             "imprint": "研究社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1053/9784327411053_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784327411053.jpg"
         },
         {
             "isbn": "9784805112380",
@@ -1101,16 +1101,7 @@
             "contributor": "西沢　佑",
             "contributor_collation_key": "ニシザワユウ",
             "imprint": "千倉書房",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2380/9784805112380_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784789017947",
-            "title": "ゼロからのTOEIC(R) L&Rテスト リーディング講義",
-            "title_collation_key": "ゼロカラノトーイックエルアンドアールリーディングコウギ",
-            "contributor": "和久健司",
-            "contributor_collation_key": "ワクケンジ",
-            "imprint": "ジャパンタイムズ出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7947/9784789017947_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784805112380.jpg"
         },
         {
             "isbn": "9784582769227",
@@ -1119,16 +1110,16 @@
             "contributor": "野間　秀樹",
             "contributor_collation_key": "ノマ　ヒデキ",
             "imprint": "平凡社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9227/9784582769227_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784582769227.jpg"
         },
         {
-            "isbn": "9784796114578",
-            "title": "現代文読解標準ドリル",
-            "title_collation_key": "ゲンダイブンドッカイヒョウジュンドリル",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "駿台文庫",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4578/9784796114578_1_3.jpg?_ex=200x200"
+            "isbn": "9784789017947",
+            "title": "ゼロからのTOEIC(R) L&Rテスト リーディング講義",
+            "title_collation_key": "ゼロカラノトーイックエルアンドアールリーディングコウギ",
+            "contributor": "和久健司",
+            "contributor_collation_key": "ワクケンジ",
+            "imprint": "ジャパンタイムズ出版",
+            "main_cover": "https://cover.openbd.jp/9784789017947.jpg"
         },
         {
             "isbn": "9784761275686",
@@ -1137,7 +1128,16 @@
             "contributor": "甲斐　ナオミ",
             "contributor_collation_key": "カイ　ナオミ",
             "imprint": "かんき出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5686/9784761275686_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784761275686.jpg"
+        },
+        {
+            "isbn": "9784796114578",
+            "title": "現代文読解標準ドリル",
+            "title_collation_key": "ゲンダイブンドッカイヒョウジュンドリル",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "駿台文庫",
+            "main_cover": ""
         },
         {
             "isbn": "9784860646677",
@@ -1146,7 +1146,7 @@
             "contributor": "植田 一三/由良 毅",
             "contributor_collation_key": "ウエダ イチゾウ/ユラ タケシ",
             "imprint": "ベレ出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6677/9784860646677_1_10.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784860646677.jpg"
         },
         {
             "isbn": "9784757439283",
@@ -1155,16 +1155,7 @@
             "contributor": "藤田百子/山田智久",
             "contributor_collation_key": "フジタモモコ/ヤマダトモヒサ",
             "imprint": "株式会社アルク",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9283/9784757439283_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784757439313",
-            "title": "日本語文法ブラッシュアップトレーニング",
-            "title_collation_key": "ニホンゴブンポウブラッシュアップトレーニング",
-            "contributor": "仲山淳子",
-            "contributor_collation_key": "ナカヤマジュンコ",
-            "imprint": "株式会社アルク",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9313/9784757439313_1_2.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784758923545",
@@ -1173,16 +1164,16 @@
             "contributor": "林 由華/衣畑 智秀",
             "contributor_collation_key": "ハヤシ ユカ/キヌハタ トモヒデ",
             "imprint": "開拓社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3545/9784758923545_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784758923545.jpg"
         },
         {
-            "isbn": "9784309300153",
-            "title": "アフターコロナに差をつける！　速読独習術",
-            "title_collation_key": "アフターコロナニサヲツケルソクドクドクシュウジュツ",
-            "contributor": "橘 遵",
-            "contributor_collation_key": "タチバナ　ジュン",
-            "imprint": "河出書房新社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0153/9784309300153_1_3.jpg?_ex=200x200"
+            "isbn": "9784757439313",
+            "title": "日本語文法ブラッシュアップトレーニング",
+            "title_collation_key": "ニホンゴブンポウブラッシュアップトレーニング",
+            "contributor": "仲山淳子",
+            "contributor_collation_key": "ナカヤマジュンコ",
+            "imprint": "株式会社アルク",
+            "main_cover": ""
         },
         {
             "isbn": "9784757439276",
@@ -1191,7 +1182,16 @@
             "contributor": "藤田百子/山田智久",
             "contributor_collation_key": "フジタモモコ/ヤマダトモヒサ",
             "imprint": "株式会社アルク",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9276/9784757439276_1_3.jpg?_ex=200x200"
+            "main_cover": ""
+        },
+        {
+            "isbn": "9784309300153",
+            "title": "アフターコロナに差をつける！　速読独習術",
+            "title_collation_key": "アフターコロナニサヲツケルソクドクドクシュウジュツ",
+            "contributor": "橘 遵",
+            "contributor_collation_key": "タチバナ　ジュン",
+            "imprint": "河出書房新社",
+            "main_cover": "https://cover.openbd.jp/9784309300153.jpg"
         },
         {
             "isbn": "9784757439290",
@@ -1200,7 +1200,7 @@
             "contributor": "望月 雅美/望月雅美",
             "contributor_collation_key": "モチヅキ マサミ/モチヅキマサミ",
             "imprint": "株式会社アルク",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9290/9784757439290_1_3.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784863468078",
@@ -1209,7 +1209,7 @@
             "contributor": "代々木ゼミナール",
             "contributor_collation_key": "ヨヨギゼミナール",
             "imprint": "代々木ライブラリー",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8078/9784863468078_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784863468078.jpg"
         },
         {
             "isbn": "9784004318972",
@@ -1218,7 +1218,7 @@
             "contributor": "黒木 登志夫",
             "contributor_collation_key": "クロキ トシオ",
             "imprint": "岩波書店",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8972/9784004318972_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784004318972.jpg"
         },
         {
             "isbn": "9784560089156",
@@ -1227,7 +1227,7 @@
             "contributor": "大西　光弘",
             "contributor_collation_key": "オオニシ　ミツヒロ",
             "imprint": "白水社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9156/9784560089156_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784560089156.jpg"
         },
         {
             "isbn": "9784010949962",
@@ -1236,7 +1236,7 @@
             "contributor": "濱崎潤之輔/大里秀介",
             "contributor_collation_key": "ハマサキジュンノスケ/オオサトシュウスケ",
             "imprint": "旺文社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9962/9784010949962.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784010949962.jpg"
         },
         {
             "isbn": "9784863468023",
@@ -1245,7 +1245,7 @@
             "contributor": "代々木ゼミナール",
             "contributor_collation_key": "ヨヨギゼミナール",
             "imprint": "代々木ライブラリー",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8023/9784863468023_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784863468023.jpg"
         },
         {
             "isbn": "9784863925298",
@@ -1254,7 +1254,7 @@
             "contributor": "CCアカデミー/大羽りん",
             "contributor_collation_key": "シーシーアカデミー/オオバ リン",
             "imprint": "Jリサーチ出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5298/9784863925298_1_47.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784863925298.jpg"
         },
         {
             "isbn": "9784010949979",
@@ -1263,7 +1263,7 @@
             "contributor": "濱崎潤之輔/大里秀介",
             "contributor_collation_key": "ハマサキジュンノスケ/オオサトシュウスケ",
             "imprint": "旺文社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9979/9784010949979.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784010949979.jpg"
         },
         {
             "isbn": "9784779515668",
@@ -1272,7 +1272,7 @@
             "contributor": "酒井　浩二",
             "contributor_collation_key": "サカイ　コウジ",
             "imprint": "ナカニシヤ出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5668/9784779515668_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784779515668.jpg"
         },
         {
             "isbn": "9784143342951",
@@ -1281,7 +1281,7 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2951/9784143342951_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143342951.jpg"
         },
         {
             "isbn": "9784142132874",
@@ -1290,7 +1290,7 @@
             "contributor": "長渡 洋一",
             "contributor_collation_key": "ナガト ヨウイチ",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2874/9784142132874_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784142132874.jpg"
         },
         {
             "isbn": "9784794606808",
@@ -1299,34 +1299,7 @@
             "contributor": "ルイス・キャロル",
             "contributor_collation_key": "ルイスキャロル",
             "imprint": "IBCパブリッシング",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6808/9784794606808_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784140351697",
-            "title": "NHK出版　音声DL BOOK　これからはじめる　ドイツ語入門",
-            "title_collation_key": "エヌエイチケイシュッパンオンセイディーエルブックコレカラハジメルドイツゴニュウモン",
-            "contributor": "高橋 亮介",
-            "contributor_collation_key": "タカハシ リョウスケ",
-            "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1697/9784140351697_1_4.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784143302955",
-            "title": "NHK　CD　ラジオ　まいにちドイツ語　2021年10月号",
-            "title_collation_key": "エヌエイチケイシーディーラジオマイニチドイツゴ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2955/9784143302955_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784143322953",
-            "title": "NHK　CD　ラジオ　まいにち中国語　2021年10月号",
-            "title_collation_key": "エヌエイチケイシーディーラジオマイニチチュウゴクゴ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2953/9784143322953_1_3.jpg?_ex=200x200"
+            "main_cover": ""
         },
         {
             "isbn": "9784140351703",
@@ -1335,43 +1308,34 @@
             "contributor": "大塚 陽子",
             "contributor_collation_key": "オオツカ ヨウコ",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1703/9784140351703_1_5.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784140351703.jpg"
         },
         {
-            "isbn": "9784794606815",
-            "title": "レ・ミゼラブル",
-            "title_collation_key": "レミゼラブル",
-            "contributor": "ヴィクトル・ユーゴー",
-            "contributor_collation_key": "ヴィクトルユーゴー",
-            "imprint": "IBCパブリッシング",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6815/9784794606815_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784909646460",
-            "title": "ピーター・バラカン式　英語発音ルール",
-            "title_collation_key": "ピーターバラカンシキエイゴハツオンルール",
-            "contributor": "ピーター・バラカン",
-            "contributor_collation_key": "ピーター バラカン",
-            "imprint": "駒草出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6460/9784909646460_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784143312954",
-            "title": "NHK　CD　ラジオ　まいにちフランス語　2021年10月号",
-            "title_collation_key": "エヌエイチケイシーディーラジオマイニチフランスゴ",
+            "isbn": "9784143302955",
+            "title": "NHK　CD　ラジオ　まいにちドイツ語　2021年10月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオマイニチドイツゴ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2954/9784143312954_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143302955.jpg"
         },
         {
-            "isbn": "9784143312954",
-            "title": "NHK　CD　ラジオ　まいにちフランス語　2021年10月号",
-            "title_collation_key": "エヌエイチケイシーディーラジオマイニチフランスゴ",
+            "isbn": "9784140351697",
+            "title": "NHK出版　音声DL BOOK　これからはじめる　ドイツ語入門",
+            "title_collation_key": "エヌエイチケイシュッパンオンセイディーエルブックコレカラハジメルドイツゴニュウモン",
+            "contributor": "高橋 亮介",
+            "contributor_collation_key": "タカハシ リョウスケ",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784140351697.jpg"
+        },
+        {
+            "isbn": "9784143322953",
+            "title": "NHK　CD　ラジオ　まいにち中国語　2021年10月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオマイニチチュウゴクゴ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2954/9784143312954_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143322953.jpg"
         },
         {
             "isbn": "9784143332952",
@@ -1380,7 +1344,7 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2952/9784143332952_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143332952.jpg"
         },
         {
             "isbn": "9784143362959",
@@ -1389,7 +1353,34 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2959/9784143362959_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143362959.jpg"
+        },
+        {
+            "isbn": "9784143352950",
+            "title": "NHK　CD　ラジオ　まいにちスペイン語　2021年10月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオマイニチスペインゴ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784143352950.jpg"
+        },
+        {
+            "isbn": "9784143362959",
+            "title": "NHK　CD　ラジオ　まいにちイタリア語　2021年10月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオマイニチイタリアゴ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784143362959.jpg"
+        },
+        {
+            "isbn": "9784143312954",
+            "title": "NHK　CD　ラジオ　まいにちフランス語　2021年10月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオマイニチフランスゴ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784143312954.jpg"
         },
         {
             "isbn": "9784046048752",
@@ -1398,16 +1389,16 @@
             "contributor": "hime",
             "contributor_collation_key": "ヒメ",
             "imprint": "KADOKAWA",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8752/9784046048752_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784046048752.jpg"
         },
         {
-            "isbn": "9784046051899",
-            "title": "改訂版　大学入学共通テスト　国語［古文・漢文］予想問題集",
-            "title_collation_key": "カイテイバン　ダイガクニュウガクキョウツウテスト　コクゴコブンカンブンヨソウモンダイシュウ",
-            "contributor": "矢野　雅子",
-            "contributor_collation_key": "ヤノ　マサコ",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1899/9784046051899_1_3.jpg?_ex=200x200"
+            "isbn": "9784909646460",
+            "title": "ピーター・バラカン式　英語発音ルール",
+            "title_collation_key": "ピーターバラカンシキエイゴハツオンルール",
+            "contributor": "ピーター・バラカン",
+            "contributor_collation_key": "ピーター バラカン",
+            "imprint": "駒草出版",
+            "main_cover": "https://cover.openbd.jp/9784909646460.jpg"
         },
         {
             "isbn": "9784778035709",
@@ -1416,7 +1407,16 @@
             "contributor": "立石美津子",
             "contributor_collation_key": "タテイシミツコ",
             "imprint": "小学館クリエイティブ",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5709/9784778035709_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784778035709.jpg"
+        },
+        {
+            "isbn": "9784046051899",
+            "title": "改訂版　大学入学共通テスト　国語［古文・漢文］予想問題集",
+            "title_collation_key": "カイテイバン　ダイガクニュウガクキョウツウテスト　コクゴコブンカンブンヨソウモンダイシュウ",
+            "contributor": "矢野　雅子",
+            "contributor_collation_key": "ヤノ　マサコ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784046051899.jpg"
         },
         {
             "isbn": "9784342353628",
@@ -1425,7 +1425,7 @@
             "contributor": "桐原書店編集部",
             "contributor_collation_key": "キリハラショテンヘンシュウブ",
             "imprint": "桐原書店",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3628/9784342353628_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784342353628.jpg"
         },
         {
             "isbn": "9784823410208",
@@ -1434,16 +1434,7 @@
             "contributor": "金澤　俊吾/柳　朋宏",
             "contributor_collation_key": "カナザワ　シュンゴ/ヤナギ　トモヒロ",
             "imprint": "ひつじ書房",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0208/9784823410208_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784811328515",
-            "title": "3季節と行事の手紙",
-            "title_collation_key": "サンキセツトギョウジノテガミ",
-            "contributor": "手紙の書きかた研究会",
-            "contributor_collation_key": "テガミノカキカタケンキュウカイ",
-            "imprint": "汐文社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8515/9784811328515_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784823410208.jpg"
         },
         {
             "isbn": "9784560089149",
@@ -1452,7 +1443,16 @@
             "contributor": "金　京子/河村　光雅",
             "contributor_collation_key": "キム　キョンジャ/カワムラ　ミツマサ",
             "imprint": "白水社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9149/9784560089149_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784560089149.jpg"
+        },
+        {
+            "isbn": "9784811328515",
+            "title": "3季節と行事の手紙",
+            "title_collation_key": "サンキセツトギョウジノテガミ",
+            "contributor": "手紙の書きかた研究会",
+            "contributor_collation_key": "テガミノカキカタケンキュウカイ",
+            "imprint": "汐文社",
+            "main_cover": "https://cover.openbd.jp/9784811328515.jpg"
         },
         {
             "isbn": "9784578231561",
@@ -1461,7 +1461,7 @@
             "contributor": "文英堂編集部",
             "contributor_collation_key": "ブンエイドウヘンシュウブ",
             "imprint": "文英堂",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1561/9784578231561_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784578231561.jpg"
         },
         {
             "isbn": "9784065257333",
@@ -1470,7 +1470,7 @@
             "contributor": "中山 裕木子",
             "contributor_collation_key": "ナカヤマ ユキコ",
             "imprint": "講談社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7333/9784065257333_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784065257333.jpg"
         },
         {
             "isbn": "9784832934153",
@@ -1479,7 +1479,7 @@
             "contributor": "金昌震/韓然善",
             "contributor_collation_key": "キムチャンジン/ハンヨンソン",
             "imprint": "北海道大学出版会",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4153/9784832934153_1_17.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784832934153.jpg"
         },
         {
             "isbn": "9784578221333",
@@ -1488,61 +1488,7 @@
             "contributor": "杉山　一志",
             "contributor_collation_key": "スギヤマ カズシ",
             "imprint": "文英堂",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1333/9784578221333_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784907422455",
-            "title": "新・ゴロゴ現代文　基礎〜必修編",
-            "title_collation_key": "シンゴロゴゲンダイブン　キソヒッシュウヘン",
-            "contributor": "ゴロゴネット編集部",
-            "contributor_collation_key": "ゴロゴネットヘンシュウブ",
-            "imprint": "スタディカンパニー",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2455/9784907422455_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784143632953",
-            "title": "NHK語学テキスト　音声ダウンロードチケット　2021年秋号",
-            "title_collation_key": "エヌエイチケイゴガクテキストオンセイダウンロードチケット",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2953/9784143632953_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784143242954",
-            "title": "NHK　CD　ラジオ　ラジオビジネス英語　2021年10月号",
-            "title_collation_key": "エヌエイチケイシーディーラジオラジオビジネスエイゴ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2954/9784143242954_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784295406075",
-            "title": "韓国語学習ジャーナルhana　Vol．　41",
-            "title_collation_key": "カンコクゴガクシュウジャーナルハナボリュームヨンジュウイチ",
-            "contributor": "hana編集部",
-            "contributor_collation_key": "ハナヘンシュウブ",
-            "imprint": "HANA",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6075/9784295406075_1_2.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784907422462",
-            "title": "新・ゴロゴ現代文　共通テスト編",
-            "title_collation_key": "シンゴロゴゲンダイブン　キョウツウテストヘン",
-            "contributor": "ゴロゴネット編集部",
-            "contributor_collation_key": "ゴロゴネットヘンシュウブ",
-            "imprint": "スタディカンパニー",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2462/9784907422462_1_3.jpg?_ex=200x200"
-        },
-        {
-            "isbn": "9784295406068",
-            "title": "1日たったの4ページ！　やさしい初級韓国語",
-            "title_collation_key": "イチニチタッタノヨンページ　ヤサシイショキュウカンコクゴ",
-            "contributor": "秋山卓澄",
-            "contributor_collation_key": "アキヤマタクミ",
-            "imprint": "HANA",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6068/9784295406068_1_2.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784578221333.jpg"
         },
         {
             "isbn": "9784143642952",
@@ -1551,43 +1497,79 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2952/9784143642952_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143642952.jpg"
         },
         {
-            "isbn": "9784384060126",
-            "title": "HSK6級作文問題 最短制覇",
-            "title_collation_key": "エイチエスケーロッキュウサクブンモンダイサイタンセイハ",
-            "contributor": "鄭 麗傑/劉 悦",
-            "contributor_collation_key": "ジェン リージェ/リョウ ユェ",
-            "imprint": "三修社",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0126/9784384060126_1_3.jpg?_ex=200x200"
+            "isbn": "9784907422455",
+            "title": "新・ゴロゴ現代文　基礎〜必修編",
+            "title_collation_key": "シンゴロゴゲンダイブン　キソヒッシュウヘン",
+            "contributor": "ゴロゴネット編集部",
+            "contributor_collation_key": "ゴロゴネットヘンシュウブ",
+            "imprint": "スタディカンパニー",
+            "main_cover": "https://cover.openbd.jp/9784907422455.jpg"
         },
         {
-            "isbn": "9784899824121",
-            "title": "佐良浜方言語彙辞典",
-            "title_collation_key": "サラハマホウゲンゴイジテン",
-            "contributor": "上地徳男",
-            "contributor_collation_key": "ウエチノリオ",
-            "imprint": "ボーダーインク",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4121/9784899824121.gif?_ex=200x200"
-        },
-        {
-            "isbn": "9784899824121",
-            "title": "佐良浜方言語彙辞典",
-            "title_collation_key": "サラハマホウゲンゴイジテン",
-            "contributor": "上地徳男",
-            "contributor_collation_key": "ウエチノリオ",
-            "imprint": "ボーダーインク",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4121/9784899824121.gif?_ex=200x200"
-        },
-        {
-            "isbn": "9784143232955",
-            "title": "NHK　CD　ラジオ　ラジオ英会話　2021年10月号",
-            "title_collation_key": "エヌエイチケイシーディーラジオラジオエイカイワ",
+            "isbn": "9784143242954",
+            "title": "NHK　CD　ラジオ　ラジオビジネス英語　2021年10月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオラジオビジネスエイゴ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2955/9784143232955_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143242954.jpg"
+        },
+        {
+            "isbn": "9784907422462",
+            "title": "新・ゴロゴ現代文　共通テスト編",
+            "title_collation_key": "シンゴロゴゲンダイブン　キョウツウテストヘン",
+            "contributor": "ゴロゴネット編集部",
+            "contributor_collation_key": "ゴロゴネットヘンシュウブ",
+            "imprint": "スタディカンパニー",
+            "main_cover": "https://cover.openbd.jp/9784907422462.jpg"
+        },
+        {
+            "isbn": "9784295406075",
+            "title": "韓国語学習ジャーナルhana　Vol．　41",
+            "title_collation_key": "カンコクゴガクシュウジャーナルハナボリュームヨンジュウイチ",
+            "contributor": "hana編集部",
+            "contributor_collation_key": "ハナヘンシュウブ",
+            "imprint": "HANA",
+            "main_cover": ""
+        },
+        {
+            "isbn": "9784143632953",
+            "title": "NHK語学テキスト　音声ダウンロードチケット　2021年秋号",
+            "title_collation_key": "エヌエイチケイゴガクテキストオンセイダウンロードチケット",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784143632953.jpg"
+        },
+        {
+            "isbn": "9784295406068",
+            "title": "1日たったの4ページ！　やさしい初級韓国語",
+            "title_collation_key": "イチニチタッタノヨンページ　ヤサシイショキュウカンコクゴ",
+            "contributor": "秋山卓澄",
+            "contributor_collation_key": "アキヤマタクミ",
+            "imprint": "HANA",
+            "main_cover": ""
+        },
+        {
+            "isbn": "9784899824121",
+            "title": "佐良浜方言語彙辞典",
+            "title_collation_key": "サラハマホウゲンゴイジテン",
+            "contributor": "上地徳男",
+            "contributor_collation_key": "ウエチノリオ",
+            "imprint": "ボーダーインク",
+            "main_cover": ""
+        },
+        {
+            "isbn": "9784469213874",
+            "title": "［例解］日本語の多義語研究",
+            "title_collation_key": "レイカイニホンゴノタギゴケンキュウ",
+            "contributor": "籾山洋介",
+            "contributor_collation_key": "モミヤマヨウスケ",
+            "imprint": "大修館書店",
+            "main_cover": "https://cover.openbd.jp/9784469213874.jpg"
         },
         {
             "isbn": "9784143252953",
@@ -1596,7 +1578,25 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "NHK出版",
-            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2953/9784143252953_1_3.jpg?_ex=200x200"
+            "main_cover": "https://cover.openbd.jp/9784143252953.jpg"
+        },
+        {
+            "isbn": "9784384060119",
+            "title": "HSK5級作文問題 最短制覇",
+            "title_collation_key": "エイチエスケーゴキュウサクブンモンダイサイタンセイハ",
+            "contributor": "鄭 麗傑/張 麗梅",
+            "contributor_collation_key": "ジェン リージェ/ジャン リーメイ",
+            "imprint": "三修社",
+            "main_cover": ""
+        },
+        {
+            "isbn": "9784143232955",
+            "title": "NHK　CD　ラジオ　ラジオ英会話　2021年10月号",
+            "title_collation_key": "エヌエイチケイシーディーラジオラジオエイカイワ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784143232955.jpg"
         }
     ]
 }
