@@ -1,1604 +1,1602 @@
-[
-    {
-        "shelf_title": "パソコン・システム開発/インターネット・WEBデザイン",
-        "category": "インターネット・WEBデザイン",
-        "back_cover_images": [
-            "back_cover_image/0050_1.png",
-            "back_cover_image/0050_2.png",
-            "back_cover_image/0050_3.png",
-            "back_cover_image/0050_4.png"
-        ],
-        "back_cover_low_images": [
-            "back_cover_low_image/0050_1_low.png",
-            "back_cover_low_image/0050_2_low.png",
-            "back_cover_low_image/0050_3_low.png",
-            "back_cover_low_image/0050_4_low.png"
-        ],
-        "books": [
-            {
-                "isbn": "9784798064635",
-                "title": "図解入門 よくわかる 最新 情報セキュリティの技術と対策",
-                "title_collation_key": "ズカイニュウモンヨクワカルサイシンジョウホウセキュリティノギジュツトタイサク",
-                "contributor": "若狭直道",
-                "contributor_collation_key": "ワカサナオミチ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4635/9784798064635_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295600183",
-                "title": "【POD】やわらかYARA入門",
-                "title_collation_key": "ヤワラカヤラニュウモン",
-                "contributor": "柏原 幸隆",
-                "contributor_collation_key": "カシハラ ユキタカ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0183/9784295600183.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866905990",
-                "title": "60歳から始めるSNSの教科書",
-                "title_collation_key": "ロクジュッサイ カラ ハジメル エスエヌエス ノ キョウカショ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "マイウェイ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5990/9784866905990_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844379898",
-                "title": "【POD】猫でもわかるPlayFab 自動化編",
-                "title_collation_key": "ネコデモワカルプレイファブジドウカヘン",
-                "contributor": "ねこじょーかー",
-                "contributor_collation_key": "ネコジョーカー",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9898/9784844379898.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839977115",
-                "title": "作って学ぶ　HTML＆CSSモダンコーディング",
-                "title_collation_key": "ツクッテマナブ　エイチティーエムエルシーエスエス　モダンコーディング",
-                "contributor": "エビスコム",
-                "contributor_collation_key": "エビスコム",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7115/9784839977115_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798065335",
-                "title": "TypeScriptハンズオン",
-                "title_collation_key": "タイプスクリプトハンズオン",
-                "contributor": "掌田津耶乃",
-                "contributor_collation_key": "ショウダツヤノ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5335/9784798065335_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839976002",
-                "title": "テンプレートですぐできる　すぐに身につく！　HTML＆CSS",
-                "title_collation_key": "テンプレートデスグデキル　スグニミニツクレル　エイチティーエムエルアンドシーエスエス",
-                "contributor": "ガタガタ",
-                "contributor_collation_key": "ガタガタ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6002/9784839976002_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784815609610",
-                "title": "いちばんよくわかるWebデザインの基本きちんと入門［第2版］",
-                "title_collation_key": "イチバンヨクワカルウェブデザインノキホンキチントニュウモンダイニハン",
-                "contributor": "伊藤 庄平/益子 貴寛",
-                "contributor_collation_key": "イトウショウヘイ/マシコタカヒロ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9610/9784815609610_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784802613231",
-                "title": "動くWebデザインアイディア帳 実践編",
-                "title_collation_key": "ウゴクウェブデザインアイディアチョウ ジッセンヘン",
-                "contributor": "久保田 涼子/杉山 彰啓",
-                "contributor_collation_key": "クボタ リョウコ/スギヤマ アキヒロ",
-                "imprint": "ソシム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3231/9784802613231_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784877838096",
-                "title": "留学生のためのHTML5＆CSS3ドリルブック",
-                "title_collation_key": "リュウガクセイ ノ タメノ エイチティーエムエル ファイブ アンド シーエスエス ス",
-                "contributor": "相澤裕介",
-                "contributor_collation_key": "アイザワ,ユウスケ",
-                "imprint": "カットシステム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8096/9784877838096_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784877838485",
-                "title": "HTML5＆CSS3ドリルブック",
-                "title_collation_key": "エイチティーエムエル ファイブ アンド シーエスエス スリー ドリル ブック",
-                "contributor": "相澤裕介",
-                "contributor_collation_key": "アイザワ,ユウスケ",
-                "imprint": "カットシステム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8485/9784877838485_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297121938",
-                "title": "教科書では教えてくれないHTML&CSS",
-                "title_collation_key": "キョウカショデハオシエテクレナイエイチティーエムエルアンドシーエスエス",
-                "contributor": "狩野祐東",
-                "contributor_collation_key": "カノウスケハル",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1938/9784297121938_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798064741",
-                "title": "詳解！ Google Apps Script完全入門 ［第3版］",
-                "title_collation_key": "ショウカイグーグルアップススクリプトカンゼンニュウモンダイサンパン",
-                "contributor": "高橋宣成",
-                "contributor_collation_key": "タカハシノリアキ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4741/9784798064741_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299015983",
-                "title": "SNSの「わからない!」をスッキリ解決する本",
-                "title_collation_key": "セスエヌエスノワカラナイヲスッキリカイケツスルホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5983/9784299015983.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844379546",
-                "title": "【POD】React & Gatsby開発入門",
-                "title_collation_key": "リアクトアンドギャッツビーカイハツニュウモン",
-                "contributor": "竹本 雄貴",
-                "contributor_collation_key": "タケモト ユウキ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9546/9784844379546.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844379249",
-                "title": "【POD】AWSを好きになる本　ゼロから始めるクラウドジャーニー",
-                "title_collation_key": "エーダブリューエスヲスキニナルホンゼロカラハジメルクラウドジャーニー",
-                "contributor": "天野 盛介",
-                "contributor_collation_key": "アマノ セイスケ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9249/9784844379249.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839975357",
-                "title": "豊富な作例で学ぶ　Adobe XD Webデザイン入門",
-                "title_collation_key": "ホウフナサクレイデマナブ　アドビエックスディーウェブデザインニュウモン",
-                "contributor": "池原　健治/井斉　花織",
-                "contributor_collation_key": "イケハラケンジ/イサイカオリ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5357/9784839975357.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784764906280",
-                "title": "4つの言語で解ける　実践プログラミング問題集",
-                "title_collation_key": "ヨッツノゲンゴデトケルジッセンプログラミングモンダイシュウ",
-                "contributor": "渡部有隆/西舘陽平",
-                "contributor_collation_key": "ワタノベユタカ/ニシダテヨウヘイ",
-                "imprint": "近代科学社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6280/9784764906280.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784802612289",
-                "title": "動くWebデザインアイディア帳",
-                "title_collation_key": "ウゴクウェブデザインアイディアチョウ",
-                "contributor": "久保田涼子/杉山彰啓",
-                "contributor_collation_key": "クボタリョウコ/スギヤマアキヒロ",
-                "imprint": "ソシム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2289/9784802612289.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299013804",
-                "title": "よくわかる! ウィンドウズ10入門",
-                "title_collation_key": "ヨクワカルウィンドウズテンニュウモン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3804/9784299013804.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784815607630",
-                "title": "JavaScript[完全]入門",
-                "title_collation_key": "ジャバスクリプトカンゼンニュウモン",
-                "contributor": "柳井政和",
-                "contributor_collation_key": "ヤナイマサカズ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7630/9784815607630.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798167060",
-                "title": "Java 第3版 入門編 ゼロからはじめるプログラミング",
-                "title_collation_key": "ジャバ ダイサンハン ニュウモンヘン ゼロカラハジメルプログラミング",
-                "contributor": "三谷 純",
-                "contributor_collation_key": "ミタニ ジュン",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7060/9784798167060.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798167077",
-                "title": "Java 第3版 実践編 アプリケーション作りの基本",
-                "title_collation_key": "ジャバダイサンハン ジッセンヘン アプリケーションヅクリノキホン",
-                "contributor": "三谷 純",
-                "contributor_collation_key": "ミタニ ジュン",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7077/9784798167077.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798062846",
-                "title": "図解！　HTML&CSSのツボとコツがゼッタイにわかる本",
-                "title_collation_key": "ズカイ　エイチティーエムエル アンド シーエスエス ノツボトコツガゼッタイニワカルホン",
-                "contributor": "中田　亨",
-                "contributor_collation_key": "ナカタ　トオル",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2846/9784798062846.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784815606008",
-                "title": "新・明解Javaで学ぶアルゴリズムとデータ構造　第2版",
-                "title_collation_key": "シンメイカイジャバデマナブアルゴリズムトデータコウゾウダイニハン",
-                "contributor": "柴田 望洋",
-                "contributor_collation_key": "シバタ ボウヨウ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6008/9784815606008.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844379065",
-                "title": "【POD】AWSで学ぶクラウドネイティブ実践入門",
-                "title_collation_key": "エーダブリューエスデマナブクラウドネイティブジッセンニュウモン",
-                "contributor": "新井 雅也/馬勝 淳史",
-                "contributor_collation_key": "アライ マサヤ/ウマカツ アツシ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9065/9784844379065.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784873119236",
-                "title": "ハンズオンNode.js",
-                "title_collation_key": "ハンズオンノードジェイエス",
-                "contributor": "今村謙士",
-                "contributor_collation_key": "イマムラ ケンジ",
-                "imprint": "オライリー・ジャパン",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9236/9784873119236.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784873119229",
-                "title": "ハンズオンJavaScript",
-                "title_collation_key": "ハンズオンジャパスクリプト",
-                "contributor": "あんどうやすし",
-                "contributor_collation_key": "アンドウ ヤスシ",
-                "imprint": "オライリー・ジャパン",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9229/9784873119229.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784408339337",
-                "title": "21世紀最強の職業　Web系エンジニアになろう",
-                "title_collation_key": "ニジュウイッセイキサイキョウノショクギョウウェブケイエンジニアニナロウ",
-                "contributor": "勝又　健太",
-                "contributor_collation_key": "カツマタケンタ",
-                "imprint": "実業之日本社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9337/9784408339337.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839974596",
-                "title": "HTML5＆CSS3デザイン　現場の新標準ガイド【第2版】",
-                "title_collation_key": "エイチティーエムエルファイブ　アンド　シーエスエススリーデザイン　ゲンバノシンヒョウジュンガイド　ダイニハン",
-                "contributor": "エビスコム",
-                "contributor_collation_key": "エビスコム",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4596/9784839974596.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844379041",
-                "title": "【POD】JavaScriptでいきなり機械学習を遊び倒す本",
-                "title_collation_key": "ジャバスクリプトデイキナリキカイガクシュウヲアソビタオスホン",
-                "contributor": "まさとらん",
-                "contributor_collation_key": "マサトラン",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9041/9784844379041.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784800712653",
-                "title": "いちばんやさしい WordPress 入門教室",
-                "title_collation_key": "イチバンヤサシイ　ワードプレス　ニュウモンキョウシツ",
-                "contributor": "佐々木恵",
-                "contributor_collation_key": "ササキメグミ",
-                "imprint": "ソーテック社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2653/9784800712653.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295010050",
-                "title": "#ズボラPhotoshop 知識いらずの絶品3分デザイン",
-                "title_collation_key": "ハッシュタグズボラフォトショップチシキイラズノゼッピンサンプンデザイン",
-                "contributor": "トミナガハルキ",
-                "contributor_collation_key": "トミナガハルキ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0050/9784295010050.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784534058058",
-                "title": "読まれる・稼げる　ブログ術大全",
-                "title_collation_key": "ヨマレル・カセゲル ブログジュツタイゼン",
-                "contributor": "ヨス/染谷昌利",
-                "contributor_collation_key": "ヨス/ソメヤマサトシ",
-                "imprint": "日本実業出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8058/9784534058058.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378648",
-                "title": "【POD】個人開発サービス運営実践入門",
-                "title_collation_key": "コジンカイハツサービスウンエイジッセンニュウモン",
-                "contributor": "北浦 望",
-                "contributor_collation_key": "キタウラ ノゾミ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8648/9784844378648.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798062730",
-                "title": "ゼロから覚えるHTML&CSSの基本",
-                "title_collation_key": "ゼロカラオボエルエッチティーエムエルアンドシーエスエスノキホン",
-                "contributor": "吉岡豊",
-                "contributor_collation_key": "ヨシオカユタカ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2730/9784798062730.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784815606015",
-                "title": "新・明解Java入門　第2版",
-                "title_collation_key": "シンメイカイジャバニュウモン　ダイニハン",
-                "contributor": "柴田望洋",
-                "contributor_collation_key": "シバタボンヨウ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6015/9784815606015.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798062532",
-                "title": "はじめてのホームページ・ビルダー22",
-                "title_collation_key": "ハジメテノホームページビルダーニジュウニ",
-                "contributor": "桑名由美",
-                "contributor_collation_key": "クワナユミ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2532/9784798062532.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378747",
-                "title": "【POD】AWSを使って学ぶ監視設計",
-                "title_collation_key": "エーダブリューエスヲツカッテマナブカンシセッケイ",
-                "contributor": "佐藤 瞬",
-                "contributor_collation_key": "サトウ シュン",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8747/9784844378747.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378778",
-                "title": "【POD】React環境構築の教科書",
-                "title_collation_key": "リアクトカンキョウコウチクノキョウカショ",
-                "contributor": "井手 優太",
-                "contributor_collation_key": "イデ ユウタ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8778/9784844378778.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297114848",
-                "title": "ゼロからわかる　Java超入門　[改訂3版]",
-                "title_collation_key": "ゼロカラワカルジャヴァチョウニュウモンカイテイサンハン",
-                "contributor": "佐々木整",
-                "contributor_collation_key": "ササキヒトシ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4848/9784297114848.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784877834906",
-                "title": "Java　GUIプログラミング",
-                "title_collation_key": "ジャバ ジーユーアイ プログラミング",
-                "contributor": "日向俊二",
-                "contributor_collation_key": "ヒュウガ,シュンジ",
-                "imprint": "カットシステム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4906/9784877834906.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839969301",
-                "title": "コンバージョンを上げるWebデザイン改善集",
-                "title_collation_key": "コンバージョンヲアゲルウェブデザインシュウ",
-                "contributor": "井水大輔/菊池達也",
-                "contributor_collation_key": "イミズダイスケ/キクチタツヤ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9301/9784839969301.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295008958",
-                "title": "徹底攻略Java SE Bronze問題集［1Z0-818］対応",
-                "title_collation_key": "テッテイコウリャクジャヴァエスイーブロンズモンダイシュウイチゼットゼロハチイチハチタイオウ",
-                "contributor": "志賀澄人/山岡敏夫",
-                "contributor_collation_key": "シガ,スミト/ヤマオカ,トシオ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8958/9784295008958.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378587",
-                "title": "【POD】レベルアップNode.js",
-                "title_collation_key": "レベルアップノードジェイエス",
-                "contributor": "佐々木 勝広",
-                "contributor_collation_key": "ササキ カツヒロ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8587/9784844378587.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378839",
-                "title": "【POD】JavaScriptCoreで遊ぼう",
-                "title_collation_key": "ジャバスクリプトコアデアソボウ",
-                "contributor": "熊谷 友宏",
-                "contributor_collation_key": "クマガイ トモヒロ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8839/9784844378839.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378785",
-                "title": "【POD】速習Azure Administrator",
-                "title_collation_key": "ソクシュウアジュールアドミニストレーター",
-                "contributor": "土田 晃令",
-                "contributor_collation_key": "ツチダ アキヨシ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8785/9784844378785.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784274225406",
-                "title": "Webデザインの現場で使えるVue.jsの教科書",
-                "title_collation_key": "ウェブデザインノゲンバデツカエルビュージェイエスノキョウカショ",
-                "contributor": "廣末 丈士/遠山 恭平",
-                "contributor_collation_key": "ヒロスエ タケシ/トオヤマ キョウヘイ",
-                "imprint": "オーム社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5406/9784274225406.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784877834807",
-                "title": "初心者でも今すぐ使える！Wixでホームページ制作（2020年版）",
-                "title_collation_key": "ショシンシャ デモ イマスグ ツカエル ウィックス デ ホームページ セイサク",
-                "contributor": "神戸洋平/柳澤輝",
-                "contributor_collation_key": "カンベ,ヨウヘイ/ヤナギサワ,アキラ",
-                "imprint": "カットシステム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4807/9784877834807.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839971069",
-                "title": "これからはじめる人のJavaScript/Vue.jsの教科書",
-                "title_collation_key": "コレカラハジメルヒトノジャバスクリプトビュージェイエスノキョウカショ",
-                "contributor": "たにぐちまこと",
-                "contributor_collation_key": "タニグチマコト",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1069/9784839971069.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297112516",
-                "title": "今すぐ使えるかんたんEx　HTML&CSS 逆引き事典",
-                "title_collation_key": "イマスグツカエルカンタンイーエックスエイチティーエムエルアンドシーエスエスギャクビキジテン",
-                "contributor": "大藤幹",
-                "contributor_collation_key": "オオフジミキ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2516/9784297112516.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378631",
-                "title": "【POD】もっと実践！サーバーサイドKotlin",
-                "title_collation_key": "モットジッセンサーバーサイドコトリン",
-                "contributor": "FORTE",
-                "contributor_collation_key": "フォルテ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8631/9784844378631.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784903281476",
-                "title": "脱！SNSのトラブル　＜増補版＞",
-                "title_collation_key": "ダツ スマホノトラブル ゾウホバン",
-                "contributor": "佐藤佳弘",
-                "contributor_collation_key": "サトウヨシヒロ",
-                "imprint": "武蔵野大学出版会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1476/9784903281476.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844369646",
-                "title": "JavaScript基礎入門",
-                "title_collation_key": "ジャバ スクリプト キソ ニュウモン",
-                "contributor": "西畑一馬/須郷晋也",
-                "contributor_collation_key": "ニシハタ,カズマ/スゴウ,シンヤ",
-                "imprint": "エムディエヌコーポレーション",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9646/9784844369646.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784877838416",
-                "title": "JavaScriptワークブック第3版",
-                "title_collation_key": "ジャバスクリプト ワークブック",
-                "contributor": "相澤裕介",
-                "contributor_collation_key": "アイザワ,ユウスケ",
-                "imprint": "カットシステム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8416/9784877838416.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784877838072",
-                "title": "留学生のためのJavaScriptワークブック",
-                "title_collation_key": "リュウガクセイ ノ タメノ ジャバスクリプト ワークブック",
-                "contributor": "相澤裕介",
-                "contributor_collation_key": "アイザワ,ユウスケ",
-                "imprint": "カットシステム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8072/9784877838072.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784886477361",
-                "title": "基礎から学ぶJava　〜基本文法からオブジェクト指向まで〜",
-                "title_collation_key": "キソカラマナブジャバキホンブンポウカラオブジェクトシコウマデ",
-                "contributor": "中島　省吾",
-                "contributor_collation_key": "ナカジマ　ショウゴ",
-                "imprint": "（株）エスシーシー（SCC)",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7361/9784886477361.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295008552",
-                "title": "スラスラ読めるJavaふりがなプログラミング",
-                "title_collation_key": "スラスラ ヨメル ジャバ フリガナ プログラミング",
-                "contributor": "谷本心/リブロワークス",
-                "contributor_collation_key": "タニモト,シン/リブロ ワークス",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8552/9784295008552.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844369714",
-                "title": "初心者からちゃんとしたプロになるHTML＋CSS標準入門",
-                "title_collation_key": "ショシンシャ カラ チャントシタ プロ ニ ナル エイチティーエムエル プラス シーエ",
-                "contributor": "おのれいこ/栗谷幸助",
-                "contributor_collation_key": "オノ,レイコ/クリヤ,コウスケ",
-                "imprint": "エムディエヌコーポレーション",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9714/9784844369714.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295008477",
-                "title": "新世代Javaプログラミングガイド",
-                "title_collation_key": "シンセダイ ジャバ プログラミング ガイド",
-                "contributor": "マラ・グプタ/柴田芳樹",
-                "contributor_collation_key": "グプタ,マラ/シバタ,ヨシキ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8477/9784295008477.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844369783",
-                "title": "Webディレクションの新・標準ルール改訂第2版",
-                "title_collation_key": "ウェブ ディレクション ノ シン ヒョウジュン ルール",
-                "contributor": "栄前田勝太郎/岸正也",
-                "contributor_collation_key": "エマエダ,カツタロウ/キシ,マサヤ",
-                "imprint": "エムディエヌコーポレーション",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9783/9784844369783.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378464",
-                "title": "【POD】Spinnaker入門",
-                "title_collation_key": "スピネーカーニュウモン",
-                "contributor": "大澤 秀一",
-                "contributor_collation_key": "オオサワ シュウイチ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8464/9784844378464.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378495",
-                "title": "【POD】はじめて学ぶバイナリ解析",
-                "title_collation_key": "ハジメテマナブバイナリカイセキ",
-                "contributor": "小林 佐保/岡田 怜士",
-                "contributor_collation_key": "コバヤシ サホ/オカダ サトシ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8495/9784844378495.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839970864",
-                "title": "作りながら学ぶWebプログラミング実践入門",
-                "title_collation_key": "ツクリナガラマナブウェブプログラミングジッセンニュウモン",
-                "contributor": "掌田津耶乃",
-                "contributor_collation_key": "ショウダツヤノ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0864/9784839970864.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784877838409",
-                "title": "HTML5＆CSS3ワークブック",
-                "title_collation_key": "エイチティーエムエル ゴ アンド シーエスエス サン ワークブック",
-                "contributor": "相澤裕介",
-                "contributor_collation_key": "アイザワ,ユウスケ",
-                "imprint": "カットシステム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8409/9784877838409.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784877838089",
-                "title": "留学生のためのHTML5＆CSS3ワークブック",
-                "title_collation_key": "リュウガクセイ ノ タメノ エイチティーエムエル ゴ アンド シーエスエス サン ワ",
-                "contributor": "相澤裕介",
-                "contributor_collation_key": "アイザワ,ユウスケ",
-                "imprint": "カットシステム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8089/9784877838089.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378396",
-                "title": "【POD】NuxtとGoではじめるWebアプリ開発",
-                "title_collation_key": "ナクストトゴーデハジメルウェブアプリカイハツ",
-                "contributor": "寺田 晃大",
-                "contributor_collation_key": "テラダ アキヒロ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8396/9784844378396.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295008071",
-                "title": "Instagramインスタグラム基本＋活用ワザ",
-                "title_collation_key": "インスタグラム インスタグラム キホン プラス カツヨウワザ",
-                "contributor": "田口和裕/いしたにまさき",
-                "contributor_collation_key": "タグチ,カズヒロ/イシタニ,マサキ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8071/9784295008071.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844369417",
-                "title": "あなうめ式Javaプログラミング超入門",
-                "title_collation_key": "アナウメシキ ジャバ プログラミング チョウ ニュウモン",
-                "contributor": "大津真/田中賢一郎",
-                "contributor_collation_key": "オオツ,マコト/タナカ,ケンイチロウ",
-                "imprint": "エムディエヌコーポレーション",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9417/9784844369417.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378372",
-                "title": "【POD】サイバーファースト 増補改訂版",
-                "title_collation_key": "サイバーファーストゾウホカイテイバン",
-                "contributor": "江崎 浩",
-                "contributor_collation_key": "エサキ ヒロシ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8372/9784844378372.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784886477347",
-                "title": "新しいJavaScriptの教科書",
-                "title_collation_key": "アタラシイジャバスクリプトノキョウカショ",
-                "contributor": "境　祐司",
-                "contributor_collation_key": "サカイ　ユウジ",
-                "imprint": "（株）エスシーシー（SCC)",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7347/9784886477347.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798057743",
-                "title": "新わかりやすいJava 入門編 第2版",
-                "title_collation_key": "シンワカリヤスイジャバ ニュウモンヘン ダイニハン",
-                "contributor": "川場隆",
-                "contributor_collation_key": "カワバタカシ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7743/9784798057743.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295007807",
-                "title": "スッキリわかるJava入門第3版",
-                "title_collation_key": "スッキリ ワカル ジャバ ニュウモン",
-                "contributor": "中山清喬/国本大悟",
-                "contributor_collation_key": "ナカヤマ,キヨタカ/クニモト,ダイゴ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7807/9784295007807.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784407347784",
-                "title": "30時間アカデミック JavaScript入門",
-                "title_collation_key": "サンジュウジカンアカデミック ジャバスクリプトニュウモン",
-                "contributor": "大川晃一/小澤慎太郎",
-                "contributor_collation_key": "オオカワコウイチ/オザワシンタロウ",
-                "imprint": "実教出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7784/9784407347784.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784407347814",
-                "title": "30時間でマスター Webデザイン 改訂版",
-                "title_collation_key": "サンジュウジカンデマスター ウェブデザイン カイテイバン",
-                "contributor": "影山明俊",
-                "contributor_collation_key": "カゲヤマアキトシ",
-                "imprint": "実教出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7814/9784407347814.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844398288",
-                "title": "【POD】0から始める！簡単！FreeNAS構築チュートリアル！",
-                "title_collation_key": "ゼロカラハジメルカンタンフリーナスコウチクチュートリアル",
-                "contributor": "仲亀 拓馬",
-                "contributor_collation_key": "ナカガメ タクマ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8288/9784844398288.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784781651187",
-                "title": "SNS変遷史",
-                "title_collation_key": "エスエヌエスヘンセンシ",
-                "contributor": "天野 彬",
-                "contributor_collation_key": "アマノアキラ",
-                "imprint": "イースト・プレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1187/9784781651187.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844368908",
-                "title": "初心者からちゃんとしたプロになるWebデザイン基礎入門",
-                "title_collation_key": "ショシンシャ カラ チャントシタ プロニ ナル ウェブ デザイン キソ ニュウモン",
-                "contributor": "栗谷幸助/おのれいこ",
-                "contributor_collation_key": "クリヤ,コウスケ/オノ,レイコ",
-                "imprint": "エムディエヌコーポレーション",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8908/9784844368908.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784339028980",
-                "title": "micro:bitで学ぶプログラミング",
-                "title_collation_key": "マイクロビットデマナブプログラミング",
-                "contributor": "高橋 参吉/喜家村 奨",
-                "contributor_collation_key": "タカハシ サンキチ/キヤムラ ススム",
-                "imprint": "コロナ社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8980/9784339028980.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784627851511",
-                "title": "Javaで入門　はじめてのプログラミング",
-                "title_collation_key": "ジャバデニュウモンハジメテノプログラミング",
-                "contributor": "飯塚 泰樹/大森 康朝",
-                "contributor_collation_key": "イイヅカ ヤスキ/オオモリ ヤストモ",
-                "imprint": "森北出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1511/9784627851511.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295007371",
-                "title": "WordPressホームページ入門基本＆活用マスターブック",
-                "title_collation_key": "ワードプレス ホームページ ニュウモン キホン アンド カツヨウ マスター ブ",
-                "contributor": "星野邦敏/相澤奏恵",
-                "contributor_collation_key": "ホシノ,クニトシ/アイザワ,カナエ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7371/9784295007371.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784764905979",
-                "title": "見ひらきで学べるJavaプログラミング",
-                "title_collation_key": "ミヒラキデマナベルジャバプログラミング",
-                "contributor": "古井 陽之助/神屋 郁子",
-                "contributor_collation_key": "フルイ ヨウノスケ/カミヤ ユウコ",
-                "imprint": "近代科学社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5979/9784764905979.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844396895",
-                "title": "【POD】ゼロから始めるNetlify",
-                "title_collation_key": "ゼロカラハジメルネットリファイ",
-                "contributor": "渡邊 達明/藤澤 伸",
-                "contributor_collation_key": "ワタナベ タツアキ/フジサワ シン",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6895/9784844396895.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784339028966",
-                "title": "Javaによるアルゴリズムとデータ構造の基礎",
-                "title_collation_key": "ジャバニヨルアルゴリズムトデータコウゾウノキソ",
-                "contributor": "永田 武",
-                "contributor_collation_key": "ナガタ タケシ",
-                "imprint": "コロナ社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8966/9784339028966.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295006275",
-                "title": "できるWordPress",
-                "title_collation_key": "デキル ワード プレス",
-                "contributor": "星野邦敏/相澤奏恵",
-                "contributor_collation_key": "ホシノ,クニトシ/アイザワ,カナエ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6275/9784295006275.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295006381",
-                "title": "これから学ぶHTML／CSS",
-                "title_collation_key": "コレカラ マナブ エイチティーエムエル シーエスエス",
-                "contributor": "齊藤新三/山田祥寛",
-                "contributor_collation_key": "サイトウ,シンゾウ/ヤマダ,ヨシヒロ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6381/9784295006381.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798151120",
-                "title": "独習Java 新版",
-                "title_collation_key": "ドクシュウジャバシンハン",
-                "contributor": "山田 祥寛",
-                "contributor_collation_key": "ヤマダ ヨシヒロ",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1120/9784798151120.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297105808",
-                "title": "HTMLコーダー＆ウェブ担当者のためのWebページ高速化超入門",
-                "title_collation_key": "エイチティエムエルコーダーアンドウェブタントウシャノタメノウェブページコウソクカチョウニュウモン",
-                "contributor": "佐藤あゆみ",
-                "contributor_collation_key": "サトウアユミ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5808/9784297105808.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784800712332",
-                "title": "いちばんやさしい Google アナリティクス 入門教室",
-                "title_collation_key": "イチバンヤサシイ　グーグル　アナリティクス　ミュウモンキョウシツ",
-                "contributor": "小川卓/工藤麻里",
-                "contributor_collation_key": "オガワタク/クドウマリ",
-                "imprint": "ソーテック社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2332/9784800712332.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798158440",
-                "title": "Java逆引きレシピ 第2版",
-                "title_collation_key": "ジャバギャクヒキレシピダイニハン",
-                "contributor": "竹添 直樹/高橋 和也",
-                "contributor_collation_key": "タケゾエ ナオキ/タカハシ カズヤ",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8440/9784798158440.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784800712356",
-                "title": "いちばんやさしい Vue.js 入門教室",
-                "title_collation_key": "イチバンヤサシイ　ビュージェイエス　ニュウモンキョウシツ",
-                "contributor": "大津真",
-                "contributor_collation_key": "オオツマコト",
-                "imprint": "ソーテック社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2356/9784800712356.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784847097799",
-                "title": "SNSをポジティヴに楽しむための30の習慣",
-                "title_collation_key": "エスエヌエス オ ポジティヴ ニ タノシム タメノ サンジュウ ノ シュウカン",
-                "contributor": "井上裕介",
-                "contributor_collation_key": "イノウエ,ユウスケ",
-                "imprint": "ヨシモトブックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7799/9784847097799.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784802612104",
-                "title": "フレキシブルボックスで作るHTML5　＆　CSS3レッスンブック",
-                "title_collation_key": "フレキシブル ボックス デ ツクル エイチティーエムエル ゴ アンド シーエスエ",
-                "contributor": "エビスコム",
-                "contributor_collation_key": "エビスコム",
-                "imprint": "ソシム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2104/9784802612104.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784905084334",
-                "title": "ビジネスを加速させる専門家ブログ制作・運用の教科書",
-                "title_collation_key": "ビジネス オ カソクサセル センモンカ ブログ セイサク ウンヨウ ノ キョウカシ",
-                "contributor": "落合正和",
-                "contributor_collation_key": "オチアイ,マサカズ",
-                "imprint": "つた書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4334/9784905084334.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784797398892",
-                "title": "1冊ですべて身につくHTML & CSSとWebデザイン入門講座",
-                "title_collation_key": "イッサツデスベテミニツクエイチティーエムエルアンドシーエスエストウェブデザインニュウモンコウザ",
-                "contributor": "Mana",
-                "contributor_collation_key": "マナ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8892/9784797398892.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295005926",
-                "title": "いちばんやさしいJavaScriptの教本第2版",
-                "title_collation_key": "イチバン ヤサシイ ジャバスクリプト ノ キョウホン",
-                "contributor": "岩田宇史",
-                "contributor_collation_key": "イワタ,タカフミ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5926/9784295005926.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784802612029",
-                "title": "HTML／CSSデザインTextBook",
-                "title_collation_key": "エイチティーエムエル シーエスエス デザイン テキスト ブック",
-                "contributor": "磯博/Glatch",
-                "contributor_collation_key": "イソ,ヒロシ/グラッチ",
-                "imprint": "ソシム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2029/9784802612029.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297103842",
-                "title": "大きな字でわかりやすいLINE入門",
-                "title_collation_key": "オオキナ ジ デ ワカリヤスイ ライン ニュウモン",
-                "contributor": "岩間麻帆",
-                "contributor_collation_key": "イワマ,マホ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3842/9784297103842.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784797397314",
-                "title": "レイアウト・デザインの教科書",
-                "title_collation_key": "レイアウトデザインノキョウカショ",
-                "contributor": "米倉 明男/生田 信一",
-                "contributor_collation_key": "ヨネクラ アキオ/イクタ シンイチ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7314/9784797397314.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844398882",
-                "title": "OD＞Chrome　Developer　Tools入門",
-                "title_collation_key": "オーディー クローム ディベロッパー ツールズ ニュウモン",
-                "contributor": "渋田美里",
-                "contributor_collation_key": "シブタ,ミサト",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8882/9784844398882.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297103682",
-                "title": "JavaScriptコードレシピ集",
-                "title_collation_key": "ジャバスクリプト コード レシピシュウ",
-                "contributor": "池田泰延/鹿野壮",
-                "contributor_collation_key": "イケダ,ヤスノブ/カノ,タケシ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3682/9784297103682.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784815600846",
-                "title": "やさしいJava 第7版",
-                "title_collation_key": "ヤサシイジャヴァダイナナハン",
-                "contributor": "高橋 麻奈",
-                "contributor_collation_key": "タカハシ マナ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0846/9784815600846.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297103569",
-                "title": "Adobe　XDプロトタイピング実践ガイド",
-                "title_collation_key": "アドビ エックスディー プロトタイピング ジッセン ガイド",
-                "contributor": "境祐司",
-                "contributor_collation_key": "サカイ,ユウジ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3569/9784297103569.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784802611893",
-                "title": "CSSグリッドで作るHTML5＆CSS3レッスンブック",
-                "title_collation_key": "シーエスエス グリッド デ ツクル エイチティーエムエル ファイブ アンド シー",
-                "contributor": "エビスコム",
-                "contributor_collation_key": "エビスコム",
-                "imprint": "ソシム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1893/9784802611893.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784800712271",
-                "title": "いちばんやさしい Java 入門教室",
-                "title_collation_key": "イチバンヤサシイ　ジャバ　ニュウモンキョウシツ",
-                "contributor": "廣瀬豪",
-                "contributor_collation_key": "ヒロセツヨシ",
-                "imprint": "ソーテック社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2271/9784800712271.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798156736",
-                "title": "スラスラわかるJava 第2版",
-                "title_collation_key": "スラスラワカルジャヴァダイニハン",
-                "contributor": "中垣 健志/林 満也",
-                "contributor_collation_key": "ナカガキ ケンジ/ハヤシ ミツヤ",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6736/9784798156736.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784800720634",
-                "title": "世界一やさしい ブログ×YouTubeの教科書 1年生",
-                "title_collation_key": "セカイイチヤサシイ　ブログ　ユーチューブノキョウカショ　イチネンセイ",
-                "contributor": "染谷昌利/木村博史",
-                "contributor_collation_key": "ソメヤマサトシ/キムラヒロフミ",
-                "imprint": "ソーテック社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0634/9784800720634.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839965471",
-                "title": "よくわかるHTML5+CSS3の教科書【第3版】",
-                "title_collation_key": "ヨクワカル　エイチティーエムエル　シーエスエス　ノ　キョウカショ",
-                "contributor": "大藤幹",
-                "contributor_collation_key": "オオフジミキ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5471/9784839965471.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297101244",
-                "title": "アメブロ基本＆便利技改訂2版",
-                "title_collation_key": "アメブロ キホン アンド ベンリワザ",
-                "contributor": "リンクアップ",
-                "contributor_collation_key": "リンク アップ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1244/9784297101244.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297101220",
-                "title": "本格学習Java入門改訂3版",
-                "title_collation_key": "ホンカク ガクシュウ ジャバ ニュウモン",
-                "contributor": "佐々木整",
-                "contributor_collation_key": "ササキ,ヒトシ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1220/9784297101220.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844398813",
-                "title": "OD＞GoとSAMで学ぶAWS　Lambda",
-                "title_collation_key": "オーディー ゴー ト サム デ マナブ エイダブリューエス ラムダ",
-                "contributor": "杉田寿憲",
-                "contributor_collation_key": "スギタ,トシノリ",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8813/9784844398813.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297101206",
-                "title": "インスタグラム超入門",
-                "title_collation_key": "インスタグラム チョウ ニュウモン",
-                "contributor": "リンクアップ",
-                "contributor_collation_key": "リンク アップ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1206/9784297101206.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297102395",
-                "title": "今すぐ使えるかんたんFacebookページ作成＆運営入門改訂2版",
-                "title_collation_key": "イマ スグ ツカエル カンタン フェイスブック ページ サクセイ アンド ウンエ",
-                "contributor": "リンクアップ/斎藤哲",
-                "contributor_collation_key": "リンク アップ/サイトウ,サトシ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2395/9784297102395.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784141992721",
-                "title": "すぐわかる！はじめてのSNS",
-                "title_collation_key": "スグ ワカル ハジメテ ノ エスエヌエス",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "NHK出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2721/9784141992721.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784802611886",
-                "title": "今日から使えるMacBook　Air＆Pro",
-                "title_collation_key": "キョウ カラ ツカエル マックブック エア アンド プロ",
-                "contributor": "小枝祐基",
-                "contributor_collation_key": "コエダ,ユウキ",
-                "imprint": "ソシム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1886/9784802611886.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297100780",
-                "title": "JavaエンジニアのためのEclipseパーフェクトガイド",
-                "title_collation_key": "ジャバ エンジニア ノ タメ ノ エクリプス パーフェクト ガイド",
-                "contributor": "横田一輝",
-                "contributor_collation_key": "ヨコタ,カズキ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0780/9784297100780.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798157573",
-                "title": "JavaScript逆引きレシピ 第2版",
-                "title_collation_key": "ジャバスクリプトギャクヒキレシピダイニハン",
-                "contributor": "山田 祥寛",
-                "contributor_collation_key": "ヤマダ ヨシヒロ",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7573/9784798157573.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297100919",
-                "title": "Vue．js入門",
-                "title_collation_key": "ビュー ジェイエス ニュウモン",
-                "contributor": "川口和也/喜多啓介",
-                "contributor_collation_key": "カワグチ,カズヤ/キタ,ケイスケ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0919/9784297100919.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844398448",
-                "title": "OD＞Amazon　Web　Servicesサーバーレスレシピ",
-                "title_collation_key": "オーディー アマゾン ウェブ サービシーズ サーバーレス レシピ",
-                "contributor": "矢田裕基/太田佳敬",
-                "contributor_collation_key": "ヤタ,ヒロキ/オオタ,ヨシアキ",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8448/9784844398448.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297100797",
-                "title": "知りたい配色デザイン",
-                "title_collation_key": "シリタイ ハイショク デザイン",
-                "contributor": "ARENSKI",
-                "contributor_collation_key": "アレンスキー",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0797/9784297100797.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784797395242",
-                "title": "本当によくわかるHTML＆CSSの教科書",
-                "title_collation_key": "ホントウニヨクワカルエイチティエルエムアンドシーエスエスノキョウカショ",
-                "contributor": "鈴木 介翔/金安 亮",
-                "contributor_collation_key": "スズキ カイト/カネヤス リョウ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5242/9784797395242.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784274222603",
-                "title": "Javaで学ぶ自然言語処理と機械学習",
-                "title_collation_key": "ジャバデマナブシゼンゲンゴショリトキカイガクシュウ",
-                "contributor": "杉本 徹/岩下志乃",
-                "contributor_collation_key": "スギモト トオル/イワシタ シノ",
-                "imprint": "株式会社オーム社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2603/9784274222603.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297100148",
-                "title": "これからはじめるWebデザインの本改訂2版",
-                "title_collation_key": "コレカラ ハジメル ウェブ デザイン ノ ホン",
-                "contributor": "ロクナナワークショップ",
-                "contributor_collation_key": "ロクナナ ワーク ショップ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0148/9784297100148.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297100339",
-                "title": "Docker／Kubernetes実践コンテナ開発入門",
-                "title_collation_key": "ドッカー クーベネティス ジッセン コンテナ カイハツ ニュウモン",
-                "contributor": "山田明憲",
-                "contributor_collation_key": "ヤマダ,アキノリ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0339/9784297100339.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774785356",
-                "title": "Creator　Channel（Vol．12）",
-                "title_collation_key": "クリエイター チャンネル",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "コスミック出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5356/9784774785356.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844398394",
-                "title": "OD＞WOWHoneypotの遊びかた",
-                "title_collation_key": "オーディー ダブリューオーダブリューハニーポット ノ アソビカタ",
-                "contributor": "森久和昭",
-                "contributor_collation_key": "モリヒサ,カズアキ",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8394/9784844398394.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784909659002",
-                "title": "SNSを超える「第4の居場所」",
-                "title_collation_key": "エスエヌエス オ コエル ダイヨン ノ イバショ",
-                "contributor": "岡田尚起/佐藤大輔",
-                "contributor_collation_key": "オカダ,ナオキ/サトウ,ダイスケ",
-                "imprint": "アンノーンブックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9002/9784909659002.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774199054",
-                "title": "基本情報技術者らくらく突破Java改訂3版",
-                "title_collation_key": "キホン ジョウホウ ギジュツシャ ラクラク トッパ ジャヴァ",
-                "contributor": "菊田英明/原修身",
-                "contributor_collation_key": "キクタ,ヒデアキ/ハラ,オサミ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9054/9784774199054.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844397373",
-                "title": "OD＞今、見直すHTML＆CSS改訂版",
-                "title_collation_key": "オーディー イマ ミナオス エイチティーエムエル アンド シーエスエス",
-                "contributor": "林拓也",
-                "contributor_collation_key": "ハヤシ,タクヤ",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7373/9784844397373.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774198446",
-                "title": "見た目にこだわるJimdo入門",
-                "title_collation_key": "ミタメ ニ コダワル ジンドゥー ニュウモン",
-                "contributor": "狩野さやか",
-                "contributor_collation_key": "カノウ,サヤカ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8446/9784774198446.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774199399",
-                "title": "知識ゼロからのJavaScript入門",
-                "title_collation_key": "チシキ ゼロ カラノ ジャバ スクリプト ニュウモン",
-                "contributor": "小笠原寛",
-                "contributor_collation_key": "オガサワラ,ヒロシ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9399/9784774199399.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774198118",
-                "title": "今すぐ使えるかんたんPLUS+　HTML5&CSS3　完全大事典",
-                "title_collation_key": "エイチティーエムエルファイブ アンド シーエスエススリー コンプリート ダイジテ",
-                "contributor": "中島真洋",
-                "contributor_collation_key": "ナカシマ,マサヒロ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8118/9784774198118.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774198866",
-                "title": "今すぐ使えるかんたんぜったいデキます！LINE超入門改訂2版",
-                "title_collation_key": "イマ スグ ツカエル カンタン ゼッタイ デキマス ライン チョウニュウモン",
-                "contributor": "井上香緒里",
-                "contributor_collation_key": "イノウエ,カオリ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8866/9784774198866.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295004097",
-                "title": "これから学ぶJavaScript",
-                "title_collation_key": "コレカラ マナブ ジャバスクリプト",
-                "contributor": "齊藤新三/山田祥寛",
-                "contributor_collation_key": "サイトウ,シンゾウ/ヤマダ,ヨシヒロ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4097/9784295004097.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844398349",
-                "title": "OD＞最新ブラウザ対応で気持ちよく書くCSSデザイン",
-                "title_collation_key": "オーディー サイシン ブラウザ タイオウ デ キモチヨク カク シーエスエス デ",
-                "contributor": "吉川雅彦",
-                "contributor_collation_key": "ヨシカワ,マサヒコ",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8349/9784844398349.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844398387",
-                "title": "OD＞誰でもつかえる！ウェブフォント実践マニュアル",
-                "title_collation_key": "オーディー ダレ デモ ツカエル ウェブ フォント ジッセン マニュアル",
-                "contributor": "大木尊紀",
-                "contributor_collation_key": "オオキ,タカノリ",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784774198385",
-                "title": "Adobe　XD　UIデザインとプロトタイプ制作の教科書",
-                "title_collation_key": "アドビ エックスディー ユーアイ デザイン ト プロトタイプ セイサク ノ",
-                "contributor": "北村崇",
-                "contributor_collation_key": "キタムラ,タカシ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8385/9784774198385.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295003854",
-                "title": "スラスラ読めるJavaScriptふりがなプログラミング",
-                "title_collation_key": "スラスラ ヨメル ジャバスクリプト フリガナ プログラミング",
-                "contributor": "及川卓也/リブロワークス",
-                "contributor_collation_key": "オイカワ,タクヤ/リブロ ワークス",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3854/9784295003854.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774196268",
-                "title": "書きながら覚えるHTML＆CSS入門ワークブック",
-                "title_collation_key": "カキナガラ オボエル エイチティーエムエル アンド シーエスエス ニュウモン ワーク",
-                "contributor": "さわだえり",
-                "contributor_collation_key": "サワダ,エリ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6268/9784774196268.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844398226",
-                "title": "OD＞JavaScript　AST入門",
-                "title_collation_key": "オーディー ジャバスクリプト エイエスティー ニュウモン",
-                "contributor": "佐々木俊介",
-                "contributor_collation_key": "ササキ,シュンスケ",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8226/9784844398226.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774197050",
-                "title": "Atomic　Design",
-                "title_collation_key": "アトミック デザイン",
-                "contributor": "五藤佑典",
-                "contributor_collation_key": "ゴトウ,ユウスケ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7050/9784774197050.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774197067",
-                "title": "はじめてのフロントエンド開発",
-                "title_collation_key": "ハジメテ ノ フロントエンド カイハツ",
-                "contributor": "原一浩/taisa",
-                "contributor_collation_key": "ハラ,カズヒロ/タイサ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7067/9784774197067.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784797393156",
-                "title": "スラスラわかるHTML＆CSSのきほん 第2版",
-                "title_collation_key": "スラスラワカルエイチティーエムエルアンドシーエスエスノキホンダイニハン",
-                "contributor": "狩野 祐東",
-                "contributor_collation_key": "カノウ スケハル",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3156/9784797393156.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784777520480",
-                "title": "はじめてのJavaフレームワーク",
-                "title_collation_key": "ハジメテ ノ ジャバ フレームワーク",
-                "contributor": "清水美樹",
-                "contributor_collation_key": "シミズ,ミキ",
-                "imprint": "工学社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0480/9784777520480.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844398264",
-                "title": "OD＞Hello！！　Vue．js",
-                "title_collation_key": "オーディー ハロー ヴュージェイエス",
-                "contributor": "那須理也",
-                "contributor_collation_key": "ナス,マサヤ",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8264/9784844398264.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774196510",
-                "title": "世界一わかりやすいconcrete5導入とサイト制作の教科書",
-                "title_collation_key": "セカイイチ ワカリヤスイ コンクリート ファイブ ドウニュウ ト サイト セイサク ノ",
-                "contributor": "庄司早香/菱川拓郎",
-                "contributor_collation_key": "ショウジ,ハヤカ/ヒシカワ,タクロウ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6510/9784774196510.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798043753",
-                "title": "新わかりやすいJava オブジェクト指向徹底解説",
-                "title_collation_key": "シンワカリヤスイジャバオブジェクトシコウテッテイカイセツ",
-                "contributor": "川場隆",
-                "contributor_collation_key": "カワバタカシ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3753/9784798043753.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784822253394",
-                "title": "いちばんやさしい60代からのFacebook",
-                "title_collation_key": "イチバンヤサシイロクジュウダイカラノフェイスブック",
-                "contributor": "柴田 和枝",
-                "contributor_collation_key": "シバタカズエ",
-                "imprint": "日経BP",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3394/9784822253394.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784413096928",
-                "title": "この一冊で面白いほど人が集まるSNS文章術",
-                "title_collation_key": "コノイッサツデオモシロイホドヒトガアツマルエスエヌエスブンショウジュツ",
-                "contributor": "前田めぐる",
-                "contributor_collation_key": "マエダメグル",
-                "imprint": "青春出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6928/9784413096928.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784764904958",
-                "title": "オブジェクト指向Javaプログラミング入門 第2版",
-                "title_collation_key": "オブジェクトシコウジャバプログラミングダイニハン",
-                "contributor": "樋口 昌宏/多田 昌裕",
-                "contributor_collation_key": "ヒグチ マサヒロ/タダ マサヒロ",
-                "imprint": "近代科学社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4958/9784764904958.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774196107",
-                "title": "HTML5＆CSS3ポケットリファレンス改訂新版",
-                "title_collation_key": "エイチティーエムエル ファイブ アンド シーエスエス スリー ポケット リファレンス",
-                "contributor": "森史憲/藤本壱",
-                "contributor_collation_key": "モリ,フミノリ/フジモト,ハジメ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6107/9784774196107.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784408337784",
-                "title": "「Java」最初の一歩",
-                "title_collation_key": "ジャバ サイショ ノ イッポ",
-                "contributor": "CAICA",
-                "contributor_collation_key": "カイカ",
-                "imprint": "実業之日本社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7784/9784408337784.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866730356",
-                "title": "Webデザインのロジック",
-                "title_collation_key": "ウェブ デザイン ノ ロジック",
-                "contributor": "フレア",
-                "contributor_collation_key": "フレア",
-                "imprint": "三才ブックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0356/9784866730356.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844367406",
-                "title": "Webポートフォリオ・デザインブック",
-                "title_collation_key": "ウェブ ポート フォリオ デザイン ブック",
-                "contributor": "小島幸代/草野恵子",
-                "contributor_collation_key": "コジマ,サチヨ/クサノ,ケイコ",
-                "imprint": "エムディエヌコーポレーション",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7406/9784844367406.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774196275",
-                "title": "今すぐ使えるかんたんぜったいデキます！ホームページ作成超入門",
-                "title_collation_key": "イマスグ ツカエル カンタン ゼッタイ デキマス ホームページ サクセイ チョウ",
-                "contributor": "岩間麻帆",
-                "contributor_collation_key": "イワマ,マホ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6275/9784774196275.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774195773",
-                "title": "ゼロからはじめるインスタグラムInstagram",
-                "title_collation_key": "ゼロ カラ ハジメル インスタグラム インスタグラム",
-                "contributor": "リンクアップ",
-                "contributor_collation_key": "リンク アップ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5773/9784774195773.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784802611343",
-                "title": "HTML5＆CSS3ステップアップブック",
-                "title_collation_key": "エイチティーエムエル ファイブ アンド シーエスエス スリー ステップ アップ フ",
-                "contributor": "エビスコム",
-                "contributor_collation_key": "エビスコム",
-                "imprint": "ソシム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1343/9784802611343.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774195537",
-                "title": "HTML＆CSSの基礎知識",
-                "title_collation_key": "エイチティーエムエル アンド シーエスエス ノ キソ チシキ",
-                "contributor": "中田亨/羽田野太巳",
-                "contributor_collation_key": "ナカタ,トオル/ハタノ,フトミ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5537/9784774195537.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784883672820",
-                "title": "図書館業務に役立つHTML・PHP入門",
-                "title_collation_key": "トショカン ギョウム ニ ヤクダツ エイチティーエムエル ピーエイチピー ニュウモ",
-                "contributor": "星野雅英",
-                "contributor_collation_key": "ホシノ,マサヒデ",
-                "imprint": "樹村房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2820/9784883672820.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774194622",
-                "title": "3ステップでしっかり学ぶJava入門改訂2版",
-                "title_collation_key": "スリー ステップ デ シッカリ マナブ ジャバ ニュウモン",
-                "contributor": "アンク",
-                "contributor_collation_key": "アンク",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4622/9784774194622.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844367307",
-                "title": "Webデザイン、これからどうなるの？",
-                "title_collation_key": "ウェブ デザイン コレカラ ドウナルノ",
-                "contributor": "森本友理/鈴木慶太朗",
-                "contributor_collation_key": "モリモト,ユリ/スズキ,ケイタロウ",
-                "imprint": "エムディエヌコーポレーション",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7307/9784844367307.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774195094",
-                "title": "勘違いをなくせば、あなたのホームページはうまくいく",
-                "title_collation_key": "カンチガイ オ ナクセバ アナタ ノ ホームページ ワ ウマク イク",
-                "contributor": "中山陽平",
-                "contributor_collation_key": "ナカヤマ,ヨウヘイ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5094/9784774195094.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784822295875",
-                "title": "60歳からはじめるSNS",
-                "title_collation_key": "ロクジュッサイカラハジメルエスエヌエス",
-                "contributor": "岡本 ゆかり/岡村 秀昭",
-                "contributor_collation_key": "オカモトユカリ/オカムラヒデアキ",
-                "imprint": "日経BP",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5875/9784822295875.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784627818217",
-                "title": "自作PCクラスタ超入門",
-                "title_collation_key": "ジサクピーシークラスタチョウニュウモン",
-                "contributor": "前園 涼",
-                "contributor_collation_key": "マエゾノ リョウ",
-                "imprint": "森北出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8217/9784627818217.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798153216",
-                "title": "ホームページ辞典 第6版 HTML・CSS・JavaScript",
-                "title_collation_key": "ホームページジテンダイロッパンエイチティエムエルシーエスエスジャバスクリプト",
-                "contributor": "株式会社アンク",
-                "contributor_collation_key": "カブシキガイシャ アンク",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3216/9784798153216.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774194585",
-                "title": "Adobe　Museランディングページ制作ガイド",
-                "title_collation_key": "アドビ ミューズ ランディング ページ セイサク ガイド",
-                "contributor": "境祐司",
-                "contributor_collation_key": "サカイ,ユウジ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4585/9784774194585.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774194165",
-                "title": "たくさん読まれるアメブロの書き方",
-                "title_collation_key": "タクサン ヨマレル アメブロ ノ カキカタ",
-                "contributor": "木村賢",
-                "contributor_collation_key": "キムラ,サトシ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4165/9784774194165.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784896412611",
-                "title": "わかりやすい情報システムの設計第2版",
-                "title_collation_key": "ワカリヤスイ ジョウホウ システム ノ セッケイ",
-                "contributor": "内山俊郎",
-                "contributor_collation_key": "ウチヤマ,トシオ",
-                "imprint": "ムイスリ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2611/9784896412611.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774193717",
-                "title": "ゼロからわかるHTML＆CSS超入門",
-                "title_collation_key": "ゼロ カラ ワカル エイチティーエムエル アンド シーエスエス チョウ ニュウモン",
-                "contributor": "太木裕子",
-                "contributor_collation_key": "オオキ,ヒロコ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3717/9784774193717.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774192635",
-                "title": "Perlではじめるプログラミング超入門第2版",
-                "title_collation_key": "パール デ ハジメル プログラミング チョウ ニュウモン",
-                "contributor": "高橋順子（情報処理）",
-                "contributor_collation_key": "タカハシ,ジュンコ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2635/9784774192635.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784777520336",
-                "title": "Javaではじめる「ラムダ式」",
-                "title_collation_key": "ジャバ デ ハジメル ラムダシキ",
-                "contributor": "清水美樹",
-                "contributor_collation_key": "シミズ,ミキ",
-                "imprint": "工学社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0336/9784777520336.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774193564",
-                "title": "かんたんJavaScript",
-                "title_collation_key": "カンタン ジャバスクリプト",
-                "contributor": "高橋広樹/佐藤美保",
-                "contributor_collation_key": "タカハシ,ヒロキ/サトウ,ミホ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3564/9784774193564.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784320124233",
-                "title": "すべての人のためのJavaプログラミング 第3版",
-                "title_collation_key": "スベテノヒトノタメノジャバプログラミングダイサンハン",
-                "contributor": "立木 秀樹/有賀 妙子",
-                "contributor_collation_key": "ツイキ ヒデキ/アリガ タエコ",
-                "imprint": "共立出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4233/9784320124233.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774192178",
-                "title": "3ステップでしっかり学ぶJavaScript入門改訂2版",
-                "title_collation_key": "スリー ステップ デ シッカリ マナブ ジャバスクリプト ニュウモン",
-                "contributor": "大津真",
-                "contributor_collation_key": "オオツ,マコト",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2178/9784774192178.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839961077",
-                "title": "ノンデザイナーでもわかる　UX＋理論で作るWebデザイン",
-                "title_collation_key": "ノンデザイナーデモワカル ユーエックスプラスリロンデツクルウェブデザイン",
-                "contributor": "川合 俊輔/大本 あかね",
-                "contributor_collation_key": "カワイ シュンスケ/オオモト アカネ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1077/9784839961077.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784908925184",
-                "title": "SNS地獄を生き抜くオトナ女子の文章作法",
-                "title_collation_key": "エスエヌエスジゴクヲイキヌクオトナジョシノブンショウサホウ",
-                "contributor": "石原壮一郎",
-                "contributor_collation_key": "イシハラソウイチロウ",
-                "imprint": "方丈社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5184/9784908925184.jpg?_ex=200x200"
-            }
-        ]
-    }
-]
+{
+    "shelf_title": "パソコン・システム開発/インターネット・WEBデザイン",
+    "category": "インターネット・WEBデザイン",
+    "back_cover_images": [
+        "back_cover_img/0050_1.png",
+        "back_cover_img/0050_2.png",
+        "back_cover_img/0050_3.png",
+        "back_cover_img/0050_4.png"
+    ],
+    "back_cover_low_images": [
+        "back_cover_low_img/0050_1_low.png",
+        "back_cover_low_img/0050_2_low.png",
+        "back_cover_low_img/0050_3_low.png",
+        "back_cover_low_img/0050_4_low.png"
+    ],
+    "books": [
+        {
+            "isbn": "9784798064635",
+            "title": "図解入門 よくわかる 最新 情報セキュリティの技術と対策",
+            "title_collation_key": "ズカイニュウモンヨクワカルサイシンジョウホウセキュリティノギジュツトタイサク",
+            "contributor": "若狭直道",
+            "contributor_collation_key": "ワカサナオミチ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4635/9784798064635_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295600183",
+            "title": "【POD】やわらかYARA入門",
+            "title_collation_key": "ヤワラカヤラニュウモン",
+            "contributor": "柏原 幸隆",
+            "contributor_collation_key": "カシハラ ユキタカ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0183/9784295600183.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866905990",
+            "title": "60歳から始めるSNSの教科書",
+            "title_collation_key": "ロクジュッサイ カラ ハジメル エスエヌエス ノ キョウカショ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "マイウェイ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5990/9784866905990_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844379898",
+            "title": "【POD】猫でもわかるPlayFab 自動化編",
+            "title_collation_key": "ネコデモワカルプレイファブジドウカヘン",
+            "contributor": "ねこじょーかー",
+            "contributor_collation_key": "ネコジョーカー",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9898/9784844379898.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839977115",
+            "title": "作って学ぶ　HTML＆CSSモダンコーディング",
+            "title_collation_key": "ツクッテマナブ　エイチティーエムエルシーエスエス　モダンコーディング",
+            "contributor": "エビスコム",
+            "contributor_collation_key": "エビスコム",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7115/9784839977115_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798065335",
+            "title": "TypeScriptハンズオン",
+            "title_collation_key": "タイプスクリプトハンズオン",
+            "contributor": "掌田津耶乃",
+            "contributor_collation_key": "ショウダツヤノ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5335/9784798065335_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839976002",
+            "title": "テンプレートですぐできる　すぐに身につく！　HTML＆CSS",
+            "title_collation_key": "テンプレートデスグデキル　スグニミニツクレル　エイチティーエムエルアンドシーエスエス",
+            "contributor": "ガタガタ",
+            "contributor_collation_key": "ガタガタ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6002/9784839976002_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784815609610",
+            "title": "いちばんよくわかるWebデザインの基本きちんと入門［第2版］",
+            "title_collation_key": "イチバンヨクワカルウェブデザインノキホンキチントニュウモンダイニハン",
+            "contributor": "伊藤 庄平/益子 貴寛",
+            "contributor_collation_key": "イトウショウヘイ/マシコタカヒロ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9610/9784815609610_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784802613231",
+            "title": "動くWebデザインアイディア帳 実践編",
+            "title_collation_key": "ウゴクウェブデザインアイディアチョウ ジッセンヘン",
+            "contributor": "久保田 涼子/杉山 彰啓",
+            "contributor_collation_key": "クボタ リョウコ/スギヤマ アキヒロ",
+            "imprint": "ソシム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3231/9784802613231_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784877838096",
+            "title": "留学生のためのHTML5＆CSS3ドリルブック",
+            "title_collation_key": "リュウガクセイ ノ タメノ エイチティーエムエル ファイブ アンド シーエスエス ス",
+            "contributor": "相澤裕介",
+            "contributor_collation_key": "アイザワ,ユウスケ",
+            "imprint": "カットシステム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8096/9784877838096_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784877838485",
+            "title": "HTML5＆CSS3ドリルブック",
+            "title_collation_key": "エイチティーエムエル ファイブ アンド シーエスエス スリー ドリル ブック",
+            "contributor": "相澤裕介",
+            "contributor_collation_key": "アイザワ,ユウスケ",
+            "imprint": "カットシステム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8485/9784877838485_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297121938",
+            "title": "教科書では教えてくれないHTML&CSS",
+            "title_collation_key": "キョウカショデハオシエテクレナイエイチティーエムエルアンドシーエスエス",
+            "contributor": "狩野祐東",
+            "contributor_collation_key": "カノウスケハル",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1938/9784297121938_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798064741",
+            "title": "詳解！ Google Apps Script完全入門 ［第3版］",
+            "title_collation_key": "ショウカイグーグルアップススクリプトカンゼンニュウモンダイサンパン",
+            "contributor": "高橋宣成",
+            "contributor_collation_key": "タカハシノリアキ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4741/9784798064741_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299015983",
+            "title": "SNSの「わからない!」をスッキリ解決する本",
+            "title_collation_key": "セスエヌエスノワカラナイヲスッキリカイケツスルホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5983/9784299015983.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844379546",
+            "title": "【POD】React & Gatsby開発入門",
+            "title_collation_key": "リアクトアンドギャッツビーカイハツニュウモン",
+            "contributor": "竹本 雄貴",
+            "contributor_collation_key": "タケモト ユウキ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9546/9784844379546.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844379249",
+            "title": "【POD】AWSを好きになる本　ゼロから始めるクラウドジャーニー",
+            "title_collation_key": "エーダブリューエスヲスキニナルホンゼロカラハジメルクラウドジャーニー",
+            "contributor": "天野 盛介",
+            "contributor_collation_key": "アマノ セイスケ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9249/9784844379249.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839975357",
+            "title": "豊富な作例で学ぶ　Adobe XD Webデザイン入門",
+            "title_collation_key": "ホウフナサクレイデマナブ　アドビエックスディーウェブデザインニュウモン",
+            "contributor": "池原　健治/井斉　花織",
+            "contributor_collation_key": "イケハラケンジ/イサイカオリ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5357/9784839975357.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784764906280",
+            "title": "4つの言語で解ける　実践プログラミング問題集",
+            "title_collation_key": "ヨッツノゲンゴデトケルジッセンプログラミングモンダイシュウ",
+            "contributor": "渡部有隆/西舘陽平",
+            "contributor_collation_key": "ワタノベユタカ/ニシダテヨウヘイ",
+            "imprint": "近代科学社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6280/9784764906280.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784802612289",
+            "title": "動くWebデザインアイディア帳",
+            "title_collation_key": "ウゴクウェブデザインアイディアチョウ",
+            "contributor": "久保田涼子/杉山彰啓",
+            "contributor_collation_key": "クボタリョウコ/スギヤマアキヒロ",
+            "imprint": "ソシム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2289/9784802612289.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299013804",
+            "title": "よくわかる! ウィンドウズ10入門",
+            "title_collation_key": "ヨクワカルウィンドウズテンニュウモン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3804/9784299013804.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784815607630",
+            "title": "JavaScript[完全]入門",
+            "title_collation_key": "ジャバスクリプトカンゼンニュウモン",
+            "contributor": "柳井政和",
+            "contributor_collation_key": "ヤナイマサカズ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7630/9784815607630.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798167077",
+            "title": "Java 第3版 実践編 アプリケーション作りの基本",
+            "title_collation_key": "ジャバダイサンハン ジッセンヘン アプリケーションヅクリノキホン",
+            "contributor": "三谷 純",
+            "contributor_collation_key": "ミタニ ジュン",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7077/9784798167077.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798167060",
+            "title": "Java 第3版 入門編 ゼロからはじめるプログラミング",
+            "title_collation_key": "ジャバ ダイサンハン ニュウモンヘン ゼロカラハジメルプログラミング",
+            "contributor": "三谷 純",
+            "contributor_collation_key": "ミタニ ジュン",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7060/9784798167060.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798062846",
+            "title": "図解！　HTML&CSSのツボとコツがゼッタイにわかる本",
+            "title_collation_key": "ズカイ　エイチティーエムエル アンド シーエスエス ノツボトコツガゼッタイニワカルホン",
+            "contributor": "中田　亨",
+            "contributor_collation_key": "ナカタ　トオル",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2846/9784798062846.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784815606008",
+            "title": "新・明解Javaで学ぶアルゴリズムとデータ構造　第2版",
+            "title_collation_key": "シンメイカイジャバデマナブアルゴリズムトデータコウゾウダイニハン",
+            "contributor": "柴田 望洋",
+            "contributor_collation_key": "シバタ ボウヨウ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6008/9784815606008.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844379065",
+            "title": "【POD】AWSで学ぶクラウドネイティブ実践入門",
+            "title_collation_key": "エーダブリューエスデマナブクラウドネイティブジッセンニュウモン",
+            "contributor": "新井 雅也/馬勝 淳史",
+            "contributor_collation_key": "アライ マサヤ/ウマカツ アツシ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9065/9784844379065.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784873119229",
+            "title": "ハンズオンJavaScript",
+            "title_collation_key": "ハンズオンジャパスクリプト",
+            "contributor": "あんどうやすし",
+            "contributor_collation_key": "アンドウ ヤスシ",
+            "imprint": "オライリー・ジャパン",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9229/9784873119229.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784873119236",
+            "title": "ハンズオンNode.js",
+            "title_collation_key": "ハンズオンノードジェイエス",
+            "contributor": "今村謙士",
+            "contributor_collation_key": "イマムラ ケンジ",
+            "imprint": "オライリー・ジャパン",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9236/9784873119236.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784408339337",
+            "title": "21世紀最強の職業　Web系エンジニアになろう",
+            "title_collation_key": "ニジュウイッセイキサイキョウノショクギョウウェブケイエンジニアニナロウ",
+            "contributor": "勝又　健太",
+            "contributor_collation_key": "カツマタケンタ",
+            "imprint": "実業之日本社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9337/9784408339337.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839974596",
+            "title": "HTML5＆CSS3デザイン　現場の新標準ガイド【第2版】",
+            "title_collation_key": "エイチティーエムエルファイブ　アンド　シーエスエススリーデザイン　ゲンバノシンヒョウジュンガイド　ダイニハン",
+            "contributor": "エビスコム",
+            "contributor_collation_key": "エビスコム",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4596/9784839974596.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844379041",
+            "title": "【POD】JavaScriptでいきなり機械学習を遊び倒す本",
+            "title_collation_key": "ジャバスクリプトデイキナリキカイガクシュウヲアソビタオスホン",
+            "contributor": "まさとらん",
+            "contributor_collation_key": "マサトラン",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9041/9784844379041.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784800712653",
+            "title": "いちばんやさしい WordPress 入門教室",
+            "title_collation_key": "イチバンヤサシイ　ワードプレス　ニュウモンキョウシツ",
+            "contributor": "佐々木恵",
+            "contributor_collation_key": "ササキメグミ",
+            "imprint": "ソーテック社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2653/9784800712653.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295010050",
+            "title": "#ズボラPhotoshop 知識いらずの絶品3分デザイン",
+            "title_collation_key": "ハッシュタグズボラフォトショップチシキイラズノゼッピンサンプンデザイン",
+            "contributor": "トミナガハルキ",
+            "contributor_collation_key": "トミナガハルキ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0050/9784295010050.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784534058058",
+            "title": "読まれる・稼げる　ブログ術大全",
+            "title_collation_key": "ヨマレル・カセゲル ブログジュツタイゼン",
+            "contributor": "ヨス/染谷昌利",
+            "contributor_collation_key": "ヨス/ソメヤマサトシ",
+            "imprint": "日本実業出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8058/9784534058058.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378648",
+            "title": "【POD】個人開発サービス運営実践入門",
+            "title_collation_key": "コジンカイハツサービスウンエイジッセンニュウモン",
+            "contributor": "北浦 望",
+            "contributor_collation_key": "キタウラ ノゾミ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8648/9784844378648.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798062730",
+            "title": "ゼロから覚えるHTML&CSSの基本",
+            "title_collation_key": "ゼロカラオボエルエッチティーエムエルアンドシーエスエスノキホン",
+            "contributor": "吉岡豊",
+            "contributor_collation_key": "ヨシオカユタカ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2730/9784798062730.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784815606015",
+            "title": "新・明解Java入門　第2版",
+            "title_collation_key": "シンメイカイジャバニュウモン　ダイニハン",
+            "contributor": "柴田望洋",
+            "contributor_collation_key": "シバタボンヨウ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6015/9784815606015.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798062532",
+            "title": "はじめてのホームページ・ビルダー22",
+            "title_collation_key": "ハジメテノホームページビルダーニジュウニ",
+            "contributor": "桑名由美",
+            "contributor_collation_key": "クワナユミ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2532/9784798062532.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378747",
+            "title": "【POD】AWSを使って学ぶ監視設計",
+            "title_collation_key": "エーダブリューエスヲツカッテマナブカンシセッケイ",
+            "contributor": "佐藤 瞬",
+            "contributor_collation_key": "サトウ シュン",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8747/9784844378747.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378778",
+            "title": "【POD】React環境構築の教科書",
+            "title_collation_key": "リアクトカンキョウコウチクノキョウカショ",
+            "contributor": "井手 優太",
+            "contributor_collation_key": "イデ ユウタ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8778/9784844378778.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297114848",
+            "title": "ゼロからわかる　Java超入門　[改訂3版]",
+            "title_collation_key": "ゼロカラワカルジャヴァチョウニュウモンカイテイサンハン",
+            "contributor": "佐々木整",
+            "contributor_collation_key": "ササキヒトシ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4848/9784297114848.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784877834906",
+            "title": "Java　GUIプログラミング",
+            "title_collation_key": "ジャバ ジーユーアイ プログラミング",
+            "contributor": "日向俊二",
+            "contributor_collation_key": "ヒュウガ,シュンジ",
+            "imprint": "カットシステム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4906/9784877834906.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839969301",
+            "title": "コンバージョンを上げるWebデザイン改善集",
+            "title_collation_key": "コンバージョンヲアゲルウェブデザインシュウ",
+            "contributor": "井水大輔/菊池達也",
+            "contributor_collation_key": "イミズダイスケ/キクチタツヤ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9301/9784839969301.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378587",
+            "title": "【POD】レベルアップNode.js",
+            "title_collation_key": "レベルアップノードジェイエス",
+            "contributor": "佐々木 勝広",
+            "contributor_collation_key": "ササキ カツヒロ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8587/9784844378587.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295008958",
+            "title": "徹底攻略Java SE Bronze問題集［1Z0-818］対応",
+            "title_collation_key": "テッテイコウリャクジャヴァエスイーブロンズモンダイシュウイチゼットゼロハチイチハチタイオウ",
+            "contributor": "志賀澄人/山岡敏夫",
+            "contributor_collation_key": "シガ,スミト/ヤマオカ,トシオ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8958/9784295008958.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378839",
+            "title": "【POD】JavaScriptCoreで遊ぼう",
+            "title_collation_key": "ジャバスクリプトコアデアソボウ",
+            "contributor": "熊谷 友宏",
+            "contributor_collation_key": "クマガイ トモヒロ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8839/9784844378839.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378785",
+            "title": "【POD】速習Azure Administrator",
+            "title_collation_key": "ソクシュウアジュールアドミニストレーター",
+            "contributor": "土田 晃令",
+            "contributor_collation_key": "ツチダ アキヨシ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8785/9784844378785.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784274225406",
+            "title": "Webデザインの現場で使えるVue.jsの教科書",
+            "title_collation_key": "ウェブデザインノゲンバデツカエルビュージェイエスノキョウカショ",
+            "contributor": "廣末 丈士/遠山 恭平",
+            "contributor_collation_key": "ヒロスエ タケシ/トオヤマ キョウヘイ",
+            "imprint": "オーム社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5406/9784274225406.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784877834807",
+            "title": "初心者でも今すぐ使える！Wixでホームページ制作（2020年版）",
+            "title_collation_key": "ショシンシャ デモ イマスグ ツカエル ウィックス デ ホームページ セイサク",
+            "contributor": "神戸洋平/柳澤輝",
+            "contributor_collation_key": "カンベ,ヨウヘイ/ヤナギサワ,アキラ",
+            "imprint": "カットシステム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4807/9784877834807.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839971069",
+            "title": "これからはじめる人のJavaScript/Vue.jsの教科書",
+            "title_collation_key": "コレカラハジメルヒトノジャバスクリプトビュージェイエスノキョウカショ",
+            "contributor": "たにぐちまこと",
+            "contributor_collation_key": "タニグチマコト",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1069/9784839971069.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297112516",
+            "title": "今すぐ使えるかんたんEx　HTML&CSS 逆引き事典",
+            "title_collation_key": "イマスグツカエルカンタンイーエックスエイチティーエムエルアンドシーエスエスギャクビキジテン",
+            "contributor": "大藤幹",
+            "contributor_collation_key": "オオフジミキ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2516/9784297112516.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378631",
+            "title": "【POD】もっと実践！サーバーサイドKotlin",
+            "title_collation_key": "モットジッセンサーバーサイドコトリン",
+            "contributor": "FORTE",
+            "contributor_collation_key": "フォルテ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8631/9784844378631.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784903281476",
+            "title": "脱！SNSのトラブル　＜増補版＞",
+            "title_collation_key": "ダツ スマホノトラブル ゾウホバン",
+            "contributor": "佐藤佳弘",
+            "contributor_collation_key": "サトウヨシヒロ",
+            "imprint": "武蔵野大学出版会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1476/9784903281476.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784877838416",
+            "title": "JavaScriptワークブック第3版",
+            "title_collation_key": "ジャバスクリプト ワークブック",
+            "contributor": "相澤裕介",
+            "contributor_collation_key": "アイザワ,ユウスケ",
+            "imprint": "カットシステム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8416/9784877838416.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844369646",
+            "title": "JavaScript基礎入門",
+            "title_collation_key": "ジャバ スクリプト キソ ニュウモン",
+            "contributor": "西畑一馬/須郷晋也",
+            "contributor_collation_key": "ニシハタ,カズマ/スゴウ,シンヤ",
+            "imprint": "エムディエヌコーポレーション",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9646/9784844369646.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784877838072",
+            "title": "留学生のためのJavaScriptワークブック",
+            "title_collation_key": "リュウガクセイ ノ タメノ ジャバスクリプト ワークブック",
+            "contributor": "相澤裕介",
+            "contributor_collation_key": "アイザワ,ユウスケ",
+            "imprint": "カットシステム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8072/9784877838072.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784886477361",
+            "title": "基礎から学ぶJava　〜基本文法からオブジェクト指向まで〜",
+            "title_collation_key": "キソカラマナブジャバキホンブンポウカラオブジェクトシコウマデ",
+            "contributor": "中島　省吾",
+            "contributor_collation_key": "ナカジマ　ショウゴ",
+            "imprint": "（株）エスシーシー（SCC)",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7361/9784886477361.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844369714",
+            "title": "初心者からちゃんとしたプロになるHTML＋CSS標準入門",
+            "title_collation_key": "ショシンシャ カラ チャントシタ プロ ニ ナル エイチティーエムエル プラス シーエ",
+            "contributor": "おのれいこ/栗谷幸助",
+            "contributor_collation_key": "オノ,レイコ/クリヤ,コウスケ",
+            "imprint": "エムディエヌコーポレーション",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9714/9784844369714.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295008552",
+            "title": "スラスラ読めるJavaふりがなプログラミング",
+            "title_collation_key": "スラスラ ヨメル ジャバ フリガナ プログラミング",
+            "contributor": "谷本心/リブロワークス",
+            "contributor_collation_key": "タニモト,シン/リブロ ワークス",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8552/9784295008552.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295008477",
+            "title": "新世代Javaプログラミングガイド",
+            "title_collation_key": "シンセダイ ジャバ プログラミング ガイド",
+            "contributor": "マラ・グプタ/柴田芳樹",
+            "contributor_collation_key": "グプタ,マラ/シバタ,ヨシキ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8477/9784295008477.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844369783",
+            "title": "Webディレクションの新・標準ルール改訂第2版",
+            "title_collation_key": "ウェブ ディレクション ノ シン ヒョウジュン ルール",
+            "contributor": "栄前田勝太郎/岸正也",
+            "contributor_collation_key": "エマエダ,カツタロウ/キシ,マサヤ",
+            "imprint": "エムディエヌコーポレーション",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9783/9784844369783.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378464",
+            "title": "【POD】Spinnaker入門",
+            "title_collation_key": "スピネーカーニュウモン",
+            "contributor": "大澤 秀一",
+            "contributor_collation_key": "オオサワ シュウイチ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8464/9784844378464.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378495",
+            "title": "【POD】はじめて学ぶバイナリ解析",
+            "title_collation_key": "ハジメテマナブバイナリカイセキ",
+            "contributor": "小林 佐保/岡田 怜士",
+            "contributor_collation_key": "コバヤシ サホ/オカダ サトシ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8495/9784844378495.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839970864",
+            "title": "作りながら学ぶWebプログラミング実践入門",
+            "title_collation_key": "ツクリナガラマナブウェブプログラミングジッセンニュウモン",
+            "contributor": "掌田津耶乃",
+            "contributor_collation_key": "ショウダツヤノ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0864/9784839970864.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784877838409",
+            "title": "HTML5＆CSS3ワークブック",
+            "title_collation_key": "エイチティーエムエル ゴ アンド シーエスエス サン ワークブック",
+            "contributor": "相澤裕介",
+            "contributor_collation_key": "アイザワ,ユウスケ",
+            "imprint": "カットシステム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8409/9784877838409.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784877838089",
+            "title": "留学生のためのHTML5＆CSS3ワークブック",
+            "title_collation_key": "リュウガクセイ ノ タメノ エイチティーエムエル ゴ アンド シーエスエス サン ワ",
+            "contributor": "相澤裕介",
+            "contributor_collation_key": "アイザワ,ユウスケ",
+            "imprint": "カットシステム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8089/9784877838089.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378396",
+            "title": "【POD】NuxtとGoではじめるWebアプリ開発",
+            "title_collation_key": "ナクストトゴーデハジメルウェブアプリカイハツ",
+            "contributor": "寺田 晃大",
+            "contributor_collation_key": "テラダ アキヒロ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8396/9784844378396.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295008071",
+            "title": "Instagramインスタグラム基本＋活用ワザ",
+            "title_collation_key": "インスタグラム インスタグラム キホン プラス カツヨウワザ",
+            "contributor": "田口和裕/いしたにまさき",
+            "contributor_collation_key": "タグチ,カズヒロ/イシタニ,マサキ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8071/9784295008071.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844369417",
+            "title": "あなうめ式Javaプログラミング超入門",
+            "title_collation_key": "アナウメシキ ジャバ プログラミング チョウ ニュウモン",
+            "contributor": "大津真/田中賢一郎",
+            "contributor_collation_key": "オオツ,マコト/タナカ,ケンイチロウ",
+            "imprint": "エムディエヌコーポレーション",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9417/9784844369417.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378372",
+            "title": "【POD】サイバーファースト 増補改訂版",
+            "title_collation_key": "サイバーファーストゾウホカイテイバン",
+            "contributor": "江崎 浩",
+            "contributor_collation_key": "エサキ ヒロシ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8372/9784844378372.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784886477347",
+            "title": "新しいJavaScriptの教科書",
+            "title_collation_key": "アタラシイジャバスクリプトノキョウカショ",
+            "contributor": "境　祐司",
+            "contributor_collation_key": "サカイ　ユウジ",
+            "imprint": "（株）エスシーシー（SCC)",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7347/9784886477347.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798057743",
+            "title": "新わかりやすいJava 入門編 第2版",
+            "title_collation_key": "シンワカリヤスイジャバ ニュウモンヘン ダイニハン",
+            "contributor": "川場隆",
+            "contributor_collation_key": "カワバタカシ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7743/9784798057743.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295007807",
+            "title": "スッキリわかるJava入門第3版",
+            "title_collation_key": "スッキリ ワカル ジャバ ニュウモン",
+            "contributor": "中山清喬/国本大悟",
+            "contributor_collation_key": "ナカヤマ,キヨタカ/クニモト,ダイゴ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7807/9784295007807.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784407347784",
+            "title": "30時間アカデミック JavaScript入門",
+            "title_collation_key": "サンジュウジカンアカデミック ジャバスクリプトニュウモン",
+            "contributor": "大川晃一/小澤慎太郎",
+            "contributor_collation_key": "オオカワコウイチ/オザワシンタロウ",
+            "imprint": "実教出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7784/9784407347784.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784407347814",
+            "title": "30時間でマスター Webデザイン 改訂版",
+            "title_collation_key": "サンジュウジカンデマスター ウェブデザイン カイテイバン",
+            "contributor": "影山明俊",
+            "contributor_collation_key": "カゲヤマアキトシ",
+            "imprint": "実教出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7814/9784407347814.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844398288",
+            "title": "【POD】0から始める！簡単！FreeNAS構築チュートリアル！",
+            "title_collation_key": "ゼロカラハジメルカンタンフリーナスコウチクチュートリアル",
+            "contributor": "仲亀 拓馬",
+            "contributor_collation_key": "ナカガメ タクマ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8288/9784844398288.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784781651187",
+            "title": "SNS変遷史",
+            "title_collation_key": "エスエヌエスヘンセンシ",
+            "contributor": "天野 彬",
+            "contributor_collation_key": "アマノアキラ",
+            "imprint": "イースト・プレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1187/9784781651187.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844368908",
+            "title": "初心者からちゃんとしたプロになるWebデザイン基礎入門",
+            "title_collation_key": "ショシンシャ カラ チャントシタ プロニ ナル ウェブ デザイン キソ ニュウモン",
+            "contributor": "栗谷幸助/おのれいこ",
+            "contributor_collation_key": "クリヤ,コウスケ/オノ,レイコ",
+            "imprint": "エムディエヌコーポレーション",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8908/9784844368908.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784339028980",
+            "title": "micro:bitで学ぶプログラミング",
+            "title_collation_key": "マイクロビットデマナブプログラミング",
+            "contributor": "高橋 参吉/喜家村 奨",
+            "contributor_collation_key": "タカハシ サンキチ/キヤムラ ススム",
+            "imprint": "コロナ社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8980/9784339028980.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784627851511",
+            "title": "Javaで入門　はじめてのプログラミング",
+            "title_collation_key": "ジャバデニュウモンハジメテノプログラミング",
+            "contributor": "飯塚 泰樹/大森 康朝",
+            "contributor_collation_key": "イイヅカ ヤスキ/オオモリ ヤストモ",
+            "imprint": "森北出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1511/9784627851511.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295007371",
+            "title": "WordPressホームページ入門基本＆活用マスターブック",
+            "title_collation_key": "ワードプレス ホームページ ニュウモン キホン アンド カツヨウ マスター ブ",
+            "contributor": "星野邦敏/相澤奏恵",
+            "contributor_collation_key": "ホシノ,クニトシ/アイザワ,カナエ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7371/9784295007371.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784764905979",
+            "title": "見ひらきで学べるJavaプログラミング",
+            "title_collation_key": "ミヒラキデマナベルジャバプログラミング",
+            "contributor": "古井 陽之助/神屋 郁子",
+            "contributor_collation_key": "フルイ ヨウノスケ/カミヤ ユウコ",
+            "imprint": "近代科学社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5979/9784764905979.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844396895",
+            "title": "【POD】ゼロから始めるNetlify",
+            "title_collation_key": "ゼロカラハジメルネットリファイ",
+            "contributor": "渡邊 達明/藤澤 伸",
+            "contributor_collation_key": "ワタナベ タツアキ/フジサワ シン",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6895/9784844396895.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784339028966",
+            "title": "Javaによるアルゴリズムとデータ構造の基礎",
+            "title_collation_key": "ジャバニヨルアルゴリズムトデータコウゾウノキソ",
+            "contributor": "永田 武",
+            "contributor_collation_key": "ナガタ タケシ",
+            "imprint": "コロナ社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8966/9784339028966.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295006275",
+            "title": "できるWordPress",
+            "title_collation_key": "デキル ワード プレス",
+            "contributor": "星野邦敏/相澤奏恵",
+            "contributor_collation_key": "ホシノ,クニトシ/アイザワ,カナエ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6275/9784295006275.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295006381",
+            "title": "これから学ぶHTML／CSS",
+            "title_collation_key": "コレカラ マナブ エイチティーエムエル シーエスエス",
+            "contributor": "齊藤新三/山田祥寛",
+            "contributor_collation_key": "サイトウ,シンゾウ/ヤマダ,ヨシヒロ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6381/9784295006381.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798151120",
+            "title": "独習Java 新版",
+            "title_collation_key": "ドクシュウジャバシンハン",
+            "contributor": "山田 祥寛",
+            "contributor_collation_key": "ヤマダ ヨシヒロ",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1120/9784798151120.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297105808",
+            "title": "HTMLコーダー＆ウェブ担当者のためのWebページ高速化超入門",
+            "title_collation_key": "エイチティエムエルコーダーアンドウェブタントウシャノタメノウェブページコウソクカチョウニュウモン",
+            "contributor": "佐藤あゆみ",
+            "contributor_collation_key": "サトウアユミ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5808/9784297105808.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784800712332",
+            "title": "いちばんやさしい Google アナリティクス 入門教室",
+            "title_collation_key": "イチバンヤサシイ　グーグル　アナリティクス　ミュウモンキョウシツ",
+            "contributor": "小川卓/工藤麻里",
+            "contributor_collation_key": "オガワタク/クドウマリ",
+            "imprint": "ソーテック社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2332/9784800712332.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798158440",
+            "title": "Java逆引きレシピ 第2版",
+            "title_collation_key": "ジャバギャクヒキレシピダイニハン",
+            "contributor": "竹添 直樹/高橋 和也",
+            "contributor_collation_key": "タケゾエ ナオキ/タカハシ カズヤ",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8440/9784798158440.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784800712356",
+            "title": "いちばんやさしい Vue.js 入門教室",
+            "title_collation_key": "イチバンヤサシイ　ビュージェイエス　ニュウモンキョウシツ",
+            "contributor": "大津真",
+            "contributor_collation_key": "オオツマコト",
+            "imprint": "ソーテック社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2356/9784800712356.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784847097799",
+            "title": "SNSをポジティヴに楽しむための30の習慣",
+            "title_collation_key": "エスエヌエス オ ポジティヴ ニ タノシム タメノ サンジュウ ノ シュウカン",
+            "contributor": "井上裕介",
+            "contributor_collation_key": "イノウエ,ユウスケ",
+            "imprint": "ヨシモトブックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7799/9784847097799.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784802612104",
+            "title": "フレキシブルボックスで作るHTML5　＆　CSS3レッスンブック",
+            "title_collation_key": "フレキシブル ボックス デ ツクル エイチティーエムエル ゴ アンド シーエスエ",
+            "contributor": "エビスコム",
+            "contributor_collation_key": "エビスコム",
+            "imprint": "ソシム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2104/9784802612104.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784905084334",
+            "title": "ビジネスを加速させる専門家ブログ制作・運用の教科書",
+            "title_collation_key": "ビジネス オ カソクサセル センモンカ ブログ セイサク ウンヨウ ノ キョウカシ",
+            "contributor": "落合正和",
+            "contributor_collation_key": "オチアイ,マサカズ",
+            "imprint": "つた書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4334/9784905084334.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784797398892",
+            "title": "1冊ですべて身につくHTML & CSSとWebデザイン入門講座",
+            "title_collation_key": "イッサツデスベテミニツクエイチティーエムエルアンドシーエスエストウェブデザインニュウモンコウザ",
+            "contributor": "Mana",
+            "contributor_collation_key": "マナ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8892/9784797398892.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295005926",
+            "title": "いちばんやさしいJavaScriptの教本第2版",
+            "title_collation_key": "イチバン ヤサシイ ジャバスクリプト ノ キョウホン",
+            "contributor": "岩田宇史",
+            "contributor_collation_key": "イワタ,タカフミ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5926/9784295005926.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297103842",
+            "title": "大きな字でわかりやすいLINE入門",
+            "title_collation_key": "オオキナ ジ デ ワカリヤスイ ライン ニュウモン",
+            "contributor": "岩間麻帆",
+            "contributor_collation_key": "イワマ,マホ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3842/9784297103842.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784802612029",
+            "title": "HTML／CSSデザインTextBook",
+            "title_collation_key": "エイチティーエムエル シーエスエス デザイン テキスト ブック",
+            "contributor": "磯博/Glatch",
+            "contributor_collation_key": "イソ,ヒロシ/グラッチ",
+            "imprint": "ソシム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2029/9784802612029.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784797397314",
+            "title": "レイアウト・デザインの教科書",
+            "title_collation_key": "レイアウトデザインノキョウカショ",
+            "contributor": "米倉 明男/生田 信一",
+            "contributor_collation_key": "ヨネクラ アキオ/イクタ シンイチ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7314/9784797397314.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844398882",
+            "title": "OD＞Chrome　Developer　Tools入門",
+            "title_collation_key": "オーディー クローム ディベロッパー ツールズ ニュウモン",
+            "contributor": "渋田美里",
+            "contributor_collation_key": "シブタ,ミサト",
+            "imprint": "インプレスR＆D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8882/9784844398882.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297103682",
+            "title": "JavaScriptコードレシピ集",
+            "title_collation_key": "ジャバスクリプト コード レシピシュウ",
+            "contributor": "池田泰延/鹿野壮",
+            "contributor_collation_key": "イケダ,ヤスノブ/カノ,タケシ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3682/9784297103682.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784815600846",
+            "title": "やさしいJava 第7版",
+            "title_collation_key": "ヤサシイジャヴァダイナナハン",
+            "contributor": "高橋 麻奈",
+            "contributor_collation_key": "タカハシ マナ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0846/9784815600846.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297103569",
+            "title": "Adobe　XDプロトタイピング実践ガイド",
+            "title_collation_key": "アドビ エックスディー プロトタイピング ジッセン ガイド",
+            "contributor": "境祐司",
+            "contributor_collation_key": "サカイ,ユウジ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3569/9784297103569.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784802611893",
+            "title": "CSSグリッドで作るHTML5＆CSS3レッスンブック",
+            "title_collation_key": "シーエスエス グリッド デ ツクル エイチティーエムエル ファイブ アンド シー",
+            "contributor": "エビスコム",
+            "contributor_collation_key": "エビスコム",
+            "imprint": "ソシム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1893/9784802611893.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784800712271",
+            "title": "いちばんやさしい Java 入門教室",
+            "title_collation_key": "イチバンヤサシイ　ジャバ　ニュウモンキョウシツ",
+            "contributor": "廣瀬豪",
+            "contributor_collation_key": "ヒロセツヨシ",
+            "imprint": "ソーテック社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2271/9784800712271.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798156736",
+            "title": "スラスラわかるJava 第2版",
+            "title_collation_key": "スラスラワカルジャヴァダイニハン",
+            "contributor": "中垣 健志/林 満也",
+            "contributor_collation_key": "ナカガキ ケンジ/ハヤシ ミツヤ",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6736/9784798156736.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784800720634",
+            "title": "世界一やさしい ブログ×YouTubeの教科書 1年生",
+            "title_collation_key": "セカイイチヤサシイ　ブログ　ユーチューブノキョウカショ　イチネンセイ",
+            "contributor": "染谷昌利/木村博史",
+            "contributor_collation_key": "ソメヤマサトシ/キムラヒロフミ",
+            "imprint": "ソーテック社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0634/9784800720634.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839965471",
+            "title": "よくわかるHTML5+CSS3の教科書【第3版】",
+            "title_collation_key": "ヨクワカル　エイチティーエムエル　シーエスエス　ノ　キョウカショ",
+            "contributor": "大藤幹",
+            "contributor_collation_key": "オオフジミキ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5471/9784839965471.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297101244",
+            "title": "アメブロ基本＆便利技改訂2版",
+            "title_collation_key": "アメブロ キホン アンド ベンリワザ",
+            "contributor": "リンクアップ",
+            "contributor_collation_key": "リンク アップ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1244/9784297101244.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297101220",
+            "title": "本格学習Java入門改訂3版",
+            "title_collation_key": "ホンカク ガクシュウ ジャバ ニュウモン",
+            "contributor": "佐々木整",
+            "contributor_collation_key": "ササキ,ヒトシ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1220/9784297101220.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297101206",
+            "title": "インスタグラム超入門",
+            "title_collation_key": "インスタグラム チョウ ニュウモン",
+            "contributor": "リンクアップ",
+            "contributor_collation_key": "リンク アップ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1206/9784297101206.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297101206",
+            "title": "インスタグラム超入門",
+            "title_collation_key": "インスタグラム チョウ ニュウモン",
+            "contributor": "リンクアップ",
+            "contributor_collation_key": "リンク アップ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1206/9784297101206.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297102395",
+            "title": "今すぐ使えるかんたんFacebookページ作成＆運営入門改訂2版",
+            "title_collation_key": "イマ スグ ツカエル カンタン フェイスブック ページ サクセイ アンド ウンエ",
+            "contributor": "リンクアップ/斎藤哲",
+            "contributor_collation_key": "リンク アップ/サイトウ,サトシ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2395/9784297102395.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784141992721",
+            "title": "すぐわかる！はじめてのSNS",
+            "title_collation_key": "スグ ワカル ハジメテ ノ エスエヌエス",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "NHK出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2721/9784141992721.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784802611886",
+            "title": "今日から使えるMacBook　Air＆Pro",
+            "title_collation_key": "キョウ カラ ツカエル マックブック エア アンド プロ",
+            "contributor": "小枝祐基",
+            "contributor_collation_key": "コエダ,ユウキ",
+            "imprint": "ソシム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1886/9784802611886.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297100780",
+            "title": "JavaエンジニアのためのEclipseパーフェクトガイド",
+            "title_collation_key": "ジャバ エンジニア ノ タメ ノ エクリプス パーフェクト ガイド",
+            "contributor": "横田一輝",
+            "contributor_collation_key": "ヨコタ,カズキ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0780/9784297100780.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798157573",
+            "title": "JavaScript逆引きレシピ 第2版",
+            "title_collation_key": "ジャバスクリプトギャクヒキレシピダイニハン",
+            "contributor": "山田 祥寛",
+            "contributor_collation_key": "ヤマダ ヨシヒロ",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7573/9784798157573.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297100919",
+            "title": "Vue．js入門",
+            "title_collation_key": "ビュー ジェイエス ニュウモン",
+            "contributor": "川口和也/喜多啓介",
+            "contributor_collation_key": "カワグチ,カズヤ/キタ,ケイスケ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0919/9784297100919.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844398448",
+            "title": "OD＞Amazon　Web　Servicesサーバーレスレシピ",
+            "title_collation_key": "オーディー アマゾン ウェブ サービシーズ サーバーレス レシピ",
+            "contributor": "矢田裕基/太田佳敬",
+            "contributor_collation_key": "ヤタ,ヒロキ/オオタ,ヨシアキ",
+            "imprint": "インプレスR＆D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8448/9784844398448.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297100797",
+            "title": "知りたい配色デザイン",
+            "title_collation_key": "シリタイ ハイショク デザイン",
+            "contributor": "ARENSKI",
+            "contributor_collation_key": "アレンスキー",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0797/9784297100797.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784797395242",
+            "title": "本当によくわかるHTML＆CSSの教科書",
+            "title_collation_key": "ホントウニヨクワカルエイチティエルエムアンドシーエスエスノキョウカショ",
+            "contributor": "鈴木 介翔/金安 亮",
+            "contributor_collation_key": "スズキ カイト/カネヤス リョウ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5242/9784797395242.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784274222603",
+            "title": "Javaで学ぶ自然言語処理と機械学習",
+            "title_collation_key": "ジャバデマナブシゼンゲンゴショリトキカイガクシュウ",
+            "contributor": "杉本 徹/岩下志乃",
+            "contributor_collation_key": "スギモト トオル/イワシタ シノ",
+            "imprint": "株式会社オーム社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2603/9784274222603.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297100148",
+            "title": "これからはじめるWebデザインの本改訂2版",
+            "title_collation_key": "コレカラ ハジメル ウェブ デザイン ノ ホン",
+            "contributor": "ロクナナワークショップ",
+            "contributor_collation_key": "ロクナナ ワーク ショップ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0148/9784297100148.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297100339",
+            "title": "Docker／Kubernetes実践コンテナ開発入門",
+            "title_collation_key": "ドッカー クーベネティス ジッセン コンテナ カイハツ ニュウモン",
+            "contributor": "山田明憲",
+            "contributor_collation_key": "ヤマダ,アキノリ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0339/9784297100339.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774785356",
+            "title": "Creator　Channel（Vol．12）",
+            "title_collation_key": "クリエイター チャンネル",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "コスミック出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5356/9784774785356.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844398394",
+            "title": "OD＞WOWHoneypotの遊びかた",
+            "title_collation_key": "オーディー ダブリューオーダブリューハニーポット ノ アソビカタ",
+            "contributor": "森久和昭",
+            "contributor_collation_key": "モリヒサ,カズアキ",
+            "imprint": "インプレスR＆D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8394/9784844398394.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784909659002",
+            "title": "SNSを超える「第4の居場所」",
+            "title_collation_key": "エスエヌエス オ コエル ダイヨン ノ イバショ",
+            "contributor": "岡田尚起/佐藤大輔",
+            "contributor_collation_key": "オカダ,ナオキ/サトウ,ダイスケ",
+            "imprint": "アンノーンブックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9002/9784909659002.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844397373",
+            "title": "OD＞今、見直すHTML＆CSS改訂版",
+            "title_collation_key": "オーディー イマ ミナオス エイチティーエムエル アンド シーエスエス",
+            "contributor": "林拓也",
+            "contributor_collation_key": "ハヤシ,タクヤ",
+            "imprint": "インプレスR＆D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7373/9784844397373.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774199054",
+            "title": "基本情報技術者らくらく突破Java改訂3版",
+            "title_collation_key": "キホン ジョウホウ ギジュツシャ ラクラク トッパ ジャヴァ",
+            "contributor": "菊田英明/原修身",
+            "contributor_collation_key": "キクタ,ヒデアキ/ハラ,オサミ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9054/9784774199054.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774198446",
+            "title": "見た目にこだわるJimdo入門",
+            "title_collation_key": "ミタメ ニ コダワル ジンドゥー ニュウモン",
+            "contributor": "狩野さやか",
+            "contributor_collation_key": "カノウ,サヤカ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8446/9784774198446.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774198118",
+            "title": "今すぐ使えるかんたんPLUS+　HTML5&CSS3　完全大事典",
+            "title_collation_key": "エイチティーエムエルファイブ アンド シーエスエススリー コンプリート ダイジテ",
+            "contributor": "中島真洋",
+            "contributor_collation_key": "ナカシマ,マサヒロ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8118/9784774198118.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774198866",
+            "title": "今すぐ使えるかんたんぜったいデキます！LINE超入門改訂2版",
+            "title_collation_key": "イマ スグ ツカエル カンタン ゼッタイ デキマス ライン チョウニュウモン",
+            "contributor": "井上香緒里",
+            "contributor_collation_key": "イノウエ,カオリ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8866/9784774198866.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774199399",
+            "title": "知識ゼロからのJavaScript入門",
+            "title_collation_key": "チシキ ゼロ カラノ ジャバ スクリプト ニュウモン",
+            "contributor": "小笠原寛",
+            "contributor_collation_key": "オガサワラ,ヒロシ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9399/9784774199399.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844398349",
+            "title": "OD＞最新ブラウザ対応で気持ちよく書くCSSデザイン",
+            "title_collation_key": "オーディー サイシン ブラウザ タイオウ デ キモチヨク カク シーエスエス デ",
+            "contributor": "吉川雅彦",
+            "contributor_collation_key": "ヨシカワ,マサヒコ",
+            "imprint": "インプレスR＆D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8349/9784844398349.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844398387",
+            "title": "OD＞誰でもつかえる！ウェブフォント実践マニュアル",
+            "title_collation_key": "オーディー ダレ デモ ツカエル ウェブ フォント ジッセン マニュアル",
+            "contributor": "大木尊紀",
+            "contributor_collation_key": "オオキ,タカノリ",
+            "imprint": "インプレスR＆D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784295004097",
+            "title": "これから学ぶJavaScript",
+            "title_collation_key": "コレカラ マナブ ジャバスクリプト",
+            "contributor": "齊藤新三/山田祥寛",
+            "contributor_collation_key": "サイトウ,シンゾウ/ヤマダ,ヨシヒロ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4097/9784295004097.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774198385",
+            "title": "Adobe　XD　UIデザインとプロトタイプ制作の教科書",
+            "title_collation_key": "アドビ エックスディー ユーアイ デザイン ト プロトタイプ セイサク ノ",
+            "contributor": "北村崇",
+            "contributor_collation_key": "キタムラ,タカシ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8385/9784774198385.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774196268",
+            "title": "書きながら覚えるHTML＆CSS入門ワークブック",
+            "title_collation_key": "カキナガラ オボエル エイチティーエムエル アンド シーエスエス ニュウモン ワーク",
+            "contributor": "さわだえり",
+            "contributor_collation_key": "サワダ,エリ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6268/9784774196268.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295003854",
+            "title": "スラスラ読めるJavaScriptふりがなプログラミング",
+            "title_collation_key": "スラスラ ヨメル ジャバスクリプト フリガナ プログラミング",
+            "contributor": "及川卓也/リブロワークス",
+            "contributor_collation_key": "オイカワ,タクヤ/リブロ ワークス",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3854/9784295003854.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844398226",
+            "title": "OD＞JavaScript　AST入門",
+            "title_collation_key": "オーディー ジャバスクリプト エイエスティー ニュウモン",
+            "contributor": "佐々木俊介",
+            "contributor_collation_key": "ササキ,シュンスケ",
+            "imprint": "インプレスR＆D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8226/9784844398226.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774197050",
+            "title": "Atomic　Design",
+            "title_collation_key": "アトミック デザイン",
+            "contributor": "五藤佑典",
+            "contributor_collation_key": "ゴトウ,ユウスケ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7050/9784774197050.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774197067",
+            "title": "はじめてのフロントエンド開発",
+            "title_collation_key": "ハジメテ ノ フロントエンド カイハツ",
+            "contributor": "原一浩/taisa",
+            "contributor_collation_key": "ハラ,カズヒロ/タイサ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7067/9784774197067.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784797393156",
+            "title": "スラスラわかるHTML＆CSSのきほん 第2版",
+            "title_collation_key": "スラスラワカルエイチティーエムエルアンドシーエスエスノキホンダイニハン",
+            "contributor": "狩野 祐東",
+            "contributor_collation_key": "カノウ スケハル",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3156/9784797393156.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784777520480",
+            "title": "はじめてのJavaフレームワーク",
+            "title_collation_key": "ハジメテ ノ ジャバ フレームワーク",
+            "contributor": "清水美樹",
+            "contributor_collation_key": "シミズ,ミキ",
+            "imprint": "工学社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0480/9784777520480.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844398264",
+            "title": "OD＞Hello！！　Vue．js",
+            "title_collation_key": "オーディー ハロー ヴュージェイエス",
+            "contributor": "那須理也",
+            "contributor_collation_key": "ナス,マサヤ",
+            "imprint": "インプレスR＆D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8264/9784844398264.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774196510",
+            "title": "世界一わかりやすいconcrete5導入とサイト制作の教科書",
+            "title_collation_key": "セカイイチ ワカリヤスイ コンクリート ファイブ ドウニュウ ト サイト セイサク ノ",
+            "contributor": "庄司早香/菱川拓郎",
+            "contributor_collation_key": "ショウジ,ハヤカ/ヒシカワ,タクロウ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6510/9784774196510.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798043753",
+            "title": "新わかりやすいJava オブジェクト指向徹底解説",
+            "title_collation_key": "シンワカリヤスイジャバオブジェクトシコウテッテイカイセツ",
+            "contributor": "川場隆",
+            "contributor_collation_key": "カワバタカシ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3753/9784798043753.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784822253394",
+            "title": "いちばんやさしい60代からのFacebook",
+            "title_collation_key": "イチバンヤサシイロクジュウダイカラノフェイスブック",
+            "contributor": "柴田 和枝",
+            "contributor_collation_key": "シバタカズエ",
+            "imprint": "日経BP",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3394/9784822253394.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784413096928",
+            "title": "この一冊で面白いほど人が集まるSNS文章術",
+            "title_collation_key": "コノイッサツデオモシロイホドヒトガアツマルエスエヌエスブンショウジュツ",
+            "contributor": "前田めぐる",
+            "contributor_collation_key": "マエダメグル",
+            "imprint": "青春出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6928/9784413096928.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784764904958",
+            "title": "オブジェクト指向Javaプログラミング入門 第2版",
+            "title_collation_key": "オブジェクトシコウジャバプログラミングダイニハン",
+            "contributor": "樋口 昌宏/多田 昌裕",
+            "contributor_collation_key": "ヒグチ マサヒロ/タダ マサヒロ",
+            "imprint": "近代科学社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4958/9784764904958.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866730356",
+            "title": "Webデザインのロジック",
+            "title_collation_key": "ウェブ デザイン ノ ロジック",
+            "contributor": "フレア",
+            "contributor_collation_key": "フレア",
+            "imprint": "三才ブックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0356/9784866730356.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774196107",
+            "title": "HTML5＆CSS3ポケットリファレンス改訂新版",
+            "title_collation_key": "エイチティーエムエル ファイブ アンド シーエスエス スリー ポケット リファレンス",
+            "contributor": "森史憲/藤本壱",
+            "contributor_collation_key": "モリ,フミノリ/フジモト,ハジメ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6107/9784774196107.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784408337784",
+            "title": "「Java」最初の一歩",
+            "title_collation_key": "ジャバ サイショ ノ イッポ",
+            "contributor": "CAICA",
+            "contributor_collation_key": "カイカ",
+            "imprint": "実業之日本社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7784/9784408337784.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844367406",
+            "title": "Webポートフォリオ・デザインブック",
+            "title_collation_key": "ウェブ ポート フォリオ デザイン ブック",
+            "contributor": "小島幸代/草野恵子",
+            "contributor_collation_key": "コジマ,サチヨ/クサノ,ケイコ",
+            "imprint": "エムディエヌコーポレーション",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7406/9784844367406.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774196275",
+            "title": "今すぐ使えるかんたんぜったいデキます！ホームページ作成超入門",
+            "title_collation_key": "イマスグ ツカエル カンタン ゼッタイ デキマス ホームページ サクセイ チョウ",
+            "contributor": "岩間麻帆",
+            "contributor_collation_key": "イワマ,マホ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6275/9784774196275.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774195773",
+            "title": "ゼロからはじめるインスタグラムInstagram",
+            "title_collation_key": "ゼロ カラ ハジメル インスタグラム インスタグラム",
+            "contributor": "リンクアップ",
+            "contributor_collation_key": "リンク アップ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5773/9784774195773.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784802611343",
+            "title": "HTML5＆CSS3ステップアップブック",
+            "title_collation_key": "エイチティーエムエル ファイブ アンド シーエスエス スリー ステップ アップ フ",
+            "contributor": "エビスコム",
+            "contributor_collation_key": "エビスコム",
+            "imprint": "ソシム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1343/9784802611343.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774195537",
+            "title": "HTML＆CSSの基礎知識",
+            "title_collation_key": "エイチティーエムエル アンド シーエスエス ノ キソ チシキ",
+            "contributor": "中田亨/羽田野太巳",
+            "contributor_collation_key": "ナカタ,トオル/ハタノ,フトミ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5537/9784774195537.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774194622",
+            "title": "3ステップでしっかり学ぶJava入門改訂2版",
+            "title_collation_key": "スリー ステップ デ シッカリ マナブ ジャバ ニュウモン",
+            "contributor": "アンク",
+            "contributor_collation_key": "アンク",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4622/9784774194622.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784883672820",
+            "title": "図書館業務に役立つHTML・PHP入門",
+            "title_collation_key": "トショカン ギョウム ニ ヤクダツ エイチティーエムエル ピーエイチピー ニュウモ",
+            "contributor": "星野雅英",
+            "contributor_collation_key": "ホシノ,マサヒデ",
+            "imprint": "樹村房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2820/9784883672820.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844367307",
+            "title": "Webデザイン、これからどうなるの？",
+            "title_collation_key": "ウェブ デザイン コレカラ ドウナルノ",
+            "contributor": "森本友理/鈴木慶太朗",
+            "contributor_collation_key": "モリモト,ユリ/スズキ,ケイタロウ",
+            "imprint": "エムディエヌコーポレーション",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7307/9784844367307.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774195094",
+            "title": "勘違いをなくせば、あなたのホームページはうまくいく",
+            "title_collation_key": "カンチガイ オ ナクセバ アナタ ノ ホームページ ワ ウマク イク",
+            "contributor": "中山陽平",
+            "contributor_collation_key": "ナカヤマ,ヨウヘイ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5094/9784774195094.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784822295875",
+            "title": "60歳からはじめるSNS",
+            "title_collation_key": "ロクジュッサイカラハジメルエスエヌエス",
+            "contributor": "岡本 ゆかり/岡村 秀昭",
+            "contributor_collation_key": "オカモトユカリ/オカムラヒデアキ",
+            "imprint": "日経BP",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5875/9784822295875.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784627818217",
+            "title": "自作PCクラスタ超入門",
+            "title_collation_key": "ジサクピーシークラスタチョウニュウモン",
+            "contributor": "前園 涼",
+            "contributor_collation_key": "マエゾノ リョウ",
+            "imprint": "森北出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8217/9784627818217.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798153216",
+            "title": "ホームページ辞典 第6版 HTML・CSS・JavaScript",
+            "title_collation_key": "ホームページジテンダイロッパンエイチティエムエルシーエスエスジャバスクリプト",
+            "contributor": "株式会社アンク",
+            "contributor_collation_key": "カブシキガイシャ アンク",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3216/9784798153216.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774194585",
+            "title": "Adobe　Museランディングページ制作ガイド",
+            "title_collation_key": "アドビ ミューズ ランディング ページ セイサク ガイド",
+            "contributor": "境祐司",
+            "contributor_collation_key": "サカイ,ユウジ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4585/9784774194585.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774194165",
+            "title": "たくさん読まれるアメブロの書き方",
+            "title_collation_key": "タクサン ヨマレル アメブロ ノ カキカタ",
+            "contributor": "木村賢",
+            "contributor_collation_key": "キムラ,サトシ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4165/9784774194165.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784896412611",
+            "title": "わかりやすい情報システムの設計第2版",
+            "title_collation_key": "ワカリヤスイ ジョウホウ システム ノ セッケイ",
+            "contributor": "内山俊郎",
+            "contributor_collation_key": "ウチヤマ,トシオ",
+            "imprint": "ムイスリ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2611/9784896412611.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774193717",
+            "title": "ゼロからわかるHTML＆CSS超入門",
+            "title_collation_key": "ゼロ カラ ワカル エイチティーエムエル アンド シーエスエス チョウ ニュウモン",
+            "contributor": "太木裕子",
+            "contributor_collation_key": "オオキ,ヒロコ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3717/9784774193717.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784777520336",
+            "title": "Javaではじめる「ラムダ式」",
+            "title_collation_key": "ジャバ デ ハジメル ラムダシキ",
+            "contributor": "清水美樹",
+            "contributor_collation_key": "シミズ,ミキ",
+            "imprint": "工学社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0336/9784777520336.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774192635",
+            "title": "Perlではじめるプログラミング超入門第2版",
+            "title_collation_key": "パール デ ハジメル プログラミング チョウ ニュウモン",
+            "contributor": "高橋順子（情報処理）",
+            "contributor_collation_key": "タカハシ,ジュンコ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2635/9784774192635.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774193564",
+            "title": "かんたんJavaScript",
+            "title_collation_key": "カンタン ジャバスクリプト",
+            "contributor": "高橋広樹/佐藤美保",
+            "contributor_collation_key": "タカハシ,ヒロキ/サトウ,ミホ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3564/9784774193564.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784320124233",
+            "title": "すべての人のためのJavaプログラミング 第3版",
+            "title_collation_key": "スベテノヒトノタメノジャバプログラミングダイサンハン",
+            "contributor": "立木 秀樹/有賀 妙子",
+            "contributor_collation_key": "ツイキ ヒデキ/アリガ タエコ",
+            "imprint": "共立出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4233/9784320124233.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774192178",
+            "title": "3ステップでしっかり学ぶJavaScript入門改訂2版",
+            "title_collation_key": "スリー ステップ デ シッカリ マナブ ジャバスクリプト ニュウモン",
+            "contributor": "大津真",
+            "contributor_collation_key": "オオツ,マコト",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2178/9784774192178.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839961077",
+            "title": "ノンデザイナーでもわかる　UX＋理論で作るWebデザイン",
+            "title_collation_key": "ノンデザイナーデモワカル ユーエックスプラスリロンデツクルウェブデザイン",
+            "contributor": "川合 俊輔/大本 あかね",
+            "contributor_collation_key": "カワイ シュンスケ/オオモト アカネ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1077/9784839961077.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784908925184",
+            "title": "SNS地獄を生き抜くオトナ女子の文章作法",
+            "title_collation_key": "エスエヌエスジゴクヲイキヌクオトナジョシノブンショウサホウ",
+            "contributor": "石原壮一郎",
+            "contributor_collation_key": "イシハラソウイチロウ",
+            "imprint": "方丈社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5184/9784908925184.jpg?_ex=200x200"
+        }
+    ]
+}

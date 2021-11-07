@@ -1,1604 +1,1602 @@
-[
-    {
-        "shelf_title": "ビジネス・経済・就職/経済・財政",
-        "category": "経済・財政",
-        "back_cover_images": [
-            "back_cover_image/0035_1.png",
-            "back_cover_image/0035_2.png",
-            "back_cover_image/0035_3.png",
-            "back_cover_image/0035_4.png"
-        ],
-        "back_cover_low_images": [
-            "back_cover_low_image/0035_1_low.png",
-            "back_cover_low_image/0035_2_low.png",
-            "back_cover_low_image/0035_3_low.png",
-            "back_cover_low_image/0035_4_low.png"
-        ],
-        "books": [
-            {
-                "isbn": "9784828423548",
-                "title": "2030年を読む　黒いおカネの教科書（仮）",
-                "title_collation_key": "ニセンサンジュウネンヲヨムクロイオカネノキョウカショ",
-                "contributor": "猫組長",
-                "contributor_collation_key": "ネコクミチョウ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3548/9784828423548.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784828423432",
-                "title": "億万長者は税金を払わない",
-                "title_collation_key": "オクマンチョウジャハゼイキンヲハラワナイ",
-                "contributor": "大村大次郎",
-                "contributor_collation_key": "オオムラオオジロウ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3432/9784828423432.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784828423531",
-                "title": "ディープ・ステイトとの血みどろの戦いを勝ち抜く中国（仮）",
-                "title_collation_key": "ディープステイトトノチミドロノタタカイヲカチヌクチュウゴク",
-                "contributor": "副島隆彦",
-                "contributor_collation_key": "ソエジマタカヒコ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3531/9784828423531.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784828423494",
-                "title": "「数字に弱い」日本人の超・危険な生活",
-                "title_collation_key": "スウジニヨワイニホンジンノチョウキケンナセイカツ",
-                "contributor": "高橋洋一/上念司",
-                "contributor_collation_key": "タカハシヨウイチ/ジョウネンツカサ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3494/9784828423494.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784479393740",
-                "title": "食べる経済学",
-                "title_collation_key": "タベルケイザイガク",
-                "contributor": "下川　哲",
-                "contributor_collation_key": "シモカワ　サトル",
-                "imprint": "大和書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3740/9784479393740_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784641221802",
-                "title": "租税法〔第3版〕",
-                "title_collation_key": "ソゼイホウダイサンパン",
-                "contributor": "岡村 忠生/酒井 貴子",
-                "contributor_collation_key": "オカムラタダオ/サカイタカコ",
-                "imprint": "有斐閣",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1802/9784641221802_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784480074393",
-                "title": "金融化の世界史",
-                "title_collation_key": "キンユウカノセカイシ",
-                "contributor": "玉木　俊明",
-                "contributor_collation_key": "タマキ　トシアキ",
-                "imprint": "筑摩書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4393/9784480074393_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784641184565",
-                "title": "新・地方財政",
-                "title_collation_key": "シンチホウザイセイ",
-                "contributor": "林 宜嗣",
-                "contributor_collation_key": "ハヤシヨシツグ",
-                "imprint": "有斐閣",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4565/9784641184565_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299022202",
-                "title": "日本人の給料",
-                "title_collation_key": "ニホンジンノキュウリョウ",
-                "contributor": "浜 矩子/城 繁幸",
-                "contributor_collation_key": "ハマ ノリコ/ジョウ シゲユキ",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2202/9784299022202_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784562092215",
-                "title": "長寿・健康の人口学",
-                "title_collation_key": "チョウジュケンコウノジンコウガク",
-                "contributor": "金子 隆一/石井 太",
-                "contributor_collation_key": "カネコリュウイチ/イシイフトシ",
-                "imprint": "原書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2215/9784562092215_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784828423449",
-                "title": "日本再興",
-                "title_collation_key": "ニホンサイコウ",
-                "contributor": "増田悦佐",
-                "contributor_collation_key": "マスダエツスケ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3449/9784828423449_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784828423418",
-                "title": "中国共産党大解体",
-                "title_collation_key": "チュウウゴクキョウサントウダイカイタイ",
-                "contributor": "美達大和",
-                "contributor_collation_key": "ミタツヤマト",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3418/9784828423418_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433732714",
-                "title": "さっと読める！　実務必須の重要税務判例70",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2714/9784433732714_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784793126475",
-                "title": "わかりやすい年末調整の手引（令和3年版）",
-                "title_collation_key": "ワカリヤスイネンマツチョウセイノテビキレイワサンネンバン",
-                "contributor": "杉尾充茂",
-                "contributor_collation_key": "スギオミツシゲ",
-                "imprint": "税務研究会出版局",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6475/9784793126475_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784780718317",
-                "title": "「資本論」第2・3部講読のナビゲーション",
-                "title_collation_key": "シホンロンダイニサンブコウドクノナビゲーション",
-                "contributor": "中川　弘",
-                "contributor_collation_key": "ナカガワ　ヒロム",
-                "imprint": "本の泉社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8317/9784780718317_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784419068295",
-                "title": "消費税法要説〔三訂版〕",
-                "title_collation_key": "ショウヒゼイホウヨウセツ",
-                "contributor": "山内　ススム",
-                "contributor_collation_key": "ヤマウチ　ススム",
-                "imprint": "税務経理協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8295/9784419068295_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784906496631",
-                "title": "みんなの経済再生",
-                "title_collation_key": "ミンナ ノ ケイザイ サイセイ",
-                "contributor": "櫻井光行",
-                "contributor_collation_key": "サクライ,ミツユキ",
-                "imprint": "クラブハウス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6631/9784906496631_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784396617691",
-                "title": "コロナ対策経済で大不況に突入する世界",
-                "title_collation_key": "コロナタイサクケイザイデダイフキョウニトツニュウスルセカイ",
-                "contributor": "副島 隆彦",
-                "contributor_collation_key": "ソエジマ タカヒコ",
-                "imprint": "祥伝社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7691/9784396617691_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784044006488",
-                "title": "お金の日本史　近現代編（1）",
-                "title_collation_key": "オカネノニホンシ　キンゲンダイヘン",
-                "contributor": "井沢　元彦",
-                "contributor_collation_key": "イザワ　モトヒコ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6488/9784044006488_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784830951305",
-                "title": "岐路に立つアジア経済",
-                "title_collation_key": "キロニタツアジアケイザイ",
-                "contributor": "石川 幸一/馬田 啓一",
-                "contributor_collation_key": "イシカワ コウイチ/ウマダ ケイイチ",
-                "imprint": "文眞堂",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1305/9784830951305_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784862808196",
-                "title": "激変する世界の未来を予測する100年に1度の経済学",
-                "title_collation_key": "ゲキヘンスルセカイノミライヲヨソクスルヒャクネンニイチドノケイザイガク",
-                "contributor": "渋谷　和宏",
-                "contributor_collation_key": "シブヤ　カズヒロ",
-                "imprint": "総合法令出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8196/9784862808196_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784863967694",
-                "title": "ふるさと納税ニッポン！（Vol．14　2021-22冬）",
-                "title_collation_key": "フルサト ノウゼイ ニッポン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "アイハーツ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7694/9784863967694_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784805722725",
-                "title": "現代地方財政の諸相",
-                "title_collation_key": "ゲンダイチホウザイセイノショソウ",
-                "contributor": "関野 満夫",
-                "contributor_collation_key": "セキノ ミツオ",
-                "imprint": "中央大学出版部",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2725/9784805722725_1_78.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433701017",
-                "title": "令和3年分　年末調整の実務と法定調書の作り方",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1017/9784433701017_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784479797548",
-                "title": "これが日本の正体！",
-                "title_collation_key": "コレガニホンノショウタイ",
-                "contributor": "池上　彰",
-                "contributor_collation_key": "イケガミ　アキラ",
-                "imprint": "大和書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7548/9784479797548_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784479797517",
-                "title": "投資一年目のための経済と政治のニュースが面白いほどわかる本",
-                "title_collation_key": "トウシイチネンメノタメノケイザイトセイジノニュースガオモシロイホドワカルホン",
-                "contributor": "崔　真淑",
-                "contributor_collation_key": "サイ　マスミ",
-                "imprint": "大和書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7517/9784479797517_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784413211864",
-                "title": "明日を生きるための資本論",
-                "title_collation_key": "アスヲイキルタメノシホンロン",
-                "contributor": "的場昭弘",
-                "contributor_collation_key": "マトバアキヒロ",
-                "imprint": "青春出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1864/9784413211864_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784419068103",
-                "title": "租税法の潮流",
-                "title_collation_key": "ソゼイホウノチョウリュウ ダイニカン",
-                "contributor": "中里　実",
-                "contributor_collation_key": "ナカザト　ミノル",
-                "imprint": "税務経理協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8103/9784419068103_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784766427776",
-                "title": "マルクス派数理政治経済学",
-                "title_collation_key": "マルクスハスウリセイジケイザイガク",
-                "contributor": "大西 広",
-                "contributor_collation_key": "オオニシ ヒロシ",
-                "imprint": "慶應義塾大学出版会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7776/9784766427776_1_43.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784641499720",
-                "title": "国際労働力移動と社会保障",
-                "title_collation_key": "コクサイロウドウリョクイドウトシャカイホショウ",
-                "contributor": "日本財政学会",
-                "contributor_collation_key": "ニホンザイセイガッカイ",
-                "imprint": "有斐閣",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9720/9784641499720_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433705114",
-                "title": "令和3年10月改訂　地方税取扱いの手引",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5114/9784433705114_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433700119",
-                "title": "令和3年版　法人税の決算調整と申告の手引",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0119/9784433700119_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433702915",
-                "title": "令和3年版　申告所得税取扱いの手引",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2915/9784433702915_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784163913438",
-                "title": "帰属財産研究 韓国に埋もれた「日本資産」の真実",
-                "title_collation_key": "キゾクザイサンケンキュウ カンコクニウモレタニホンシサンノシンジツ",
-                "contributor": "李 大根/金光 英実",
-                "contributor_collation_key": "イ デグン/カネミツ ヒデミ",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3438/9784163913438_1_6.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784335358746",
-                "title": "税法基本講義",
-                "title_collation_key": "ゼイホウキホンコウギ",
-                "contributor": "谷口　勢津夫",
-                "contributor_collation_key": "タニグチ　セツオ",
-                "imprint": "弘文堂",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8746/9784335358746_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299021403",
-                "title": "2023年 台湾封鎖",
-                "title_collation_key": "ニセンニジュウサンネンタイワンフウサ",
-                "contributor": "北村 淳/早川 友久",
-                "contributor_collation_key": "キタムラ ジュン/ハヤカワ トモヒサ",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1403/9784299021403_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433704919",
-                "title": "令和3年版　個人の税務相談事例500選",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4919/9784433704919_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784480074348",
-                "title": "産業革命史",
-                "title_collation_key": "サンギョウカクメイシ",
-                "contributor": "郭　四志",
-                "contributor_collation_key": "カク　シシ",
-                "imprint": "筑摩書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4348/9784480074348_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295202127",
-                "title": "ゲームチェンジ日本",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "エムディエヌコーポレーション",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2127/9784295202127_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433735210",
-                "title": "国税調査の舞台裏",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5210/9784433735210_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502402517",
-                "title": "年末調整・法定調書の記載チェックポイント",
-                "title_collation_key": "ネンマツチョウセイホウテイチョウショノキサイチェックポイント",
-                "contributor": "野末 英男",
-                "contributor_collation_key": "ノズエ ヒデオ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2517/9784502402517_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784885464119",
-                "title": "地籍調査で未来を拓く",
-                "title_collation_key": "チセキ チョウサ デ ミライ オ ヒラク",
-                "contributor": "石塚修",
-                "contributor_collation_key": "イシズカ,オサム",
-                "imprint": "展望社（文京区）",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4119/9784885464119_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502398216",
-                "title": "公会計と公共マネジメント",
-                "title_collation_key": "コウカイケイトコウキョウマネジメント",
-                "contributor": "馬場 英朗/大川 裕介",
-                "contributor_collation_key": "ババ ヒデアキ/オオカワ ユウスケ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8216/9784502398216_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865792867",
-                "title": "関西経済白書（2021）",
-                "title_collation_key": "カンサイ ケイザイ ハクショ",
-                "contributor": "アジア太平洋研究所",
-                "contributor_collation_key": "アジア タイヘイヨウ ケンキュウジョ",
-                "imprint": "日経印刷",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2867/9784865792867_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865792881",
-                "title": "経済財政白書（令和3年版）",
-                "title_collation_key": "ケイザイ ザイセイ ハクショ",
-                "contributor": "内閣府",
-                "contributor_collation_key": "ナイカクフ",
-                "imprint": "日経印刷",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2881/9784865792881_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784867340349",
-                "title": "もう会社がつぶれる！！と思ったら読む本",
-                "title_collation_key": "モウカイシャガツブレルトオモッタラヨムホン",
-                "contributor": "丸山 一樹",
-                "contributor_collation_key": "マルヤマ カズキ",
-                "imprint": "Clover出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0349/9784867340349_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784406066259",
-                "title": "パンデミックと財政の大転換",
-                "title_collation_key": "パンデミックトザイセイノダイテンカン",
-                "contributor": "合田寛",
-                "contributor_collation_key": "ゴウダヒロシ",
-                "imprint": "新日本出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6259/9784406066259_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784396617653",
-                "title": "サステナブル資本主義　5％の「考える消費」が社会を変える",
-                "title_collation_key": "サステナブルシホンシュギ　ゴパーセントノカンガエルショウヒガシャカイヲカエル",
-                "contributor": "村上 誠典",
-                "contributor_collation_key": "ムラカミ タカフミ",
-                "imprint": "祥伝社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7653/9784396617653_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502832161",
-                "title": "法人税法",
-                "title_collation_key": "ホウジンゼイホウ",
-                "contributor": "渡辺 淑夫",
-                "contributor_collation_key": "ワタナベ ヨシオ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2161/9784502832161_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784750517186",
-                "title": "本当に野党ではダメなのか？",
-                "title_collation_key": "ホントウニヤトウデハダメナノカ",
-                "contributor": "及川 健二",
-                "contributor_collation_key": "オイカワ ケンジ",
-                "imprint": "亜紀書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7186/9784750517186_1_48.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784535540187",
-                "title": "ミクロ経済学入門　第2版",
-                "title_collation_key": "ミクロケイザイガクニュウモン　ダイニハン",
-                "contributor": "金　栄緑/坂上　紳",
-                "contributor_collation_key": "キム ヨンロク/サカウエ シン",
-                "imprint": "日本評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0187/9784535540187_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784535540194",
-                "title": "マクロ経済学入門　第2版",
-                "title_collation_key": "マクロケイザイガクニュウモン　ダイニハン",
-                "contributor": "坂上智哉/小葉武史",
-                "contributor_collation_key": "サカガミ トモヤ/コバ タケシ",
-                "imprint": "日本評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0194/9784535540194_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784828423289",
-                "title": "台湾VS中国　謀略の100年史",
-                "title_collation_key": "タイワンブイエスチュウゴクボウリャクノヒャクネンシ",
-                "contributor": "近藤大介",
-                "contributor_collation_key": "コンドウダイスケ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3289/9784828423289_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784828423272",
-                "title": "ドイツ見習え論が日本を滅ぼす",
-                "title_collation_key": "ドイツミナラエロンガニホンヲホロボス",
-                "contributor": "豊田有恒/川口マーン惠美",
-                "contributor_collation_key": "トヨタアリツネ/カワグチマーンエミ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3272/9784828423272_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784828422923",
-                "title": "株高・資源高に向かう世界経済入門",
-                "title_collation_key": "カブダカシゲンダカニムカウセカイケイザイニュウモン",
-                "contributor": "朝倉慶",
-                "contributor_collation_key": "アサクラケイ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2923/9784828422923_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784880377285",
-                "title": "コロナと地域経済",
-                "title_collation_key": "コロナトチイキケイザイ",
-                "contributor": "岡田知弘/宮津友多",
-                "contributor_collation_key": "オカダトモヒロ/ミヤツユウタ",
-                "imprint": "自治体研究社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7285/9784880377285.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784861327834",
-                "title": "少子化問題の経済学ー生きづらい社会で出生率は低下するー",
-                "title_collation_key": "ショウシカモンダイノケイザイガクブックレットニイガタダイガク",
-                "contributor": "溝口由己",
-                "contributor_collation_key": "ミゾグチユウキ",
-                "imprint": "新潟日報事業社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7834/9784861327834_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784754729301",
-                "title": "元徴収官による 国税・地方税徴収マニュアル",
-                "title_collation_key": "モトチョウシュウカンニヨル コクゼイチホウゼイチョウシュウマニュアル",
-                "contributor": "樽 敏朗",
-                "contributor_collation_key": "モタイ トシロウ",
-                "imprint": "大蔵財務協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9301/9784754729301.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784847071089",
-                "title": "無駄(規制)をやめたらいいことだらけ　令和の大減税と規制緩和",
-                "title_collation_key": "ムダキセイヲヤメタライイコトダラケ レイワノダイゲンゼイトキセイカンワ",
-                "contributor": "渡瀬 裕哉",
-                "contributor_collation_key": "ワタセ ユウヤ",
-                "imprint": "ワニブックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1089/9784847071089_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784130421539",
-                "title": "概説日本経済史　近現代　第4版",
-                "title_collation_key": "ガイセツニホンケイザイシ　キンゲンダイ",
-                "contributor": "三和　良一/三和　元",
-                "contributor_collation_key": "ミワ　リョウイチ/ミワ　ハジメ",
-                "imprint": "東京大学出版会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1539/9784130421539_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784121026590",
-                "title": "経済社会の学び方",
-                "title_collation_key": "ケイザイシャカイノマナビカタ",
-                "contributor": "猪木 武徳",
-                "contributor_collation_key": "イノキタケノリ",
-                "imprint": "中央公論新社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6590/9784121026590_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784313002975",
-                "title": "財政小六法　令和4年版",
-                "title_collation_key": "ザイセイショウロッポウレイワサンネンバン",
-                "contributor": "財政会計法規編集室",
-                "contributor_collation_key": "ザイセイカイケイホウキヘンシュウシツ",
-                "imprint": "学陽書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2975/9784313002975_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784532358969",
-                "title": "Q&A　日本経済のニュースがわかる！　2022年版",
-                "title_collation_key": "キューアンドエー ニホンケイザイノニュースガワカル ニセンニジュウニネンバン",
-                "contributor": "日本経済新聞社",
-                "contributor_collation_key": "ニホンケイザイシンブンシャ",
-                "imprint": "日経BP 日本経済新聞出版本部",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8969/9784532358969_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784003415214",
-                "title": "資本主義と市民社会 他十四篇",
-                "title_collation_key": "シホンシュギトシミンシャカイホカジュウヨンヘン",
-                "contributor": "大塚 久雄/齋藤 英里",
-                "contributor_collation_key": "オオツカ ヒサオ/サイトウ エイリ",
-                "imprint": "岩波書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5214/9784003415214_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784532323806",
-                "title": "マネジメント・テキスト　ビジネス・エコノミクス　第2版",
-                "title_collation_key": "マネジメント テキスト ビジネス エコノミクス ダイニハン",
-                "contributor": "伊藤 元重",
-                "contributor_collation_key": "イトウ モトシゲ",
-                "imprint": "日経BP 日本経済新聞出版本部",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3806/9784532323806_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784641243484",
-                "title": "デジタルプラットフォームと独禁法",
-                "title_collation_key": "デジタルプラットフォームトドッキンホウ",
-                "contributor": "日本経済法学会",
-                "contributor_collation_key": "ニホンケイザイホウガッカイ",
-                "imprint": "有斐閣",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3484/9784641243484_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433731816",
-                "title": "企業法務で知っておくべき　税務上の問題点100",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1816/9784433731816_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784022951403",
-                "title": "世界100年カレンダー　少子高齢化する地球でこれから起きること",
-                "title_collation_key": "セカイヒャクネンカレンダー ショウシコウレイカスルチキュウデコレカラオキルコト",
-                "contributor": "河合雅司",
-                "contributor_collation_key": "カワイマサシ",
-                "imprint": "朝日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1403/9784022951403_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784480510723",
-                "title": "日本資本主義の群像",
-                "title_collation_key": "ニホンシホンシュギノグンゾウ",
-                "contributor": "栂井　義雄",
-                "contributor_collation_key": "トガイ　ヨシオ",
-                "imprint": "筑摩書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0723/9784480510723_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866673165",
-                "title": "99％の日本人がわかっていない新・国債の真実",
-                "title_collation_key": "キュウジュウキュウパーセントノニホンジンガワカッテイナイシンコクサイノシンジツ",
-                "contributor": "高橋洋一",
-                "contributor_collation_key": "タカハシヨウイチ",
-                "imprint": "あさ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3165/9784866673165_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784754729325",
-                "title": "移転価格税制コンパクトガイド　令和3年版",
-                "title_collation_key": "イテンカカクゼイセイコンパクトガイド",
-                "contributor": "羽床 正秀/水野 時孝",
-                "contributor_collation_key": "ハユカ マサヒデ/ミズノ トキタカ",
-                "imprint": "大蔵財務協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9325/9784754729325_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784754729271",
-                "title": "ゼミナール相続税法（令和3年補訂）",
-                "title_collation_key": "ゼミナールソウゾクゼイホウ",
-                "contributor": "松岡 章夫",
-                "contributor_collation_key": "マツオカ アキオ",
-                "imprint": "大蔵財務協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9271/9784754729271.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784130461351",
-                "title": "奴隷制南部と保護主義",
-                "title_collation_key": "ドレイセイナンブトホゴシュギ",
-                "contributor": "平出　尚道",
-                "contributor_collation_key": "ヒライデ　ナオミチ",
-                "imprint": "東京大学出版会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1351/9784130461351_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784754729394",
-                "title": "裁判例からみる所得税法　二訂版",
-                "title_collation_key": "サイバンレイカラミルショトクゼイホウ",
-                "contributor": "酒井 克彦",
-                "contributor_collation_key": "サカイ カツヒコ",
-                "imprint": "大蔵財務協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9394/9784754729394.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784766427615",
-                "title": "マクロ経済統計と構造分析",
-                "title_collation_key": "マクロケイザイトウケイトコウゾウブンセキ",
-                "contributor": "辻村 雅子/辻村 和佑",
-                "contributor_collation_key": "ツジムラ マサコ/ツジムラ カズスケ",
-                "imprint": "慶應義塾大学出版会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7615/9784766427615_1_15.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784828423234",
-                "title": "日本分断計画",
-                "title_collation_key": "ニホンブンダンケイカク",
-                "contributor": "上念司",
-                "contributor_collation_key": "ジョウネンツカサ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3234/9784828423234_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784883843336",
-                "title": "基礎から学ぶ 実証分析",
-                "title_collation_key": "キソカラマナブ ジッショウブンセキ",
-                "contributor": "丸茂　幸平",
-                "contributor_collation_key": "マルモ　コウヘイ",
-                "imprint": "新世社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3336/9784883843336_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784408339870",
-                "title": "アイデア資本主義",
-                "title_collation_key": "アイデアシホンシュギ",
-                "contributor": "大川内 直子",
-                "contributor_collation_key": "オオカワチナオコ",
-                "imprint": "実業之日本社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9870/9784408339870_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784908117787",
-                "title": "改訂版　税金を払わずに生きてゆく逃税術",
-                "title_collation_key": "カイテイバン　ゼイキンヲハラワズニイキテユクトウゼイジュツ",
-                "contributor": "大村大次郎",
-                "contributor_collation_key": "オオムラオオジロウ",
-                "imprint": "悟空出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7787/9784908117787_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784326504879",
-                "title": "ミクロデータからみる現代中国の社会と経済",
-                "title_collation_key": "ミクロデータカラミルゲンダイチュウゴクノシャカイトケイザイ",
-                "contributor": "厳　善平",
-                "contributor_collation_key": "ゲン　ゼンヘイ",
-                "imprint": "勁草書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4879/9784326504879_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784903145730",
-                "title": "ケインズ",
-                "title_collation_key": "ケインズ",
-                "contributor": "西部邁",
-                "contributor_collation_key": "ニシベ,ススム",
-                "imprint": "明月堂書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5730/9784903145730_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784324110379",
-                "title": "要説住民税（令和3年度版）",
-                "title_collation_key": "ヨウセツ ジュウミンゼイ",
-                "contributor": "市町村税務研究会",
-                "contributor_collation_key": "シチョウソン ゼイム ケンキュウカイ",
-                "imprint": "ぎょうせい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0379/9784324110379_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784909946331",
-                "title": "土地白書（令和3年版）",
-                "title_collation_key": "トチ ハクショ",
-                "contributor": "国土交通省",
-                "contributor_collation_key": "コクド コウツウショウ",
-                "imprint": "勝美印刷",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6331/9784909946331.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784642039055",
-                "title": "満洲移民・青少年義勇軍の研究",
-                "title_collation_key": "マンシュウイミンセイショウネンギユウグンノケンキュウ",
-                "contributor": "本島　和人",
-                "contributor_collation_key": "モトジマ　カズト",
-                "imprint": "吉川弘文館",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9055/9784642039055_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784535540057",
-                "title": "新型コロナ感染の政策課題と分析",
-                "title_collation_key": "シンガタコロナカンセンノセイサクカダイトブンセキ",
-                "contributor": "焼田 党/細江守紀",
-                "contributor_collation_key": "ヤキタ　アキラ/ホソエ　モリキ",
-                "imprint": "日本評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0057/9784535540057_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784286228877",
-                "title": "図解30分でわかる日本が財政破綻しないたしかな理由",
-                "title_collation_key": "ズカイ サンジュップン デ ワカル ニホン ガ ザイセイ ハタン シナイ タシ",
-                "contributor": "川村史朗",
-                "contributor_collation_key": "カワムラ,フミオ",
-                "imprint": "文芸社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8877/9784286228877_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784419068233",
-                "title": "所得税法　理論と計算〔十五訂版〕",
-                "title_collation_key": "ショトクゼイホウ　リロントケイサン",
-                "contributor": "池本　征男",
-                "contributor_collation_key": "イケモト　ユクオ",
-                "imprint": "税務経理協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8233/9784419068233_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784750351773",
-                "title": "人の移動とエスニシティ",
-                "title_collation_key": "ヒトノイドウトエスニシティ",
-                "contributor": "中坂　恵美子/池田　賢市",
-                "contributor_collation_key": "ナカサカ エミコ/イケダ ケンイチ",
-                "imprint": "明石書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1773/9784750351773_1_16.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784130402996",
-                "title": "不確かさの時代の資本主義",
-                "title_collation_key": "フタシカサノジダイノシホンシュギ",
-                "contributor": "宮川　公男",
-                "contributor_collation_key": "ミヤカワ　タダオ",
-                "imprint": "東京大学出版会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2996/9784130402996_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784881774816",
-                "title": "図説 ポストコロナの世界経済と激動する国際金融",
-                "title_collation_key": "ズセツ　ポストコロナノセカイケイザイトゲキドウスルコクサイキンユウ",
-                "contributor": "神田眞人",
-                "contributor_collation_key": "カンダマサト",
-                "imprint": "財経詳報社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4816/9784881774816_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784409241424",
-                "title": "16歳からの経済学",
-                "title_collation_key": "ジュウロクサイカラノケイザイガク",
-                "contributor": "根井 雅弘",
-                "contributor_collation_key": "",
-                "imprint": "人文書院",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1424/9784409241424_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784641221796",
-                "title": "現代中国経済〔新版〕",
-                "title_collation_key": "ゲンダイチュウゴクケイザイシンパン",
-                "contributor": "丸川 知雄",
-                "contributor_collation_key": "マルカワトモオ",
-                "imprint": "有斐閣",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1796/9784641221796_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784562059324",
-                "title": "地図とデータで見る人口の世界ハンドブック",
-                "title_collation_key": "チズトデータデミルジンコウノセカイハンドブック",
-                "contributor": "ジル・ピゾン/吉田 春美",
-                "contributor_collation_key": "ジルピゾン/ヨシダハルミ",
-                "imprint": "原書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9324/9784562059324_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784788517400",
-                "title": "資本主義から価値主義へ",
-                "title_collation_key": "シホンシュギカラカチシュギヘ",
-                "contributor": "佐藤 典司",
-                "contributor_collation_key": "サトウ ノリジ",
-                "imprint": "新曜社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7400/9784788517400_1_6.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433759414",
-                "title": "グレーター・チャイナの経済・金融ハンドブック",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9414/9784433759414_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784828423067",
-                "title": "「中華未来主義」との対決",
-                "title_collation_key": "チュウカミライシュギトノタイケツ",
-                "contributor": "藤井聡",
-                "contributor_collation_key": "フジイサトシ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3067/9784828423067_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433722210",
-                "title": "令和3年8月改訂　路線価による土地評価の実務",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2210/9784433722210_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433722210",
-                "title": "令和3年8月改訂　路線価による土地評価の実務",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2210/9784433722210_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784793126376",
-                "title": "税法便覧（令和3年度版）",
-                "title_collation_key": "ゼイホウビンランレイワサンネンドバン",
-                "contributor": "川上文吾/岡崎猛",
-                "contributor_collation_key": "カワカミブンゴ/オカザキタケシ",
-                "imprint": "税務研究会出版局",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6376/9784793126376_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784828422824",
-                "title": "哀れな韓国人",
-                "title_collation_key": "アワレナカンコクジン",
-                "contributor": "金文学",
-                "contributor_collation_key": "キンブンガク",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2824/9784828422824_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784419068271",
-                "title": "知っておきたい国税の常識　第23版",
-                "title_collation_key": "シッテオキタイ　コクゼイノジョウシキ",
-                "contributor": "大淵　博義/安田　京子",
-                "contributor_collation_key": "オオフチ　ヒロヨシ/ヤスタ　キョウコ",
-                "imprint": "税務経理協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8271/9784419068271_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784623091928",
-                "title": "日本の国際協力 中東・アフリカ編",
-                "title_collation_key": "ニホンノコクサイキョウリョク　チュウトウアフリカヘン",
-                "contributor": "阪本　公美子/岡野内　正",
-                "contributor_collation_key": "サカモト　クミコ/オカノウチ　タダシ",
-                "imprint": "ミネルヴァ書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1928/9784623091928_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784492396629",
-                "title": "ネットニュースではわからない本当の日本経済入門",
-                "title_collation_key": "ネットニュースデハワカラナイホントウノニホンケイザイニュウモン",
-                "contributor": "伊藤 元重",
-                "contributor_collation_key": "イトウ モトシゲ",
-                "imprint": "東洋経済新報社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6629/9784492396629.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433416317",
-                "title": "田中治税法著作集　第3巻　租税実体法の諸相と論点ー所得課税",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6317/9784433416317_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784163914206",
-                "title": "私たちはなぜこんなに貧しくなったのか",
-                "title_collation_key": "ワタシタチハナゼコンナニマズシクナッタノカ",
-                "contributor": "荻原 博子",
-                "contributor_collation_key": "オギワラ ヒロコ",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4206/9784163914206_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784562092192",
-                "title": "自然災害と人口",
-                "title_collation_key": "シゼンサイガイトジンコウ",
-                "contributor": "井上 孝/和田 光平",
-                "contributor_collation_key": "イノウエ タカシ/ワダ コウヘイ",
-                "imprint": "原書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2192/9784562092192_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433416218",
-                "title": "田中治税法著作集　第2巻　所得税をめぐる紛争の特質とその解釈論",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6218/9784433416218_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433416515",
-                "title": "田中治税法著作集　第5巻　租税手続法の諸相と論点",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6515/9784433416515_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784875558675",
-                "title": "国税・森林環境税ー問題だらけの増税",
-                "title_collation_key": "コクゼイシンリンカンキョウゼイモンダイダラケノゾウゼイ",
-                "contributor": "青木宗明/飛田博史",
-                "contributor_collation_key": "アオキムネアキ/トビタヒロシ",
-                "imprint": "公人の友社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8675/9784875558675_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433721916",
-                "title": "令和3年7月改訂／詳解　小規模宅地等の課税特例の実務",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1916/9784433721916_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784754729356",
-                "title": "裁決事例集　第121集",
-                "title_collation_key": "サイケツジレイシュウ",
-                "contributor": "大蔵財務協会",
-                "contributor_collation_key": "オオクラザイムキョウカイ",
-                "imprint": "大蔵財務協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9356/9784754729356.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433700515",
-                "title": "令和3年版　源泉所得税取扱いの手引",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0515/9784433700515_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784326504862",
-                "title": "完全理解　ゲーム理論・契約理論　第2版",
-                "title_collation_key": "カンゼンリカイゲームリロンケイヤクリロンダイニハン",
-                "contributor": "鈴木　豊",
-                "contributor_collation_key": "スズキ　ユタカ",
-                "imprint": "勁草書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4862/9784326504862_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784641165816",
-                "title": "財政学〔第3版〕",
-                "title_collation_key": "ザイセイガクダイサンハン",
-                "contributor": "神野 直彦",
-                "contributor_collation_key": "ジンノナオヒコ",
-                "imprint": "有斐閣",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5816/9784641165816_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784569850146",
-                "title": "自由と成長の経済学",
-                "title_collation_key": "ジユウトセイチョウノケイザイガク",
-                "contributor": "柿埜 真吾",
-                "contributor_collation_key": "カキノ シンゴ",
-                "imprint": "PHP研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0146/9784569850146_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784641001572",
-                "title": "租税法判例六法〔第5版〕",
-                "title_collation_key": "ソゼイホウハンレイロッポウダイゴハン",
-                "contributor": "中里 実/増井 良啓",
-                "contributor_collation_key": "ナカザトミノル/マスイヨシヒロ",
-                "imprint": "有斐閣",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1572/9784641001572_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784335551987",
-                "title": "これからのインフラ開発",
-                "title_collation_key": "コレカラノインフラカイハツ",
-                "contributor": "徳永　達己/武田　晋一",
-                "contributor_collation_key": "トクナガ　タツミ/タケダ　シンイチ",
-                "imprint": "弘文堂",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1987/9784335551987_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784754728977",
-                "title": "租税徴収の実務対策101",
-                "title_collation_key": "ソゼイチョウシュウノジツムタイサクヒャクイチ",
-                "contributor": "橘 素子",
-                "contributor_collation_key": "タチバナ モトコ",
-                "imprint": "大蔵財務協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8977/9784754728977.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784022951380",
-                "title": "税と公助　置き去りの将来世代",
-                "title_collation_key": "ゼイトコウジョ オキザリノショウライセダイ",
-                "contributor": "伊藤裕香子",
-                "contributor_collation_key": "イトウユカコ",
-                "imprint": "朝日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1380/9784022951380_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784883843343",
-                "title": "経済学入門15講",
-                "title_collation_key": "ケイザイガクニュウモンジュウゴコウ",
-                "contributor": "浅子　和美",
-                "contributor_collation_key": "アサコ　カズミ",
-                "imprint": "新世社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3343/9784883843343_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784754729103",
-                "title": "図解 酒税　令和3年版",
-                "title_collation_key": "ズカイ シュゼイ",
-                "contributor": "富川 泰敬",
-                "contributor_collation_key": "フカワ ヤスヒロ",
-                "imprint": "大蔵財務協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9103/9784754729103.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784842918143",
-                "title": "【POD】財政学と公共経済学はじめの一歩（改訂版）",
-                "title_collation_key": "ザイセイガクトコウキョウケイザイガクハジメノイッポ",
-                "contributor": "仲林真子",
-                "contributor_collation_key": "ナカバヤシミチコ",
-                "imprint": "八千代出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8143/9784842918143.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784492315361",
-                "title": "反緊縮の経済学",
-                "title_collation_key": "ハンキンシュクノケイザイガク",
-                "contributor": "野口 旭",
-                "contributor_collation_key": "ノグチ アサヒ",
-                "imprint": "東洋経済新報社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5361/9784492315361_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502395710",
-                "title": "Q＆Aでわかる令和3年度税制改正の実務",
-                "title_collation_key": "キューアンドエーデワカルレイワサンネンドゼイセイカイセイノジツム",
-                "contributor": "宮森 俊樹",
-                "contributor_collation_key": "ミヤモリ トシキ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5710/9784502395710_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784532240042",
-                "title": "経済学の宇宙",
-                "title_collation_key": "ケイザイガクノウチュウ",
-                "contributor": "岩井 克人/前田 裕之",
-                "contributor_collation_key": "イワイ カツヒト/マエダ ヒロユキ",
-                "imprint": "日経BP 日本経済新聞出版本部",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0042/9784532240042_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784766834512",
-                "title": "税の基礎2021年度版",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "経済法令研究会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4512/9784766834512_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784754729073",
-                "title": "図解 財産評価　令和3年版",
-                "title_collation_key": "ズカイ ザイサンヒョウカ",
-                "contributor": "櫻井 元博",
-                "contributor_collation_key": "サクラ モトヒロ",
-                "imprint": "大蔵財務協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9073/9784754729073_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784419068226",
-                "title": "知っておきたい　相続税の常識〔第22版〕",
-                "title_collation_key": "シッテオキタイソウゾクゼイノジョウシキ",
-                "contributor": "小池　正明",
-                "contributor_collation_key": "コイケ　マサアキ",
-                "imprint": "税務経理協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8226/9784419068226_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784766834475",
-                "title": "税金入門2021年度版",
-                "title_collation_key": "ゼイキンニュウモンニセンニジュウイチネンドバン",
-                "contributor": "税理士法人中央総研",
-                "contributor_collation_key": "ゼイリシホウジンチュウオウソウケン",
-                "imprint": "経済法令研究会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4475/9784766834475_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784130402989",
-                "title": "グローバルリスクと世界経済",
-                "title_collation_key": "グローバルリスクトセカイケイザイ",
-                "contributor": "小川　英治",
-                "contributor_collation_key": "オガワ　エイジ",
-                "imprint": "東京大学出版会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2989/9784130402989_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582667",
-                "title": "札幌国税局管内財産評価基準書（令和3年分　第五分冊）",
-                "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "札幌国税局",
-                "contributor_collation_key": "サッポロ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2667/9784864582667.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582513",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第四分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2513/9784864582513.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582599",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第十二分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2599/9784864582599.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582568",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第九分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2568/9784864582568.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582506",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第三分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2506/9784864582506.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582575",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第十分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2575/9784864582575.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582544",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第七分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2544/9784864582544.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582490",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第二分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2490/9784864582490.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582636",
-                "title": "札幌国税局管内財産評価基準書（令和3年分　第二分冊）",
-                "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "札幌国税局",
-                "contributor_collation_key": "サッポロ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2636/9784864582636.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582650",
-                "title": "札幌国税局管内財産評価基準書（令和3年分　第四分冊）",
-                "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "札幌国税局",
-                "contributor_collation_key": "サッポロ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2650/9784864582650.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784909585820",
-                "title": "ハンガリー（2021／22年版）",
-                "title_collation_key": "ハンガリー",
-                "contributor": "ARC国別情勢研究会",
-                "contributor_collation_key": "アーク クニベツ ジョウセイ ケンキュウカイ",
-                "imprint": "ARC国別情勢研究会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5820/9784909585820_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582483",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第一分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2483/9784864582483.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582643",
-                "title": "札幌国税局管内財産評価基準書（令和3年分　第三分冊）",
-                "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "札幌国税局",
-                "contributor_collation_key": "サッポロ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2643/9784864582643.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582520",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第五分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2520/9784864582520.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784909585837",
-                "title": "ポーランド（2021／22年版）",
-                "title_collation_key": "ポーランド",
-                "contributor": "ARC国別情勢研究会",
-                "contributor_collation_key": "アーク クニベツ ジョウセイ ケンキュウカイ",
-                "imprint": "ARC国別情勢研究会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5837/9784909585837_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582582",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第十一分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2582/9784864582582.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582629",
-                "title": "札幌国税局管内財産評価基準書（令和3年分　第一分冊）",
-                "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "札幌国税局",
-                "contributor_collation_key": "サッポロ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2629/9784864582629.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582612",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第十四分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2612/9784864582612.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784910316093",
-                "title": "税法の基本11訂版",
-                "title_collation_key": "ゼイホウ ノ キホン",
-                "contributor": "藤本清一/林幸一",
-                "contributor_collation_key": "フジモト,セイイチ/ハヤシ,コウイチ",
-                "imprint": "実務出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6093/9784910316093_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582650",
-                "title": "札幌国税局管内財産評価基準書（令和3年分　第四分冊）",
-                "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "札幌国税局",
-                "contributor_collation_key": "サッポロ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2650/9784864582650.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784910172071",
-                "title": "マルクスの光と影",
-                "title_collation_key": "マルクス ノ ヒカリ ト カゲ",
-                "contributor": "村岡到",
-                "contributor_collation_key": "ムラオカ,イタル",
-                "imprint": "ロゴス（文京区）",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2071/9784910172071_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784864582483",
-                "title": "東京国税局管内財産評価基準書（令和3年分　第一分冊）",
-                "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-                "contributor": "東京国税局",
-                "contributor_collation_key": "トウキョウ コクゼイキョク",
-                "imprint": "全国官報販売協同組合",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2483/9784864582483.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784910316093",
-                "title": "税法の基本11訂版",
-                "title_collation_key": "ゼイホウ ノ キホン",
-                "contributor": "藤本清一/林幸一",
-                "contributor_collation_key": "フジモト,セイイチ/ハヤシ,コウイチ",
-                "imprint": "実務出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6093/9784910316093_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784324110447",
-                "title": "国土交通省会計実務要覧（令和3年度版）",
-                "title_collation_key": "コクド コウツウショウ カイケイ ジツム ヨウラン",
-                "contributor": "ぎょうせい",
-                "contributor_collation_key": "ギョウセイ",
-                "imprint": "ぎょうせい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0447/9784324110447_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784909237620",
-                "title": "マルクスの物象化論［新版］",
-                "title_collation_key": "",
-                "contributor": "佐々木 隆治",
-                "contributor_collation_key": "ササキ リュウジ",
-                "imprint": "堀之内出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7620/9784909237620_1_51.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784909090621",
-                "title": "新版【法律・政省令並記】逐条解説　外国子会社合算税制",
-                "title_collation_key": "シンパンホウリツセイショウレイヘイキチクジョウカイセツガイコクコガイシャガッサンゼイセイ",
-                "contributor": "梅本 淳久",
-                "contributor_collation_key": "ウメモト アツヒサ",
-                "imprint": "ロギカ書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0621/9784909090621.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784560098516",
-                "title": "英語原典で読むマーシャル",
-                "title_collation_key": "エイゴゲンテンデヨムマーシャル",
-                "contributor": "伊藤　宣広",
-                "contributor_collation_key": "イトウ　ノブヒロ",
-                "imprint": "白水社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8516/9784560098516_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784750352251",
-                "title": "フランス経済学史教養講義",
-                "title_collation_key": "フランスケイザイガクシキョウヨウコウギ",
-                "contributor": "橘木　俊詔",
-                "contributor_collation_key": "タチバナキ トシアキ",
-                "imprint": "明石書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2251/9784750352251_1_11.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784754729080",
-                "title": "図解 地方税　令和3年版",
-                "title_collation_key": "ズカイ チホウゼイ",
-                "contributor": "石橋 茂",
-                "contributor_collation_key": "イシバシ シゲル",
-                "imprint": "大蔵財務協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9080/9784754729080.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784415330143",
-                "title": "マンガでわかる！税金のすべて '21〜'22年版",
-                "title_collation_key": "マンガデワカルゼイキンノスベテニセンニジュウイチカラニセンニジュウニネンバン",
-                "contributor": "須田　邦裕",
-                "contributor_collation_key": "スダ　クニヒロ",
-                "imprint": "成美堂出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0143/9784415330143_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784830951411",
-                "title": "復興する中国",
-                "title_collation_key": "フッコウスルチュウゴク",
-                "contributor": "服部 健治/湯浅 健司",
-                "contributor_collation_key": "ハットリ ケンジ/ユアサ ケンジ",
-                "imprint": "文眞堂",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1411/9784830951411_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801305441",
-                "title": "徳川幕府の資金繰り",
-                "title_collation_key": "トクガワバクフノシキングリ",
-                "contributor": "安藤 優一郎",
-                "contributor_collation_key": "アンドウ ユウイチロウ",
-                "imprint": "彩図社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5441/9784801305441_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784750352282",
-                "title": "日本社会の移民第二世代",
-                "title_collation_key": "ニホンシャカイノイミンダイニセダイ",
-                "contributor": "清水　睦美/児島　明",
-                "contributor_collation_key": "シミズ ムツミ/コジマ アキラ",
-                "imprint": "明石書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2282/9784750352282_1_23.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784793126192",
-                "title": "法人税基本通達逐条解説（十訂版）",
-                "title_collation_key": "ホウジンゼイキホンツウタツチクジョウカイセツジッテイバン",
-                "contributor": "高橋正朗",
-                "contributor_collation_key": "タカハシマサアキ",
-                "imprint": "税務研究会出版局",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6192/9784793126192_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784828423074",
-                "title": "世界通貨を発行せよ！",
-                "title_collation_key": "セカイツウカヲハッコウセヨ",
-                "contributor": "大村大次郎",
-                "contributor_collation_key": "オオムラオオジロウ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3074/9784828423074_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784275021502",
-                "title": "近代日本の移民と国家・地域社会",
-                "title_collation_key": "キンダイニホンノイミントコッカチイキシャカイ",
-                "contributor": "木村健二",
-                "contributor_collation_key": "キムラケンジ",
-                "imprint": "御茶の水書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1502/9784275021502_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784754729042",
-                "title": "図解 譲渡所得　令和3年版",
-                "title_collation_key": "ズカイ ジョウトショトク",
-                "contributor": "加藤 千博",
-                "contributor_collation_key": "カトウ チヒロ",
-                "imprint": "大蔵財務協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9042/9784754729042_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784166613212",
-                "title": "実録　脱税の手口",
-                "title_collation_key": "ジツロク　ダツゼイノテグチ",
-                "contributor": "田中 周紀",
-                "contributor_collation_key": "タナカ チカキ",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3212/9784166613212_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502395314",
-                "title": "入門 財政学",
-                "title_collation_key": "ニュウモン ザイセイガク",
-                "contributor": "林 宏昭/玉岡 雅之",
-                "contributor_collation_key": "ハヤシ ヒロアキ/タマオカ マサユキ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5314/9784502395314_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784829508169",
-                "title": "米中の経済安全保障戦略",
-                "title_collation_key": "ベイチュウノケイザイアンゼンホショウセンリャク",
-                "contributor": "村山 裕三/鈴木 一人",
-                "contributor_collation_key": "ムラヤマ ユウゾウ/スズキ カズト",
-                "imprint": "芙蓉書房出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8169/9784829508169_1_71.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784881774793",
-                "title": "スタートアップ租税法 第4版",
-                "title_collation_key": "スタートアップソゼイホウ　ダイヨンハン",
-                "contributor": "酒井克彦",
-                "contributor_collation_key": "サカイカツヒコ",
-                "imprint": "財経詳報社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4793/9784881774793.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784334045500",
-                "title": "「日本型格差社会」からの脱却",
-                "title_collation_key": "ニホンガタカクサシャカイカラノダッキャク",
-                "contributor": "岩田規久男",
-                "contributor_collation_key": "イワタ キクオ",
-                "imprint": "光文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5500/9784334045500_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433702014",
-                "title": "令和3年版　消費税の取扱いと申告の手引",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2014/9784433702014_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433702113",
-                "title": "令和3年6月改訂　消費税実務問答集",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2113/9784433702113_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433700614",
-                "title": "令和3年版／問答式　源泉所得税の実務",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0614/9784433700614_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784641228146",
-                "title": "消費課税の将来構想",
-                "title_collation_key": "ショウヒカゼイノショウライコウソウ",
-                "contributor": "租税法学会",
-                "contributor_collation_key": "ソゼイホウガッカイ",
-                "imprint": "有斐閣",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8146/9784641228146_1_5.jpg?_ex=200x200"
-            }
-        ]
-    }
-]
+{
+    "shelf_title": "ビジネス・経済・就職/経済・財政",
+    "category": "経済・財政",
+    "back_cover_images": [
+        "back_cover_img/0035_1.png",
+        "back_cover_img/0035_2.png",
+        "back_cover_img/0035_3.png",
+        "back_cover_img/0035_4.png"
+    ],
+    "back_cover_low_images": [
+        "back_cover_low_img/0035_1_low.png",
+        "back_cover_low_img/0035_2_low.png",
+        "back_cover_low_img/0035_3_low.png",
+        "back_cover_low_img/0035_4_low.png"
+    ],
+    "books": [
+        {
+            "isbn": "9784828423548",
+            "title": "2030年を読む　黒いおカネの教科書（仮）",
+            "title_collation_key": "ニセンサンジュウネンヲヨムクロイオカネノキョウカショ",
+            "contributor": "猫組長",
+            "contributor_collation_key": "ネコクミチョウ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3548/9784828423548.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784828423432",
+            "title": "億万長者は税金を払わない",
+            "title_collation_key": "オクマンチョウジャハゼイキンヲハラワナイ",
+            "contributor": "大村大次郎",
+            "contributor_collation_key": "オオムラオオジロウ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3432/9784828423432.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784828423494",
+            "title": "「数字に弱い」日本人の超・危険な生活",
+            "title_collation_key": "スウジニヨワイニホンジンノチョウキケンナセイカツ",
+            "contributor": "高橋洋一/上念司",
+            "contributor_collation_key": "タカハシヨウイチ/ジョウネンツカサ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3494/9784828423494.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784828423531",
+            "title": "ディープ・ステイトとの血みどろの戦いを勝ち抜く中国（仮）",
+            "title_collation_key": "ディープステイトトノチミドロノタタカイヲカチヌクチュウゴク",
+            "contributor": "副島隆彦",
+            "contributor_collation_key": "ソエジマタカヒコ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3531/9784828423531.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784479393740",
+            "title": "食べる経済学",
+            "title_collation_key": "タベルケイザイガク",
+            "contributor": "下川　哲",
+            "contributor_collation_key": "シモカワ　サトル",
+            "imprint": "大和書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3740/9784479393740_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784641184565",
+            "title": "新・地方財政",
+            "title_collation_key": "シンチホウザイセイ",
+            "contributor": "林 宜嗣",
+            "contributor_collation_key": "ハヤシヨシツグ",
+            "imprint": "有斐閣",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4565/9784641184565_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784480074393",
+            "title": "金融化の世界史",
+            "title_collation_key": "キンユウカノセカイシ",
+            "contributor": "玉木　俊明",
+            "contributor_collation_key": "タマキ　トシアキ",
+            "imprint": "筑摩書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4393/9784480074393_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784641221802",
+            "title": "租税法〔第3版〕",
+            "title_collation_key": "ソゼイホウダイサンパン",
+            "contributor": "岡村 忠生/酒井 貴子",
+            "contributor_collation_key": "オカムラタダオ/サカイタカコ",
+            "imprint": "有斐閣",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1802/9784641221802_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299022202",
+            "title": "日本人の給料",
+            "title_collation_key": "ニホンジンノキュウリョウ",
+            "contributor": "浜 矩子/城 繁幸",
+            "contributor_collation_key": "ハマ ノリコ/ジョウ シゲユキ",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2202/9784299022202_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784562092215",
+            "title": "長寿・健康の人口学",
+            "title_collation_key": "チョウジュケンコウノジンコウガク",
+            "contributor": "金子 隆一/石井 太",
+            "contributor_collation_key": "カネコリュウイチ/イシイフトシ",
+            "imprint": "原書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2215/9784562092215_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433732714",
+            "title": "さっと読める！　実務必須の重要税務判例70",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2714/9784433732714_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784828423449",
+            "title": "日本再興",
+            "title_collation_key": "ニホンサイコウ",
+            "contributor": "増田悦佐",
+            "contributor_collation_key": "マスダエツスケ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3449/9784828423449_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784828423418",
+            "title": "中国共産党大解体",
+            "title_collation_key": "チュウウゴクキョウサントウダイカイタイ",
+            "contributor": "美達大和",
+            "contributor_collation_key": "ミタツヤマト",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3418/9784828423418_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784793126475",
+            "title": "わかりやすい年末調整の手引（令和3年版）",
+            "title_collation_key": "ワカリヤスイネンマツチョウセイノテビキレイワサンネンバン",
+            "contributor": "杉尾充茂",
+            "contributor_collation_key": "スギオミツシゲ",
+            "imprint": "税務研究会出版局",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6475/9784793126475_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784780718317",
+            "title": "「資本論」第2・3部講読のナビゲーション",
+            "title_collation_key": "シホンロンダイニサンブコウドクノナビゲーション",
+            "contributor": "中川　弘",
+            "contributor_collation_key": "ナカガワ　ヒロム",
+            "imprint": "本の泉社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8317/9784780718317_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784419068295",
+            "title": "消費税法要説〔三訂版〕",
+            "title_collation_key": "ショウヒゼイホウヨウセツ",
+            "contributor": "山内　ススム",
+            "contributor_collation_key": "ヤマウチ　ススム",
+            "imprint": "税務経理協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8295/9784419068295_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784906496631",
+            "title": "みんなの経済再生",
+            "title_collation_key": "ミンナ ノ ケイザイ サイセイ",
+            "contributor": "櫻井光行",
+            "contributor_collation_key": "サクライ,ミツユキ",
+            "imprint": "クラブハウス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6631/9784906496631_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784396617691",
+            "title": "コロナ対策経済で大不況に突入する世界",
+            "title_collation_key": "コロナタイサクケイザイデダイフキョウニトツニュウスルセカイ",
+            "contributor": "副島 隆彦",
+            "contributor_collation_key": "ソエジマ タカヒコ",
+            "imprint": "祥伝社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7691/9784396617691_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784830951305",
+            "title": "岐路に立つアジア経済",
+            "title_collation_key": "キロニタツアジアケイザイ",
+            "contributor": "石川 幸一/馬田 啓一",
+            "contributor_collation_key": "イシカワ コウイチ/ウマダ ケイイチ",
+            "imprint": "文眞堂",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1305/9784830951305_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784044006488",
+            "title": "お金の日本史　近現代編（1）",
+            "title_collation_key": "オカネノニホンシ　キンゲンダイヘン",
+            "contributor": "井沢　元彦",
+            "contributor_collation_key": "イザワ　モトヒコ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6488/9784044006488_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784862808196",
+            "title": "激変する世界の未来を予測する100年に1度の経済学",
+            "title_collation_key": "ゲキヘンスルセカイノミライヲヨソクスルヒャクネンニイチドノケイザイガク",
+            "contributor": "渋谷　和宏",
+            "contributor_collation_key": "シブヤ　カズヒロ",
+            "imprint": "総合法令出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8196/9784862808196_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784863967694",
+            "title": "ふるさと納税ニッポン！（Vol．14　2021-22冬）",
+            "title_collation_key": "フルサト ノウゼイ ニッポン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "アイハーツ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7694/9784863967694_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784805722725",
+            "title": "現代地方財政の諸相",
+            "title_collation_key": "ゲンダイチホウザイセイノショソウ",
+            "contributor": "関野 満夫",
+            "contributor_collation_key": "セキノ ミツオ",
+            "imprint": "中央大学出版部",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2725/9784805722725_1_78.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433701017",
+            "title": "令和3年分　年末調整の実務と法定調書の作り方",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1017/9784433701017_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784479797548",
+            "title": "これが日本の正体！",
+            "title_collation_key": "コレガニホンノショウタイ",
+            "contributor": "池上　彰",
+            "contributor_collation_key": "イケガミ　アキラ",
+            "imprint": "大和書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7548/9784479797548_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784479797517",
+            "title": "投資一年目のための経済と政治のニュースが面白いほどわかる本",
+            "title_collation_key": "トウシイチネンメノタメノケイザイトセイジノニュースガオモシロイホドワカルホン",
+            "contributor": "崔　真淑",
+            "contributor_collation_key": "サイ　マスミ",
+            "imprint": "大和書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7517/9784479797517_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784413211864",
+            "title": "明日を生きるための資本論",
+            "title_collation_key": "アスヲイキルタメノシホンロン",
+            "contributor": "的場昭弘",
+            "contributor_collation_key": "マトバアキヒロ",
+            "imprint": "青春出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1864/9784413211864_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784419068103",
+            "title": "租税法の潮流",
+            "title_collation_key": "ソゼイホウノチョウリュウ ダイニカン",
+            "contributor": "中里　実",
+            "contributor_collation_key": "ナカザト　ミノル",
+            "imprint": "税務経理協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8103/9784419068103_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784766427776",
+            "title": "マルクス派数理政治経済学",
+            "title_collation_key": "マルクスハスウリセイジケイザイガク",
+            "contributor": "大西 広",
+            "contributor_collation_key": "オオニシ ヒロシ",
+            "imprint": "慶應義塾大学出版会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7776/9784766427776_1_43.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784641499720",
+            "title": "国際労働力移動と社会保障",
+            "title_collation_key": "コクサイロウドウリョクイドウトシャカイホショウ",
+            "contributor": "日本財政学会",
+            "contributor_collation_key": "ニホンザイセイガッカイ",
+            "imprint": "有斐閣",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9720/9784641499720_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433700119",
+            "title": "令和3年版　法人税の決算調整と申告の手引",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0119/9784433700119_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433705114",
+            "title": "令和3年10月改訂　地方税取扱いの手引",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5114/9784433705114_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433702915",
+            "title": "令和3年版　申告所得税取扱いの手引",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2915/9784433702915_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784163913438",
+            "title": "帰属財産研究 韓国に埋もれた「日本資産」の真実",
+            "title_collation_key": "キゾクザイサンケンキュウ カンコクニウモレタニホンシサンノシンジツ",
+            "contributor": "李 大根/金光 英実",
+            "contributor_collation_key": "イ デグン/カネミツ ヒデミ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3438/9784163913438_1_6.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299021403",
+            "title": "2023年 台湾封鎖",
+            "title_collation_key": "ニセンニジュウサンネンタイワンフウサ",
+            "contributor": "北村 淳/早川 友久",
+            "contributor_collation_key": "キタムラ ジュン/ハヤカワ トモヒサ",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1403/9784299021403_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784335358746",
+            "title": "税法基本講義",
+            "title_collation_key": "ゼイホウキホンコウギ",
+            "contributor": "谷口　勢津夫",
+            "contributor_collation_key": "タニグチ　セツオ",
+            "imprint": "弘文堂",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8746/9784335358746_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433704919",
+            "title": "令和3年版　個人の税務相談事例500選",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4919/9784433704919_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784480074348",
+            "title": "産業革命史",
+            "title_collation_key": "サンギョウカクメイシ",
+            "contributor": "郭　四志",
+            "contributor_collation_key": "カク　シシ",
+            "imprint": "筑摩書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4348/9784480074348_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295202127",
+            "title": "ゲームチェンジ日本",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "エムディエヌコーポレーション",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2127/9784295202127_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433735210",
+            "title": "国税調査の舞台裏",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5210/9784433735210_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502402517",
+            "title": "年末調整・法定調書の記載チェックポイント",
+            "title_collation_key": "ネンマツチョウセイホウテイチョウショノキサイチェックポイント",
+            "contributor": "野末 英男",
+            "contributor_collation_key": "ノズエ ヒデオ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2517/9784502402517_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784885464119",
+            "title": "地籍調査で未来を拓く",
+            "title_collation_key": "チセキ チョウサ デ ミライ オ ヒラク",
+            "contributor": "石塚修",
+            "contributor_collation_key": "イシズカ,オサム",
+            "imprint": "展望社（文京区）",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4119/9784885464119_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865792867",
+            "title": "関西経済白書（2021）",
+            "title_collation_key": "カンサイ ケイザイ ハクショ",
+            "contributor": "アジア太平洋研究所",
+            "contributor_collation_key": "アジア タイヘイヨウ ケンキュウジョ",
+            "imprint": "日経印刷",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2867/9784865792867_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865792881",
+            "title": "経済財政白書（令和3年版）",
+            "title_collation_key": "ケイザイ ザイセイ ハクショ",
+            "contributor": "内閣府",
+            "contributor_collation_key": "ナイカクフ",
+            "imprint": "日経印刷",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2881/9784865792881_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502398216",
+            "title": "公会計と公共マネジメント",
+            "title_collation_key": "コウカイケイトコウキョウマネジメント",
+            "contributor": "馬場 英朗/大川 裕介",
+            "contributor_collation_key": "ババ ヒデアキ/オオカワ ユウスケ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8216/9784502398216_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784867340349",
+            "title": "もう会社がつぶれる！！と思ったら読む本",
+            "title_collation_key": "モウカイシャガツブレルトオモッタラヨムホン",
+            "contributor": "丸山 一樹",
+            "contributor_collation_key": "マルヤマ カズキ",
+            "imprint": "Clover出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0349/9784867340349_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784406066259",
+            "title": "パンデミックと財政の大転換",
+            "title_collation_key": "パンデミックトザイセイノダイテンカン",
+            "contributor": "合田寛",
+            "contributor_collation_key": "ゴウダヒロシ",
+            "imprint": "新日本出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6259/9784406066259_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784396617653",
+            "title": "サステナブル資本主義　5％の「考える消費」が社会を変える",
+            "title_collation_key": "サステナブルシホンシュギ　ゴパーセントノカンガエルショウヒガシャカイヲカエル",
+            "contributor": "村上 誠典",
+            "contributor_collation_key": "ムラカミ タカフミ",
+            "imprint": "祥伝社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7653/9784396617653_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502832161",
+            "title": "法人税法",
+            "title_collation_key": "ホウジンゼイホウ",
+            "contributor": "渡辺 淑夫",
+            "contributor_collation_key": "ワタナベ ヨシオ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2161/9784502832161_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784750517186",
+            "title": "本当に野党ではダメなのか？",
+            "title_collation_key": "ホントウニヤトウデハダメナノカ",
+            "contributor": "及川 健二",
+            "contributor_collation_key": "オイカワ ケンジ",
+            "imprint": "亜紀書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7186/9784750517186_1_48.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784535540187",
+            "title": "ミクロ経済学入門　第2版",
+            "title_collation_key": "ミクロケイザイガクニュウモン　ダイニハン",
+            "contributor": "金　栄緑/坂上　紳",
+            "contributor_collation_key": "キム ヨンロク/サカウエ シン",
+            "imprint": "日本評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0187/9784535540187_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784535540194",
+            "title": "マクロ経済学入門　第2版",
+            "title_collation_key": "マクロケイザイガクニュウモン　ダイニハン",
+            "contributor": "坂上智哉/小葉武史",
+            "contributor_collation_key": "サカガミ トモヤ/コバ タケシ",
+            "imprint": "日本評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0194/9784535540194_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784828423289",
+            "title": "台湾VS中国　謀略の100年史",
+            "title_collation_key": "タイワンブイエスチュウゴクボウリャクノヒャクネンシ",
+            "contributor": "近藤大介",
+            "contributor_collation_key": "コンドウダイスケ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3289/9784828423289_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784880377285",
+            "title": "コロナと地域経済",
+            "title_collation_key": "コロナトチイキケイザイ",
+            "contributor": "岡田知弘/宮津友多",
+            "contributor_collation_key": "オカダトモヒロ/ミヤツユウタ",
+            "imprint": "自治体研究社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7285/9784880377285.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784828422923",
+            "title": "株高・資源高に向かう世界経済入門",
+            "title_collation_key": "カブダカシゲンダカニムカウセカイケイザイニュウモン",
+            "contributor": "朝倉慶",
+            "contributor_collation_key": "アサクラケイ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2923/9784828422923_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784828423272",
+            "title": "ドイツ見習え論が日本を滅ぼす",
+            "title_collation_key": "ドイツミナラエロンガニホンヲホロボス",
+            "contributor": "豊田有恒/川口マーン惠美",
+            "contributor_collation_key": "トヨタアリツネ/カワグチマーンエミ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3272/9784828423272_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784861327834",
+            "title": "少子化問題の経済学ー生きづらい社会で出生率は低下するー",
+            "title_collation_key": "ショウシカモンダイノケイザイガクブックレットニイガタダイガク",
+            "contributor": "溝口由己",
+            "contributor_collation_key": "ミゾグチユウキ",
+            "imprint": "新潟日報事業社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7834/9784861327834_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784754729301",
+            "title": "元徴収官による 国税・地方税徴収マニュアル",
+            "title_collation_key": "モトチョウシュウカンニヨル コクゼイチホウゼイチョウシュウマニュアル",
+            "contributor": "樽 敏朗",
+            "contributor_collation_key": "モタイ トシロウ",
+            "imprint": "大蔵財務協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9301/9784754729301.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784847071089",
+            "title": "無駄(規制)をやめたらいいことだらけ　令和の大減税と規制緩和",
+            "title_collation_key": "ムダキセイヲヤメタライイコトダラケ レイワノダイゲンゼイトキセイカンワ",
+            "contributor": "渡瀬 裕哉",
+            "contributor_collation_key": "ワタセ ユウヤ",
+            "imprint": "ワニブックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1089/9784847071089_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784130421539",
+            "title": "概説日本経済史　近現代　第4版",
+            "title_collation_key": "ガイセツニホンケイザイシ　キンゲンダイ",
+            "contributor": "三和　良一/三和　元",
+            "contributor_collation_key": "ミワ　リョウイチ/ミワ　ハジメ",
+            "imprint": "東京大学出版会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1539/9784130421539_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784121026590",
+            "title": "経済社会の学び方",
+            "title_collation_key": "ケイザイシャカイノマナビカタ",
+            "contributor": "猪木 武徳",
+            "contributor_collation_key": "イノキタケノリ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6590/9784121026590_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784313002975",
+            "title": "財政小六法　令和4年版",
+            "title_collation_key": "ザイセイショウロッポウレイワサンネンバン",
+            "contributor": "財政会計法規編集室",
+            "contributor_collation_key": "ザイセイカイケイホウキヘンシュウシツ",
+            "imprint": "学陽書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2975/9784313002975_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784532358969",
+            "title": "Q&A　日本経済のニュースがわかる！　2022年版",
+            "title_collation_key": "キューアンドエー ニホンケイザイノニュースガワカル ニセンニジュウニネンバン",
+            "contributor": "日本経済新聞社",
+            "contributor_collation_key": "ニホンケイザイシンブンシャ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8969/9784532358969_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784532323806",
+            "title": "マネジメント・テキスト　ビジネス・エコノミクス　第2版",
+            "title_collation_key": "マネジメント テキスト ビジネス エコノミクス ダイニハン",
+            "contributor": "伊藤 元重",
+            "contributor_collation_key": "イトウ モトシゲ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3806/9784532323806_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784003415214",
+            "title": "資本主義と市民社会 他十四篇",
+            "title_collation_key": "シホンシュギトシミンシャカイホカジュウヨンヘン",
+            "contributor": "大塚 久雄/齋藤 英里",
+            "contributor_collation_key": "オオツカ ヒサオ/サイトウ エイリ",
+            "imprint": "岩波書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5214/9784003415214_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784641243484",
+            "title": "デジタルプラットフォームと独禁法",
+            "title_collation_key": "デジタルプラットフォームトドッキンホウ",
+            "contributor": "日本経済法学会",
+            "contributor_collation_key": "ニホンケイザイホウガッカイ",
+            "imprint": "有斐閣",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3484/9784641243484_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433731816",
+            "title": "企業法務で知っておくべき　税務上の問題点100",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1816/9784433731816_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784022951403",
+            "title": "世界100年カレンダー　少子高齢化する地球でこれから起きること",
+            "title_collation_key": "セカイヒャクネンカレンダー ショウシコウレイカスルチキュウデコレカラオキルコト",
+            "contributor": "河合雅司",
+            "contributor_collation_key": "カワイマサシ",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1403/9784022951403_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784480510723",
+            "title": "日本資本主義の群像",
+            "title_collation_key": "ニホンシホンシュギノグンゾウ",
+            "contributor": "栂井　義雄",
+            "contributor_collation_key": "トガイ　ヨシオ",
+            "imprint": "筑摩書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0723/9784480510723_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866673165",
+            "title": "99％の日本人がわかっていない新・国債の真実",
+            "title_collation_key": "キュウジュウキュウパーセントノニホンジンガワカッテイナイシンコクサイノシンジツ",
+            "contributor": "高橋洋一",
+            "contributor_collation_key": "タカハシヨウイチ",
+            "imprint": "あさ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3165/9784866673165_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784754729325",
+            "title": "移転価格税制コンパクトガイド　令和3年版",
+            "title_collation_key": "イテンカカクゼイセイコンパクトガイド",
+            "contributor": "羽床 正秀/水野 時孝",
+            "contributor_collation_key": "ハユカ マサヒデ/ミズノ トキタカ",
+            "imprint": "大蔵財務協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9325/9784754729325_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784754729271",
+            "title": "ゼミナール相続税法（令和3年補訂）",
+            "title_collation_key": "ゼミナールソウゾクゼイホウ",
+            "contributor": "松岡 章夫",
+            "contributor_collation_key": "マツオカ アキオ",
+            "imprint": "大蔵財務協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9271/9784754729271.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784130461351",
+            "title": "奴隷制南部と保護主義",
+            "title_collation_key": "ドレイセイナンブトホゴシュギ",
+            "contributor": "平出　尚道",
+            "contributor_collation_key": "ヒライデ　ナオミチ",
+            "imprint": "東京大学出版会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1351/9784130461351_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784754729394",
+            "title": "裁判例からみる所得税法　二訂版",
+            "title_collation_key": "サイバンレイカラミルショトクゼイホウ",
+            "contributor": "酒井 克彦",
+            "contributor_collation_key": "サカイ カツヒコ",
+            "imprint": "大蔵財務協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9394/9784754729394.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784766427615",
+            "title": "マクロ経済統計と構造分析",
+            "title_collation_key": "マクロケイザイトウケイトコウゾウブンセキ",
+            "contributor": "辻村 雅子/辻村 和佑",
+            "contributor_collation_key": "ツジムラ マサコ/ツジムラ カズスケ",
+            "imprint": "慶應義塾大学出版会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7615/9784766427615_1_15.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784828423234",
+            "title": "日本分断計画",
+            "title_collation_key": "ニホンブンダンケイカク",
+            "contributor": "上念司",
+            "contributor_collation_key": "ジョウネンツカサ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3234/9784828423234_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784883843336",
+            "title": "基礎から学ぶ 実証分析",
+            "title_collation_key": "キソカラマナブ ジッショウブンセキ",
+            "contributor": "丸茂　幸平",
+            "contributor_collation_key": "マルモ　コウヘイ",
+            "imprint": "新世社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3336/9784883843336_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784908117787",
+            "title": "改訂版　税金を払わずに生きてゆく逃税術",
+            "title_collation_key": "カイテイバン　ゼイキンヲハラワズニイキテユクトウゼイジュツ",
+            "contributor": "大村大次郎",
+            "contributor_collation_key": "オオムラオオジロウ",
+            "imprint": "悟空出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7787/9784908117787_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784408339870",
+            "title": "アイデア資本主義",
+            "title_collation_key": "アイデアシホンシュギ",
+            "contributor": "大川内 直子",
+            "contributor_collation_key": "オオカワチナオコ",
+            "imprint": "実業之日本社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9870/9784408339870_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784903145730",
+            "title": "ケインズ",
+            "title_collation_key": "ケインズ",
+            "contributor": "西部邁",
+            "contributor_collation_key": "ニシベ,ススム",
+            "imprint": "明月堂書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5730/9784903145730_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784326504879",
+            "title": "ミクロデータからみる現代中国の社会と経済",
+            "title_collation_key": "ミクロデータカラミルゲンダイチュウゴクノシャカイトケイザイ",
+            "contributor": "厳　善平",
+            "contributor_collation_key": "ゲン　ゼンヘイ",
+            "imprint": "勁草書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4879/9784326504879_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784642039055",
+            "title": "満洲移民・青少年義勇軍の研究",
+            "title_collation_key": "マンシュウイミンセイショウネンギユウグンノケンキュウ",
+            "contributor": "本島　和人",
+            "contributor_collation_key": "モトジマ　カズト",
+            "imprint": "吉川弘文館",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9055/9784642039055_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784909946331",
+            "title": "土地白書（令和3年版）",
+            "title_collation_key": "トチ ハクショ",
+            "contributor": "国土交通省",
+            "contributor_collation_key": "コクド コウツウショウ",
+            "imprint": "勝美印刷",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6331/9784909946331.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784324110379",
+            "title": "要説住民税（令和3年度版）",
+            "title_collation_key": "ヨウセツ ジュウミンゼイ",
+            "contributor": "市町村税務研究会",
+            "contributor_collation_key": "シチョウソン ゼイム ケンキュウカイ",
+            "imprint": "ぎょうせい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0379/9784324110379_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784419068233",
+            "title": "所得税法　理論と計算〔十五訂版〕",
+            "title_collation_key": "ショトクゼイホウ　リロントケイサン",
+            "contributor": "池本　征男",
+            "contributor_collation_key": "イケモト　ユクオ",
+            "imprint": "税務経理協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8233/9784419068233_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784286228877",
+            "title": "図解30分でわかる日本が財政破綻しないたしかな理由",
+            "title_collation_key": "ズカイ サンジュップン デ ワカル ニホン ガ ザイセイ ハタン シナイ タシ",
+            "contributor": "川村史朗",
+            "contributor_collation_key": "カワムラ,フミオ",
+            "imprint": "文芸社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8877/9784286228877_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784535540057",
+            "title": "新型コロナ感染の政策課題と分析",
+            "title_collation_key": "シンガタコロナカンセンノセイサクカダイトブンセキ",
+            "contributor": "焼田 党/細江守紀",
+            "contributor_collation_key": "ヤキタ　アキラ/ホソエ　モリキ",
+            "imprint": "日本評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0057/9784535540057_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784750351773",
+            "title": "人の移動とエスニシティ",
+            "title_collation_key": "ヒトノイドウトエスニシティ",
+            "contributor": "中坂　恵美子/池田　賢市",
+            "contributor_collation_key": "ナカサカ エミコ/イケダ ケンイチ",
+            "imprint": "明石書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1773/9784750351773_1_16.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784881774816",
+            "title": "図説 ポストコロナの世界経済と激動する国際金融",
+            "title_collation_key": "ズセツ　ポストコロナノセカイケイザイトゲキドウスルコクサイキンユウ",
+            "contributor": "神田眞人",
+            "contributor_collation_key": "カンダマサト",
+            "imprint": "財経詳報社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4816/9784881774816_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784130402996",
+            "title": "不確かさの時代の資本主義",
+            "title_collation_key": "フタシカサノジダイノシホンシュギ",
+            "contributor": "宮川　公男",
+            "contributor_collation_key": "ミヤカワ　タダオ",
+            "imprint": "東京大学出版会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2996/9784130402996_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784409241424",
+            "title": "16歳からの経済学",
+            "title_collation_key": "ジュウロクサイカラノケイザイガク",
+            "contributor": "根井 雅弘",
+            "contributor_collation_key": "",
+            "imprint": "人文書院",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1424/9784409241424_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784641221796",
+            "title": "現代中国経済〔新版〕",
+            "title_collation_key": "ゲンダイチュウゴクケイザイシンパン",
+            "contributor": "丸川 知雄",
+            "contributor_collation_key": "マルカワトモオ",
+            "imprint": "有斐閣",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1796/9784641221796_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784562059324",
+            "title": "地図とデータで見る人口の世界ハンドブック",
+            "title_collation_key": "チズトデータデミルジンコウノセカイハンドブック",
+            "contributor": "ジル・ピゾン/吉田 春美",
+            "contributor_collation_key": "ジルピゾン/ヨシダハルミ",
+            "imprint": "原書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9324/9784562059324_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433759414",
+            "title": "グレーター・チャイナの経済・金融ハンドブック",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9414/9784433759414_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784788517400",
+            "title": "資本主義から価値主義へ",
+            "title_collation_key": "シホンシュギカラカチシュギヘ",
+            "contributor": "佐藤 典司",
+            "contributor_collation_key": "サトウ ノリジ",
+            "imprint": "新曜社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7400/9784788517400_1_6.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784828423128",
+            "title": "アメリカ解体",
+            "title_collation_key": "アメリカカイタイ",
+            "contributor": "島田洋一",
+            "contributor_collation_key": "シマダヨウイチ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3128/9784828423128_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433722210",
+            "title": "令和3年8月改訂　路線価による土地評価の実務",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2210/9784433722210_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784828423067",
+            "title": "「中華未来主義」との対決",
+            "title_collation_key": "チュウカミライシュギトノタイケツ",
+            "contributor": "藤井聡",
+            "contributor_collation_key": "フジイサトシ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3067/9784828423067_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784793126376",
+            "title": "税法便覧（令和3年度版）",
+            "title_collation_key": "ゼイホウビンランレイワサンネンドバン",
+            "contributor": "川上文吾/岡崎猛",
+            "contributor_collation_key": "カワカミブンゴ/オカザキタケシ",
+            "imprint": "税務研究会出版局",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6376/9784793126376_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784828422824",
+            "title": "哀れな韓国人",
+            "title_collation_key": "アワレナカンコクジン",
+            "contributor": "金文学",
+            "contributor_collation_key": "キンブンガク",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2824/9784828422824_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784419068271",
+            "title": "知っておきたい国税の常識　第23版",
+            "title_collation_key": "シッテオキタイ　コクゼイノジョウシキ",
+            "contributor": "大淵　博義/安田　京子",
+            "contributor_collation_key": "オオフチ　ヒロヨシ/ヤスタ　キョウコ",
+            "imprint": "税務経理協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8271/9784419068271_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784623091928",
+            "title": "日本の国際協力 中東・アフリカ編",
+            "title_collation_key": "ニホンノコクサイキョウリョク　チュウトウアフリカヘン",
+            "contributor": "阪本　公美子/岡野内　正",
+            "contributor_collation_key": "サカモト　クミコ/オカノウチ　タダシ",
+            "imprint": "ミネルヴァ書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1928/9784623091928_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784492396629",
+            "title": "ネットニュースではわからない本当の日本経済入門",
+            "title_collation_key": "ネットニュースデハワカラナイホントウノニホンケイザイニュウモン",
+            "contributor": "伊藤 元重",
+            "contributor_collation_key": "イトウ モトシゲ",
+            "imprint": "東洋経済新報社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6629/9784492396629.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433416317",
+            "title": "田中治税法著作集　第3巻　租税実体法の諸相と論点ー所得課税",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6317/9784433416317_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784562092192",
+            "title": "自然災害と人口",
+            "title_collation_key": "シゼンサイガイトジンコウ",
+            "contributor": "井上 孝/和田 光平",
+            "contributor_collation_key": "イノウエ タカシ/ワダ コウヘイ",
+            "imprint": "原書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2192/9784562092192_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433416515",
+            "title": "田中治税法著作集　第5巻　租税手続法の諸相と論点",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6515/9784433416515_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433416218",
+            "title": "田中治税法著作集　第2巻　所得税をめぐる紛争の特質とその解釈論",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6218/9784433416218_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784163914206",
+            "title": "私たちはなぜこんなに貧しくなったのか",
+            "title_collation_key": "ワタシタチハナゼコンナニマズシクナッタノカ",
+            "contributor": "荻原 博子",
+            "contributor_collation_key": "オギワラ ヒロコ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4206/9784163914206_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784875558675",
+            "title": "国税・森林環境税ー問題だらけの増税",
+            "title_collation_key": "コクゼイシンリンカンキョウゼイモンダイダラケノゾウゼイ",
+            "contributor": "青木宗明/飛田博史",
+            "contributor_collation_key": "アオキムネアキ/トビタヒロシ",
+            "imprint": "公人の友社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8675/9784875558675_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433721916",
+            "title": "令和3年7月改訂／詳解　小規模宅地等の課税特例の実務",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1916/9784433721916_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784754729356",
+            "title": "裁決事例集　第121集",
+            "title_collation_key": "サイケツジレイシュウ",
+            "contributor": "大蔵財務協会",
+            "contributor_collation_key": "オオクラザイムキョウカイ",
+            "imprint": "大蔵財務協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9356/9784754729356.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433700515",
+            "title": "令和3年版　源泉所得税取扱いの手引",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0515/9784433700515_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784641165816",
+            "title": "財政学〔第3版〕",
+            "title_collation_key": "ザイセイガクダイサンハン",
+            "contributor": "神野 直彦",
+            "contributor_collation_key": "ジンノナオヒコ",
+            "imprint": "有斐閣",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5816/9784641165816_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784326504862",
+            "title": "完全理解　ゲーム理論・契約理論　第2版",
+            "title_collation_key": "カンゼンリカイゲームリロンケイヤクリロンダイニハン",
+            "contributor": "鈴木　豊",
+            "contributor_collation_key": "スズキ　ユタカ",
+            "imprint": "勁草書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4862/9784326504862_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784641001572",
+            "title": "租税法判例六法〔第5版〕",
+            "title_collation_key": "ソゼイホウハンレイロッポウダイゴハン",
+            "contributor": "中里 実/増井 良啓",
+            "contributor_collation_key": "ナカザトミノル/マスイヨシヒロ",
+            "imprint": "有斐閣",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1572/9784641001572_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784569850146",
+            "title": "自由と成長の経済学",
+            "title_collation_key": "ジユウトセイチョウノケイザイガク",
+            "contributor": "柿埜 真吾",
+            "contributor_collation_key": "カキノ シンゴ",
+            "imprint": "PHP研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0146/9784569850146_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784335551987",
+            "title": "これからのインフラ開発",
+            "title_collation_key": "コレカラノインフラカイハツ",
+            "contributor": "徳永　達己/武田　晋一",
+            "contributor_collation_key": "トクナガ　タツミ/タケダ　シンイチ",
+            "imprint": "弘文堂",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1987/9784335551987_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784754728977",
+            "title": "租税徴収の実務対策101",
+            "title_collation_key": "ソゼイチョウシュウノジツムタイサクヒャクイチ",
+            "contributor": "橘 素子",
+            "contributor_collation_key": "タチバナ モトコ",
+            "imprint": "大蔵財務協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8977/9784754728977.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784022951380",
+            "title": "税と公助　置き去りの将来世代",
+            "title_collation_key": "ゼイトコウジョ オキザリノショウライセダイ",
+            "contributor": "伊藤裕香子",
+            "contributor_collation_key": "イトウユカコ",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1380/9784022951380_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784883843343",
+            "title": "経済学入門15講",
+            "title_collation_key": "ケイザイガクニュウモンジュウゴコウ",
+            "contributor": "浅子　和美",
+            "contributor_collation_key": "アサコ　カズミ",
+            "imprint": "新世社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3343/9784883843343_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784754729103",
+            "title": "図解 酒税　令和3年版",
+            "title_collation_key": "ズカイ シュゼイ",
+            "contributor": "富川 泰敬",
+            "contributor_collation_key": "フカワ ヤスヒロ",
+            "imprint": "大蔵財務協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9103/9784754729103.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784842918143",
+            "title": "【POD】財政学と公共経済学はじめの一歩（改訂版）",
+            "title_collation_key": "ザイセイガクトコウキョウケイザイガクハジメノイッポ",
+            "contributor": "仲林真子",
+            "contributor_collation_key": "ナカバヤシミチコ",
+            "imprint": "八千代出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8143/9784842918143.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784492315361",
+            "title": "反緊縮の経済学",
+            "title_collation_key": "ハンキンシュクノケイザイガク",
+            "contributor": "野口 旭",
+            "contributor_collation_key": "ノグチ アサヒ",
+            "imprint": "東洋経済新報社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5361/9784492315361_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502395710",
+            "title": "Q＆Aでわかる令和3年度税制改正の実務",
+            "title_collation_key": "キューアンドエーデワカルレイワサンネンドゼイセイカイセイノジツム",
+            "contributor": "宮森 俊樹",
+            "contributor_collation_key": "ミヤモリ トシキ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5710/9784502395710_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784532240042",
+            "title": "経済学の宇宙",
+            "title_collation_key": "ケイザイガクノウチュウ",
+            "contributor": "岩井 克人/前田 裕之",
+            "contributor_collation_key": "イワイ カツヒト/マエダ ヒロユキ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0042/9784532240042_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784766834512",
+            "title": "税の基礎2021年度版",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "経済法令研究会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4512/9784766834512_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784754729073",
+            "title": "図解 財産評価　令和3年版",
+            "title_collation_key": "ズカイ ザイサンヒョウカ",
+            "contributor": "櫻井 元博",
+            "contributor_collation_key": "サクラ モトヒロ",
+            "imprint": "大蔵財務協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9073/9784754729073_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784419068226",
+            "title": "知っておきたい　相続税の常識〔第22版〕",
+            "title_collation_key": "シッテオキタイソウゾクゼイノジョウシキ",
+            "contributor": "小池　正明",
+            "contributor_collation_key": "コイケ　マサアキ",
+            "imprint": "税務経理協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8226/9784419068226_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784766834475",
+            "title": "税金入門2021年度版",
+            "title_collation_key": "ゼイキンニュウモンニセンニジュウイチネンドバン",
+            "contributor": "税理士法人中央総研",
+            "contributor_collation_key": "ゼイリシホウジンチュウオウソウケン",
+            "imprint": "経済法令研究会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4475/9784766834475_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784130402989",
+            "title": "グローバルリスクと世界経済",
+            "title_collation_key": "グローバルリスクトセカイケイザイ",
+            "contributor": "小川　英治",
+            "contributor_collation_key": "オガワ　エイジ",
+            "imprint": "東京大学出版会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2989/9784130402989_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582513",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第四分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2513/9784864582513.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582544",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第七分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2544/9784864582544.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784909585820",
+            "title": "ハンガリー（2021／22年版）",
+            "title_collation_key": "ハンガリー",
+            "contributor": "ARC国別情勢研究会",
+            "contributor_collation_key": "アーク クニベツ ジョウセイ ケンキュウカイ",
+            "imprint": "ARC国別情勢研究会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5820/9784909585820_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582568",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第九分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2568/9784864582568.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582599",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第十二分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2599/9784864582599.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582490",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第二分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2490/9784864582490.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582636",
+            "title": "札幌国税局管内財産評価基準書（令和3年分　第二分冊）",
+            "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "札幌国税局",
+            "contributor_collation_key": "サッポロ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2636/9784864582636.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582612",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第十四分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2612/9784864582612.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582643",
+            "title": "札幌国税局管内財産評価基準書（令和3年分　第三分冊）",
+            "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "札幌国税局",
+            "contributor_collation_key": "サッポロ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2643/9784864582643.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784324110447",
+            "title": "国土交通省会計実務要覧（令和3年度版）",
+            "title_collation_key": "コクド コウツウショウ カイケイ ジツム ヨウラン",
+            "contributor": "ぎょうせい",
+            "contributor_collation_key": "ギョウセイ",
+            "imprint": "ぎょうせい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0447/9784324110447_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784909585837",
+            "title": "ポーランド（2021／22年版）",
+            "title_collation_key": "ポーランド",
+            "contributor": "ARC国別情勢研究会",
+            "contributor_collation_key": "アーク クニベツ ジョウセイ ケンキュウカイ",
+            "imprint": "ARC国別情勢研究会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5837/9784909585837_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582582",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第十一分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2582/9784864582582.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582629",
+            "title": "札幌国税局管内財産評価基準書（令和3年分　第一分冊）",
+            "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "札幌国税局",
+            "contributor_collation_key": "サッポロ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2629/9784864582629.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582575",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第十分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2575/9784864582575.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582506",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第三分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2506/9784864582506.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582605",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第十三分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2605/9784864582605.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582667",
+            "title": "札幌国税局管内財産評価基準書（令和3年分　第五分冊）",
+            "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "札幌国税局",
+            "contributor_collation_key": "サッポロ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2667/9784864582667.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582650",
+            "title": "札幌国税局管内財産評価基準書（令和3年分　第四分冊）",
+            "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "札幌国税局",
+            "contributor_collation_key": "サッポロ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2650/9784864582650.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784324110362",
+            "title": "要説固定資産税（令和3年度版）",
+            "title_collation_key": "ヨウセツ コテイ シサンゼイ",
+            "contributor": "固定資産税務研究会",
+            "contributor_collation_key": "コテイ シサン ゼイム ケンキュウカイ",
+            "imprint": "ぎょうせい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0362/9784324110362_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582650",
+            "title": "札幌国税局管内財産評価基準書（令和3年分　第四分冊）",
+            "title_collation_key": "サッポロ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "札幌国税局",
+            "contributor_collation_key": "サッポロ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2650/9784864582650.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784910172071",
+            "title": "マルクスの光と影",
+            "title_collation_key": "マルクス ノ ヒカリ ト カゲ",
+            "contributor": "村岡到",
+            "contributor_collation_key": "ムラオカ,イタル",
+            "imprint": "ロゴス（文京区）",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2071/9784910172071_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784864582483",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第一分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2483/9784864582483.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784910316093",
+            "title": "税法の基本11訂版",
+            "title_collation_key": "ゼイホウ ノ キホン",
+            "contributor": "藤本清一/林幸一",
+            "contributor_collation_key": "フジモト,セイイチ/ハヤシ,コウイチ",
+            "imprint": "実務出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6093/9784910316093_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784324110447",
+            "title": "国土交通省会計実務要覧（令和3年度版）",
+            "title_collation_key": "コクド コウツウショウ カイケイ ジツム ヨウラン",
+            "contributor": "ぎょうせい",
+            "contributor_collation_key": "ギョウセイ",
+            "imprint": "ぎょうせい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0447/9784324110447_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784909237620",
+            "title": "マルクスの物象化論［新版］",
+            "title_collation_key": "",
+            "contributor": "佐々木 隆治",
+            "contributor_collation_key": "ササキ リュウジ",
+            "imprint": "堀之内出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7620/9784909237620_1_51.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784909090621",
+            "title": "新版【法律・政省令並記】逐条解説　外国子会社合算税制",
+            "title_collation_key": "シンパンホウリツセイショウレイヘイキチクジョウカイセツガイコクコガイシャガッサンゼイセイ",
+            "contributor": "梅本 淳久",
+            "contributor_collation_key": "ウメモト アツヒサ",
+            "imprint": "ロギカ書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0621/9784909090621.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784560098516",
+            "title": "英語原典で読むマーシャル",
+            "title_collation_key": "エイゴゲンテンデヨムマーシャル",
+            "contributor": "伊藤　宣広",
+            "contributor_collation_key": "イトウ　ノブヒロ",
+            "imprint": "白水社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8516/9784560098516_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784750352251",
+            "title": "フランス経済学史教養講義",
+            "title_collation_key": "フランスケイザイガクシキョウヨウコウギ",
+            "contributor": "橘木　俊詔",
+            "contributor_collation_key": "タチバナキ トシアキ",
+            "imprint": "明石書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2251/9784750352251_1_11.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784754729080",
+            "title": "図解 地方税　令和3年版",
+            "title_collation_key": "ズカイ チホウゼイ",
+            "contributor": "石橋 茂",
+            "contributor_collation_key": "イシバシ シゲル",
+            "imprint": "大蔵財務協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9080/9784754729080.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784415330143",
+            "title": "マンガでわかる！税金のすべて '21〜'22年版",
+            "title_collation_key": "マンガデワカルゼイキンノスベテニセンニジュウイチカラニセンニジュウニネンバン",
+            "contributor": "須田　邦裕",
+            "contributor_collation_key": "スダ　クニヒロ",
+            "imprint": "成美堂出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0143/9784415330143_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784830951411",
+            "title": "復興する中国",
+            "title_collation_key": "フッコウスルチュウゴク",
+            "contributor": "服部 健治/湯浅 健司",
+            "contributor_collation_key": "ハットリ ケンジ/ユアサ ケンジ",
+            "imprint": "文眞堂",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1411/9784830951411_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801305441",
+            "title": "徳川幕府の資金繰り",
+            "title_collation_key": "トクガワバクフノシキングリ",
+            "contributor": "安藤 優一郎",
+            "contributor_collation_key": "アンドウ ユウイチロウ",
+            "imprint": "彩図社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5441/9784801305441_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784750352282",
+            "title": "日本社会の移民第二世代",
+            "title_collation_key": "ニホンシャカイノイミンダイニセダイ",
+            "contributor": "清水　睦美/児島　明",
+            "contributor_collation_key": "シミズ ムツミ/コジマ アキラ",
+            "imprint": "明石書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2282/9784750352282_1_23.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784793126192",
+            "title": "法人税基本通達逐条解説（十訂版）",
+            "title_collation_key": "ホウジンゼイキホンツウタツチクジョウカイセツジッテイバン",
+            "contributor": "高橋正朗",
+            "contributor_collation_key": "タカハシマサアキ",
+            "imprint": "税務研究会出版局",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6192/9784793126192_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784828423074",
+            "title": "世界通貨を発行せよ！",
+            "title_collation_key": "セカイツウカヲハッコウセヨ",
+            "contributor": "大村大次郎",
+            "contributor_collation_key": "オオムラオオジロウ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3074/9784828423074_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784275021502",
+            "title": "近代日本の移民と国家・地域社会",
+            "title_collation_key": "キンダイニホンノイミントコッカチイキシャカイ",
+            "contributor": "木村健二",
+            "contributor_collation_key": "キムラケンジ",
+            "imprint": "御茶の水書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1502/9784275021502_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784166613212",
+            "title": "実録　脱税の手口",
+            "title_collation_key": "ジツロク　ダツゼイノテグチ",
+            "contributor": "田中 周紀",
+            "contributor_collation_key": "タナカ チカキ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3212/9784166613212_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784754729042",
+            "title": "図解 譲渡所得　令和3年版",
+            "title_collation_key": "ズカイ ジョウトショトク",
+            "contributor": "加藤 千博",
+            "contributor_collation_key": "カトウ チヒロ",
+            "imprint": "大蔵財務協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9042/9784754729042_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502395314",
+            "title": "入門 財政学",
+            "title_collation_key": "ニュウモン ザイセイガク",
+            "contributor": "林 宏昭/玉岡 雅之",
+            "contributor_collation_key": "ハヤシ ヒロアキ/タマオカ マサユキ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5314/9784502395314_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784829508169",
+            "title": "米中の経済安全保障戦略",
+            "title_collation_key": "ベイチュウノケイザイアンゼンホショウセンリャク",
+            "contributor": "村山 裕三/鈴木 一人",
+            "contributor_collation_key": "ムラヤマ ユウゾウ/スズキ カズト",
+            "imprint": "芙蓉書房出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8169/9784829508169_1_71.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784881774793",
+            "title": "スタートアップ租税法 第4版",
+            "title_collation_key": "スタートアップソゼイホウ　ダイヨンハン",
+            "contributor": "酒井克彦",
+            "contributor_collation_key": "サカイカツヒコ",
+            "imprint": "財経詳報社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4793/9784881774793.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784334045500",
+            "title": "「日本型格差社会」からの脱却",
+            "title_collation_key": "ニホンガタカクサシャカイカラノダッキャク",
+            "contributor": "岩田規久男",
+            "contributor_collation_key": "イワタ キクオ",
+            "imprint": "光文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5500/9784334045500_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433702014",
+            "title": "令和3年版　消費税の取扱いと申告の手引",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2014/9784433702014_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433700614",
+            "title": "令和3年版／問答式　源泉所得税の実務",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0614/9784433700614_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433702113",
+            "title": "令和3年6月改訂　消費税実務問答集",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2113/9784433702113_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784862853424",
+            "title": "自由主義経済の真実",
+            "title_collation_key": "ジユウシュギケイザイノシンジツ",
+            "contributor": "権上康男",
+            "contributor_collation_key": "ゴンジョウヤスオ",
+            "imprint": "知泉書館",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3424/9784862853424_1_2.jpg?_ex=200x200"
+        }
+    ]
+}

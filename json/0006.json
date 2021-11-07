@@ -1,1604 +1,1602 @@
-[
-    {
-        "shelf_title": "小説・エッセイ/ノンフィクション",
-        "category": "ノンフィクション",
-        "back_cover_images": [
-            "back_cover_image/0006_1.png",
-            "back_cover_image/0006_2.png",
-            "back_cover_image/0006_3.png",
-            "back_cover_image/0006_4.png"
-        ],
-        "back_cover_low_images": [
-            "back_cover_low_image/0006_1_low.png",
-            "back_cover_low_image/0006_2_low.png",
-            "back_cover_low_image/0006_3_low.png",
-            "back_cover_low_image/0006_4_low.png"
-        ],
-        "books": [
-            {
-                "isbn": "9784074488414",
-                "title": "バニラ",
-                "title_collation_key": "バニラ",
-                "contributor": "SHIROSE",
-                "contributor_collation_key": "シロセ",
-                "imprint": "主婦の友社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8414/9784074488414.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774763347",
-                "title": "殿さま忍者　地獄の道行（第5巻）",
-                "title_collation_key": "トノサマニンジャ　ジゴクノミチユキ",
-                "contributor": "聖 龍人",
-                "contributor_collation_key": "ヒジリ リュウト",
-                "imprint": "コスミック出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3347/9784774763347_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774763330",
-                "title": "人情めし江戸屋　妖剣火龍（第2巻）",
-                "title_collation_key": "ニンジョウメシエドヤ　ヨウケンカリュウ",
-                "contributor": "倉阪 鬼一郎",
-                "contributor_collation_key": "クラサカ キイチロウ",
-                "imprint": "コスミック出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3330/9784774763330_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784781620206",
-                "title": "童貞係長の卒業式",
-                "title_collation_key": "ドウテイカカリチョウノソツギョウシキ",
-                "contributor": "霧原 一輝",
-                "contributor_collation_key": "キリハラカズキ",
-                "imprint": "イースト・プレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0206/9784781620206_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784596017215",
-                "title": "秘密の一夜で身ごもったら、俺様CEOが溺愛全開になりまし",
-                "title_collation_key": "ヒミツノイチヤデミゴモッタラオレサマシーイーオーガデキアイゼンカイニナリマシタ",
-                "contributor": "夢野美紗",
-                "contributor_collation_key": "ユメノミサ",
-                "imprint": "ハーパーコリンズ・ジャパン",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7215/9784596017215.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784781620213",
-                "title": "秘湯でしっぽり",
-                "title_collation_key": "ヒトウデシッポリ",
-                "contributor": "葉月 奏太",
-                "contributor_collation_key": "ハヅキソウタ",
-                "imprint": "イースト・プレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0213/9784781620213_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434296086",
-                "title": "とある小さな村のチートな鍛冶屋さん（1）",
-                "title_collation_key": "トアルチイサナムラノチートナカジヤサン",
-                "contributor": "夜船紡",
-                "contributor_collation_key": "ヨフネツムグ",
-                "imprint": "アルファポリス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6086/9784434296086_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784596017192",
-                "title": "離婚予定の契約妻ですが、旦那様に独占欲を注がれています",
-                "title_collation_key": "リコンヨテイノケイヤクヅマデスガダンナサマニドクセンヨクヲソソガレテイマス",
-                "contributor": "河野美姫",
-                "contributor_collation_key": "カワノミキ",
-                "imprint": "ハーパーコリンズ・ジャパン",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7192/9784596017192.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784596017253",
-                "title": "お見合い相手は初恋の彼でした〜愛されすぎの身代わり婚〜",
-                "title_collation_key": "オミアイアイテハハツコイノカレデシタアイサレスギノミガワリコン",
-                "contributor": "望月沙菜",
-                "contributor_collation_key": "モチヅキサナ",
-                "imprint": "ハーパーコリンズ・ジャパン",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7253/9784596017253.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784596017239",
-                "title": "一途な御曹司の甘い策略で愛され懐妊花嫁になりました",
-                "title_collation_key": "イチズナオンゾウシノアマイサクリャクデアイサレカイニンハナヨメニナリマシタ",
-                "contributor": "有坂芽流",
-                "contributor_collation_key": "アリサカメル",
-                "imprint": "ハーパーコリンズ・ジャパン",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7239/9784596017239.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774763323",
-                "title": "江戸っ子出世侍　葵紋の下命（第5巻）",
-                "title_collation_key": "エドッコシュッセザムライ　アオイモンノカメイ",
-                "contributor": "早瀬 詠一郎",
-                "contributor_collation_key": "ハヤセ エイイチロウ",
-                "imprint": "コスミック出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3323/9784774763323_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434296093",
-                "title": "婚約破棄されまして（笑）（2）",
-                "title_collation_key": "コンヤクハキサレマシテ",
-                "contributor": "竹本芳生",
-                "contributor_collation_key": "タケモトヨシキ",
-                "imprint": "アルファポリス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6093/9784434296093_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434296109",
-                "title": "転移先は薬師が少ない世界でした（2）",
-                "title_collation_key": "テンイサキハクスシガスクナイセカイデシタ",
-                "contributor": "饕餮",
-                "contributor_collation_key": "トウテツ",
-                "imprint": "アルファポリス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6109/9784434296109_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784198946951",
-                "title": "ブルーブラッド",
-                "title_collation_key": "ブルーブラッド",
-                "contributor": "藤田宜永",
-                "contributor_collation_key": "フジタヨシナガ",
-                "imprint": "徳間書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6951/9784198946951_1_6.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784167917821",
-                "title": "きみの正義は 社労士のヒナコ",
-                "title_collation_key": "キミノセイギハ シャロウシノヒナコ",
-                "contributor": "水生 大海",
-                "contributor_collation_key": "ミズキ ヒロミ",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7821/9784167917821_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784167917838",
-                "title": "殺し屋、続けてます。",
-                "title_collation_key": "コロシヤ、ツヅケテマス。",
-                "contributor": "石持 浅海",
-                "contributor_collation_key": "イシモチ アサミ",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7838/9784167917838_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784167917760",
-                "title": "レフトハンド・ブラザーフッド 上",
-                "title_collation_key": "レフトハンド ブラザーフッド ジョウ",
-                "contributor": "知念 実希人",
-                "contributor_collation_key": "チネン ミキト",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7760/9784167917760_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784198946937",
-                "title": "中島らも曼荼羅コレクション#1　白いメリーさん",
-                "title_collation_key": "ナカジマラモマンダラコレクションイチ　シロイメリーサン",
-                "contributor": "中島らも",
-                "contributor_collation_key": "ナカジマラモ",
-                "imprint": "徳間書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6937/9784198946937_1_6.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784167917869",
-                "title": "知性は死なない 平成の鬱をこえて　増補版",
-                "title_collation_key": "チセイハシナナイ ヘイセイノウツヲコエテ ゾウホバン",
-                "contributor": "與那覇 潤",
-                "contributor_collation_key": "ヨナハ ジュン",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7869/9784167917869_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784167917807",
-                "title": "中野のお父さんは謎を解くか",
-                "title_collation_key": "ナカノノオトウサンハナゾヲトクカ",
-                "contributor": "北村 薫",
-                "contributor_collation_key": "キタムラ カオル",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7807/9784167917807_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784198946890",
-                "title": "警視庁心理捜査官　捜査一課係長　柳原明日香",
-                "title_collation_key": "ケイシチョウシンリソウサカン　ソウサイッカカカリチョウヤナギハラアスカ",
-                "contributor": "黒崎視音",
-                "contributor_collation_key": "クロサキミオ",
-                "imprint": "徳間書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6890/9784198946890_1_7.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784198946920",
-                "title": "やぶにらみの時計",
-                "title_collation_key": "ヤブニラミノトケイ",
-                "contributor": "都筑道夫",
-                "contributor_collation_key": "ツヅキミチオ",
-                "imprint": "徳間書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6920/9784198946920_1_6.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784198946913",
-                "title": "スクエア",
-                "title_collation_key": "スクエア",
-                "contributor": "今野敏",
-                "contributor_collation_key": "コンノビン",
-                "imprint": "徳間書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6913/9784198946913_1_7.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784198946944",
-                "title": "十津川警部　追憶のミステリー・ルート",
-                "title_collation_key": "トツガワケイブツイオクノミステリールート",
-                "contributor": "西村京太郎",
-                "contributor_collation_key": "ニシムラキョウタロウ",
-                "imprint": "徳間書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6944/9784198946944_1_7.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784167917791",
-                "title": "帰還",
-                "title_collation_key": "キカン",
-                "contributor": "堂場 瞬一",
-                "contributor_collation_key": "ドウバ シュンイチ",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7791/9784167917791_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784167917784",
-                "title": "異郷のぞみし 空也十番勝負（四）決定版",
-                "title_collation_key": "イキョウノゾミシ クウヤジュウバンショウブ シ ケッテイバン",
-                "contributor": "佐伯 泰英",
-                "contributor_collation_key": "サエキ ヤスヒデ",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7784/9784167917784_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784167917777",
-                "title": "レフトハンド・ブラザーフッド 下",
-                "title_collation_key": "レフトハンド ブラザーフッド ゲ",
-                "contributor": "知念 実希人",
-                "contributor_collation_key": "チネン ミキト",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7777/9784167917777_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784198946869",
-                "title": "グリーン・グリーン",
-                "title_collation_key": "グリーングリーン",
-                "contributor": "あさのあつこ",
-                "contributor_collation_key": "アサノアツコ",
-                "imprint": "徳間書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6869/9784198946869_1_7.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784167917845",
-                "title": "ゆるキャラの恐怖 桑潟幸一准教授のスタイリッシュな生活3",
-                "title_collation_key": "ユルキャラノキョウフ クワガタコウイチジュンキョウジュノスタイリッシュナセイカツ サン",
-                "contributor": "奥泉 光",
-                "contributor_collation_key": "オクイズミ ヒカル",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7845/9784167917845_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784167917814",
-                "title": "出世商人（四）",
-                "title_collation_key": "シュッセアキンド ヨン",
-                "contributor": "千野 隆司",
-                "contributor_collation_key": "チノ タカシ",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7814/9784167917814_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784167917845",
-                "title": "ゆるキャラの恐怖 桑潟幸一准教授のスタイリッシュな生活3",
-                "title_collation_key": "ユルキャラノキョウフ クワガタコウイチジュンキョウジュノスタイリッシュナセイカツ サン",
-                "contributor": "奥泉 光",
-                "contributor_collation_key": "オクイズミ ヒカル",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7845/9784167917845_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784198946906",
-                "title": "死だけが私の贈り物",
-                "title_collation_key": "シダケガワタシノオクリモノ",
-                "contributor": "小泉喜美子",
-                "contributor_collation_key": "コイズミキミコ",
-                "imprint": "徳間書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6906/9784198946906_1_6.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784198946876",
-                "title": "さよならのためだけに",
-                "title_collation_key": "サヨナラノタメダケニ",
-                "contributor": "我孫子武丸",
-                "contributor_collation_key": "アビコタケマル",
-                "imprint": "徳間書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6876/9784198946876_1_6.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784813711735",
-                "title": "子作り政略婚のはずが、冷徹御曹司は蕩ける愛欲を注ぎ込む",
-                "title_collation_key": "コヅクリセイリャクコンノハズガレイテツオンゾウシハトロケルアイヨクヲソソギコム",
-                "contributor": "晴日青",
-                "contributor_collation_key": "ハルヒアオ",
-                "imprint": "スターツ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1735/9784813711735_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784569901725",
-                "title": "名もなき少女に墓碑銘を",
-                "title_collation_key": "ナモナキショウジョニボヒメイヲ",
-                "contributor": "香納 諒一",
-                "contributor_collation_key": "カノウ リョウイチ",
-                "imprint": "PHP研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1725/9784569901725_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784569901695",
-                "title": "駒子さんは出世なんてしたくなかった",
-                "title_collation_key": "コマコサンハシュッセナンテシタクナカッタ",
-                "contributor": "碧野 圭",
-                "contributor_collation_key": "アオノ ケイ",
-                "imprint": "PHP研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1695/9784569901695_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784569901688",
-                "title": "婚活食堂6",
-                "title_collation_key": "コンカツショクドウロク",
-                "contributor": "山口 恵以子",
-                "contributor_collation_key": "ヤマグチ エイコ",
-                "imprint": "PHP研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1688/9784569901688_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784569901701",
-                "title": "不協和音3",
-                "title_collation_key": "フキョウワオンサン",
-                "contributor": "大門 剛明",
-                "contributor_collation_key": "ダイモン タケアキ",
-                "imprint": "PHP研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1701/9784569901701_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784569901626",
-                "title": "ペンギンのバタフライ",
-                "title_collation_key": "ペンギンノバタフライ",
-                "contributor": "中山 智幸",
-                "contributor_collation_key": "ナカヤマ トモユキ",
-                "imprint": "PHP研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1626/9784569901626_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784813711759",
-                "title": "政略懐妊〜赤ちゃんを宿す、エリート御曹司の甘く淫らな愛し方〜",
-                "title_collation_key": "セイリャクカイニンアカチャンヲヤドスエリートオンゾウシノアマクミダラナアイシカタ",
-                "contributor": "田崎くるみ",
-                "contributor_collation_key": "タサキクルミ",
-                "imprint": "スターツ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1759/9784813711759_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865813180",
-                "title": "生きたい彼　死にたい私",
-                "title_collation_key": "イキタイカレシニタイワタシ",
-                "contributor": "咲セリ",
-                "contributor_collation_key": "サキセリ",
-                "imprint": "さくら舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3180/9784865813180.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784087717716",
-                "title": "救命センター カンファレンス・ノート",
-                "title_collation_key": "キュウメイセンター カンファレンス ノート",
-                "contributor": "浜辺 祐一",
-                "contributor_collation_key": "ハマベ ユウイチ",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7716/9784087717716_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784022620569",
-                "title": "ベトナム戦記　新装版",
-                "title_collation_key": "ベトナムセンキ シンソウバン",
-                "contributor": "開高　健",
-                "contributor_collation_key": "カイコウ ケン",
-                "imprint": "朝日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0569/9784022620569_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784074505364",
-                "title": "小説　シノノメ色の週末",
-                "title_collation_key": "ショウセツシノノメイロノシュウマツ",
-                "contributor": "穐山茉由",
-                "contributor_collation_key": "アキヤママユ",
-                "imprint": "主婦の友社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5364/9784074505364_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784022650184",
-                "title": "となりの脳世界",
-                "title_collation_key": "トナリノノウセカイ",
-                "contributor": "村田沙耶香",
-                "contributor_collation_key": "ムラタサヤカ",
-                "imprint": "朝日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0184/9784022650184_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784094070835",
-                "title": "アイスランド 絶景と幸福の国へ",
-                "title_collation_key": "アイズランド ゼッケイトコウフクノクニヘ",
-                "contributor": "椎名 誠",
-                "contributor_collation_key": "シイナ マコト",
-                "imprint": "小学館",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0835/9784094070835_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784094070859",
-                "title": "吉祥寺デイズ うまうま食べもの うしうしゴシップ",
-                "title_collation_key": "キチジョウジデイズ ウマウマタベモノ ウシウシゴシップ",
-                "contributor": "山田 詠美",
-                "contributor_collation_key": "ヤマダ エイミ",
-                "imprint": "小学館",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0859/9784094070859_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784094070811",
-                "title": "かすがい食堂 あしたの色",
-                "title_collation_key": "カスガイショクドウ アシタノイロ",
-                "contributor": "伽古屋 圭市",
-                "contributor_collation_key": "カコヤ ケイイチ",
-                "imprint": "小学館",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0811/9784094070811_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299022059",
-                "title": "遺跡探偵・不結論馬の証明 世界七不思議は甦る",
-                "title_collation_key": "イセキタンテイフユイロンマノショウメイセカイナナフシギハヨミガエル",
-                "contributor": "蒼井 碧",
-                "contributor_collation_key": "アオイ ペキ",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2059/9784299022059_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784094070873",
-                "title": "えんま様のもっと！忙しい49日間 新宿七不思議の謎",
-                "title_collation_key": "エンマサマノモット！イソガシイヨンジュウクニチカン シンジュクナナフシギノナゾ",
-                "contributor": "霜月 りつ/スオウ",
-                "contributor_collation_key": "シモツキ リツ/スオウ",
-                "imprint": "小学館",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0873/9784094070873_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299022066",
-                "title": "AIアテナの犯罪捜査 警察庁情報通信企画課＜アテナプロジェクト＞",
-                "title_collation_key": "エーアイアテナノハンザイソウサケイサツチョウジョウホウツウシンキカクカアテナプロジェクト",
-                "contributor": "越尾 圭",
-                "contributor_collation_key": "コシオ ケイ",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2066/9784299022066.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784022650139",
-                "title": "相棒season19（中）",
-                "title_collation_key": "アイボウシーズン19（チュウ）",
-                "contributor": "碇　卯人",
-                "contributor_collation_key": "イカリ ウヒト",
-                "imprint": "朝日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0139/9784022650139.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784022650177",
-                "title": "あちらにいる鬼",
-                "title_collation_key": "アチラニイルオニ",
-                "contributor": "井上荒野",
-                "contributor_collation_key": "イノウエアレノ",
-                "imprint": "朝日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0177/9784022650177_1_6.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299021557",
-                "title": "大江戸科学捜査 八丁堀のおゆう ステイホームは江戸で",
-                "title_collation_key": "オオエドカガクソウサハッチョウボリノオユウステイホームハエドデ",
-                "contributor": "山本 巧次",
-                "contributor_collation_key": "ヤマモト コウジ",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1557/9784299021557_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784094070804",
-                "title": "漫画ひりひり",
-                "title_collation_key": "マンガヒリヒリ",
-                "contributor": "風 カオル",
-                "contributor_collation_key": "カゼ カオル",
-                "imprint": "小学館",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0804/9784094070804_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784591171721",
-                "title": "はつ恋",
-                "title_collation_key": "ハツコイ",
-                "contributor": "村山　由佳",
-                "contributor_collation_key": "ムラヤマユカ",
-                "imprint": "ポプラ社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1721/9784591171721_1_6.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784094070828",
-                "title": "私はいったい、何と闘っているのか",
-                "title_collation_key": "ワタシハイッタイナニトタタカッテイルノカ",
-                "contributor": "つぶやき シロー",
-                "contributor_collation_key": "ツブヤキ シロー",
-                "imprint": "小学館",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0828/9784094070828_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784022650153",
-                "title": "吸血鬼ハンター39　D-鬼哭旅",
-                "title_collation_key": "バンパイアハンター39 D-キコクタビ",
-                "contributor": "菊地秀行",
-                "contributor_collation_key": "キクチヒデユキ",
-                "imprint": "朝日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0153/9784022650153_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299022066",
-                "title": "AIアテナの犯罪捜査 警察庁情報通信企画課＜アテナプロジェクト＞",
-                "title_collation_key": "エーアイアテナノハンザイソウサケイサツチョウジョウホウツウシンキカクカアテナプロジェクト",
-                "contributor": "越尾 圭",
-                "contributor_collation_key": "コシオ ケイ",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2066/9784299022066.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784094070798",
-                "title": "トヨトミの逆襲",
-                "title_collation_key": "トヨトミノギャクシュウ",
-                "contributor": "梶山 三郎",
-                "contributor_collation_key": "カジヤマ サブロウ",
-                "imprint": "小学館",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0798/9784094070798_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299022325",
-                "title": "スープ屋しずくの謎解き朝ごはん 朝食フェスと決意のグヤーシュ",
-                "title_collation_key": "スープヤシズクノナゾトキアサゴハンチョウショクフェストケツイノグヤーシュ",
-                "contributor": "友井 羊",
-                "contributor_collation_key": "トモイ ヒツジ",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2325/9784299022325_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784150315054",
-                "title": "君の話",
-                "title_collation_key": "キミノハナシ",
-                "contributor": "三秋　縋",
-                "contributor_collation_key": "ミアキ スガル",
-                "imprint": "早川書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5054/9784150315054_1_10.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784596016812",
-                "title": "腹黒御曹司の蜜愛妻になりましたが、やっぱり全力で離婚します!!",
-                "title_collation_key": "ハラグロオンゾウシノミツアイヅマニナリマシタガヤッパリゼンリョクデリコンシマス",
-                "contributor": "水城のあ/ウエハラ蜂",
-                "contributor_collation_key": "ミズキノア/ウエハラハチ",
-                "imprint": "ハーパーコリンズ・ジャパン",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6812/9784596016812.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784334952778",
-                "title": "翔平選手と翔平ちゃん",
-                "title_collation_key": "ショウヘイセンシュトショウヘイチャン",
-                "contributor": "川崎静葉",
-                "contributor_collation_key": "カワサキ シズハ",
-                "imprint": "光文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2778/9784334952778_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784596016799",
-                "title": "王子な騎士団長は薬草好きの令嬢を溺愛してめとりたい",
-                "title_collation_key": "オウジナキシダンチョウハヤクソウズキノレイジョウヲデキアイシテメトリタイ",
-                "contributor": "熊野まゆ/氷堂れん",
-                "contributor_collation_key": "クマノマユ/ヒドウレン",
-                "imprint": "ハーパーコリンズ・ジャパン",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6799/9784596016799.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784620210377",
-                "title": "やっぱり食べに行こう。",
-                "title_collation_key": "ヤッパリタベニイコウ",
-                "contributor": "原田 マハ",
-                "contributor_collation_key": "ハラダマハ",
-                "imprint": "毎日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0377/9784620210377_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784620210391",
-                "title": "島のエアライン（下）",
-                "title_collation_key": "シマノエアライン",
-                "contributor": "黒木 亮",
-                "contributor_collation_key": "クロキリョウ",
-                "imprint": "毎日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0391/9784620210391_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784620210384",
-                "title": "島のエアライン（上）",
-                "title_collation_key": "シマノエアライン",
-                "contributor": "黒木 亮",
-                "contributor_collation_key": "クロキリョウ",
-                "imprint": "毎日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0384/9784620210384_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784758094078",
-                "title": "悪役令嬢と鬼畜騎士",
-                "title_collation_key": "アクヤクレイジョウトキチクキシ",
-                "contributor": "猫田/旭炬",
-                "contributor_collation_key": "ネコタ/アサヒコ",
-                "imprint": "一迅社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4078/9784758094078_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434295256",
-                "title": "王国騎士になるはずがお妃候補になりまして",
-                "title_collation_key": "オウコクキシニナルハズガオキサキコウホニナリマシテ",
-                "contributor": "佐倉紫",
-                "contributor_collation_key": "サクラユカリ",
-                "imprint": "アルファポリス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5256/9784434295256_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784488741099",
-                "title": "星のパイロット",
-                "title_collation_key": "ホシノパイロット",
-                "contributor": "笹本 祐一",
-                "contributor_collation_key": "ササモトユウイチ",
-                "imprint": "東京創元社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1099/9784488741099_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784101368788",
-                "title": "限界病院",
-                "title_collation_key": "ゲンカイビョウイン",
-                "contributor": "久間 十義",
-                "contributor_collation_key": "ヒサマ ジュウギ",
-                "imprint": "新潮社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8788/9784101368788_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784813711674",
-                "title": "月夜に、散りゆく君と最後の恋をした",
-                "title_collation_key": "ツキヨニチリユクキミトサイゴノコイヲシタ",
-                "contributor": "木村咲",
-                "contributor_collation_key": "キムラサキ",
-                "imprint": "スターツ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1674/9784813711674_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784101425603",
-                "title": "美麗島紀行",
-                "title_collation_key": "ビレイトウキコウ",
-                "contributor": "乃南 アサ",
-                "contributor_collation_key": "ノナミ アサ",
-                "imprint": "新潮社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5603/9784101425603_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784813711681",
-                "title": "交換ウソ日記3 ～ふたりのノート～",
-                "title_collation_key": "コウカンウソニッキスリーフタリノノート",
-                "contributor": "櫻いいよ",
-                "contributor_collation_key": "サクライイヨ",
-                "imprint": "スターツ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1681/9784813711681_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784813711704",
-                "title": "大正ロマン政略婚姻譚",
-                "title_collation_key": "タイショウロマンセイリャクコンインタン",
-                "contributor": "朝比奈希夜",
-                "contributor_collation_key": "アサヒナキヨ",
-                "imprint": "スターツ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1704/9784813711704_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784101032818",
-                "title": "うちのレシピ",
-                "title_collation_key": "ウチノレシピ",
-                "contributor": "瀧羽 麻子",
-                "contributor_collation_key": "タキワ アサコ",
-                "imprint": "新潮社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2818/9784101032818_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784813711698",
-                "title": "鬼の生贄花嫁と甘い契りを",
-                "title_collation_key": "オニノイケニエハナヨメニアマイクチヅケヲ",
-                "contributor": "湊祥",
-                "contributor_collation_key": "ミナトショウ",
-                "imprint": "スターツ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1698/9784813711698_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784101307596",
-                "title": "もうひとつの「流転の海」",
-                "title_collation_key": "モウヒトツノルテンノウミ",
-                "contributor": "宮本 輝/堀井 憲一郎",
-                "contributor_collation_key": "ミヤモト テル/ホリイ ケンイチロウ",
-                "imprint": "新潮社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7596/9784101307596_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784101033617",
-                "title": "臆病な詩人、街へ出る。",
-                "title_collation_key": "オクビョウナシジンマチヘデル",
-                "contributor": "文月 悠光",
-                "contributor_collation_key": "フヅキ ユミ",
-                "imprint": "新潮社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3617/9784101033617_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784101033419",
-                "title": "蟻の棲み家",
-                "title_collation_key": "アリノスミカ",
-                "contributor": "望月 諒子",
-                "contributor_collation_key": "モチヅキ リョウコ",
-                "imprint": "新潮社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3419/9784101033419_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784101211848",
-                "title": "方丈の孤月",
-                "title_collation_key": "ホウジョウノコゲツ",
-                "contributor": "梓澤 要",
-                "contributor_collation_key": "アズサワ カナメ",
-                "imprint": "新潮社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1848/9784101211848_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784101259642",
-                "title": "常設展示室",
-                "title_collation_key": "ジョウセツテンジシツ",
-                "contributor": "原田 マハ",
-                "contributor_collation_key": "ハラダ マハ",
-                "imprint": "新潮社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9642/9784101259642_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801305533",
-                "title": "アイアム精神疾患フルコース",
-                "title_collation_key": "アイアムセイシンシッカンフルコース",
-                "contributor": "瀧本 容子",
-                "contributor_collation_key": "タキモト ヨウコ",
-                "imprint": "彩図社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5533/9784801305533_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784344038547",
-                "title": "ボクもたまにはがんになる",
-                "title_collation_key": "ボクモタマニハガンニナル",
-                "contributor": "三谷 幸喜/頴川 晋",
-                "contributor_collation_key": "ミタニ コウキ/エガワ シン",
-                "imprint": "幻冬舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8547/9784344038547_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434294556",
-                "title": "ひとりじゃない",
-                "title_collation_key": "ヒトリジャナイ",
-                "contributor": "福岡円",
-                "contributor_collation_key": "フクオカマドカ",
-                "imprint": "牧歌舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4556/9784434294556_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784313753037",
-                "title": "武田信玄と武田四天王",
-                "title_collation_key": "タケダシンゲントタケダシテンノウ",
-                "contributor": "野中 信二",
-                "contributor_collation_key": "ノナカシンジ",
-                "imprint": "学陽書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3037/9784313753037_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784576211718",
-                "title": "狐の嫁入り　ご隠居は福の神7",
-                "title_collation_key": "キツネノヨメイリ　ゴインキョハフクノカミ",
-                "contributor": "井川 香四郎/安里 英晴",
-                "contributor_collation_key": "イカワコウシロウ/アリ ヒデハル",
-                "imprint": "二見書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1718/9784576211718_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784576211749",
-                "title": "ガーターベルトをつけた美人官僚",
-                "title_collation_key": "ガーターベルトヲツケタビジンキャリア",
-                "contributor": "雨宮 慶",
-                "contributor_collation_key": "アマミヤ ケイ",
-                "imprint": "二見書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1749/9784576211749_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784576211725",
-                "title": "三代目誕生　小料理のどか屋 人情帖33",
-                "title_collation_key": "サンダイメタンジョウ　コリョウリノドカヤ ニンジョウチョウ",
-                "contributor": "倉阪 鬼一郎/宇野 信哉",
-                "contributor_collation_key": "クラサカ キイチロウ/ウノ シンヤ",
-                "imprint": "二見書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1725/9784576211725_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "2100012793407",
-                "title": "【サイン本】異世界蹂躙 -淫靡な洞窟のその奥でー 3",
-                "title_collation_key": "イセカイジュウリン インビナドウクツノソノオクデ",
-                "contributor": "ウメ種/ぼに〜",
-                "contributor_collation_key": "ウメタネ/ボニー",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4367/9784086314367_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784769832409",
-                "title": "戦艦「大和」レイテ沖の七日間",
-                "title_collation_key": "",
-                "contributor": "岩佐二郎",
-                "contributor_collation_key": "",
-                "imprint": "潮書房光人新社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2409/9784769832409_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784813711643",
-                "title": "無気力な幼なじみと同居したら、予想外の溺愛がはじまりました♥",
-                "title_collation_key": "",
-                "contributor": "雨",
-                "contributor_collation_key": "",
-                "imprint": "スターツ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1643/9784813711643_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784891997601",
-                "title": "チート薬師のスローライフ（7巻）",
-                "title_collation_key": "チートクスシノスローライフナナカン",
-                "contributor": "ケンノジ",
-                "contributor_collation_key": "ケンノジ",
-                "imprint": "一二三書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7601/9784891997601_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784620327068",
-                "title": "コロナに翻弄された家",
-                "title_collation_key": "コロナニホンロウサレタイエ",
-                "contributor": "末 利光",
-                "contributor_collation_key": "スエトシミツ",
-                "imprint": "毎日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7068/9784620327068_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784769832379",
-                "title": "戦場を飛ぶ",
-                "title_collation_key": "",
-                "contributor": "渡辺洋二",
-                "contributor_collation_key": "",
-                "imprint": "潮書房光人新社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2379/9784769832379_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784086314367",
-                "title": "異世界蹂躙 -淫靡な洞窟のその奥でー 3",
-                "title_collation_key": "イセカイジュウリン インビナドウクツノソノオクデ",
-                "contributor": "ウメ種/ぼに〜",
-                "contributor_collation_key": "ウメタネ/ボニー",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4367/9784086314367_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784867172391",
-                "title": "美肛リゾート 後ろでイカせて",
-                "title_collation_key": "ビコウリゾートウシロデイカセテ",
-                "contributor": "阿久根道人",
-                "contributor_collation_key": "アクネドウト",
-                "imprint": "ジーウォーク",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2391/9784867172391_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784867172384",
-                "title": "マドンナOL メイド志願",
-                "title_collation_key": "マドンナオーエルメイドシガン",
-                "contributor": "八神淳一",
-                "contributor_collation_key": "ヤガミジュンイチ",
-                "imprint": "ジーウォーク",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2384/9784867172384_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784813711667",
-                "title": "私の彼氏は親友とデキていました",
-                "title_collation_key": "",
-                "contributor": "かなゆな",
-                "contributor_collation_key": "",
-                "imprint": "スターツ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1667/9784813711667_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041117866",
-                "title": "まれびとパレード",
-                "title_collation_key": "マレビトパレード",
-                "contributor": "越谷　オサム",
-                "contributor_collation_key": "コシガヤ　オサム",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7866/9784041117866_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041118436",
-                "title": "迷路の花嫁",
-                "title_collation_key": "メイロノハナヨメ",
-                "contributor": "横溝　正史",
-                "contributor_collation_key": "ヨコミゾ　セイシ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8436/9784041118436_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784880655154",
-                "title": "島を出る",
-                "title_collation_key": "シマヲデル",
-                "contributor": "上江洲 儀正",
-                "contributor_collation_key": "ウエズ ヨシマサ",
-                "imprint": "水曜社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5154/9784880655154_1_63.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041118986",
-                "title": "心霊探偵八雲11 魂の代償",
-                "title_collation_key": "シンレイタンテイヤクモ11 タマシイノダイショウ",
-                "contributor": "神永　学",
-                "contributor_collation_key": "カミナガ　マナブ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8986/9784041118986_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041113202",
-                "title": "東京アクアリウム",
-                "title_collation_key": "トウキョウアクアリウム",
-                "contributor": "小池　真理子",
-                "contributor_collation_key": "コイケ　マリコ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3202/9784041113202_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041118795",
-                "title": "江戸落語奇譚 始まりと未来",
-                "title_collation_key": "エドラクゴキタン ハジマリトミライ",
-                "contributor": "奥野　じゅん",
-                "contributor_collation_key": "オクノ　ジュン",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8795/9784041118795_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041116302",
-                "title": "ひとり旅日和",
-                "title_collation_key": "ヒトリタビビヨリ",
-                "contributor": "秋川　滝美",
-                "contributor_collation_key": "アキカワ　タキミ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6302/9784041116302_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041118795",
-                "title": "江戸落語奇譚 始まりと未来",
-                "title_collation_key": "エドラクゴキタン ハジマリトミライ",
-                "contributor": "奥野　じゅん",
-                "contributor_collation_key": "オクノ　ジュン",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8795/9784041118795_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041113387",
-                "title": "新・入り婿侍商い帖 古米三千俵（二）",
-                "title_collation_key": "シン・イリムコザムライアキナイチョウ コマイサンゼンビョウ（ニ）",
-                "contributor": "千野　隆司",
-                "contributor_collation_key": "チノ　タカシ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3387/9784041113387_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041116470",
-                "title": "朝ごとに死におくべし 葉隠物語",
-                "title_collation_key": "アサゴトニシニオクベシ ハガクレモノガタリ",
-                "contributor": "安部　龍太郎",
-                "contributor_collation_key": "アベ　リュウタロウ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6470/9784041116470_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041113202",
-                "title": "東京アクアリウム",
-                "title_collation_key": "トウキョウアクアリウム",
-                "contributor": "小池　真理子",
-                "contributor_collation_key": "コイケ　マリコ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3202/9784041113202_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041119839",
-                "title": "母と死体を埋めに行く",
-                "title_collation_key": "ハハトシタイヲウメニイク",
-                "contributor": "大石　圭",
-                "contributor_collation_key": "オオイシ　ケイ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9839/9784041119839_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041116302",
-                "title": "ひとり旅日和",
-                "title_collation_key": "ヒトリタビビヨリ",
-                "contributor": "秋川　滝美",
-                "contributor_collation_key": "アキカワ　タキミ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6302/9784041116302_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041115190",
-                "title": "斉国札術士録 活版書房と札見習い",
-                "title_collation_key": "セイコクフジュツシロク カッパンショボウトフダミナライ",
-                "contributor": "九条　菜月",
-                "contributor_collation_key": "クジョウ　ナツキ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784041115190_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041112397",
-                "title": "八号古墳に消えて",
-                "title_collation_key": "ハチゴウコフンニキエテ",
-                "contributor": "黒川　博行",
-                "contributor_collation_key": "クロカワ　ヒロユキ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2397/9784041112397_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041119938",
-                "title": "逡巡の二十秒と悔恨の二十年",
-                "title_collation_key": "シュンジュンノニジュウビョウトカイコンノニジュウネン",
-                "contributor": "小林　泰三",
-                "contributor_collation_key": "コバヤシ　ヤスミ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9938/9784041119938_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839975203",
-                "title": "あやかしトリオのごはんとお酒と珍道中　～幻月夜のひと騒ぎ～",
-                "title_collation_key": "アヤカシトリオノゴハントオサケトチンドウチュウ　マボロシゲツヤノヒトサワギ",
-                "contributor": "桔梗楓/冬臣",
-                "contributor_collation_key": "キキョウカエデ/フユオミ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5203/9784839975203_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041119389",
-                "title": "弁当屋さんのおもてなし しあわせ宅配篇3（9）",
-                "title_collation_key": "ベントウヤサンノオモテナシ シアワセタクハイヘンサン",
-                "contributor": "喜多　みどり/イナコ",
-                "contributor_collation_key": "キタ　ミドリ/イナコ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9389/9784041119389_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041115343",
-                "title": "初秋の剣 大江戸定年組（1）",
-                "title_collation_key": "ショシュウノケン オオエドテイネングミ",
-                "contributor": "風野　真知雄",
-                "contributor_collation_key": "カゼノ　マチオ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5343/9784041115343_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041117842",
-                "title": "夜汐",
-                "title_collation_key": "ヨシオ",
-                "contributor": "東山　彰良",
-                "contributor_collation_key": "ヒガシヤマ　アキラ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7842/9784041117842_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041117743",
-                "title": "水曜日の手紙",
-                "title_collation_key": "スイヨウビノテガミ",
-                "contributor": "森沢　明夫",
-                "contributor_collation_key": "モリサワ　アキオ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7743/9784041117743_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784576211664",
-                "title": "沼の国",
-                "title_collation_key": "ヌマノクニ",
-                "contributor": "宮田 光",
-                "contributor_collation_key": "ミヤタ ヒカル",
-                "imprint": "二見書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1664/9784576211664_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041120569",
-                "title": "ecriture　新人作家・杉浦李奈の推論",
-                "title_collation_key": "エクリチュール　シンジンサッカ・スギウラリナノスイロン",
-                "contributor": "松岡　圭祐",
-                "contributor_collation_key": "マツオカ　ケイスケ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0569/9784041120569_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041109700",
-                "title": "明日へつながる5つの物語",
-                "title_collation_key": "アスヘツナガル5ツノモノガタリ",
-                "contributor": "あさの　あつこ",
-                "contributor_collation_key": "アサノ　アツコ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9700/9784041109700_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041114285",
-                "title": "モンスターと食卓を　3",
-                "title_collation_key": "モンスタートショクタクヲ　3",
-                "contributor": "椹野　道流",
-                "contributor_collation_key": "フシノ　ミチル",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4285/9784041114285_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041117828",
-                "title": "魂のままに生きれば、今日やることは今日わかる つれづれノート40",
-                "title_collation_key": "タマシイノママニイキレバ、キョウヤルコトハキョウワカル ツレヅレノート40",
-                "contributor": "銀色　夏生",
-                "contributor_collation_key": "ギンイロ　ナツヲ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7828/9784041117828_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041115428",
-                "title": "検事の信義（4）",
-                "title_collation_key": "ケンジノシンギ",
-                "contributor": "柚月裕子",
-                "contributor_collation_key": "ユヅキユウコ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5428/9784041115428_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041115411",
-                "title": "虚談",
-                "title_collation_key": "キョダン",
-                "contributor": "京極　夏彦",
-                "contributor_collation_key": "キョウゴク　ナツヒコ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5411/9784041115411_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784041118788",
-                "title": "キマイラ22 望郷変",
-                "title_collation_key": "キマイラ22 ボウキョウヘン",
-                "contributor": "夢枕　獏/三輪　士郎",
-                "contributor_collation_key": "ユメマクラ　バク/ミワ　シロウ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8788/9784041118788_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784086804141",
-                "title": "水の剣と砂漠の海 アルテニア戦記",
-                "title_collation_key": "ラヴィーナトサバクノウミ アルテニアセンキ",
-                "contributor": "森 りん/遠田 志帆",
-                "contributor_collation_key": "モリ リン/エンタ シホ",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4141/9784086804141_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784867161968",
-                "title": "おまわりさんと招き猫　あやかしの町のふしぎな日常",
-                "title_collation_key": "オマワリサントマネキネコアヤカシノマチノフシギナニチジョウ",
-                "contributor": "植原翠/ショウイチ",
-                "contributor_collation_key": "ウエハラスイ/ショウイチ",
-                "imprint": "マイクロマガジン社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1968/9784867161968_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784087443097",
-                "title": "捜し物屋まやま 2",
-                "title_collation_key": "サガシモノヤマヤマ 2",
-                "contributor": "木原 音瀬",
-                "contributor_collation_key": "コノハラ ナリセ",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3097/9784087443097_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774763316",
-                "title": "異世界で双子の腹ぺこ神獣王子を育てることになりました。",
-                "title_collation_key": "イセカイデフタゴノハラペコシンジュウオウジヲソダテルコトニナリマシタ",
-                "contributor": "遠坂 カナレ",
-                "contributor_collation_key": "トオサカ カナレ",
-                "imprint": "コスミック出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3316/9784774763316_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784086804103",
-                "title": "逃げられない男 〜警視庁特殊能力係〜",
-                "title_collation_key": "ニゲラレナイオトコ ケイシチョウトクシュノウリョクガカリ",
-                "contributor": "愁堂 れな/円陣 闇丸",
-                "contributor_collation_key": "シュウドウ レナ/エンジン ヤミマル",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4103/9784086804103_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784087443066",
-                "title": "尼子姫十勇士",
-                "title_collation_key": "アマゴヒメジュウユウシ",
-                "contributor": "諸田 玲子",
-                "contributor_collation_key": "モロタ レイコ",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3066/9784087443066_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784087443073",
-                "title": "絶声",
-                "title_collation_key": "ゼッショウ",
-                "contributor": "下村 敦史",
-                "contributor_collation_key": "シモムラ アツシ",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3073/9784087443073_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784086804103",
-                "title": "逃げられない男 〜警視庁特殊能力係〜",
-                "title_collation_key": "ニゲラレナイオトコ ケイシチョウトクシュノウリョクガカリ",
-                "contributor": "愁堂 れな/円陣 闇丸",
-                "contributor_collation_key": "シュウドウ レナ/エンジン ヤミマル",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4103/9784086804103_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784086804158",
-                "title": "小説 消えた初恋",
-                "title_collation_key": "ショウセツ キエタハツコイ",
-                "contributor": "宮田 光/アルコ",
-                "contributor_collation_key": "ミヤタ ヒカル/アルコ",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4158/9784086804158_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784087443134",
-                "title": "星月夜の鬼子母神",
-                "title_collation_key": "ホシツキヨノキシボジン",
-                "contributor": "篠 綾子",
-                "contributor_collation_key": "シノアヤコ",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3134/9784087443134_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784087443103",
-                "title": "暗夜鬼譚 空蝉挽歌 ＜後＞",
-                "title_collation_key": "アンヤキタン ウツセミバンカ コウ",
-                "contributor": "瀬川 貴次",
-                "contributor_collation_key": "セガワ タカツグ",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3103/9784087443103_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784086804127",
-                "title": "京都伏見は水神さまのいたはるところ ふたりの新しい季節",
-                "title_collation_key": "キョウトフシミハスイジンサマノイタハルトコロ フタリノアタラシイキセツ",
-                "contributor": "相川 真/白谷 ゆう",
-                "contributor_collation_key": "アイカワ シン/シロヤ ユウ",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4127/9784086804127_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784087443141",
-                "title": "明智小五郎事件簿 戦後編 1",
-                "title_collation_key": "アケチコゴロウジケンボ センゴヘン イチ",
-                "contributor": "江戸川 乱歩",
-                "contributor_collation_key": "エドガワ ランポ",
-                "imprint": "集英社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3141/9784087443141_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784101050539",
-                "title": "美徳のよろめき",
-                "title_collation_key": "ビトクノヨロメキ",
-                "contributor": "三島 由紀夫",
-                "contributor_collation_key": "ミシマ ユキオ",
-                "imprint": "新潮社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0539/9784101050539_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866414638",
-                "title": "ほとけの周辺",
-                "title_collation_key": "ホトケノシュウヘン",
-                "contributor": "牧野隆夫",
-                "contributor_collation_key": "マキノタカオ",
-                "imprint": "リフレ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4638/9784866414638_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784101050546",
-                "title": "音楽",
-                "title_collation_key": "オンガク",
-                "contributor": "三島 由紀夫",
-                "contributor_collation_key": "ミシマ ユキオ",
-                "imprint": "新潮社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0546/9784101050546_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784122071261",
-                "title": "ラバウル戦線異状なし",
-                "title_collation_key": "ラバウルセンセンイジョウナシ",
-                "contributor": "草鹿 任一",
-                "contributor_collation_key": "クサカジンイチ",
-                "imprint": "中央公論新社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1261/9784122071261_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784122071322",
-                "title": "子供の領分",
-                "title_collation_key": "コドモノリョウブン",
-                "contributor": "吉行 淳之介",
-                "contributor_collation_key": "ヨシユキジュンノスケ",
-                "imprint": "中央公論新社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1322/9784122071322_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784122071285",
-                "title": "野口冨士男犯罪小説集 風のない日々／少女",
-                "title_collation_key": "ノグチフジオハンザイショウセツシュウ カゼノナイヒビ ショウジョ",
-                "contributor": "野口 冨士男",
-                "contributor_collation_key": "ノグチフジオ",
-                "imprint": "中央公論新社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1285/9784122071285_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784003122617",
-                "title": "まっくら",
-                "title_collation_key": "マックラ",
-                "contributor": "森崎 和江",
-                "contributor_collation_key": "モリサキ カズエ",
-                "imprint": "岩波書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2617/9784003122617_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784003108024",
-                "title": "黒島伝治作品集",
-                "title_collation_key": "クロシマデンジサクヒンシュウ",
-                "contributor": "紅野 謙介",
-                "contributor_collation_key": "コウノ ケンスケ",
-                "imprint": "岩波書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8024/9784003108024_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784122071247",
-                "title": "悪党の裔（上）",
-                "title_collation_key": "アクトウノスエ ジョウ",
-                "contributor": "北方 謙三",
-                "contributor_collation_key": "キタカタケンゾウ",
-                "imprint": "中央公論新社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1247/9784122071247_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784488465155",
-                "title": "名探偵の証明　蜜柑花子の栄光",
-                "title_collation_key": "メイタンテイノショウメイミカンハナコノエイコウ",
-                "contributor": "市川 哲也",
-                "contributor_collation_key": "イチカワテツヤ",
-                "imprint": "東京創元社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5155/9784488465155_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784122071292",
-                "title": "歌舞伎町ゲノム",
-                "title_collation_key": "カブキチョウゲノム",
-                "contributor": "誉田 哲也",
-                "contributor_collation_key": "ホンダテツヤ",
-                "imprint": "中央公論新社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1292/9784122071292_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784150315047",
-                "title": "大日本帝国の銀河 4",
-                "title_collation_key": "ダイニホンテイコクノギンガヨン",
-                "contributor": "林　譲治",
-                "contributor_collation_key": "ハヤシ ジョウジ",
-                "imprint": "早川書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5047/9784150315047_1_21.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784635080132",
-                "title": "町田忍の銭湯パラダイス",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "山と溪谷社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0132/9784635080132_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784006023409",
-                "title": "ドストエフスキーとの旅",
-                "title_collation_key": "ドストエフスキートノタビ",
-                "contributor": "亀山 郁夫",
-                "contributor_collation_key": "カメヤマ イクオ",
-                "imprint": "岩波書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3409/9784006023409_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784122071254",
-                "title": "悪党の裔（下）",
-                "title_collation_key": "アクトウノスエ ゲ",
-                "contributor": "北方 謙三",
-                "contributor_collation_key": "キタカタケンゾウ",
-                "imprint": "中央公論新社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1254/9784122071254_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801928459",
-                "title": "いろめき引越し便",
-                "title_collation_key": "イロメキヒッコシビン",
-                "contributor": "橘 真児",
-                "contributor_collation_key": "タチバナ シンジ",
-                "imprint": "竹書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8459/9784801928459_1_6.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774763200",
-                "title": "超時空イージス戦隊【1】B29を撃滅せよ！",
-                "title_collation_key": "チョウジクウイージスセンタイイチ　ビーニジュウクヲゲキメツセヨ",
-                "contributor": "橋本 純",
-                "contributor_collation_key": "ハシモト ジュン",
-                "imprint": "コスミック出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3200/9784774763200_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065257524",
-                "title": "亡命者　ザ・ジョーカー　新装版",
-                "title_collation_key": "ボウメイシャ ザ・ジョーカー シンソウバン",
-                "contributor": "大沢 在昌",
-                "contributor_collation_key": "オオサワ アリマサ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7524/9784065257524_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065257302",
-                "title": "神楽坂つきみ茶屋3　想い人に捧げる鍋料理",
-                "title_collation_key": "カグラザカツキミヂャヤ3 オモイビトニササゲルナベリョウリ",
-                "contributor": "斎藤 千輪",
-                "contributor_collation_key": "サイトウ チワ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7302/9784065257302_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065257296",
-                "title": "友達未遂",
-                "title_collation_key": "トモダチミスイ",
-                "contributor": "宮西 真冬",
-                "contributor_collation_key": "ミヤニシ マフユ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7296/9784065257296_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065245910",
-                "title": "ゲーム部はじめました。",
-                "title_collation_key": "ゲームブハジメマシタ.",
-                "contributor": "浜口 倫太郎",
-                "contributor_collation_key": "ハマグチ リンタロウ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5910/9784065245910_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065257340",
-                "title": "海から何かがやってくる　薬師寺涼子の怪奇事件簿",
-                "title_collation_key": "ウミカラナニカガヤッテクル ヤクシジリョウコノカイキジケンボ",
-                "contributor": "田中 芳樹",
-                "contributor_collation_key": "タナカ ヨシキ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7340/9784065257340_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065250013",
-                "title": "アイの歌声を聴かせて",
-                "title_collation_key": "アイノウタゴエヲキカセテ",
-                "contributor": "乙野 四方字/吉浦 康裕",
-                "contributor_collation_key": "オトノ ヨモジ/ヨシウラ ヤスヒロ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0013/9784065250013_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784758444408",
-                "title": "ねぎ坊の天ぷら　一膳めし屋丸九（六）",
-                "title_collation_key": "ネギボウノテンプラ　イチゼンメシヤマルキュウ　ロク",
-                "contributor": "中島 久枝",
-                "contributor_collation_key": "ナカシマ ヒサエ",
-                "imprint": "角川春樹事務所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4408/9784758444408_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065257289",
-                "title": "どんまい",
-                "title_collation_key": "ドンマイ",
-                "contributor": "重松 清",
-                "contributor_collation_key": "シゲマツ キヨシ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7289/9784065257289_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065245972",
-                "title": "虚構推理短編集　岩永琴子の純真",
-                "title_collation_key": "キョコウスイリタンペンシュウ イワナガコトコノジュンシン",
-                "contributor": "城平 京/片瀬 茶柴",
-                "contributor_collation_key": "シロダイラ キョウ/カタセ チャシバ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5972/9784065245972_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065259641",
-                "title": "雲雀の太刀　公家武者　信平（十一）",
-                "title_collation_key": "ヒバリノタチ クゲムシャ ノブヒラ(ジュウイチ)",
-                "contributor": "佐々木 裕一",
-                "contributor_collation_key": "ササキ ユウイチ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9641/9784065259641_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784758444385",
-                "title": "思い出牡蠣の昆布舟　はるの味だより",
-                "title_collation_key": "オモイデカキノコンブフネ　ハルノアジダヨリ",
-                "contributor": "佐々木 禎子",
-                "contributor_collation_key": "ササキ テイコ",
-                "imprint": "角川春樹事務所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4385/9784758444385_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065238165",
-                "title": "ピエロがいる街",
-                "title_collation_key": "ピエロガイルマチ",
-                "contributor": "横関 大",
-                "contributor_collation_key": "ヨコゼキ ダイ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8165/9784065238165_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065257531",
-                "title": "サリエルの命題",
-                "title_collation_key": "サリエルノメイダイ",
-                "contributor": "楡 周平",
-                "contributor_collation_key": "ニレ シュウヘイ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7531/9784065257531_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434294952",
-                "title": "あやかし鬼嫁婚姻譚",
-                "title_collation_key": "アヤカシオニヨメコンインタン",
-                "contributor": "朧月あき",
-                "contributor_collation_key": "オボロヅキアキ",
-                "imprint": "アルファポリス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4952/9784434294952_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784065249666",
-                "title": "夏と冬の奏鳴曲　新装改訂版",
-                "title_collation_key": "ナツトフユノソナタ シンソウカイテイバン",
-                "contributor": "麻耶 雄嵩",
-                "contributor_collation_key": "マヤ ユタカ",
-                "imprint": "講談社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9666/9784065249666_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434294969",
-                "title": "余命ー24h",
-                "title_collation_key": "ヨメイマイナスニジュウヨジカン",
-                "contributor": "安崎依代",
-                "contributor_collation_key": "アンザキイヨ",
-                "imprint": "アルファポリス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4969/9784434294969_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784758444415",
-                "title": "無根の樹",
-                "title_collation_key": "ムコンノキ",
-                "contributor": "三好 昌子",
-                "contributor_collation_key": "ミヨシ アキコ",
-                "imprint": "角川春樹事務所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4415/9784758444415_1_2.jpg?_ex=200x200"
-            }
-        ]
-    }
-]
+{
+    "shelf_title": "小説・エッセイ/ノンフィクション",
+    "category": "ノンフィクション",
+    "back_cover_images": [
+        "back_cover_img/0006_1.png",
+        "back_cover_img/0006_2.png",
+        "back_cover_img/0006_3.png",
+        "back_cover_img/0006_4.png"
+    ],
+    "back_cover_low_images": [
+        "back_cover_low_img/0006_1_low.png",
+        "back_cover_low_img/0006_2_low.png",
+        "back_cover_low_img/0006_3_low.png",
+        "back_cover_low_img/0006_4_low.png"
+    ],
+    "books": [
+        {
+            "isbn": "9784074488414",
+            "title": "バニラ",
+            "title_collation_key": "バニラ",
+            "contributor": "SHIROSE",
+            "contributor_collation_key": "シロセ",
+            "imprint": "主婦の友社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8414/9784074488414.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774763330",
+            "title": "人情めし江戸屋　妖剣火龍（第2巻）",
+            "title_collation_key": "ニンジョウメシエドヤ　ヨウケンカリュウ",
+            "contributor": "倉阪 鬼一郎",
+            "contributor_collation_key": "クラサカ キイチロウ",
+            "imprint": "コスミック出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3330/9784774763330_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784596017215",
+            "title": "秘密の一夜で身ごもったら、俺様CEOが溺愛全開になりまし",
+            "title_collation_key": "ヒミツノイチヤデミゴモッタラオレサマシーイーオーガデキアイゼンカイニナリマシタ",
+            "contributor": "夢野美紗",
+            "contributor_collation_key": "ユメノミサ",
+            "imprint": "ハーパーコリンズ・ジャパン",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7215/9784596017215.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784781620206",
+            "title": "童貞係長の卒業式",
+            "title_collation_key": "ドウテイカカリチョウノソツギョウシキ",
+            "contributor": "霧原 一輝",
+            "contributor_collation_key": "キリハラカズキ",
+            "imprint": "イースト・プレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0206/9784781620206_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774763347",
+            "title": "殿さま忍者　地獄の道行（第5巻）",
+            "title_collation_key": "トノサマニンジャ　ジゴクノミチユキ",
+            "contributor": "聖 龍人",
+            "contributor_collation_key": "ヒジリ リュウト",
+            "imprint": "コスミック出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3347/9784774763347_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784781620213",
+            "title": "秘湯でしっぽり",
+            "title_collation_key": "ヒトウデシッポリ",
+            "contributor": "葉月 奏太",
+            "contributor_collation_key": "ハヅキソウタ",
+            "imprint": "イースト・プレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0213/9784781620213_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774763323",
+            "title": "江戸っ子出世侍　葵紋の下命（第5巻）",
+            "title_collation_key": "エドッコシュッセザムライ　アオイモンノカメイ",
+            "contributor": "早瀬 詠一郎",
+            "contributor_collation_key": "ハヤセ エイイチロウ",
+            "imprint": "コスミック出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3323/9784774763323_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784596017192",
+            "title": "離婚予定の契約妻ですが、旦那様に独占欲を注がれています",
+            "title_collation_key": "リコンヨテイノケイヤクヅマデスガダンナサマニドクセンヨクヲソソガレテイマス",
+            "contributor": "河野美姫",
+            "contributor_collation_key": "カワノミキ",
+            "imprint": "ハーパーコリンズ・ジャパン",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7192/9784596017192.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434296109",
+            "title": "転移先は薬師が少ない世界でした（2）",
+            "title_collation_key": "テンイサキハクスシガスクナイセカイデシタ",
+            "contributor": "饕餮",
+            "contributor_collation_key": "トウテツ",
+            "imprint": "アルファポリス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6109/9784434296109_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784596017239",
+            "title": "一途な御曹司の甘い策略で愛され懐妊花嫁になりました",
+            "title_collation_key": "イチズナオンゾウシノアマイサクリャクデアイサレカイニンハナヨメニナリマシタ",
+            "contributor": "有坂芽流",
+            "contributor_collation_key": "アリサカメル",
+            "imprint": "ハーパーコリンズ・ジャパン",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7239/9784596017239.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784596017253",
+            "title": "お見合い相手は初恋の彼でした〜愛されすぎの身代わり婚〜",
+            "title_collation_key": "オミアイアイテハハツコイノカレデシタアイサレスギノミガワリコン",
+            "contributor": "望月沙菜",
+            "contributor_collation_key": "モチヅキサナ",
+            "imprint": "ハーパーコリンズ・ジャパン",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7253/9784596017253.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434296086",
+            "title": "とある小さな村のチートな鍛冶屋さん（1）",
+            "title_collation_key": "トアルチイサナムラノチートナカジヤサン",
+            "contributor": "夜船紡",
+            "contributor_collation_key": "ヨフネツムグ",
+            "imprint": "アルファポリス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6086/9784434296086_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434296093",
+            "title": "婚約破棄されまして（笑）（2）",
+            "title_collation_key": "コンヤクハキサレマシテ",
+            "contributor": "竹本芳生",
+            "contributor_collation_key": "タケモトヨシキ",
+            "imprint": "アルファポリス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6093/9784434296093_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784198946951",
+            "title": "ブルーブラッド",
+            "title_collation_key": "ブルーブラッド",
+            "contributor": "藤田宜永",
+            "contributor_collation_key": "フジタヨシナガ",
+            "imprint": "徳間書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6951/9784198946951_1_6.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784198946937",
+            "title": "中島らも曼荼羅コレクション#1　白いメリーさん",
+            "title_collation_key": "ナカジマラモマンダラコレクションイチ　シロイメリーサン",
+            "contributor": "中島らも",
+            "contributor_collation_key": "ナカジマラモ",
+            "imprint": "徳間書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6937/9784198946937_1_6.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784167917760",
+            "title": "レフトハンド・ブラザーフッド 上",
+            "title_collation_key": "レフトハンド ブラザーフッド ジョウ",
+            "contributor": "知念 実希人",
+            "contributor_collation_key": "チネン ミキト",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7760/9784167917760_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784198946890",
+            "title": "警視庁心理捜査官　捜査一課係長　柳原明日香",
+            "title_collation_key": "ケイシチョウシンリソウサカン　ソウサイッカカカリチョウヤナギハラアスカ",
+            "contributor": "黒崎視音",
+            "contributor_collation_key": "クロサキミオ",
+            "imprint": "徳間書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6890/9784198946890_1_7.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784167917821",
+            "title": "きみの正義は 社労士のヒナコ",
+            "title_collation_key": "キミノセイギハ シャロウシノヒナコ",
+            "contributor": "水生 大海",
+            "contributor_collation_key": "ミズキ ヒロミ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7821/9784167917821_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784167917807",
+            "title": "中野のお父さんは謎を解くか",
+            "title_collation_key": "ナカノノオトウサンハナゾヲトクカ",
+            "contributor": "北村 薫",
+            "contributor_collation_key": "キタムラ カオル",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7807/9784167917807_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784167917838",
+            "title": "殺し屋、続けてます。",
+            "title_collation_key": "コロシヤ、ツヅケテマス。",
+            "contributor": "石持 浅海",
+            "contributor_collation_key": "イシモチ アサミ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7838/9784167917838_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784167917869",
+            "title": "知性は死なない 平成の鬱をこえて　増補版",
+            "title_collation_key": "チセイハシナナイ ヘイセイノウツヲコエテ ゾウホバン",
+            "contributor": "與那覇 潤",
+            "contributor_collation_key": "ヨナハ ジュン",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7869/9784167917869_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784198946920",
+            "title": "やぶにらみの時計",
+            "title_collation_key": "ヤブニラミノトケイ",
+            "contributor": "都筑道夫",
+            "contributor_collation_key": "ツヅキミチオ",
+            "imprint": "徳間書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6920/9784198946920_1_6.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784167917845",
+            "title": "ゆるキャラの恐怖 桑潟幸一准教授のスタイリッシュな生活3",
+            "title_collation_key": "ユルキャラノキョウフ クワガタコウイチジュンキョウジュノスタイリッシュナセイカツ サン",
+            "contributor": "奥泉 光",
+            "contributor_collation_key": "オクイズミ ヒカル",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7845/9784167917845_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784198946906",
+            "title": "死だけが私の贈り物",
+            "title_collation_key": "シダケガワタシノオクリモノ",
+            "contributor": "小泉喜美子",
+            "contributor_collation_key": "コイズミキミコ",
+            "imprint": "徳間書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6906/9784198946906_1_6.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784198946944",
+            "title": "十津川警部　追憶のミステリー・ルート",
+            "title_collation_key": "トツガワケイブツイオクノミステリールート",
+            "contributor": "西村京太郎",
+            "contributor_collation_key": "ニシムラキョウタロウ",
+            "imprint": "徳間書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6944/9784198946944_1_7.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784167917814",
+            "title": "出世商人（四）",
+            "title_collation_key": "シュッセアキンド ヨン",
+            "contributor": "千野 隆司",
+            "contributor_collation_key": "チノ タカシ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7814/9784167917814_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784198946876",
+            "title": "さよならのためだけに",
+            "title_collation_key": "サヨナラノタメダケニ",
+            "contributor": "我孫子武丸",
+            "contributor_collation_key": "アビコタケマル",
+            "imprint": "徳間書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6876/9784198946876_1_6.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784198946869",
+            "title": "グリーン・グリーン",
+            "title_collation_key": "グリーングリーン",
+            "contributor": "あさのあつこ",
+            "contributor_collation_key": "アサノアツコ",
+            "imprint": "徳間書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6869/9784198946869_1_7.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784167917777",
+            "title": "レフトハンド・ブラザーフッド 下",
+            "title_collation_key": "レフトハンド ブラザーフッド ゲ",
+            "contributor": "知念 実希人",
+            "contributor_collation_key": "チネン ミキト",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7777/9784167917777_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784167917784",
+            "title": "異郷のぞみし 空也十番勝負（四）決定版",
+            "title_collation_key": "イキョウノゾミシ クウヤジュウバンショウブ シ ケッテイバン",
+            "contributor": "佐伯 泰英",
+            "contributor_collation_key": "サエキ ヤスヒデ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7784/9784167917784_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784167917791",
+            "title": "帰還",
+            "title_collation_key": "キカン",
+            "contributor": "堂場 瞬一",
+            "contributor_collation_key": "ドウバ シュンイチ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7791/9784167917791_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784198946913",
+            "title": "スクエア",
+            "title_collation_key": "スクエア",
+            "contributor": "今野敏",
+            "contributor_collation_key": "コンノビン",
+            "imprint": "徳間書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6913/9784198946913_1_7.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784167917753",
+            "title": "雪見酒 新・酔いどれ小籐次（二十一）",
+            "title_collation_key": "ユキミザケ シン ヨイドレコトウジ ニジュウイチ",
+            "contributor": "佐伯 泰英",
+            "contributor_collation_key": "サエキ ヤスヒデ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7753/9784167917753_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784813711735",
+            "title": "子作り政略婚のはずが、冷徹御曹司は蕩ける愛欲を注ぎ込む",
+            "title_collation_key": "コヅクリセイリャクコンノハズガレイテツオンゾウシハトロケルアイヨクヲソソギコム",
+            "contributor": "晴日青",
+            "contributor_collation_key": "ハルヒアオ",
+            "imprint": "スターツ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1735/9784813711735_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784569901701",
+            "title": "不協和音3",
+            "title_collation_key": "フキョウワオンサン",
+            "contributor": "大門 剛明",
+            "contributor_collation_key": "ダイモン タケアキ",
+            "imprint": "PHP研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1701/9784569901701_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784569901688",
+            "title": "婚活食堂6",
+            "title_collation_key": "コンカツショクドウロク",
+            "contributor": "山口 恵以子",
+            "contributor_collation_key": "ヤマグチ エイコ",
+            "imprint": "PHP研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1688/9784569901688_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784569901695",
+            "title": "駒子さんは出世なんてしたくなかった",
+            "title_collation_key": "コマコサンハシュッセナンテシタクナカッタ",
+            "contributor": "碧野 圭",
+            "contributor_collation_key": "アオノ ケイ",
+            "imprint": "PHP研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1695/9784569901695_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784569901725",
+            "title": "名もなき少女に墓碑銘を",
+            "title_collation_key": "ナモナキショウジョニボヒメイヲ",
+            "contributor": "香納 諒一",
+            "contributor_collation_key": "カノウ リョウイチ",
+            "imprint": "PHP研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1725/9784569901725_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784813711759",
+            "title": "政略懐妊〜赤ちゃんを宿す、エリート御曹司の甘く淫らな愛し方〜",
+            "title_collation_key": "セイリャクカイニンアカチャンヲヤドスエリートオンゾウシノアマクミダラナアイシカタ",
+            "contributor": "田崎くるみ",
+            "contributor_collation_key": "タサキクルミ",
+            "imprint": "スターツ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1759/9784813711759_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784569901626",
+            "title": "ペンギンのバタフライ",
+            "title_collation_key": "ペンギンノバタフライ",
+            "contributor": "中山 智幸",
+            "contributor_collation_key": "ナカヤマ トモユキ",
+            "imprint": "PHP研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1626/9784569901626_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865813180",
+            "title": "生きたい彼　死にたい私",
+            "title_collation_key": "イキタイカレシニタイワタシ",
+            "contributor": "咲セリ",
+            "contributor_collation_key": "サキセリ",
+            "imprint": "さくら舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3180/9784865813180.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784087717716",
+            "title": "救命センター カンファレンス・ノート",
+            "title_collation_key": "キュウメイセンター カンファレンス ノート",
+            "contributor": "浜辺 祐一",
+            "contributor_collation_key": "ハマベ ユウイチ",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7716/9784087717716_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784022620569",
+            "title": "ベトナム戦記　新装版",
+            "title_collation_key": "ベトナムセンキ シンソウバン",
+            "contributor": "開高　健",
+            "contributor_collation_key": "カイコウ ケン",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0569/9784022620569_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784022650139",
+            "title": "相棒season19（中）",
+            "title_collation_key": "アイボウシーズン19（チュウ）",
+            "contributor": "碇　卯人",
+            "contributor_collation_key": "イカリ ウヒト",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0139/9784022650139.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784074505364",
+            "title": "小説　シノノメ色の週末",
+            "title_collation_key": "ショウセツシノノメイロノシュウマツ",
+            "contributor": "穐山茉由",
+            "contributor_collation_key": "アキヤママユ",
+            "imprint": "主婦の友社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5364/9784074505364_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784094070811",
+            "title": "かすがい食堂 あしたの色",
+            "title_collation_key": "カスガイショクドウ アシタノイロ",
+            "contributor": "伽古屋 圭市",
+            "contributor_collation_key": "カコヤ ケイイチ",
+            "imprint": "小学館",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0811/9784094070811_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784591171721",
+            "title": "はつ恋",
+            "title_collation_key": "ハツコイ",
+            "contributor": "村山　由佳",
+            "contributor_collation_key": "ムラヤマユカ",
+            "imprint": "ポプラ社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1721/9784591171721_1_6.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784591171738",
+            "title": "湯島天神坂　お宿如月庵へようこそ　十三夜の巻",
+            "title_collation_key": "ユシマテンジンザカオヤドキサラギアンヘヨウコソジュウサンヤノマキ",
+            "contributor": "中島　久枝",
+            "contributor_collation_key": "ナカシマヒサエ",
+            "imprint": "ポプラ社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1738/9784591171738_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784094070859",
+            "title": "吉祥寺デイズ うまうま食べもの うしうしゴシップ",
+            "title_collation_key": "キチジョウジデイズ ウマウマタベモノ ウシウシゴシップ",
+            "contributor": "山田 詠美",
+            "contributor_collation_key": "ヤマダ エイミ",
+            "imprint": "小学館",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0859/9784094070859_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784094070804",
+            "title": "漫画ひりひり",
+            "title_collation_key": "マンガヒリヒリ",
+            "contributor": "風 カオル",
+            "contributor_collation_key": "カゼ カオル",
+            "imprint": "小学館",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0804/9784094070804_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784094070873",
+            "title": "えんま様のもっと！忙しい49日間 新宿七不思議の謎",
+            "title_collation_key": "エンマサマノモット！イソガシイヨンジュウクニチカン シンジュクナナフシギノナゾ",
+            "contributor": "霜月 りつ/スオウ",
+            "contributor_collation_key": "シモツキ リツ/スオウ",
+            "imprint": "小学館",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0873/9784094070873_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784022650177",
+            "title": "あちらにいる鬼",
+            "title_collation_key": "アチラニイルオニ",
+            "contributor": "井上荒野",
+            "contributor_collation_key": "イノウエアレノ",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0177/9784022650177_1_6.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784022650153",
+            "title": "吸血鬼ハンター39　D-鬼哭旅",
+            "title_collation_key": "バンパイアハンター39 D-キコクタビ",
+            "contributor": "菊地秀行",
+            "contributor_collation_key": "キクチヒデユキ",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0153/9784022650153_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784094070828",
+            "title": "私はいったい、何と闘っているのか",
+            "title_collation_key": "ワタシハイッタイナニトタタカッテイルノカ",
+            "contributor": "つぶやき シロー",
+            "contributor_collation_key": "ツブヤキ シロー",
+            "imprint": "小学館",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0828/9784094070828_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784094070835",
+            "title": "アイスランド 絶景と幸福の国へ",
+            "title_collation_key": "アイズランド ゼッケイトコウフクノクニヘ",
+            "contributor": "椎名 誠",
+            "contributor_collation_key": "シイナ マコト",
+            "imprint": "小学館",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0835/9784094070835_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299022066",
+            "title": "AIアテナの犯罪捜査 警察庁情報通信企画課＜アテナプロジェクト＞",
+            "title_collation_key": "エーアイアテナノハンザイソウサケイサツチョウジョウホウツウシンキカクカアテナプロジェクト",
+            "contributor": "越尾 圭",
+            "contributor_collation_key": "コシオ ケイ",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2066/9784299022066.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784022650184",
+            "title": "となりの脳世界",
+            "title_collation_key": "トナリノノウセカイ",
+            "contributor": "村田沙耶香",
+            "contributor_collation_key": "ムラタサヤカ",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0184/9784022650184_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299022325",
+            "title": "スープ屋しずくの謎解き朝ごはん 朝食フェスと決意のグヤーシュ",
+            "title_collation_key": "スープヤシズクノナゾトキアサゴハンチョウショクフェストケツイノグヤーシュ",
+            "contributor": "友井 羊",
+            "contributor_collation_key": "トモイ ヒツジ",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2325/9784299022325_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299021557",
+            "title": "大江戸科学捜査 八丁堀のおゆう ステイホームは江戸で",
+            "title_collation_key": "オオエドカガクソウサハッチョウボリノオユウステイホームハエドデ",
+            "contributor": "山本 巧次",
+            "contributor_collation_key": "ヤマモト コウジ",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1557/9784299021557_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299022059",
+            "title": "遺跡探偵・不結論馬の証明 世界七不思議は甦る",
+            "title_collation_key": "イセキタンテイフユイロンマノショウメイセカイナナフシギハヨミガエル",
+            "contributor": "蒼井 碧",
+            "contributor_collation_key": "アオイ ペキ",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2059/9784299022059_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784094070798",
+            "title": "トヨトミの逆襲",
+            "title_collation_key": "トヨトミノギャクシュウ",
+            "contributor": "梶山 三郎",
+            "contributor_collation_key": "カジヤマ サブロウ",
+            "imprint": "小学館",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0798/9784094070798_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784150315054",
+            "title": "君の話",
+            "title_collation_key": "キミノハナシ",
+            "contributor": "三秋　縋",
+            "contributor_collation_key": "ミアキ スガル",
+            "imprint": "早川書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5054/9784150315054_1_10.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784596016812",
+            "title": "腹黒御曹司の蜜愛妻になりましたが、やっぱり全力で離婚します!!",
+            "title_collation_key": "ハラグロオンゾウシノミツアイヅマニナリマシタガヤッパリゼンリョクデリコンシマス",
+            "contributor": "水城のあ/ウエハラ蜂",
+            "contributor_collation_key": "ミズキノア/ウエハラハチ",
+            "imprint": "ハーパーコリンズ・ジャパン",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6812/9784596016812.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784596016799",
+            "title": "王子な騎士団長は薬草好きの令嬢を溺愛してめとりたい",
+            "title_collation_key": "オウジナキシダンチョウハヤクソウズキノレイジョウヲデキアイシテメトリタイ",
+            "contributor": "熊野まゆ/氷堂れん",
+            "contributor_collation_key": "クマノマユ/ヒドウレン",
+            "imprint": "ハーパーコリンズ・ジャパン",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6799/9784596016799.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784334952778",
+            "title": "翔平選手と翔平ちゃん",
+            "title_collation_key": "ショウヘイセンシュトショウヘイチャン",
+            "contributor": "川崎静葉",
+            "contributor_collation_key": "カワサキ シズハ",
+            "imprint": "光文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2778/9784334952778_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784620210377",
+            "title": "やっぱり食べに行こう。",
+            "title_collation_key": "ヤッパリタベニイコウ",
+            "contributor": "原田 マハ",
+            "contributor_collation_key": "ハラダマハ",
+            "imprint": "毎日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0377/9784620210377_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784620210384",
+            "title": "島のエアライン（上）",
+            "title_collation_key": "シマノエアライン",
+            "contributor": "黒木 亮",
+            "contributor_collation_key": "クロキリョウ",
+            "imprint": "毎日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0384/9784620210384_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784620210391",
+            "title": "島のエアライン（下）",
+            "title_collation_key": "シマノエアライン",
+            "contributor": "黒木 亮",
+            "contributor_collation_key": "クロキリョウ",
+            "imprint": "毎日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0391/9784620210391_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434295256",
+            "title": "王国騎士になるはずがお妃候補になりまして",
+            "title_collation_key": "オウコクキシニナルハズガオキサキコウホニナリマシテ",
+            "contributor": "佐倉紫",
+            "contributor_collation_key": "サクラユカリ",
+            "imprint": "アルファポリス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5256/9784434295256_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784758094078",
+            "title": "悪役令嬢と鬼畜騎士",
+            "title_collation_key": "アクヤクレイジョウトキチクキシ",
+            "contributor": "猫田/旭炬",
+            "contributor_collation_key": "ネコタ/アサヒコ",
+            "imprint": "一迅社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4078/9784758094078_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784488741099",
+            "title": "星のパイロット",
+            "title_collation_key": "ホシノパイロット",
+            "contributor": "笹本 祐一",
+            "contributor_collation_key": "ササモトユウイチ",
+            "imprint": "東京創元社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1099/9784488741099_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784101368788",
+            "title": "限界病院",
+            "title_collation_key": "ゲンカイビョウイン",
+            "contributor": "久間 十義",
+            "contributor_collation_key": "ヒサマ ジュウギ",
+            "imprint": "新潮社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8788/9784101368788_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784813711681",
+            "title": "交換ウソ日記3 ～ふたりのノート～",
+            "title_collation_key": "コウカンウソニッキスリーフタリノノート",
+            "contributor": "櫻いいよ",
+            "contributor_collation_key": "サクライイヨ",
+            "imprint": "スターツ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1681/9784813711681_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784813711674",
+            "title": "月夜に、散りゆく君と最後の恋をした",
+            "title_collation_key": "ツキヨニチリユクキミトサイゴノコイヲシタ",
+            "contributor": "木村咲",
+            "contributor_collation_key": "キムラサキ",
+            "imprint": "スターツ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1674/9784813711674_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784101307596",
+            "title": "もうひとつの「流転の海」",
+            "title_collation_key": "モウヒトツノルテンノウミ",
+            "contributor": "宮本 輝/堀井 憲一郎",
+            "contributor_collation_key": "ミヤモト テル/ホリイ ケンイチロウ",
+            "imprint": "新潮社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7596/9784101307596_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784813711704",
+            "title": "大正ロマン政略婚姻譚",
+            "title_collation_key": "タイショウロマンセイリャクコンインタン",
+            "contributor": "朝比奈希夜",
+            "contributor_collation_key": "アサヒナキヨ",
+            "imprint": "スターツ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1704/9784813711704_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784101032818",
+            "title": "うちのレシピ",
+            "title_collation_key": "ウチノレシピ",
+            "contributor": "瀧羽 麻子",
+            "contributor_collation_key": "タキワ アサコ",
+            "imprint": "新潮社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2818/9784101032818_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784813711698",
+            "title": "鬼の生贄花嫁と甘い契りを",
+            "title_collation_key": "オニノイケニエハナヨメニアマイクチヅケヲ",
+            "contributor": "湊祥",
+            "contributor_collation_key": "ミナトショウ",
+            "imprint": "スターツ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1698/9784813711698_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784101425603",
+            "title": "美麗島紀行",
+            "title_collation_key": "ビレイトウキコウ",
+            "contributor": "乃南 アサ",
+            "contributor_collation_key": "ノナミ アサ",
+            "imprint": "新潮社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5603/9784101425603_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784101033419",
+            "title": "蟻の棲み家",
+            "title_collation_key": "アリノスミカ",
+            "contributor": "望月 諒子",
+            "contributor_collation_key": "モチヅキ リョウコ",
+            "imprint": "新潮社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3419/9784101033419_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784101033617",
+            "title": "臆病な詩人、街へ出る。",
+            "title_collation_key": "オクビョウナシジンマチヘデル",
+            "contributor": "文月 悠光",
+            "contributor_collation_key": "フヅキ ユミ",
+            "imprint": "新潮社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3617/9784101033617_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784101211848",
+            "title": "方丈の孤月",
+            "title_collation_key": "ホウジョウノコゲツ",
+            "contributor": "梓澤 要",
+            "contributor_collation_key": "アズサワ カナメ",
+            "imprint": "新潮社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1848/9784101211848_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784101259642",
+            "title": "常設展示室",
+            "title_collation_key": "ジョウセツテンジシツ",
+            "contributor": "原田 マハ",
+            "contributor_collation_key": "ハラダ マハ",
+            "imprint": "新潮社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9642/9784101259642_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801305533",
+            "title": "アイアム精神疾患フルコース",
+            "title_collation_key": "アイアムセイシンシッカンフルコース",
+            "contributor": "瀧本 容子",
+            "contributor_collation_key": "タキモト ヨウコ",
+            "imprint": "彩図社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5533/9784801305533_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784344038547",
+            "title": "ボクもたまにはがんになる",
+            "title_collation_key": "ボクモタマニハガンニナル",
+            "contributor": "三谷 幸喜/頴川 晋",
+            "contributor_collation_key": "ミタニ コウキ/エガワ シン",
+            "imprint": "幻冬舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8547/9784344038547_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434294556",
+            "title": "ひとりじゃない",
+            "title_collation_key": "ヒトリジャナイ",
+            "contributor": "福岡円",
+            "contributor_collation_key": "フクオカマドカ",
+            "imprint": "牧歌舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4556/9784434294556_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784576211725",
+            "title": "三代目誕生　小料理のどか屋 人情帖33",
+            "title_collation_key": "サンダイメタンジョウ　コリョウリノドカヤ ニンジョウチョウ",
+            "contributor": "倉阪 鬼一郎/宇野 信哉",
+            "contributor_collation_key": "クラサカ キイチロウ/ウノ シンヤ",
+            "imprint": "二見書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1725/9784576211725_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784576211749",
+            "title": "ガーターベルトをつけた美人官僚",
+            "title_collation_key": "ガーターベルトヲツケタビジンキャリア",
+            "contributor": "雨宮 慶",
+            "contributor_collation_key": "アマミヤ ケイ",
+            "imprint": "二見書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1749/9784576211749_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784576211718",
+            "title": "狐の嫁入り　ご隠居は福の神7",
+            "title_collation_key": "キツネノヨメイリ　ゴインキョハフクノカミ",
+            "contributor": "井川 香四郎/安里 英晴",
+            "contributor_collation_key": "イカワコウシロウ/アリ ヒデハル",
+            "imprint": "二見書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1718/9784576211718_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784313753037",
+            "title": "武田信玄と武田四天王",
+            "title_collation_key": "タケダシンゲントタケダシテンノウ",
+            "contributor": "野中 信二",
+            "contributor_collation_key": "ノナカシンジ",
+            "imprint": "学陽書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3037/9784313753037_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784620327068",
+            "title": "コロナに翻弄された家",
+            "title_collation_key": "コロナニホンロウサレタイエ",
+            "contributor": "末 利光",
+            "contributor_collation_key": "スエトシミツ",
+            "imprint": "毎日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7068/9784620327068_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784813711643",
+            "title": "無気力な幼なじみと同居したら、予想外の溺愛がはじまりました♥",
+            "title_collation_key": "",
+            "contributor": "雨",
+            "contributor_collation_key": "",
+            "imprint": "スターツ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1643/9784813711643_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784769832409",
+            "title": "戦艦「大和」レイテ沖の七日間",
+            "title_collation_key": "",
+            "contributor": "岩佐二郎",
+            "contributor_collation_key": "",
+            "imprint": "潮書房光人新社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2409/9784769832409_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784769832379",
+            "title": "戦場を飛ぶ",
+            "title_collation_key": "",
+            "contributor": "渡辺洋二",
+            "contributor_collation_key": "",
+            "imprint": "潮書房光人新社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2379/9784769832379_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784867172391",
+            "title": "美肛リゾート 後ろでイカせて",
+            "title_collation_key": "ビコウリゾートウシロデイカセテ",
+            "contributor": "阿久根道人",
+            "contributor_collation_key": "アクネドウト",
+            "imprint": "ジーウォーク",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2391/9784867172391_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784086314367",
+            "title": "異世界蹂躙 -淫靡な洞窟のその奥でー 3",
+            "title_collation_key": "イセカイジュウリン インビナドウクツノソノオクデ",
+            "contributor": "ウメ種/ぼに〜",
+            "contributor_collation_key": "ウメタネ/ボニー",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4367/9784086314367_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784867172384",
+            "title": "マドンナOL メイド志願",
+            "title_collation_key": "マドンナオーエルメイドシガン",
+            "contributor": "八神淳一",
+            "contributor_collation_key": "ヤガミジュンイチ",
+            "imprint": "ジーウォーク",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2384/9784867172384_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784813711667",
+            "title": "私の彼氏は親友とデキていました",
+            "title_collation_key": "",
+            "contributor": "かなゆな",
+            "contributor_collation_key": "",
+            "imprint": "スターツ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1667/9784813711667_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784891997601",
+            "title": "チート薬師のスローライフ（7巻）",
+            "title_collation_key": "チートクスシノスローライフナナカン",
+            "contributor": "ケンノジ",
+            "contributor_collation_key": "ケンノジ",
+            "imprint": "一二三書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7601/9784891997601_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "2100012793407",
+            "title": "【サイン本】異世界蹂躙 -淫靡な洞窟のその奥でー 3",
+            "title_collation_key": "イセカイジュウリン インビナドウクツノソノオクデ",
+            "contributor": "ウメ種/ぼに〜",
+            "contributor_collation_key": "ウメタネ/ボニー",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4367/9784086314367_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041118436",
+            "title": "迷路の花嫁",
+            "title_collation_key": "メイロノハナヨメ",
+            "contributor": "横溝　正史",
+            "contributor_collation_key": "ヨコミゾ　セイシ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8436/9784041118436_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041117774",
+            "title": "皇帝の薬膳妃 紅き棗と再会の約束（1）",
+            "title_collation_key": "コウテイノヤクゼンヒ アカキナツメトサイカイノヤクソク",
+            "contributor": "尾道　理子",
+            "contributor_collation_key": "オノミチ　リコ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7774/9784041117774_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784880655154",
+            "title": "島を出る",
+            "title_collation_key": "シマヲデル",
+            "contributor": "上江洲 儀正",
+            "contributor_collation_key": "ウエズ ヨシマサ",
+            "imprint": "水曜社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5154/9784880655154_1_63.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041118795",
+            "title": "江戸落語奇譚 始まりと未来",
+            "title_collation_key": "エドラクゴキタン ハジマリトミライ",
+            "contributor": "奥野　じゅん",
+            "contributor_collation_key": "オクノ　ジュン",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8795/9784041118795_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784575316599",
+            "title": "ふつうにふつうのふりしたあとで、「普通」をめぐる35の対話",
+            "title_collation_key": "フツウニフツウノフリヲシタアトデ　フツウヲメグルサンジュウゴノタイワ",
+            "contributor": "牧村朝子",
+            "contributor_collation_key": "マキムラアサコ",
+            "imprint": "双葉社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6599/9784575316599_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041119938",
+            "title": "逡巡の二十秒と悔恨の二十年",
+            "title_collation_key": "シュンジュンノニジュウビョウトカイコンノニジュウネン",
+            "contributor": "小林　泰三",
+            "contributor_collation_key": "コバヤシ　ヤスミ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9938/9784041119938_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041117910",
+            "title": "忍法剣士伝",
+            "title_collation_key": "ニンポウケンシデン",
+            "contributor": "山田　風太郎",
+            "contributor_collation_key": "ヤマダ　フウタロウ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7910/9784041117910_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041117910",
+            "title": "忍法剣士伝",
+            "title_collation_key": "ニンポウケンシデン",
+            "contributor": "山田　風太郎",
+            "contributor_collation_key": "ヤマダ　フウタロウ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7910/9784041117910_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041117866",
+            "title": "まれびとパレード",
+            "title_collation_key": "マレビトパレード",
+            "contributor": "越谷　オサム",
+            "contributor_collation_key": "コシガヤ　オサム",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7866/9784041117866_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041113387",
+            "title": "新・入り婿侍商い帖 古米三千俵（二）",
+            "title_collation_key": "シン・イリムコザムライアキナイチョウ コマイサンゼンビョウ（ニ）",
+            "contributor": "千野　隆司",
+            "contributor_collation_key": "チノ　タカシ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3387/9784041113387_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041119839",
+            "title": "母と死体を埋めに行く",
+            "title_collation_key": "ハハトシタイヲウメニイク",
+            "contributor": "大石　圭",
+            "contributor_collation_key": "オオイシ　ケイ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9839/9784041119839_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839975203",
+            "title": "あやかしトリオのごはんとお酒と珍道中　～幻月夜のひと騒ぎ～",
+            "title_collation_key": "アヤカシトリオノゴハントオサケトチンドウチュウ　マボロシゲツヤノヒトサワギ",
+            "contributor": "桔梗楓/冬臣",
+            "contributor_collation_key": "キキョウカエデ/フユオミ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5203/9784839975203_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041118986",
+            "title": "心霊探偵八雲11 魂の代償",
+            "title_collation_key": "シンレイタンテイヤクモ11 タマシイノダイショウ",
+            "contributor": "神永　学",
+            "contributor_collation_key": "カミナガ　マナブ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8986/9784041118986_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041115411",
+            "title": "虚談",
+            "title_collation_key": "キョダン",
+            "contributor": "京極　夏彦",
+            "contributor_collation_key": "キョウゴク　ナツヒコ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5411/9784041115411_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041115190",
+            "title": "斉国札術士録 活版書房と札見習い",
+            "title_collation_key": "セイコクフジュツシロク カッパンショボウトフダミナライ",
+            "contributor": "九条　菜月",
+            "contributor_collation_key": "クジョウ　ナツキ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5190/9784041115190_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041109700",
+            "title": "明日へつながる5つの物語",
+            "title_collation_key": "アスヘツナガル5ツノモノガタリ",
+            "contributor": "あさの　あつこ",
+            "contributor_collation_key": "アサノ　アツコ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9700/9784041109700_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041116470",
+            "title": "朝ごとに死におくべし 葉隠物語",
+            "title_collation_key": "アサゴトニシニオクベシ ハガクレモノガタリ",
+            "contributor": "安部　龍太郎",
+            "contributor_collation_key": "アベ　リュウタロウ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6470/9784041116470_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784576211664",
+            "title": "沼の国",
+            "title_collation_key": "ヌマノクニ",
+            "contributor": "宮田 光",
+            "contributor_collation_key": "ミヤタ ヒカル",
+            "imprint": "二見書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1664/9784576211664_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041118788",
+            "title": "キマイラ22 望郷変",
+            "title_collation_key": "キマイラ22 ボウキョウヘン",
+            "contributor": "夢枕　獏/三輪　士郎",
+            "contributor_collation_key": "ユメマクラ　バク/ミワ　シロウ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8788/9784041118788_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041115343",
+            "title": "初秋の剣 大江戸定年組（1）",
+            "title_collation_key": "ショシュウノケン オオエドテイネングミ",
+            "contributor": "風野　真知雄",
+            "contributor_collation_key": "カゼノ　マチオ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5343/9784041115343_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041114285",
+            "title": "モンスターと食卓を　3",
+            "title_collation_key": "モンスタートショクタクヲ　3",
+            "contributor": "椹野　道流",
+            "contributor_collation_key": "フシノ　ミチル",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4285/9784041114285_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041117743",
+            "title": "水曜日の手紙",
+            "title_collation_key": "スイヨウビノテガミ",
+            "contributor": "森沢　明夫",
+            "contributor_collation_key": "モリサワ　アキオ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7743/9784041117743_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041117842",
+            "title": "夜汐",
+            "title_collation_key": "ヨシオ",
+            "contributor": "東山　彰良",
+            "contributor_collation_key": "ヒガシヤマ　アキラ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7842/9784041117842_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041112397",
+            "title": "八号古墳に消えて",
+            "title_collation_key": "ハチゴウコフンニキエテ",
+            "contributor": "黒川　博行",
+            "contributor_collation_key": "クロカワ　ヒロユキ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2397/9784041112397_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041120569",
+            "title": "ecriture　新人作家・杉浦李奈の推論",
+            "title_collation_key": "エクリチュール　シンジンサッカ・スギウラリナノスイロン",
+            "contributor": "松岡　圭祐",
+            "contributor_collation_key": "マツオカ　ケイスケ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0569/9784041120569_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041116302",
+            "title": "ひとり旅日和",
+            "title_collation_key": "ヒトリタビビヨリ",
+            "contributor": "秋川　滝美",
+            "contributor_collation_key": "アキカワ　タキミ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6302/9784041116302_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041119389",
+            "title": "弁当屋さんのおもてなし しあわせ宅配篇3（9）",
+            "title_collation_key": "ベントウヤサンノオモテナシ シアワセタクハイヘンサン",
+            "contributor": "喜多　みどり/イナコ",
+            "contributor_collation_key": "キタ　ミドリ/イナコ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9389/9784041119389_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041117828",
+            "title": "魂のままに生きれば、今日やることは今日わかる つれづれノート40",
+            "title_collation_key": "タマシイノママニイキレバ、キョウヤルコトハキョウワカル ツレヅレノート40",
+            "contributor": "銀色　夏生",
+            "contributor_collation_key": "ギンイロ　ナツヲ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7828/9784041117828_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784041115428",
+            "title": "検事の信義（4）",
+            "title_collation_key": "ケンジノシンギ",
+            "contributor": "柚月裕子",
+            "contributor_collation_key": "ユヅキユウコ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5428/9784041115428_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784086804141",
+            "title": "水の剣と砂漠の海 アルテニア戦記",
+            "title_collation_key": "ラヴィーナトサバクノウミ アルテニアセンキ",
+            "contributor": "森 りん/遠田 志帆",
+            "contributor_collation_key": "モリ リン/エンタ シホ",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4141/9784086804141_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784087443097",
+            "title": "捜し物屋まやま 2",
+            "title_collation_key": "サガシモノヤマヤマ 2",
+            "contributor": "木原 音瀬",
+            "contributor_collation_key": "コノハラ ナリセ",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3097/9784087443097_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784087443073",
+            "title": "絶声",
+            "title_collation_key": "ゼッショウ",
+            "contributor": "下村 敦史",
+            "contributor_collation_key": "シモムラ アツシ",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3073/9784087443073_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784087443134",
+            "title": "星月夜の鬼子母神",
+            "title_collation_key": "ホシツキヨノキシボジン",
+            "contributor": "篠 綾子",
+            "contributor_collation_key": "シノアヤコ",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3134/9784087443134_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774763316",
+            "title": "異世界で双子の腹ぺこ神獣王子を育てることになりました。",
+            "title_collation_key": "イセカイデフタゴノハラペコシンジュウオウジヲソダテルコトニナリマシタ",
+            "contributor": "遠坂 カナレ",
+            "contributor_collation_key": "トオサカ カナレ",
+            "imprint": "コスミック出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3316/9784774763316_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784086804103",
+            "title": "逃げられない男 〜警視庁特殊能力係〜",
+            "title_collation_key": "ニゲラレナイオトコ ケイシチョウトクシュノウリョクガカリ",
+            "contributor": "愁堂 れな/円陣 闇丸",
+            "contributor_collation_key": "シュウドウ レナ/エンジン ヤミマル",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4103/9784086804103_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774763316",
+            "title": "異世界で双子の腹ぺこ神獣王子を育てることになりました。",
+            "title_collation_key": "イセカイデフタゴノハラペコシンジュウオウジヲソダテルコトニナリマシタ",
+            "contributor": "遠坂 カナレ",
+            "contributor_collation_key": "トオサカ カナレ",
+            "imprint": "コスミック出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3316/9784774763316_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784087443066",
+            "title": "尼子姫十勇士",
+            "title_collation_key": "アマゴヒメジュウユウシ",
+            "contributor": "諸田 玲子",
+            "contributor_collation_key": "モロタ レイコ",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3066/9784087443066_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784086804158",
+            "title": "小説 消えた初恋",
+            "title_collation_key": "ショウセツ キエタハツコイ",
+            "contributor": "宮田 光/アルコ",
+            "contributor_collation_key": "ミヤタ ヒカル/アルコ",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4158/9784086804158_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784086804103",
+            "title": "逃げられない男 〜警視庁特殊能力係〜",
+            "title_collation_key": "ニゲラレナイオトコ ケイシチョウトクシュノウリョクガカリ",
+            "contributor": "愁堂 れな/円陣 闇丸",
+            "contributor_collation_key": "シュウドウ レナ/エンジン ヤミマル",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4103/9784086804103_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784087443103",
+            "title": "暗夜鬼譚 空蝉挽歌 ＜後＞",
+            "title_collation_key": "アンヤキタン ウツセミバンカ コウ",
+            "contributor": "瀬川 貴次",
+            "contributor_collation_key": "セガワ タカツグ",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3103/9784087443103_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784086804127",
+            "title": "京都伏見は水神さまのいたはるところ ふたりの新しい季節",
+            "title_collation_key": "キョウトフシミハスイジンサマノイタハルトコロ フタリノアタラシイキセツ",
+            "contributor": "相川 真/白谷 ゆう",
+            "contributor_collation_key": "アイカワ シン/シロヤ ユウ",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4127/9784086804127_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784087443080",
+            "title": "高天原 -- 厩戸皇子の神話",
+            "title_collation_key": "タカマノハラ ウマヤドノミコノカミバナシ",
+            "contributor": "周防 柳",
+            "contributor_collation_key": "スオウ ヤナギ",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3080/9784087443080_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784087443141",
+            "title": "明智小五郎事件簿 戦後編 1",
+            "title_collation_key": "アケチコゴロウジケンボ センゴヘン イチ",
+            "contributor": "江戸川 乱歩",
+            "contributor_collation_key": "エドガワ ランポ",
+            "imprint": "集英社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3141/9784087443141_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784101050539",
+            "title": "美徳のよろめき",
+            "title_collation_key": "ビトクノヨロメキ",
+            "contributor": "三島 由紀夫",
+            "contributor_collation_key": "ミシマ ユキオ",
+            "imprint": "新潮社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0539/9784101050539_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866414638",
+            "title": "ほとけの周辺",
+            "title_collation_key": "ホトケノシュウヘン",
+            "contributor": "牧野隆夫",
+            "contributor_collation_key": "マキノタカオ",
+            "imprint": "リフレ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4638/9784866414638_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784101050546",
+            "title": "音楽",
+            "title_collation_key": "オンガク",
+            "contributor": "三島 由紀夫",
+            "contributor_collation_key": "ミシマ ユキオ",
+            "imprint": "新潮社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0546/9784101050546_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784150315047",
+            "title": "大日本帝国の銀河 4",
+            "title_collation_key": "ダイニホンテイコクノギンガヨン",
+            "contributor": "林　譲治",
+            "contributor_collation_key": "ハヤシ ジョウジ",
+            "imprint": "早川書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5047/9784150315047_1_21.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784122071322",
+            "title": "子供の領分",
+            "title_collation_key": "コドモノリョウブン",
+            "contributor": "吉行 淳之介",
+            "contributor_collation_key": "ヨシユキジュンノスケ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1322/9784122071322_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784488465155",
+            "title": "名探偵の証明　蜜柑花子の栄光",
+            "title_collation_key": "メイタンテイノショウメイミカンハナコノエイコウ",
+            "contributor": "市川 哲也",
+            "contributor_collation_key": "イチカワテツヤ",
+            "imprint": "東京創元社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5155/9784488465155_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784003122617",
+            "title": "まっくら",
+            "title_collation_key": "マックラ",
+            "contributor": "森崎 和江",
+            "contributor_collation_key": "モリサキ カズエ",
+            "imprint": "岩波書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2617/9784003122617_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784635080132",
+            "title": "町田忍の銭湯パラダイス",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "山と溪谷社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0132/9784635080132_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784122071247",
+            "title": "悪党の裔（上）",
+            "title_collation_key": "アクトウノスエ ジョウ",
+            "contributor": "北方 謙三",
+            "contributor_collation_key": "キタカタケンゾウ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1247/9784122071247_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784122071254",
+            "title": "悪党の裔（下）",
+            "title_collation_key": "アクトウノスエ ゲ",
+            "contributor": "北方 謙三",
+            "contributor_collation_key": "キタカタケンゾウ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1254/9784122071254_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784122071292",
+            "title": "歌舞伎町ゲノム",
+            "title_collation_key": "カブキチョウゲノム",
+            "contributor": "誉田 哲也",
+            "contributor_collation_key": "ホンダテツヤ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1292/9784122071292_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784003108024",
+            "title": "黒島伝治作品集",
+            "title_collation_key": "クロシマデンジサクヒンシュウ",
+            "contributor": "紅野 謙介",
+            "contributor_collation_key": "コウノ ケンスケ",
+            "imprint": "岩波書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8024/9784003108024_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784122071261",
+            "title": "ラバウル戦線異状なし",
+            "title_collation_key": "ラバウルセンセンイジョウナシ",
+            "contributor": "草鹿 任一",
+            "contributor_collation_key": "クサカジンイチ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1261/9784122071261_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784006023409",
+            "title": "ドストエフスキーとの旅",
+            "title_collation_key": "ドストエフスキートノタビ",
+            "contributor": "亀山 郁夫",
+            "contributor_collation_key": "カメヤマ イクオ",
+            "imprint": "岩波書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3409/9784006023409_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784122071285",
+            "title": "野口冨士男犯罪小説集 風のない日々／少女",
+            "title_collation_key": "ノグチフジオハンザイショウセツシュウ カゼノナイヒビ ショウジョ",
+            "contributor": "野口 冨士男",
+            "contributor_collation_key": "ノグチフジオ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1285/9784122071285_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801928459",
+            "title": "いろめき引越し便",
+            "title_collation_key": "イロメキヒッコシビン",
+            "contributor": "橘 真児",
+            "contributor_collation_key": "タチバナ シンジ",
+            "imprint": "竹書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8459/9784801928459_1_6.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774763200",
+            "title": "超時空イージス戦隊【1】B29を撃滅せよ！",
+            "title_collation_key": "チョウジクウイージスセンタイイチ　ビーニジュウクヲゲキメツセヨ",
+            "contributor": "橋本 純",
+            "contributor_collation_key": "ハシモト ジュン",
+            "imprint": "コスミック出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3200/9784774763200_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784065250013",
+            "title": "アイの歌声を聴かせて",
+            "title_collation_key": "アイノウタゴエヲキカセテ",
+            "contributor": "乙野 四方字/吉浦 康裕",
+            "contributor_collation_key": "オトノ ヨモジ/ヨシウラ ヤスヒロ",
+            "imprint": "講談社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0013/9784065250013_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434294969",
+            "title": "余命ー24h",
+            "title_collation_key": "ヨメイマイナスニジュウヨジカン",
+            "contributor": "安崎依代",
+            "contributor_collation_key": "アンザキイヨ",
+            "imprint": "アルファポリス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4969/9784434294969_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784065257296",
+            "title": "友達未遂",
+            "title_collation_key": "トモダチミスイ",
+            "contributor": "宮西 真冬",
+            "contributor_collation_key": "ミヤニシ マフユ",
+            "imprint": "講談社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7296/9784065257296_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784758444378",
+            "title": "すみれ飴　花暦　居酒屋ぜんや",
+            "title_collation_key": "スミレアメ　ハナゴヨミ　イザカヤゼンヤ",
+            "contributor": "坂井 希久子",
+            "contributor_collation_key": "サカイ キクコ",
+            "imprint": "角川春樹事務所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4378/9784758444378_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784758444415",
+            "title": "無根の樹",
+            "title_collation_key": "ムコンノキ",
+            "contributor": "三好 昌子",
+            "contributor_collation_key": "ミヨシ アキコ",
+            "imprint": "角川春樹事務所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4415/9784758444415_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784065238165",
+            "title": "ピエロがいる街",
+            "title_collation_key": "ピエロガイルマチ",
+            "contributor": "横関 大",
+            "contributor_collation_key": "ヨコゼキ ダイ",
+            "imprint": "講談社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8165/9784065238165_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784065245972",
+            "title": "虚構推理短編集　岩永琴子の純真",
+            "title_collation_key": "キョコウスイリタンペンシュウ イワナガコトコノジュンシン",
+            "contributor": "城平 京/片瀬 茶柴",
+            "contributor_collation_key": "シロダイラ キョウ/カタセ チャシバ",
+            "imprint": "講談社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5972/9784065245972_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434294952",
+            "title": "あやかし鬼嫁婚姻譚",
+            "title_collation_key": "アヤカシオニヨメコンインタン",
+            "contributor": "朧月あき",
+            "contributor_collation_key": "オボロヅキアキ",
+            "imprint": "アルファポリス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4952/9784434294952_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784758444385",
+            "title": "思い出牡蠣の昆布舟　はるの味だより",
+            "title_collation_key": "オモイデカキノコンブフネ　ハルノアジダヨリ",
+            "contributor": "佐々木 禎子",
+            "contributor_collation_key": "ササキ テイコ",
+            "imprint": "角川春樹事務所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4385/9784758444385_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784065257524",
+            "title": "亡命者　ザ・ジョーカー　新装版",
+            "title_collation_key": "ボウメイシャ ザ・ジョーカー シンソウバン",
+            "contributor": "大沢 在昌",
+            "contributor_collation_key": "オオサワ アリマサ",
+            "imprint": "講談社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7524/9784065257524_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784065257531",
+            "title": "サリエルの命題",
+            "title_collation_key": "サリエルノメイダイ",
+            "contributor": "楡 周平",
+            "contributor_collation_key": "ニレ シュウヘイ",
+            "imprint": "講談社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7531/9784065257531_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784065257302",
+            "title": "神楽坂つきみ茶屋3　想い人に捧げる鍋料理",
+            "title_collation_key": "カグラザカツキミヂャヤ3 オモイビトニササゲルナベリョウリ",
+            "contributor": "斎藤 千輪",
+            "contributor_collation_key": "サイトウ チワ",
+            "imprint": "講談社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7302/9784065257302_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784065250556",
+            "title": "日輪の遺産　新装版",
+            "title_collation_key": "ニチリンノイサン シンソウバン",
+            "contributor": "浅田 次郎",
+            "contributor_collation_key": "アサダ ジロウ",
+            "imprint": "講談社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0556/9784065250556_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784065245910",
+            "title": "ゲーム部はじめました。",
+            "title_collation_key": "ゲームブハジメマシタ.",
+            "contributor": "浜口 倫太郎",
+            "contributor_collation_key": "ハマグチ リンタロウ",
+            "imprint": "講談社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5910/9784065245910_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784758444392",
+            "title": "親王殿下のパティシエール（5）　皇帝陛下とお菓子の宮殿",
+            "title_collation_key": "シンノウデンカノパティシエール　ゴ　コウテイヘイカトオカシノキュウデン",
+            "contributor": "篠原 悠希",
+            "contributor_collation_key": "シノハラ ユウキ",
+            "imprint": "角川春樹事務所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4392/9784758444392_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784065257517",
+            "title": "エムエス　継続捜査ゼミ2",
+            "title_collation_key": "エムエス ケイゾクソウサゼミ2",
+            "contributor": "今野 敏",
+            "contributor_collation_key": "コンノ ビン",
+            "imprint": "講談社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7517/9784065257517_1_2.jpg?_ex=200x200"
+        }
+    ]
+}
