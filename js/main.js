@@ -29,12 +29,13 @@
         topboard.setAttribute("src", "#wood");
         var sideboard_L = document.createElement("a-box");
         sideboard_L.setAttribute("height",1.8);
-        sideboard_L.setAttribute("width", 0.02);
+        sideboard_L.setAttribute("width", 0.01);
         sideboard_L.setAttribute("depth", 0.3);
-        sideboard_L.setAttribute("position","-0.45 0.9 0.15");
+        sideboard_L.setAttribute("position","-0.445 0.9 0.15");
         sideboard_L.setAttribute("src", "#wood");
+        sideboard_L.classList.add("wall");
         var sideboard_R = sideboard_L.cloneNode(true);
-        sideboard_R.setAttribute("position","0.45 0.9 0.15");
+        sideboard_R.setAttribute("position","0.445 0.9 0.15");
         var backboard = document.createElement("a-box");
         backboard.setAttribute("height",1.8);
         backboard.setAttribute("width", 0.87);
@@ -51,8 +52,8 @@
         var bottomShelf = document.createElement("a-box");
         bottomShelf.setAttribute("height",0.6);
         bottomShelf.setAttribute("width", 0.9);
-        bottomShelf.setAttribute("depth", 0.3);
-        bottomShelf.setAttribute("position","0 0.3 0.45");
+        bottomShelf.setAttribute("depth", 0.6);
+        bottomShelf.setAttribute("position","0 0.3 0.3");
         bottomShelf.setAttribute("src", "#wood");
         bottomShelf.classList.add("wall");
         this.el.appendChild(topboard);
@@ -87,7 +88,42 @@
           bookface.classList.add("collidable");
           return bookface;
       };
-      if(this.data.no){
+    var addStackBook = function(id,isbn,srcImg,pos,count){
+      const book_height = 0.2;
+      const book_width = 0.15;
+      const book_depth = 0.02;
+      var book = document.createElement("a-entity");
+      book.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
+      var cover = document.createElement("a-plane");
+      cover.setAttribute("id",id);
+      cover.setAttribute("isbn",isbn);
+      cover.setAttribute("height",book_height);
+      cover.setAttribute("width", book_width);
+      cover.setAttribute("opacity",0);
+      cover.setAttribute("book","isbn: " + isbn);
+      cover.setAttribute("rotation", "-90 0 0");
+      cover.setAttribute("position", "0 "+(book_depth*count)+0.01+" 0");
+      cover.classList.add("collidable");
+      var bookface = document.createElement("a-plane");
+      bookface.setAttribute("id",id);
+      bookface.setAttribute("src",srcImg);
+      bookface.setAttribute("height",book_height);
+      bookface.setAttribute("width", book_width);
+      bookface.setAttribute("rotation", "-90 0 0");
+      bookface.setAttribute("position", "0 "+ (book_depth*count) +" 0" );
+      var bookbox = document.createElement("a-box");
+      bookbox.setAttribute("height",book_height);
+      bookbox.setAttribute("width", book_width);
+      bookbox.setAttribute("depth", (book_depth*count));
+      bookbox.setAttribute("rotation", "-90 0 0");
+      bookbox.setAttribute("position", "0 " + (book_depth*count)/2 + " 0");
+      book.appendChild(bookbox);
+      book.appendChild(bookface);
+      book.appendChild(cover);
+      return book;
+    };
+
+    if(this.data.no){
         //json 読み込み
         fetch('json/' + this.data.no + '.json')
         .then((response) => {
@@ -107,6 +143,9 @@
           for(var i=1;i<=4;i++){
             this.el.appendChild(addbookbody(this.data.no+"-"+i,[0,0.41+i*0.3,0.175]));
             this.el.appendChild(addbooks(this.data.no+"-"+i,blob.back_cover_images[i-1],blob.back_cover_low_images[i-1],[0,0.41+i*0.3,0.251],(i-1)*44,this.data.no));
+          }
+          for(var i=0;i<6;i++){
+            this.el.appendChild(addStackBook(this.data.no+"-h-"+i,blob.books[i].isbn,blob.books[i].main_cover,[-0.375+i*0.15,0.6,0.4],Math.floor( Math.random() * 3 )+1));        
           }
         })
         .catch((reason) => {
@@ -236,13 +275,14 @@
         }
     },tick: function(){}
     });
-  AFRAME.registerComponent("game_master",{
+  AFRAME.registerComponent("game_ctrl",{
     init: function () {
       this.el.addEventListener("game_start", (event) => {
-        
+        //問題の表示
       });
       
       this.el.addEventListener("book_select", (event) => {
+        //本情報の表示
         
       });
       

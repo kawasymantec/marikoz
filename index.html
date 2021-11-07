@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
-    <a-scene id="mainapp">
+    <a-scene >
       <a-assets>
         <img id="wallpaper" src="img/plaster-wall-03.jpg">
         <img id="floor" src="img/floor.jpg">
@@ -161,6 +161,7 @@
       position="0 0 0"
       raycaster="objects: .wall; far: 0.6; direction: 0 0 -1;"
       player
+      game_ctrl
       >
         <a-text id="hogetext" position="0 0 0" value="front" rotation="-90 0 0" align="center"></a-text>
         <a-entity id="ctlL" raycaster="objects: .collidable; far:0.8;" laser-controls="hand: left" input-listener="hand: left" touch-checker></a-entity>
