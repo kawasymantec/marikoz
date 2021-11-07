@@ -1,0 +1,248 @@
+[
+	{
+		"genre": "小説・エッセイ",
+		"sub_genre": "日本の小説",
+		"id": "001004008",
+		"shelf_count": 3
+	},
+	{
+		"genre": "小説・エッセイ",
+		"sub_genre": "外国の小説",
+		"id": "001004009",
+		"shelf_count": 1
+	},
+	{
+		"genre": "小説・エッセイ",
+		"sub_genre": "エッセイ",
+		"id": "001004003",
+		"shelf_count": 1
+	},
+	{
+		"genre": "小説・エッセイ",
+		"sub_genre": "ノンフィクション",
+		"id": "001004004",
+		"shelf_count": 1
+	},
+	{
+		"genre": "ライトノベル",
+		"sub_genre": "少年",
+		"id": "001017005",
+		"shelf_count": 1
+	},
+	{
+		"genre": "文庫",
+		"sub_genre": "小説・エッセイ",
+		"id": "001019001",
+		"shelf_count": 8
+	},
+	{
+		"genre": "文庫",
+		"sub_genre": "人文・思想・社会",
+		"id": "001019007",
+		"shelf_count": 4
+	},
+	{
+		"genre": "新書",
+		"sub_genre": "人文・思想・社会",
+		"id": "001020007",
+		"shelf_count": 1
+	},
+	{
+		"genre": "美容・暮らし・健康・料理",
+		"sub_genre": "健康",
+		"id": "001010010",
+		"shelf_count": 1
+	},
+	{
+		"genre": "美容・暮らし・健康・料理",
+		"sub_genre": "料理",
+		"id": "001010011",
+		"shelf_count": 1
+	},
+	{
+		"genre": "美容・暮らし・健康・料理",
+		"sub_genre": "手芸",
+		"id": "001010009",
+		"shelf_count": 1
+	},
+	{
+		"genre": "美容・暮らし・健康・料理",
+		"sub_genre": "子育て",
+		"id": "001010002",
+		"shelf_count": 1
+	},
+	{
+		"genre": "絵本・児童書・図鑑",
+		"sub_genre": "児童書",
+		"id": "001003001",
+		"shelf_count": 1
+	},
+	{
+		"genre": "絵本・児童書・図鑑",
+		"sub_genre": "絵本",
+		"id": "001003003",
+		"shelf_count": 1
+	},
+	{
+		"genre": "ホビー・スポーツ・美術",
+		"sub_genre": "スポーツ",
+		"id": "001009001",
+		"shelf_count": 1
+	},
+	{
+		"genre": "ホビー・スポーツ・美術",
+		"sub_genre": "美術",
+		"id": "001009009",
+		"shelf_count": 1
+	},
+	{
+		"genre": "旅行・留学・アウトドア",
+		"sub_genre": "旅行",
+		"id": "001007001",
+		"shelf_count": 3
+	},
+	{
+		"genre": "旅行・留学・アウトドア",
+		"sub_genre": "地図",
+		"id": "001007007",
+		"shelf_count": 1
+	},
+	{
+		"genre": "ビジネス・経済・就職",
+		"sub_genre": "経営",
+		"id": "001006018",
+		"shelf_count": 2
+	},
+	{
+		"genre": "ビジネス・経済・就職",
+		"sub_genre": "経済・財政",
+		"id": "001006001",
+		"shelf_count": 2
+	},
+	{
+		"genre": "ビジネス・経済・就職",
+		"sub_genre": "産業",
+		"id": "001006019",
+		"shelf_count": 2
+	},
+	{
+		"genre": "語学・学習参考書",
+		"sub_genre": "語学学習",
+		"id": "001002001",
+		"shelf_count": 2
+	},
+	{
+		"genre": "語学・学習参考書",
+		"sub_genre": "学習参考書・問題集",
+		"id": "001002006",
+		"shelf_count": 2
+	},
+	{
+		"genre": "資格・検定",
+		"sub_genre": "ビジネス関係資格",
+		"id": "001016003",
+		"shelf_count": 1
+	},
+	{
+		"genre": "資格・検定",
+		"sub_genre": "教育・心理関係資格",
+		"id": "001016006",
+		"shelf_count": 1
+	},
+	{
+		"genre": "科学・技術",
+		"sub_genre": "工学",
+		"id": "001012010",
+		"shelf_count": 1
+	},
+	{
+		"genre": "科学・技術",
+		"sub_genre": "建築学",
+		"id": "001012011",
+		"shelf_count": 1
+	},
+	{
+		"genre": "医学・薬学・看護学・歯科学",
+		"sub_genre": "基礎医学",
+		"id": "001028001",
+		"shelf_count": 2
+	},
+	{
+		"genre": "パソコン・システム開発",
+		"sub_genre": "ハードウェア",
+		"id": "001005001",
+		"shelf_count": 1
+	},
+	{
+		"genre": "パソコン・システム開発",
+		"sub_genre": "インターネット・WEBデザイン",
+		"id": "001005003",
+		"shelf_count": 1
+	},
+	{
+		"genre": "人文・思想・社会",
+		"sub_genre": "心理学",
+		"id": "001008003",
+		"shelf_count": 1
+	},
+	{
+		"genre": "人文・思想・社会",
+		"sub_genre": "宗教・倫理",
+		"id": "001008004",
+		"shelf_count": 1
+	},
+	{
+		"genre": "人文・思想・社会",
+		"sub_genre": "歴史",
+		"id": "001008005",
+		"shelf_count": 1
+	},
+	{
+		"genre": "人文・思想・社会",
+		"sub_genre": "地理",
+		"id": "001008006",
+		"shelf_count": 1
+	},
+	{
+		"genre": "人文・思想・社会",
+		"sub_genre": "法律",
+		"id": "001008009",
+		"shelf_count": 1
+	},
+	{
+		"genre": "人文・思想・社会",
+		"sub_genre": "教育",
+		"id": "001008012",
+		"shelf_count": 1
+	},
+	{
+		"genre": "漫画(コミック)",
+		"sub_genre": "青年",
+		"id": "001001003",
+		"shelf_count": 4
+	},
+	{
+		"genre": "漫画(コミック)",
+		"sub_genre": "少年",
+		"id": "001001001",
+		"shelf_count": 2
+	},
+	{
+		"genre": "漫画(コミック)",
+		"sub_genre": "少女",
+		"id": "001001002",
+		"shelf_count": 2
+	},
+	{
+		"genre": "写真集・タレント",
+		"sub_genre": "グラビアアイドル・タレント写真集",
+		"id": "001013001",
+		"shelf_count": 1
+	},
+	{
+		"genre": "エンタメ・ゲーム",
+		"sub_genre": "音楽",
+		"id": "001011003",
+		"shelf_count": 1
+	}
+]
