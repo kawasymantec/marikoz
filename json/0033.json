@@ -1,1604 +1,1602 @@
-[
-    {
-        "shelf_title": "ビジネス・経済・就職/経営",
-        "category": "経営",
-        "back_cover_images": [
-            "back_cover_image/0033_1.png",
-            "back_cover_image/0033_2.png",
-            "back_cover_image/0033_3.png",
-            "back_cover_image/0033_4.png"
-        ],
-        "back_cover_low_images": [
-            "back_cover_low_image/0033_1_low.png",
-            "back_cover_low_image/0033_2_low.png",
-            "back_cover_low_image/0033_3_low.png",
-            "back_cover_low_image/0033_4_low.png"
-        ],
-        "books": [
-            {
-                "isbn": "9784478020548",
-                "title": "起業の戦略論",
-                "title_collation_key": "キギョウノセンリャクロン",
-                "contributor": "高宮 慎一",
-                "contributor_collation_key": "タカミヤ シンイチ",
-                "imprint": "ダイヤモンド社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0548/9784478020548.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784828422381",
-                "title": "「捨てる」技術（仮）",
-                "title_collation_key": "ステルギジュツ",
-                "contributor": "宗次徳ニ",
-                "contributor_collation_key": "ムネツクトクジ",
-                "imprint": "ビジネス社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2381/9784828422381.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784534058959",
-                "title": "武器としての戦略フレームワーク",
-                "title_collation_key": "ブキトシテノセンリャクフレームワーク",
-                "contributor": "手塚 貞治",
-                "contributor_collation_key": "テヅカ サダハル",
-                "imprint": "日本実業出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8959/9784534058959.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784534058966",
-                "title": "「事業の再構築」を考えたときに読む本",
-                "title_collation_key": "「ジギョウノサイコウチク」ヲカンガエタトキニヨムホン",
-                "contributor": "中野 裕哲",
-                "contributor_collation_key": "ナカノ ヒロアキ",
-                "imprint": "日本実業出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8966/9784534058966.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784534058911",
-                "title": "会社を買って、起業する。",
-                "title_collation_key": "カイシャヲカッテ、キギョウスル。",
-                "contributor": "五味田 匡功",
-                "contributor_collation_key": "ゴミタ マサヨシ",
-                "imprint": "日本実業出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8911/9784534058911.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784295406310",
-                "title": "きまじめでやさしい 弱者のための「独立・起業」読本",
-                "title_collation_key": "キマジメデヤサシイジャクシャノタメノドクリツキギョウドクホン",
-                "contributor": "阿部　浩一",
-                "contributor_collation_key": "アベコウイチ",
-                "imprint": "クロスメディア・パブリッシング",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6310/9784295406310.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784263461686",
-                "title": "イラストと症例で学ぶ 開業医のための臨床部分矯正",
-                "title_collation_key": "イラストトショウレイデマナブカイギョウイノタメノリンショウブブンキョウセイ",
-                "contributor": "徳永 哲彦",
-                "contributor_collation_key": "トクナガ テツヒコ",
-                "imprint": "医歯薬出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1686/9784263461686.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784534058867",
-                "title": "「オンライン起業」の教科書",
-                "title_collation_key": "「オンラインキギョウ」ノキョウカショ",
-                "contributor": "山口 朋子",
-                "contributor_collation_key": "ヤマグチ トモコ",
-                "imprint": "日本実業出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8867/9784534058867_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784532359072",
-                "title": "おいしいニッポン 投資のプロが読む2040年のビジネス",
-                "title_collation_key": "オイシイニッポン トウシノプロガヨムニセンヨンジュウネンノビジネス",
-                "contributor": "藤野 英人",
-                "contributor_collation_key": "フジノ ヒデト",
-                "imprint": "日経BP 日本経済新聞出版本部",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9072/9784532359072_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784781208374",
-                "title": "一度読めばわかる！1億円歯科医院の作り方　開業編",
-                "title_collation_key": "イチドヨメバワカル　イチオクエンシカイインノツクリカタ　カイギョウヘン",
-                "contributor": "田中健久/今井健二",
-                "contributor_collation_key": "タナカタケヒサ/イマイケンジ",
-                "imprint": "クインテッセンス出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8374/9784781208374_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866213804",
-                "title": "ファンは少ないほうが稼げます",
-                "title_collation_key": "ファンハスクナイホウガカセゲマス",
-                "contributor": "藤 あや",
-                "contributor_collation_key": "フジ アヤ",
-                "imprint": "WAVE出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3804/9784866213804_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784384060089",
-                "title": "就活のための「四季報」活用法",
-                "title_collation_key": "シュウカツノタメノシキホウカツヨウホウ",
-                "contributor": "田宮寛之",
-                "contributor_collation_key": "タミヤヒロユキ",
-                "imprint": "三修社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0089/9784384060089_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784815610081",
-                "title": "「節税」の超・裏ワザ",
-                "title_collation_key": "セツゼイノチョウウラワザ",
-                "contributor": "根本 和彦",
-                "contributor_collation_key": "ネモトカズヒコ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0081/9784815610081_1_7.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784534603432",
-                "title": "令和4年申告用　あなたの確定申告",
-                "title_collation_key": "レイワヨネンシンコクヨウ アナタノカクテイシンコク",
-                "contributor": "日本実業出版社",
-                "contributor_collation_key": "ニホンジツギョウシュッパンシャ",
-                "imprint": "日本実業出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3432/9784534603432.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784415233925",
-                "title": "高校生　就職面接の受け方答え方 '23年版",
-                "title_collation_key": "コウコウセイシュウショクメンセツノウケカタコタエカタニセンニジュウサンネンバン",
-                "contributor": "成美堂出版編集部",
-                "contributor_collation_key": "セイビドウシュッパンヘンシュウブ",
-                "imprint": "成美堂出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3925/9784415233925_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784022276513",
-                "title": "朝日キーワード就職2023　最新時事用語＆一般常識",
-                "title_collation_key": "アサヒキーワードシュウショク2023 サイシンジジヨウゴ＆イッパンジョウシキ",
-                "contributor": "朝日新聞出版",
-                "contributor_collation_key": "アサヒシンブンシュッパン",
-                "imprint": "朝日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6513/9784022276513_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784623092291",
-                "title": "利他の構造",
-                "title_collation_key": "リタノコウゾウ",
-                "contributor": "日置　弘一郎/奥野　明子",
-                "contributor_collation_key": "ヒオキコウ　イチロウ/オクノ　アキコ",
-                "imprint": "ミネルヴァ書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2291/9784623092291.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433710910",
-                "title": "グループ通算制度への移行・採用の 有利・不利とシミュレーション",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0910/9784433710910_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502398612",
-                "title": "エンパワリング・リーダーシップ",
-                "title_collation_key": "エンパワリングリーダーシップ",
-                "contributor": "青木 幹喜",
-                "contributor_collation_key": "アオキ ミキヨシ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8612/9784502398612_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784415113210",
-                "title": "すぐ書ける確定申告　令和4年3月15日申告分",
-                "title_collation_key": "スグカケルカクテイシンコクレイワヨネンサンガツジュウゴニチシンコクブン",
-                "contributor": "須田　邦裕",
-                "contributor_collation_key": "スダ　クニヒロ",
-                "imprint": "成美堂出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3210/9784415113210_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502400513",
-                "title": "国内MBA受験の面接対策",
-                "title_collation_key": "コクナイエムビーエージュケンノメンセツタイサク",
-                "contributor": "飯野 一",
-                "contributor_collation_key": "イイノ ハジメ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0513/9784502400513_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784532324391",
-                "title": "会社を“守る”M&A、“伸ばす”M&A",
-                "title_collation_key": "カイシャヲ マモル エムアンドエー ノバス エムアンドエー",
-                "contributor": "三宅 卓",
-                "contributor_collation_key": "ミヤケ スグル",
-                "imprint": "日経BP 日本経済新聞出版本部",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4391/9784532324391_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502406515",
-                "title": "国内MBA受験の小論文対策〈基礎知識マスター編〉",
-                "title_collation_key": "コクナイエムビーエージュケンノショウロンブンタイサクキソチシキマスターヘン",
-                "contributor": "飯野 一",
-                "contributor_collation_key": "イイノ ハジメ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6515/9784502406515_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784478114193",
-                "title": "なぜウチの会社は変われないんだ！と悩んだら読む 大企業ハック大全",
-                "title_collation_key": "ナゼウチノカイシャハカワレナインダトナヤンダラヨム　ダイキギョウハックタイゼン",
-                "contributor": "ONE JAPAN",
-                "contributor_collation_key": "ワンジャパン",
-                "imprint": "ダイヤモンド社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4193/9784478114193_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784382158054",
-                "title": "創造的思考のレッスン～新しい時代を生き抜くビジネス創造力",
-                "title_collation_key": "ソウゾウテキシコウノレッスンアタラシイジダイヲイキヌクビジネスソウゾウリョク",
-                "contributor": "芝 哲也/上野 郁江",
-                "contributor_collation_key": "シバ テツヤ/ウエノ イクエ",
-                "imprint": "産業能率大学出版部",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8054/9784382158054_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784415113241",
-                "title": "ひとりでできる個人事業者の確定申告　令和4年3月15日申告分",
-                "title_collation_key": "ヒトリデデキルコジンジギョウシャノカクテイシンコクレイワヨネンサンガツジュウゴニチシンコクブン",
-                "contributor": "平野　敦士",
-                "contributor_collation_key": "ヒラノ　アツシ",
-                "imprint": "成美堂出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3241/9784415113241_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784322139853",
-                "title": "グローバルコンプライアンスの実務",
-                "title_collation_key": "グローバルコンプライアンスニジツム",
-                "contributor": "高橋　大祐",
-                "contributor_collation_key": "タカハシ　ダイスケ",
-                "imprint": "一般社団法人金融財政事情研究会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9853/9784322139853_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299021861",
-                "title": "世界一簡単にできる確定申告 令和4年3月15日締切分",
-                "title_collation_key": "セカイイチカンタンニデキルカクテイシンコクレイワヨネンサンガツジュウゴニチシメキリブン",
-                "contributor": "田中 卓也",
-                "contributor_collation_key": "タナカ タクヤ",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1861/9784299021861_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784793126451",
-                "title": "中小企業向け特例税制・適用検討のポイントと手続き（令和3年度版）",
-                "title_collation_key": "チュウショウキギョウムケトクレイゼイセイテキヨウケントウノポイントトテツヅキ",
-                "contributor": "伊原健人",
-                "contributor_collation_key": "イハラタケヒト",
-                "imprint": "税務研究会出版局",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6451/9784793126451_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784863677067",
-                "title": "経営者の人生もよくなる「地域密着企業」経営改善バイブル",
-                "title_collation_key": "ケイエイシャノジンセイモヨクナルチイキミッチャクキギョウケイエイカイゼンバイブル",
-                "contributor": "中邨　康弘",
-                "contributor_collation_key": "ナカムラ　ヤスヒロ",
-                "imprint": "セルバ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7067/9784863677067_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784785729080",
-                "title": "優越的地位濫用規制と下請法の解説と分析〔第4版〕",
-                "title_collation_key": "ユウエツテキチイランヨウキセイトシタウケホウノカイセツトブンセキダイヨンハン",
-                "contributor": "長澤 哲也",
-                "contributor_collation_key": "ナガサワ テツヤ",
-                "imprint": "商事法務",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9080/9784785729080_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502403019",
-                "title": "ミレニアル・スタートアップ",
-                "title_collation_key": "ミレニアルスタートアップ",
-                "contributor": "裙本 理人",
-                "contributor_collation_key": "ツマモト マサト",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3019/9784502403019_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434294259",
-                "title": "明日から使える「採用ブランディング」実践法",
-                "title_collation_key": "アシタカラツカエルサイヨウブランディングジッセンホウ",
-                "contributor": "毛利大一郎",
-                "contributor_collation_key": "モウリダイイチロウ",
-                "imprint": "パレード",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4259/9784434294259_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784867210437",
-                "title": "北海道の業界地図2022-23",
-                "title_collation_key": "ホッカイドウノギョウカイチズ　ニセンニジュウニ　ニジュウサン",
-                "contributor": "北海道新聞社",
-                "contributor_collation_key": "ホッカイドウシンブンシャ",
-                "imprint": "北海道新聞社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0437/9784867210437_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798065939",
-                "title": "図解入門ビジネス 最新5Sの基本と実践がよ〜くわかる本[第3版]",
-                "title_collation_key": "ズカイニュウモンビジネスサイシンゴエスノキホントジッセンガヨークワカルホンダイサンパン",
-                "contributor": "石川秀人",
-                "contributor_collation_key": "イシカワヒデト",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5939/9784798065939_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434295225",
-                "title": "人事はあなたのココを見ている！",
-                "title_collation_key": "ジンジハアナタノココヲミテイル",
-                "contributor": "西尾　太",
-                "contributor_collation_key": "ニシオ　フトシ",
-                "imprint": "アルファポリス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5225/9784434295225_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784492558065",
-                "title": "戦略質問",
-                "title_collation_key": "センリャクシツモン",
-                "contributor": "金巻 龍一",
-                "contributor_collation_key": "カネマキ リュウイチ",
-                "imprint": "東洋経済新報社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8065/9784492558065_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784833451901",
-                "title": "自社の価値を最大化する成長戦略型M&A2.0",
-                "title_collation_key": "ジシャノカチヲサイダイカスルセイチョウセンリャクガタエムアンドエーニテンゼロ",
-                "contributor": "栗原弘行",
-                "contributor_collation_key": "クリハラヒロユキ",
-                "imprint": "プレジデント社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1901/9784833451901_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295406150",
-                "title": "アイデアは図で考えろ！",
-                "title_collation_key": "アイデアハズデカンガエロ",
-                "contributor": "アーロン・ズー",
-                "contributor_collation_key": "アーロンズー",
-                "imprint": "クロスメディア・パブリッシング",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6150/9784295406150_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865943108",
-                "title": "中小企業・社長の実践ガイド　激動の時代、会社をどう変えていくか",
-                "title_collation_key": "ゲキドウノジダイ　カイシャヲドウカエテイクカ",
-                "contributor": "田中　渉",
-                "contributor_collation_key": "タナカ　ワタル",
-                "imprint": "リックテレコム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3108/9784865943108_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784534058836",
-                "title": "見るだけで「儲かるビジネスモデル」までわかる　決算書の比較図鑑",
-                "title_collation_key": "ミルダケデ「モウカルビジネスモデル」マデワカル ケッサンショノヒカクズカン",
-                "contributor": "矢部 謙介",
-                "contributor_collation_key": "ヤベ ケンスケ",
-                "imprint": "日本実業出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8836/9784534058836_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784046054616",
-                "title": "自分ですらすらできる確定申告の書き方　令和4年3月15日締切分",
-                "title_collation_key": "ジブンデスラスラデキルカクテイシンコクノカキカタ　レイワヨネンサンガツジュウゴニチシメキリブン",
-                "contributor": "渡辺義則",
-                "contributor_collation_key": "ワタナベヨシノリ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4616/9784046054616_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784791631261",
-                "title": "誰でもわかる 決算書の読み方1年生",
-                "title_collation_key": "ダレデモワカルケッサンショノヨミカタイチネンセイ",
-                "contributor": "南伸一",
-                "contributor_collation_key": "ミナミシンイチ",
-                "imprint": "西東社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1261/9784791631261_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798172514",
-                "title": "自分でパパッと書ける確定申告 令和4年3月15日締切分",
-                "title_collation_key": "ジブンデパパットカケルカクテイシンコク レイワヨネンサンガツジュウゴニチシメキリブン",
-                "contributor": "平井 義一",
-                "contributor_collation_key": "ヒライ ヨシカズ",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2514/9784798172514_1_15.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433716516",
-                "title": "令和3年10月改訂　プロフェッショナル　消費税の実務",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6516/9784433716516_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433707019",
-                "title": "令和3年版　法人税申告書別表4・5ゼミナール",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7019/9784433707019_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784478114490",
-                "title": "いちばんわかりやすい確定申告の書き方　令和4年3月15日締切分",
-                "title_collation_key": "イチバンワカリヤスイカクテイシンコクノカキカタ　レイワヨネンサンガツジュウゴニチシメキリブン",
-                "contributor": "土屋裕昭/樋川智子",
-                "contributor_collation_key": "ツチヤヒロアキ/ヒカワトモコ",
-                "imprint": "ダイヤモンド社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4490/9784478114490_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502387913",
-                "title": "Q＆Aでわかる事業再編実務のすべて",
-                "title_collation_key": "キューアンドエーデワカルジギョウサイヘンジツムノスベテ",
-                "contributor": "GCA FAS株式会社",
-                "contributor_collation_key": "ジーシーエー エフエーエスカブシキガイシャ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7913/9784502387913_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502399817",
-                "title": "守之節",
-                "title_collation_key": "モリユキブシ",
-                "contributor": "山本 守之",
-                "contributor_collation_key": "ヤマモト モリユキ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9817/9784502399817_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784163914596",
-                "title": "起業のすすめ さよなら、サラリーマン",
-                "title_collation_key": "キギョウノススメ サヨナラサラリーマン",
-                "contributor": "佐々木 紀彦",
-                "contributor_collation_key": "ササキ ノリヒコ",
-                "imprint": "文藝春秋",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4596/9784163914596_1_8.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784793126390",
-                "title": "時間がない！？消費税インボイス導入へのサクセスロード",
-                "title_collation_key": "ジカンガナイショウヒゼイインボイスドウニュウヘノサクセスロード",
-                "contributor": "金子真一",
-                "contributor_collation_key": "カネコシンイチ",
-                "imprint": "税務研究会出版局",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6390/9784793126390_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784776211761",
-                "title": "こんな時代だからこそ学びたい 松下幸之助の神言葉50",
-                "title_collation_key": "コンナジダイダカラコソマナビタイ マツシタコウノスケノカミコトバゴジュウ",
-                "contributor": "江口克彦",
-                "contributor_collation_key": "エグチカツヒコ",
-                "imprint": "アスコム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1761/9784776211761_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784757439337",
-                "title": "ケアリング・リーダーシップ",
-                "title_collation_key": "ケアリング・リーダーシップ",
-                "contributor": "ヘザー・R・ヤンガー",
-                "contributor_collation_key": "ヘザー・アール・ヤンガー",
-                "imprint": "株式会社アルク",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9337/9784757439337_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784776211815",
-                "title": "こんな時代だからこそ学びたい 松下幸之助のリーダー学",
-                "title_collation_key": "コンナジダイダカラコソマナビタイ マツシタコウノスケノリーダーガク",
-                "contributor": "江口克彦",
-                "contributor_collation_key": "エグチカツヒコ",
-                "imprint": "アスコム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1815/9784776211815_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784827213010",
-                "title": "金持ち社長の経営 節税が会社をつぶす",
-                "title_collation_key": "カネモチシャチョウノケイエイ セツゼイガカイシャヲツブス",
-                "contributor": "野呂泰史",
-                "contributor_collation_key": "ノロヤスシ",
-                "imprint": "ぱる出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3010/9784827213010_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433750718",
-                "title": "企業改革への新潮流　法務コンプライアンス実践ガイド",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0718/9784433750718_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502394713",
-                "title": "新しいビジネスをつくる",
-                "title_collation_key": "アタラシイビジネスヲツクル",
-                "contributor": "加護野 忠男/吉村 典久",
-                "contributor_collation_key": "カゴノ タダオ/ヨシムラ ノリヒサ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4713/9784502394713_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784772661966",
-                "title": "スーツは経費で落ちますか？",
-                "title_collation_key": "スーツハケイヒデオチマスカ",
-                "contributor": "高橋浩之",
-                "contributor_collation_key": "タカハシヒロユキ",
-                "imprint": "合同フォレスト",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1966/9784772661966_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866365237",
-                "title": "「強い人材」を育てるための　研修設計入門",
-                "title_collation_key": "ツヨイジンザイヲソダテルタメノ　ケンシュウセッケイニュウモン",
-                "contributor": "秋葉佳宏/笹木耕介",
-                "contributor_collation_key": "アキバヨシヒロ/ササキコウスケ",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5237/9784866365237_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502403316",
-                "title": "自社に合ったESG情報開示の考え方・進め方",
-                "title_collation_key": "ジシャニアッタイーエスジージョウホウカイジノカンガエカタススメカタ",
-                "contributor": "福岡 貴美",
-                "contributor_collation_key": "フクオカ タカハル",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3316/9784502403316_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784845424825",
-                "title": "10人の医師がたどった開業成功の道 クリニック開業のリアル",
-                "title_collation_key": "ジュウニンノイシガタドッタカイギョウセイコウノミチ クリニックカイギョウノリアル",
-                "contributor": "クリニック開業ナビ",
-                "contributor_collation_key": "クリニックカイギョウナビ",
-                "imprint": "ロングセラーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4825/9784845424825_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295406143",
-                "title": "会社を売る力",
-                "title_collation_key": "カイシャヲウルチカラ",
-                "contributor": "渡部　恒郎/山本　夢人",
-                "contributor_collation_key": "ワタナベツネオ/ヤマモトユメヒト",
-                "imprint": "クロスメディア・パブリッシング",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6143/9784295406143_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784561257578",
-                "title": "エッセンシャル講義　経営学教室",
-                "title_collation_key": "エッセンシャルコウギ　ケイエイガクキョウシツ",
-                "contributor": "坂本　英樹",
-                "contributor_collation_key": "サカモト　ヒデキ",
-                "imprint": "白桃書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7578/9784561257578_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295201533",
-                "title": "仕事はかどり図鑑　今日からはじめる小さなDX",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "エムディエヌコーポレーション",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1533/9784295201533_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295406136",
-                "title": "CHANGE LEADER",
-                "title_collation_key": "チェンジリーダー",
-                "contributor": "中村　基樹/西村　聖司",
-                "contributor_collation_key": "ナカムラモトキ/ニシムラセイジ",
-                "imprint": "クロスメディア・パブリッシング",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6136/9784295406136_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784910286051",
-                "title": "サロン進化論 デジタルツールが切り拓くサービス⾰命",
-                "title_collation_key": "サロン シンカロン　デジタルツール",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "ディスカヴァービジネスパブリッシング",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6051/9784910286051_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784863263185",
-                "title": "2022新入社員基礎講座",
-                "title_collation_key": "ニセンニジュウニシンニュウシャインキソコウザ",
-                "contributor": "経営書院",
-                "contributor_collation_key": "ケイエイショイン",
-                "imprint": "産労総合研究所出版部経営書院",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3185/9784863263185_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784761275730",
-                "title": "生き残る会社をつくる「守り」の経営",
-                "title_collation_key": "イキノコルカイシャヲツクルマモリノケイエイ",
-                "contributor": "浜口　隆則",
-                "contributor_collation_key": "ハマグチ　タカノリ",
-                "imprint": "かんき出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5730/9784761275730_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784768459089",
-                "title": "クラウドファンディングで社会をつくる",
-                "title_collation_key": "クラウドファンディングデシャカイヲツクル",
-                "contributor": "秋山訓子",
-                "contributor_collation_key": "アキヤマノリコ",
-                "imprint": "現代書館",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9089/9784768459089_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784771035454",
-                "title": "改訂版　産業経済の発展と競争政策",
-                "title_collation_key": "カイテイバンサンギョウケイザイノハッテントキョウソウセイサク",
-                "contributor": "和田　聡子",
-                "contributor_collation_key": "ワダサトコ",
-                "imprint": "晃洋書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5454/9784771035454_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784539746745",
-                "title": "2021年度版 法人投資家のための証券投資の会計・税務",
-                "title_collation_key": "ニセンニジュウイチネンドバン ホウジントウシカノタメノショウケントウシノカイケイゼイム",
-                "contributor": "大和総研",
-                "contributor_collation_key": "ダイワソウケン",
-                "imprint": "日本法令",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6745/9784539746745.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784539728703",
-                "title": "改訂版 Q＆Aでよくわかる 消費税 インボイス対応 要点ナビ",
-                "title_collation_key": "カイテイバンキューアンドエーデヨクワカルショウヒゼイインボイスタイオウヨウテンナビ",
-                "contributor": "熊王 征秀",
-                "contributor_collation_key": "クマオウ マサヒデ",
-                "imprint": "日本法令",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8703/9784539728703_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784384048773",
-                "title": "図解　労務管理の基本と実務がわかる事典",
-                "title_collation_key": "ズカイロウムカンリノキホントジツムガワカルジテン",
-                "contributor": "森島　大吾",
-                "contributor_collation_key": "モリシマ　ダイゴ",
-                "imprint": "三修社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8773/9784384048773_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784326504886",
-                "title": "組織開発の理論化と実証研究",
-                "title_collation_key": "ソシキカイハツノリロンカトジッショウケンキュウ",
-                "contributor": "高橋　宏誠",
-                "contributor_collation_key": "タカハシ　コウセイ",
-                "imprint": "勁草書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4886/9784326504886_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784837987475",
-                "title": "優秀な人がこっそりやっている仕事のスゴ技75",
-                "title_collation_key": "ユウシュウナヒトガコッソリヤッテイルシゴトノスゴワザナナジュウゴ",
-                "contributor": "木部 智之",
-                "contributor_collation_key": "キベ トモユキ",
-                "imprint": "三笠書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7475/9784837987475.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784526081651",
-                "title": "これから伸びる首都圏のカイシャ2021秋",
-                "title_collation_key": "コレカラノビルシュトケンノカイシャ ニセンニジュウイチアキ",
-                "contributor": "日刊工業新聞社 東京支社",
-                "contributor_collation_key": "ニッカンコウギョウシンブンシャトウキョウシシャ",
-                "imprint": "日刊工業新聞社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1651/9784526081651_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784344934429",
-                "title": "サイエンスドリブン　生産性向上につながる科学的人事",
-                "title_collation_key": "サイエンスドリブン　セイサンセイコウジョウニツナガルカガクテキジンジ",
-                "contributor": "梅本 哲",
-                "contributor_collation_key": "ウメモト サトシ",
-                "imprint": "幻冬舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4429/9784344934429_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784891122003",
-                "title": "図解でわかる 時事重要テーマ100 2022-2023",
-                "title_collation_key": "ズカイデワカルジジジュウヨウテーマヒャク　ニセンニジュウニ ニセンニジュウサン",
-                "contributor": "日経HR編集部",
-                "contributor_collation_key": "ニッケイエイチアールヘンシュウブ",
-                "imprint": "日経HR",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2003/9784891122003_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784532114442",
-                "title": "アジアのビジネスモデル",
-                "title_collation_key": "アジアノビジネスモデル",
-                "contributor": "村山 宏",
-                "contributor_collation_key": "ムラヤマ ヒロシ",
-                "imprint": "日経BP 日本経済新聞出版本部",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4442/9784532114442_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784910136110",
-                "title": "監査実務ハンドブック2022年版",
-                "title_collation_key": "カンサジツムハンドブックニセンニジュウニネンバン",
-                "contributor": "日本公認会計士協会",
-                "contributor_collation_key": "ニホンコウニンカイケイシキョウカイ",
-                "imprint": "日本公認会計士協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6110/9784910136110_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784905937616",
-                "title": "売りたいのに売れない！非上場企業の少数株主が困ったときに読む本",
-                "title_collation_key": "ウリタイノニウレナイヒジョウジョウキギョウノショウスウカブヌシガコマッタトキニヨムホン",
-                "contributor": "都　竜大",
-                "contributor_collation_key": "ミヤコ　タツヒロ",
-                "imprint": "玄文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7616/9784905937616_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433728410",
-                "title": "不動産の本当の価値を高めるために　やってはいけない遺産分割",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8410/9784433728410_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433716110",
-                "title": "令和3年版　STEP式　消費税申告書の作成手順",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6110/9784433716110_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798061030",
-                "title": "丸亀製麺のすごい働き方",
-                "title_collation_key": "マルガメセイメンノスゴイハタラキカタ",
-                "contributor": "小野正誉",
-                "contributor_collation_key": "オノマサトモ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1030/9784798061030_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297123376",
-                "title": "年金生活者・定年退職者のための確定申告　令和4年3月15日締切分",
-                "title_collation_key": "ネンキンセイカツシャ テイネンタイショクシャノタメノカクテイシンコク レイワヨネンサンガツジュウゴニチシメキリブン",
-                "contributor": "山本　宏［監修］",
-                "contributor_collation_key": "ヤマモト ヒロシ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3376/9784297123376_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784419068257",
-                "title": "投資ストラクチャーの税務［十訂版］",
-                "title_collation_key": "トウシストラクチャーノゼイム　ジュッテイバン",
-                "contributor": "鬼頭　朱実/箱田　晶子",
-                "contributor_collation_key": "キトウ　アケミ/ハコダ　アキコ",
-                "imprint": "税務経理協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8257/9784419068257_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297123475",
-                "title": "あっという間にかんたん確定申告　令和4年3月15日締切分",
-                "title_collation_key": "アットイウマニカンタンカクテイシンコク レイワヨネンサンガツジュウゴニチシメキリブン",
-                "contributor": "山本　宏［監修］",
-                "contributor_collation_key": "ヤマモト ヒロシ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3475/9784297123475_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784419068288",
-                "title": "ステークホルダー別　私的企業再生の税務ハンドブック",
-                "title_collation_key": "ステークホルダーベツ　シテキキギョウサイセイノゼイムハンドブック",
-                "contributor": "勢〆　健一",
-                "contributor_collation_key": "セシメ　ケンイチ",
-                "imprint": "税務経理協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8288/9784419068288_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784259522025",
-                "title": "これからの協同組合間連携",
-                "title_collation_key": "コレカラノキョウドウクミアイカンレンケイ",
-                "contributor": "石田　正昭",
-                "contributor_collation_key": "イシダ マサアキ",
-                "imprint": "家の光協会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2025/9784259522025_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502400018",
-                "title": "グローバル・ガバナンス・コンプライアンス",
-                "title_collation_key": "グローバルガバナンスコンプライアンス",
-                "contributor": "中山 達樹",
-                "contributor_collation_key": "ナカヤマ タツキ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0018/9784502400018_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784492534403",
-                "title": "数学的に話す技術・書く技術",
-                "title_collation_key": "スウガクテキニハナスギジュツ カクギジュツ",
-                "contributor": "曽布川 拓也/山本 直人",
-                "contributor_collation_key": "ソブカワ タクヤ/ヤマモト ナオト",
-                "imprint": "東洋経済新報社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4403/9784492534403_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784833424332",
-                "title": "「K字型経済」攻略法",
-                "title_collation_key": "ケイジガタケイザイコウリャクホウ",
-                "contributor": "鶴田東洋彦/松岡健夫",
-                "contributor_collation_key": "ツルタトヨヒコ/マツオカタケオ",
-                "imprint": "プレジデント社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4332/9784833424332_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784296000395",
-                "title": "世界「失敗」製品図鑑",
-                "title_collation_key": "セカイシッパイセイヒンズカン",
-                "contributor": "荒木 博行",
-                "contributor_collation_key": "アラキヒロユキ",
-                "imprint": "日経BP",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0395/9784296000395_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784881774830",
-                "title": "税理士のコーヒータイム　税理士のための百箇条第4弾",
-                "title_collation_key": "ゼイリシノコーヒータイム　ゼイリシノタメノヒャッカジョウダイヨンダン",
-                "contributor": "関根稔",
-                "contributor_collation_key": "セキネミノル",
-                "imprint": "財経詳報社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4830/9784881774830.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784750352701",
-                "title": "福祉NPO・社会的企業の経済社会学",
-                "title_collation_key": "フクシエヌピーオーシャカイテキキギョウノケイザイシャカイガク",
-                "contributor": "桜井　政成",
-                "contributor_collation_key": "サクライ マサナリ",
-                "imprint": "明石書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2701/9784750352701_1_10.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784805112373",
-                "title": "もっと学びたくなる経営学",
-                "title_collation_key": "モットマナビタクナルケイエイガク",
-                "contributor": "稲村 雄大",
-                "contributor_collation_key": "イナムラカツヒロ",
-                "imprint": "千倉書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2373/9784805112373_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784804718842",
-                "title": "通過率84.6％のプロが教える　資料作成＆プレゼン大全",
-                "title_collation_key": "ツウカリツハチジュウヨンテンロクパーセントノプロガオシエル　シリョウサクセイアンドプレゼンタイゼン",
-                "contributor": "亀谷 誠一郎",
-                "contributor_collation_key": "カメタニセイイチロウ",
-                "imprint": "大和出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8842/9784804718842_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297123277",
-                "title": "つい顔色をうかがってしまう私を手放す方法",
-                "title_collation_key": "ツイカオイロヲウカガッテシマウワタシヲテバナスホウホウ",
-                "contributor": "佐々木正悟",
-                "contributor_collation_key": "ササキショウゴ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3277/9784297123277_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784863676985",
-                "title": "改訂版　Q＆A 中小企業の税務調査対応ハンドブック",
-                "title_collation_key": "カイテイバン キューアンドエー チュウショウキギョウノゼイムチョウサタイオウハンドブック",
-                "contributor": "辰巳　忠次/辰巳　八栄子",
-                "contributor_collation_key": "タツミ　タダツグ/タツミ　ヤエコ",
-                "imprint": "セルバ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6985/9784863676985_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784793126468",
-                "title": "減価償却資産の耐用年数表（令和3年改訂新版）",
-                "title_collation_key": "ゲンカショウキャクシサンノタイヨウネンスウヒョウレイワサンネンカイテイシンハン",
-                "contributor": "税務研究会",
-                "contributor_collation_key": "ゼイムケンキュウカイ",
-                "imprint": "税務研究会出版局",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6468/9784793126468.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784532324353",
-                "title": "競争しない競争戦略　改訂版",
-                "title_collation_key": "キョウソウシナイキョウソウセンリャク カイテイバン",
-                "contributor": "山田 英夫",
-                "contributor_collation_key": "ヤマダ ヒデオ",
-                "imprint": "日経BP 日本経済新聞出版本部",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4353/9784532324353_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784049110845",
-                "title": "もらってうれしい おしゃれな年賀状　2022",
-                "title_collation_key": "モラッテウレシイ　オシャレナネンガジョウ　ニセンニジュウニ",
-                "contributor": "年賀状素材集編集部",
-                "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
-                "imprint": "角川アスキー総合研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0845/9784049110845_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299021984",
-                "title": "伝わる図解! 超入門",
-                "title_collation_key": "ツタワルズカイチョウニュウモン",
-                "contributor": "久保田 麻美",
-                "contributor_collation_key": "クボタ アサミ",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1984/9784299021984_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784863677029",
-                "title": "100年潰れない中小企業をつくる最強の財務経営",
-                "title_collation_key": "ヒャクネンツブレナイチュウショウキギョウヲツクルサイキョウノザイムケイエイ",
-                "contributor": "湯原　重之",
-                "contributor_collation_key": "ユハラ　シゲユキ",
-                "imprint": "セルバ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7029/9784863677029_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784426127435",
-                "title": "この1冊でスラスラ！給与計算大全",
-                "title_collation_key": "コノイッサツデスラスラキュウヨケイサンタイゼン",
-                "contributor": "岡 久",
-                "contributor_collation_key": "オカ ヒサシ",
-                "imprint": "自由国民社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7435/9784426127435_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784785729042",
-                "title": "コーポレートガバナンス・コードの実務〔第4版〕",
-                "title_collation_key": "コーポレートガバナンスコードノジツムダイヨンハン",
-                "contributor": "澤口 実/内田 修平",
-                "contributor_collation_key": "サワグチ ミノル/ウチダ シュウヘイ",
-                "imprint": "商事法務",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9042/9784785729042_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784426127411",
-                "title": "儲かる会社はホームページが9割！",
-                "title_collation_key": "モウカルカイシャハホームページガキュウワリ",
-                "contributor": "芝田 弘美",
-                "contributor_collation_key": "シバタ ヒロミ",
-                "imprint": "自由国民社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7411/9784426127411_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784756921758",
-                "title": "仕事は1冊のノートで10倍差がつく",
-                "title_collation_key": "シゴトハイッサツノノートデジュウバイサガツク",
-                "contributor": "鈴木 進介",
-                "contributor_collation_key": "ズズキ　シンスケ",
-                "imprint": "明日香出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1758/9784756921758_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433704216",
-                "title": "令和3年10月改訂　相続税・贈与税取扱いの手引",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4216/9784433704216_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784049110869",
-                "title": "筆ぐるめでつくる世界一かんたん年賀状　2022",
-                "title_collation_key": "フデグルメデツクルセカイイチカンタンネンガジョウ ニセンニジュウニ",
-                "contributor": "年賀状素材集編集部",
-                "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
-                "imprint": "角川アスキー総合研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0869/9784049110869_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297123499",
-                "title": "あっという間に完成！筆まめ年賀状 2022年版",
-                "title_collation_key": "アットイウマニカンセイ フデマメネンガジョウ ニセンニジュウニネンバン",
-                "contributor": "技術評論社編集部　編・著",
-                "contributor_collation_key": "ギジュツヒョウロンシャヘンシュウブ ヘンチョ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3499/9784297123499_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784793126420",
-                "title": "小さな会社の事業承継・引継ぎ徹底ガイド",
-                "title_collation_key": "チイサナカイシャノジギョウショウケイヒキツギテッテイガイド",
-                "contributor": "今村仁",
-                "contributor_collation_key": "イマムラヒトシ",
-                "imprint": "税務研究会出版局",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6420/9784793126420.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295012337",
-                "title": "筆ぐるめかんたんさくさく年賀状（2022）",
-                "title_collation_key": "フデグルメ カンタン サクサク ネンガジョウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2337/9784295012337.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784322139969",
-                "title": "中小企業M＆A　株式譲渡の税務",
-                "title_collation_key": "チュウショウキギョウエムアンドエー カブシキジョウトノゼイム",
-                "contributor": "村木　良平",
-                "contributor_collation_key": "ムラキ　リョウヘイ",
-                "imprint": "きんざい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9969/9784322139969_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784813299561",
-                "title": "2023年度版　マスコミ就活　テレビ局　内定獲得！",
-                "title_collation_key": "2023ネンドバン マスコミシュウカツ テレビキョク ナイテイカクトク！",
-                "contributor": "冨板　敦",
-                "contributor_collation_key": "トミイタ アツシ",
-                "imprint": "TAC出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9561/9784813299561_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784539746721",
-                "title": "3年改正版 減価償却資産の耐用年数表とその使い方",
-                "title_collation_key": "サンネンカイセイバン　ゲンカショウキャクシサンノタイヨウネンスウヒョウトソノツカイカタ",
-                "contributor": "日本法令",
-                "contributor_collation_key": "ニホンホウレイ",
-                "imprint": "日本法令",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6721/9784539746721_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866905990",
-                "title": "60歳から始めるSNSの教科書",
-                "title_collation_key": "ロクジュッサイ カラ ハジメル エスエヌエス ノ キョウカショ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "マイウェイ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5990/9784866905990_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784049110852",
-                "title": "筆まめでつくる世界一かんたん年賀状　2022",
-                "title_collation_key": "フデマメデツクルセカイイチカンタンネンガジョウ　ニセンニジュウニ",
-                "contributor": "年賀状素材集編集部",
-                "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
-                "imprint": "角川アスキー総合研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0852/9784049110852_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784813299578",
-                "title": "2023年度版　マスコミ就活　出版社　内定獲得！",
-                "title_collation_key": "2023ネンドバン マスコミシュウカツ シュッパンシャ ナイテイカクトク！",
-                "contributor": "冨板　敦",
-                "contributor_collation_key": "トミイタ アツシ",
-                "imprint": "TAC出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9578/9784813299578_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798172309",
-                "title": "図解まるわかり DXのしくみ",
-                "title_collation_key": "ズカイマルワカリディーエックスノシクミ",
-                "contributor": "西村 泰洋",
-                "contributor_collation_key": "ニシムラ ヤスヒロ",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2309/9784798172309_1_22.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295012351",
-                "title": "キラリと輝くおしゃれな年賀状（2022）",
-                "title_collation_key": "キラリ ト カガヤク オシャレナ ネンガジョウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2351/9784295012351_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839976828",
-                "title": "おしゃれでかわいい年賀状2022",
-                "title_collation_key": "オシャレデカワイイネンガジョウニセンニジュウニ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6828/9784839976828_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295012368",
-                "title": "おしゃれな大人のなでしこ年賀状（2022）",
-                "title_collation_key": "オシャレナ オトナ ノ ナデシコ ネンガジョウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2368/9784295012368.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784862762719",
-                "title": "ここからはじめる企業法務",
-                "title_collation_key": "ココカラハジメルキギョウホウム",
-                "contributor": "登島和弘",
-                "contributor_collation_key": "トシマカズヒロ",
-                "imprint": "英治出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2719/9784862762719_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433709914",
-                "title": "Q&A　中小企業のための　欠損金の活用と留意点",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9914/9784433709914_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784344935976",
-                "title": "異文化コミュニケーションとしての外資系",
-                "title_collation_key": "イブンカコミュニケーショントシテノガイシケイ",
-                "contributor": "羽田 幸善",
-                "contributor_collation_key": "ハタ ユキヨシ",
-                "imprint": "幻冬舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5976/9784344935976_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784532324322",
-                "title": "総務部DX課　岬ましろ",
-                "title_collation_key": "ソウムブディーエックスカ ミサキマシロ",
-                "contributor": "須藤 憲司",
-                "contributor_collation_key": "スドウ ケンジ",
-                "imprint": "日経BP 日本経済新聞出版本部",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4322/9784532324322_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297123390",
-                "title": "あっという間に完成！筆ぐるめ年賀状 2022年版",
-                "title_collation_key": "アットイウマニカンセイ フデグルメ ネンガジョウ ニセンニジュウニネンバン",
-                "contributor": "技術評論社編集部　編・著",
-                "contributor_collation_key": "ギジュツヒョウロンシャヘンシュウブ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3390/9784297123390_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784296000333",
-                "title": "実践スタートアップ・ファイナンス　資本政策の感想戦",
-                "title_collation_key": "ジッセンスタートアップファイナンスシホンセイサクノカンソウセン",
-                "contributor": "山岡 佑",
-                "contributor_collation_key": "ヤマオカタスク",
-                "imprint": "日経BP",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0333/9784296000333_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784534058805",
-                "title": "トッププレゼンターが教える「企画書とプレゼン」実践講座",
-                "title_collation_key": "トッププレゼンターガオシエル「キカクショトプレゼン」ジッセンコウザ",
-                "contributor": "須藤 亮",
-                "contributor_collation_key": "スドウ リョウ",
-                "imprint": "日本実業出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8805/9784534058805_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784049110838",
-                "title": "筆王でつくるかんたん年賀状　2022",
-                "title_collation_key": "フデオウデツクルカンタンネンガジョウ　ニセンニジュウニ",
-                "contributor": "年賀状素材集編集部",
-                "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
-                "imprint": "角川アスキー総合研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0838/9784049110838_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784022517876",
-                "title": "決算書「分析」超入門2022",
-                "title_collation_key": "ケッサンショ「ブンセキ」チョウニュウモン2022",
-                "contributor": "佐伯良隆",
-                "contributor_collation_key": "サエキヨシタカ",
-                "imprint": "朝日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7876/9784022517876_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801817425",
-                "title": "超かんたん筆ぐるめ年賀状（2022）",
-                "title_collation_key": "チョウ カンタン フデグルメ ネンガジョウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "晋遊舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7425/9784801817425_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295012344",
-                "title": "心に残る和の年賀状（令和寅年版）",
-                "title_collation_key": "ココロ ニ ノコル ワ ノ ネンガジョウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2344/9784295012344_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295012399",
-                "title": "はやわざ筆ぐるめ年賀状（2022）",
-                "title_collation_key": "ハヤワザ フデグルメ ネンガジョウ",
-                "contributor": "インプレス年賀状編集部",
-                "contributor_collation_key": "インプレス ネンガジョウ ヘンシュウブ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2399/9784295012399_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784335450662",
-                "title": "人事のためのジョブ・クラフティング入門",
-                "title_collation_key": "ジンジノタメノジョブクラフティングニュウモン",
-                "contributor": "川上　真史/種市　康太郎",
-                "contributor_collation_key": "カワカミ　シンジ/タネイチ　コウタロウ",
-                "imprint": "弘文堂",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0662/9784335450662_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801817418",
-                "title": "超かんたん筆まめ年賀状（2022）",
-                "title_collation_key": "チョウ カンタン フデマメ ネンガジョウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "晋遊舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7418/9784801817418_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784827213034",
-                "title": "本当に賢い会社のたたみ方",
-                "title_collation_key": "ホントウニカシコイカイシャノタタミカタ",
-                "contributor": "花本明宏",
-                "contributor_collation_key": "ハナモトアキヒロ",
-                "imprint": "ぱる出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3034/9784827213034_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801817401",
-                "title": "超かんたんパソコン年賀状（2022）",
-                "title_collation_key": "チョウ カンタン パソコン ネンガジョウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "晋遊舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7401/9784801817401_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295012405",
-                "title": "はやわざ筆王年賀状（2022）",
-                "title_collation_key": "ハヤワザ フデオウ ネンガジョウ",
-                "contributor": "インプレス",
-                "contributor_collation_key": "インプレス ネンガジョウ ヘンシュウブ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2405/9784295012405_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784049110814",
-                "title": "印刷するだけ びゅんびゅん年賀状　DVD　2022",
-                "title_collation_key": "インサツスルダケ ビュンビュンネンガジョウ ディーブイディー ニセンニジュウニ",
-                "contributor": "年賀状素材集編集部",
-                "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
-                "imprint": "角川アスキー総合研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0814/9784049110814_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295012382",
-                "title": "はやわざ筆まめ年賀状（2022）",
-                "title_collation_key": "ハヤワザ フデマメ ネンガジョウ",
-                "contributor": "インプレス年賀状編集部",
-                "contributor_collation_key": "インプレス ネンガジョウ ヘンシュウブ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2382/9784295012382_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839976903",
-                "title": "速効!筆まめ年賀状2022",
-                "title_collation_key": "ソッコウ フデマメネンガジョウニセンニジュウニ",
-                "contributor": "速効!筆まめ年賀状編集部",
-                "contributor_collation_key": "ソッコウ フデマメネンガジョウヘンシュウブ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6903/9784839976903_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866732824",
-                "title": "自分でできる！確定申告の書き方　令和4年3月15日締切分",
-                "title_collation_key": "ジブンデデキルカクテイシンコクノカキカタレイワヨネンサンガツジュウゴニチシメキリブン",
-                "contributor": "高崎文秀",
-                "contributor_collation_key": "タカサキフミヒデ",
-                "imprint": "三才ブックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2824/9784866732824_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784805112304",
-                "title": "経営情報戦略入門",
-                "title_collation_key": "ケイエイジョウホウセンリャクニュウモン",
-                "contributor": "宮元 万菜美",
-                "contributor_collation_key": "ミヤモトマナミ",
-                "imprint": "千倉書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2304/9784805112304_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784049110821",
-                "title": "世界一かんたん定番年賀状　2022",
-                "title_collation_key": "セカイイチカンタンテイバンネンガジョウ ニセンニジュウニ",
-                "contributor": "年賀状素材集編集部",
-                "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
-                "imprint": "角川アスキー総合研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0821/9784049110821_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784322134957",
-                "title": "新装版　真経営学読本",
-                "title_collation_key": "シンソウバン シンケイエイガクドクホン",
-                "contributor": "福島　正伸",
-                "contributor_collation_key": "フクシマ　マサノブ",
-                "imprint": "きんざい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4957/9784322134957_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502397813",
-                "title": "初級簿記セミナー",
-                "title_collation_key": "ショキュウボキセミナー",
-                "contributor": "岡部 勝成",
-                "contributor_collation_key": "オカベ カツヨシ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7813/9784502397813_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433717711",
-                "title": "消費税　インボイス制度導入の実務",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7711/9784433717711_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434289880",
-                "title": "就活にとまどう君へ",
-                "title_collation_key": "シュウカツニトマドウキミヘ",
-                "contributor": "朝日吉太郎",
-                "contributor_collation_key": "アサヒキチタロウ",
-                "imprint": "日本橋出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9880/9784434289880_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502396410",
-                "title": "会計のイメージを変える",
-                "title_collation_key": "カイケイノイメージヲカエル",
-                "contributor": "菅原 智",
-                "contributor_collation_key": "スガハラ サトシ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6410/9784502396410_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502833632",
-                "title": "税理士試験法人税法の要点整理",
-                "title_collation_key": "ゼイリシシケンホウジンゼイホウノヨウテンセイリ",
-                "contributor": "渡辺 淑夫",
-                "contributor_collation_key": "ワタナベ ヨシオ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3632/9784502833632_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784906768967",
-                "title": "中小企業だから実現できるテレワーク",
-                "title_collation_key": "チュウショウキギョウダカラジツゲンデキルテレワーク",
-                "contributor": "宮下 由多加/井上 健語",
-                "contributor_collation_key": "ミヤシタ ユタカ/イノウエ ケンゴ",
-                "imprint": "ジャムハウス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8967/9784906768967_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502398315",
-                "title": "起業ストーリーで学ぶ会計",
-                "title_collation_key": "キギョウストーリーデマナブカイケイ",
-                "contributor": "川島 健司",
-                "contributor_collation_key": "カワシマ ケンジ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8315/9784502398315_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502383113",
-                "title": "PPAの評価",
-                "title_collation_key": "ピーピーエーノヒョウカ",
-                "contributor": "山本 智貴/金子 竜平",
-                "contributor_collation_key": "ヤマモト トモタカ/カネコ リュウヘイ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3113/9784502383113_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502401510",
-                "title": "スモールM＆Aのビジネスデューデリジェンス実務入門",
-                "title_collation_key": "スモールエムアンドエーノビジネスデューデリジェンスジツムニュウモン",
-                "contributor": "寺嶋 直史/齋藤 由紀夫",
-                "contributor_collation_key": "テラジマ ナオシ/サイトウ ユキオ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1510/9784502401510_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784408339795",
-                "title": "最高のテレワーク空間",
-                "title_collation_key": "サイコウノテレワーククウカン",
-                "contributor": "尾田 恵",
-                "contributor_collation_key": "オダ メグミ",
-                "imprint": "実業之日本社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9795/9784408339795_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784892598968",
-                "title": "比較経営研究（第45号）",
-                "title_collation_key": "ヒカク ケイエイ ケンキュウ",
-                "contributor": "日本比較経営学会",
-                "contributor_collation_key": "ニホン ヒカク ケイエイ ガッカイ",
-                "imprint": "文理閣",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8968/9784892598968_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784074410750",
-                "title": "美しいノイズ",
-                "title_collation_key": "ウツクシイノイズ",
-                "contributor": "谷尻誠/吉田愛",
-                "contributor_collation_key": "タニジリマコト/ヨシダアイ",
-                "imprint": "主婦の友社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0750/9784074410750_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502305818",
-                "title": "会計処理ハンドブック",
-                "title_collation_key": "カイケイショリハンドブック",
-                "contributor": "有限責任監査法人トーマツ",
-                "contributor_collation_key": "ユウゲンセキニンカンサホウジントーマツ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5818/9784502305818_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784898275511",
-                "title": "TBC中小企業診断士試験シリーズ速修テキスト（2　2022年版）",
-                "title_collation_key": "ティービーシー チュウショウ キギョウ シンダンシ シケン シリーズ ソクシュウ",
-                "contributor": "山口正浩/遠山直幹",
-                "contributor_collation_key": "ヤマグチ,マサヒロ/トオヤマ,ナオミキ",
-                "imprint": "早稲田出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5511/9784898275511_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433412814",
-                "title": "新時代の高生産性経営",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2814/9784433412814_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784324110409",
-                "title": "保険税務のプロによる相続・贈与のお悩み解決ノート",
-                "title_collation_key": "ホケン ゼイム ノ プロ ニ ヨル ソウゾク ゾウヨ ノ オナヤミ カイケツ ノー",
-                "contributor": "追中徳久",
-                "contributor_collation_key": "オイナカ,ノリヒサ",
-                "imprint": "ぎょうせい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0409/9784324110409_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784322139914",
-                "title": "認定支援機関実務ハンドブック【第3版】",
-                "title_collation_key": "ニンテイシエンキカンジツムハンドブック ダイサンパン",
-                "contributor": "小寺　弘泰",
-                "contributor_collation_key": "コデラ　ヒロヤス",
-                "imprint": "一般社団法人金融財政事情研究会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9914/9784322139914_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784502399916",
-                "title": "成功する開業医",
-                "title_collation_key": "セイコウスルカイギョウイ",
-                "contributor": "鶴田 幸之",
-                "contributor_collation_key": "ツルダ コウジ",
-                "imprint": "中央経済社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9916/9784502399916.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784885922169",
-                "title": "人事制度が会社を変える",
-                "title_collation_key": "ジンジセイドガカイシャヲカエル",
-                "contributor": "山口忠明/徳田孝司",
-                "contributor_collation_key": "ヤマグチタダアキ/トクダタカシ",
-                "imprint": "東峰書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2169/9784885922169_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784324110560",
-                "title": "事例から学ぶこれならできる！DX税理士事務所",
-                "title_collation_key": "ジレイ カラ マナブ コレナラ デキル ディーエックス ゼイリシ ジムショ",
-                "contributor": "月刊「税理」編集局",
-                "contributor_collation_key": "ゲッカン ゼイリ ヘンシュウキョク",
-                "imprint": "ぎょうせい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0560/9784324110560_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784809686344",
-                "title": "神田川",
-                "title_collation_key": "カンダガワ",
-                "contributor": "鹿島賢治",
-                "contributor_collation_key": "カシマ,ケンジ",
-                "imprint": "東洋出版（文京区）",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6344/9784809686344_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784600008376",
-                "title": "聖書と起業",
-                "title_collation_key": "セイショ ト キギョウ",
-                "contributor": "前田昌調",
-                "contributor_collation_key": "マエダ,マサチカ",
-                "imprint": "鉱脈社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8376/9784600008376.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784898275504",
-                "title": "TBC中小企業診断士試験シリーズ速修テキスト（1　2022年版）",
-                "title_collation_key": "ティービーシー チュウショウ キギョウ シンダンシ シケン シリーズ ソクシュウ",
-                "contributor": "山口正浩/木戸晶之",
-                "contributor_collation_key": "ヤマグチ,マサヒロ/キド,アキユキ",
-                "imprint": "早稲田出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5504/9784898275504_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784877835118",
-                "title": "Kintoneファーストガイド（2022年版）",
-                "title_collation_key": "キントーン ファースト ガイド",
-                "contributor": "相澤裕介",
-                "contributor_collation_key": "アイザワ,ユウスケ",
-                "imprint": "カットシステム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5118/9784877835118_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784433707712",
-                "title": "令和3年版　法人税申告書の作り方",
-                "title_collation_key": "",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "清文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7712/9784433707712_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784782535646",
-                "title": "マスコミ就職完全ガイド（2024〜25年度版）",
-                "title_collation_key": "マスコミ シュウショク カンゼン ガイド",
-                "contributor": "阪東恭一",
-                "contributor_collation_key": "バンドウ,キョウイチ",
-                "imprint": "産学社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5646/9784782535646_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784828309163",
-                "title": "SWOT分析による戦国武将の成功と失敗",
-                "title_collation_key": "スウォットブンセキニヨルセンゴクブショウノセイコウトシッパイ",
-                "contributor": "森岡 健司",
-                "contributor_collation_key": "",
-                "imprint": "ビジネス教育出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9163/9784828309163_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784820729525",
-                "title": "マネジャーによる職場づくり 理論と実践",
-                "title_collation_key": "マネジャーニヨルショクバヅクリリロントジッセン",
-                "contributor": "中村 和彦",
-                "contributor_collation_key": "ナカムラカズヒコ",
-                "imprint": "日本能率協会マネジメントセンター",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9525/9784820729525_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784478113875",
-                "title": "構想力が劇的に高まる アーキテクト思考",
-                "title_collation_key": "コウソウリョクガゲキテキニタカマル　アーキテクトシコウ",
-                "contributor": "細谷　功/坂田　幸樹",
-                "contributor_collation_key": "ホソヤ　イサオ/サカタ　コウキ",
-                "imprint": "ダイヤモンド社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3875/9784478113875_1_2.jpg?_ex=200x200"
-            }
-        ]
-    }
-]
+{
+    "shelf_title": "ビジネス・経済・就職/経営",
+    "category": "経営",
+    "back_cover_images": [
+        "back_cover_img/0033_1.png",
+        "back_cover_img/0033_2.png",
+        "back_cover_img/0033_3.png",
+        "back_cover_img/0033_4.png"
+    ],
+    "back_cover_low_images": [
+        "back_cover_low_img/0033_1_low.png",
+        "back_cover_low_img/0033_2_low.png",
+        "back_cover_low_img/0033_3_low.png",
+        "back_cover_low_img/0033_4_low.png"
+    ],
+    "books": [
+        {
+            "isbn": "9784478020548",
+            "title": "起業の戦略論",
+            "title_collation_key": "キギョウノセンリャクロン",
+            "contributor": "高宮 慎一",
+            "contributor_collation_key": "タカミヤ シンイチ",
+            "imprint": "ダイヤモンド社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0548/9784478020548.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784828422381",
+            "title": "「捨てる」技術（仮）",
+            "title_collation_key": "ステルギジュツ",
+            "contributor": "宗次徳ニ",
+            "contributor_collation_key": "ムネツクトクジ",
+            "imprint": "ビジネス社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2381/9784828422381.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784534058959",
+            "title": "武器としての戦略フレームワーク",
+            "title_collation_key": "ブキトシテノセンリャクフレームワーク",
+            "contributor": "手塚 貞治",
+            "contributor_collation_key": "テヅカ サダハル",
+            "imprint": "日本実業出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8959/9784534058959.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784534058966",
+            "title": "「事業の再構築」を考えたときに読む本",
+            "title_collation_key": "「ジギョウノサイコウチク」ヲカンガエタトキニヨムホン",
+            "contributor": "中野 裕哲",
+            "contributor_collation_key": "ナカノ ヒロアキ",
+            "imprint": "日本実業出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8966/9784534058966.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784534058911",
+            "title": "会社を買って、起業する。",
+            "title_collation_key": "カイシャヲカッテ、キギョウスル。",
+            "contributor": "五味田 匡功",
+            "contributor_collation_key": "ゴミタ マサヨシ",
+            "imprint": "日本実業出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8911/9784534058911.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784295406310",
+            "title": "きまじめでやさしい 弱者のための「独立・起業」読本",
+            "title_collation_key": "キマジメデヤサシイジャクシャノタメノドクリツキギョウドクホン",
+            "contributor": "阿部　浩一",
+            "contributor_collation_key": "アベコウイチ",
+            "imprint": "クロスメディア・パブリッシング",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6310/9784295406310.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784263461686",
+            "title": "イラストと症例で学ぶ 開業医のための臨床部分矯正",
+            "title_collation_key": "イラストトショウレイデマナブカイギョウイノタメノリンショウブブンキョウセイ",
+            "contributor": "徳永 哲彦",
+            "contributor_collation_key": "トクナガ テツヒコ",
+            "imprint": "医歯薬出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1686/9784263461686.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784534058867",
+            "title": "「オンライン起業」の教科書",
+            "title_collation_key": "「オンラインキギョウ」ノキョウカショ",
+            "contributor": "山口 朋子",
+            "contributor_collation_key": "ヤマグチ トモコ",
+            "imprint": "日本実業出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8867/9784534058867_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784532359072",
+            "title": "おいしいニッポン 投資のプロが読む2040年のビジネス",
+            "title_collation_key": "オイシイニッポン トウシノプロガヨムニセンヨンジュウネンノビジネス",
+            "contributor": "藤野 英人",
+            "contributor_collation_key": "フジノ ヒデト",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9072/9784532359072_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784781208374",
+            "title": "一度読めばわかる！1億円歯科医院の作り方　開業編",
+            "title_collation_key": "イチドヨメバワカル　イチオクエンシカイインノツクリカタ　カイギョウヘン",
+            "contributor": "田中健久/今井健二",
+            "contributor_collation_key": "タナカタケヒサ/イマイケンジ",
+            "imprint": "クインテッセンス出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8374/9784781208374_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866213804",
+            "title": "ファンは少ないほうが稼げます",
+            "title_collation_key": "ファンハスクナイホウガカセゲマス",
+            "contributor": "藤 あや",
+            "contributor_collation_key": "フジ アヤ",
+            "imprint": "WAVE出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3804/9784866213804_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784384060089",
+            "title": "就活のための「四季報」活用法",
+            "title_collation_key": "シュウカツノタメノシキホウカツヨウホウ",
+            "contributor": "田宮寛之",
+            "contributor_collation_key": "タミヤヒロユキ",
+            "imprint": "三修社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0089/9784384060089_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784815610081",
+            "title": "「節税」の超・裏ワザ",
+            "title_collation_key": "セツゼイノチョウウラワザ",
+            "contributor": "根本 和彦",
+            "contributor_collation_key": "ネモトカズヒコ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0081/9784815610081_1_7.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784534603432",
+            "title": "令和4年申告用　あなたの確定申告",
+            "title_collation_key": "レイワヨネンシンコクヨウ アナタノカクテイシンコク",
+            "contributor": "日本実業出版社",
+            "contributor_collation_key": "ニホンジツギョウシュッパンシャ",
+            "imprint": "日本実業出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3432/9784534603432.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784415233925",
+            "title": "高校生　就職面接の受け方答え方 '23年版",
+            "title_collation_key": "コウコウセイシュウショクメンセツノウケカタコタエカタニセンニジュウサンネンバン",
+            "contributor": "成美堂出版編集部",
+            "contributor_collation_key": "セイビドウシュッパンヘンシュウブ",
+            "imprint": "成美堂出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3925/9784415233925_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784022276513",
+            "title": "朝日キーワード就職2023　最新時事用語＆一般常識",
+            "title_collation_key": "アサヒキーワードシュウショク2023 サイシンジジヨウゴ＆イッパンジョウシキ",
+            "contributor": "朝日新聞出版",
+            "contributor_collation_key": "アサヒシンブンシュッパン",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6513/9784022276513_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784623092291",
+            "title": "利他の構造",
+            "title_collation_key": "リタノコウゾウ",
+            "contributor": "日置　弘一郎/奥野　明子",
+            "contributor_collation_key": "ヒオキコウ　イチロウ/オクノ　アキコ",
+            "imprint": "ミネルヴァ書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2291/9784623092291.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502398612",
+            "title": "エンパワリング・リーダーシップ",
+            "title_collation_key": "エンパワリングリーダーシップ",
+            "contributor": "青木 幹喜",
+            "contributor_collation_key": "アオキ ミキヨシ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8612/9784502398612_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433710910",
+            "title": "グループ通算制度への移行・採用の 有利・不利とシミュレーション",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0910/9784433710910_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502398612",
+            "title": "エンパワリング・リーダーシップ",
+            "title_collation_key": "エンパワリングリーダーシップ",
+            "contributor": "青木 幹喜",
+            "contributor_collation_key": "アオキ ミキヨシ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8612/9784502398612_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502406515",
+            "title": "国内MBA受験の小論文対策〈基礎知識マスター編〉",
+            "title_collation_key": "コクナイエムビーエージュケンノショウロンブンタイサクキソチシキマスターヘン",
+            "contributor": "飯野 一",
+            "contributor_collation_key": "イイノ ハジメ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6515/9784502406515_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502400513",
+            "title": "国内MBA受験の面接対策",
+            "title_collation_key": "コクナイエムビーエージュケンノメンセツタイサク",
+            "contributor": "飯野 一",
+            "contributor_collation_key": "イイノ ハジメ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0513/9784502400513_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784478114193",
+            "title": "なぜウチの会社は変われないんだ！と悩んだら読む 大企業ハック大全",
+            "title_collation_key": "ナゼウチノカイシャハカワレナインダトナヤンダラヨム　ダイキギョウハックタイゼン",
+            "contributor": "ONE JAPAN",
+            "contributor_collation_key": "ワンジャパン",
+            "imprint": "ダイヤモンド社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4193/9784478114193_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784382158054",
+            "title": "創造的思考のレッスン～新しい時代を生き抜くビジネス創造力",
+            "title_collation_key": "ソウゾウテキシコウノレッスンアタラシイジダイヲイキヌクビジネスソウゾウリョク",
+            "contributor": "芝 哲也/上野 郁江",
+            "contributor_collation_key": "シバ テツヤ/ウエノ イクエ",
+            "imprint": "産業能率大学出版部",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8054/9784382158054_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784415113241",
+            "title": "ひとりでできる個人事業者の確定申告　令和4年3月15日申告分",
+            "title_collation_key": "ヒトリデデキルコジンジギョウシャノカクテイシンコクレイワヨネンサンガツジュウゴニチシンコクブン",
+            "contributor": "平野　敦士",
+            "contributor_collation_key": "ヒラノ　アツシ",
+            "imprint": "成美堂出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3241/9784415113241_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784532324391",
+            "title": "会社を“守る”M&A、“伸ばす”M&A",
+            "title_collation_key": "カイシャヲ マモル エムアンドエー ノバス エムアンドエー",
+            "contributor": "三宅 卓",
+            "contributor_collation_key": "ミヤケ スグル",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4391/9784532324391_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784322139853",
+            "title": "グローバルコンプライアンスの実務",
+            "title_collation_key": "グローバルコンプライアンスニジツム",
+            "contributor": "高橋　大祐",
+            "contributor_collation_key": "タカハシ　ダイスケ",
+            "imprint": "一般社団法人金融財政事情研究会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9853/9784322139853_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299021861",
+            "title": "世界一簡単にできる確定申告 令和4年3月15日締切分",
+            "title_collation_key": "セカイイチカンタンニデキルカクテイシンコクレイワヨネンサンガツジュウゴニチシメキリブン",
+            "contributor": "田中 卓也",
+            "contributor_collation_key": "タナカ タクヤ",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1861/9784299021861_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784793126451",
+            "title": "中小企業向け特例税制・適用検討のポイントと手続き（令和3年度版）",
+            "title_collation_key": "チュウショウキギョウムケトクレイゼイセイテキヨウケントウノポイントトテツヅキ",
+            "contributor": "伊原健人",
+            "contributor_collation_key": "イハラタケヒト",
+            "imprint": "税務研究会出版局",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6451/9784793126451_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784863677067",
+            "title": "経営者の人生もよくなる「地域密着企業」経営改善バイブル",
+            "title_collation_key": "ケイエイシャノジンセイモヨクナルチイキミッチャクキギョウケイエイカイゼンバイブル",
+            "contributor": "中邨　康弘",
+            "contributor_collation_key": "ナカムラ　ヤスヒロ",
+            "imprint": "セルバ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7067/9784863677067_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784785729080",
+            "title": "優越的地位濫用規制と下請法の解説と分析〔第4版〕",
+            "title_collation_key": "ユウエツテキチイランヨウキセイトシタウケホウノカイセツトブンセキダイヨンハン",
+            "contributor": "長澤 哲也",
+            "contributor_collation_key": "ナガサワ テツヤ",
+            "imprint": "商事法務",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9080/9784785729080_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502403019",
+            "title": "ミレニアル・スタートアップ",
+            "title_collation_key": "ミレニアルスタートアップ",
+            "contributor": "裙本 理人",
+            "contributor_collation_key": "ツマモト マサト",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3019/9784502403019_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434294259",
+            "title": "明日から使える「採用ブランディング」実践法",
+            "title_collation_key": "アシタカラツカエルサイヨウブランディングジッセンホウ",
+            "contributor": "毛利大一郎",
+            "contributor_collation_key": "モウリダイイチロウ",
+            "imprint": "パレード",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4259/9784434294259_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798065939",
+            "title": "図解入門ビジネス 最新5Sの基本と実践がよ〜くわかる本[第3版]",
+            "title_collation_key": "ズカイニュウモンビジネスサイシンゴエスノキホントジッセンガヨークワカルホンダイサンパン",
+            "contributor": "石川秀人",
+            "contributor_collation_key": "イシカワヒデト",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5939/9784798065939_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784867210437",
+            "title": "北海道の業界地図2022-23",
+            "title_collation_key": "ホッカイドウノギョウカイチズ　ニセンニジュウニ　ニジュウサン",
+            "contributor": "北海道新聞社",
+            "contributor_collation_key": "ホッカイドウシンブンシャ",
+            "imprint": "北海道新聞社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0437/9784867210437_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784492558065",
+            "title": "戦略質問",
+            "title_collation_key": "センリャクシツモン",
+            "contributor": "金巻 龍一",
+            "contributor_collation_key": "カネマキ リュウイチ",
+            "imprint": "東洋経済新報社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8065/9784492558065_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295406150",
+            "title": "アイデアは図で考えろ！",
+            "title_collation_key": "アイデアハズデカンガエロ",
+            "contributor": "アーロン・ズー",
+            "contributor_collation_key": "アーロンズー",
+            "imprint": "クロスメディア・パブリッシング",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6150/9784295406150_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434295225",
+            "title": "人事はあなたのココを見ている！",
+            "title_collation_key": "ジンジハアナタノココヲミテイル",
+            "contributor": "西尾　太",
+            "contributor_collation_key": "ニシオ　フトシ",
+            "imprint": "アルファポリス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5225/9784434295225_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784833451901",
+            "title": "自社の価値を最大化する成長戦略型M&A2.0",
+            "title_collation_key": "ジシャノカチヲサイダイカスルセイチョウセンリャクガタエムアンドエーニテンゼロ",
+            "contributor": "栗原弘行",
+            "contributor_collation_key": "クリハラヒロユキ",
+            "imprint": "プレジデント社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1901/9784833451901_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865943108",
+            "title": "中小企業・社長の実践ガイド　激動の時代、会社をどう変えていくか",
+            "title_collation_key": "ゲキドウノジダイ　カイシャヲドウカエテイクカ",
+            "contributor": "田中　渉",
+            "contributor_collation_key": "タナカ　ワタル",
+            "imprint": "リックテレコム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3108/9784865943108_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784046054616",
+            "title": "自分ですらすらできる確定申告の書き方　令和4年3月15日締切分",
+            "title_collation_key": "ジブンデスラスラデキルカクテイシンコクノカキカタ　レイワヨネンサンガツジュウゴニチシメキリブン",
+            "contributor": "渡辺義則",
+            "contributor_collation_key": "ワタナベヨシノリ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4616/9784046054616_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784046054616",
+            "title": "自分ですらすらできる確定申告の書き方　令和4年3月15日締切分",
+            "title_collation_key": "ジブンデスラスラデキルカクテイシンコクノカキカタ　レイワヨネンサンガツジュウゴニチシメキリブン",
+            "contributor": "渡辺義則",
+            "contributor_collation_key": "ワタナベヨシノリ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4616/9784046054616_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798172514",
+            "title": "自分でパパッと書ける確定申告 令和4年3月15日締切分",
+            "title_collation_key": "ジブンデパパットカケルカクテイシンコク レイワヨネンサンガツジュウゴニチシメキリブン",
+            "contributor": "平井 義一",
+            "contributor_collation_key": "ヒライ ヨシカズ",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2514/9784798172514_1_15.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433716516",
+            "title": "令和3年10月改訂　プロフェッショナル　消費税の実務",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6516/9784433716516_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784791631261",
+            "title": "誰でもわかる 決算書の読み方1年生",
+            "title_collation_key": "ダレデモワカルケッサンショノヨミカタイチネンセイ",
+            "contributor": "南伸一",
+            "contributor_collation_key": "ミナミシンイチ",
+            "imprint": "西東社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1261/9784791631261_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433707019",
+            "title": "令和3年版　法人税申告書別表4・5ゼミナール",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7019/9784433707019_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784478114490",
+            "title": "いちばんわかりやすい確定申告の書き方　令和4年3月15日締切分",
+            "title_collation_key": "イチバンワカリヤスイカクテイシンコクノカキカタ　レイワヨネンサンガツジュウゴニチシメキリブン",
+            "contributor": "土屋裕昭/樋川智子",
+            "contributor_collation_key": "ツチヤヒロアキ/ヒカワトモコ",
+            "imprint": "ダイヤモンド社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4490/9784478114490_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502387913",
+            "title": "Q＆Aでわかる事業再編実務のすべて",
+            "title_collation_key": "キューアンドエーデワカルジギョウサイヘンジツムノスベテ",
+            "contributor": "GCA FAS株式会社",
+            "contributor_collation_key": "ジーシーエー エフエーエスカブシキガイシャ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7913/9784502387913_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502399817",
+            "title": "守之節",
+            "title_collation_key": "モリユキブシ",
+            "contributor": "山本 守之",
+            "contributor_collation_key": "ヤマモト モリユキ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9817/9784502399817_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784163914596",
+            "title": "起業のすすめ さよなら、サラリーマン",
+            "title_collation_key": "キギョウノススメ サヨナラサラリーマン",
+            "contributor": "佐々木 紀彦",
+            "contributor_collation_key": "ササキ ノリヒコ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4596/9784163914596_1_8.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784776211815",
+            "title": "こんな時代だからこそ学びたい 松下幸之助のリーダー学",
+            "title_collation_key": "コンナジダイダカラコソマナビタイ マツシタコウノスケノリーダーガク",
+            "contributor": "江口克彦",
+            "contributor_collation_key": "エグチカツヒコ",
+            "imprint": "アスコム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1815/9784776211815_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784757439337",
+            "title": "ケアリング・リーダーシップ",
+            "title_collation_key": "ケアリング・リーダーシップ",
+            "contributor": "ヘザー・R・ヤンガー",
+            "contributor_collation_key": "ヘザー・アール・ヤンガー",
+            "imprint": "株式会社アルク",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9337/9784757439337_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784776211761",
+            "title": "こんな時代だからこそ学びたい 松下幸之助の神言葉50",
+            "title_collation_key": "コンナジダイダカラコソマナビタイ マツシタコウノスケノカミコトバゴジュウ",
+            "contributor": "江口克彦",
+            "contributor_collation_key": "エグチカツヒコ",
+            "imprint": "アスコム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1761/9784776211761_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784793126390",
+            "title": "時間がない！？消費税インボイス導入へのサクセスロード",
+            "title_collation_key": "ジカンガナイショウヒゼイインボイスドウニュウヘノサクセスロード",
+            "contributor": "金子真一",
+            "contributor_collation_key": "カネコシンイチ",
+            "imprint": "税務研究会出版局",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6390/9784793126390_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502394713",
+            "title": "新しいビジネスをつくる",
+            "title_collation_key": "アタラシイビジネスヲツクル",
+            "contributor": "加護野 忠男/吉村 典久",
+            "contributor_collation_key": "カゴノ タダオ/ヨシムラ ノリヒサ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4713/9784502394713_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433750718",
+            "title": "企業改革への新潮流　法務コンプライアンス実践ガイド",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0718/9784433750718_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784827213010",
+            "title": "金持ち社長の経営 節税が会社をつぶす",
+            "title_collation_key": "カネモチシャチョウノケイエイ セツゼイガカイシャヲツブス",
+            "contributor": "野呂泰史",
+            "contributor_collation_key": "ノロヤスシ",
+            "imprint": "ぱる出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3010/9784827213010_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784772661966",
+            "title": "スーツは経費で落ちますか？",
+            "title_collation_key": "スーツハケイヒデオチマスカ",
+            "contributor": "高橋浩之",
+            "contributor_collation_key": "タカハシヒロユキ",
+            "imprint": "合同フォレスト",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1966/9784772661966_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866365237",
+            "title": "「強い人材」を育てるための　研修設計入門",
+            "title_collation_key": "ツヨイジンザイヲソダテルタメノ　ケンシュウセッケイニュウモン",
+            "contributor": "秋葉佳宏/笹木耕介",
+            "contributor_collation_key": "アキバヨシヒロ/ササキコウスケ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5237/9784866365237_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784845424825",
+            "title": "10人の医師がたどった開業成功の道 クリニック開業のリアル",
+            "title_collation_key": "ジュウニンノイシガタドッタカイギョウセイコウノミチ クリニックカイギョウノリアル",
+            "contributor": "クリニック開業ナビ",
+            "contributor_collation_key": "クリニックカイギョウナビ",
+            "imprint": "ロングセラーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4825/9784845424825_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502403316",
+            "title": "自社に合ったESG情報開示の考え方・進め方",
+            "title_collation_key": "ジシャニアッタイーエスジージョウホウカイジノカンガエカタススメカタ",
+            "contributor": "福岡 貴美",
+            "contributor_collation_key": "フクオカ タカハル",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3316/9784502403316_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295406143",
+            "title": "会社を売る力",
+            "title_collation_key": "カイシャヲウルチカラ",
+            "contributor": "渡部　恒郎/山本　夢人",
+            "contributor_collation_key": "ワタナベツネオ/ヤマモトユメヒト",
+            "imprint": "クロスメディア・パブリッシング",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6143/9784295406143_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784561257578",
+            "title": "エッセンシャル講義　経営学教室",
+            "title_collation_key": "エッセンシャルコウギ　ケイエイガクキョウシツ",
+            "contributor": "坂本　英樹",
+            "contributor_collation_key": "サカモト　ヒデキ",
+            "imprint": "白桃書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7578/9784561257578_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295201533",
+            "title": "仕事はかどり図鑑　今日からはじめる小さなDX",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "エムディエヌコーポレーション",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1533/9784295201533_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784910286051",
+            "title": "サロン進化論 デジタルツールが切り拓くサービス⾰命",
+            "title_collation_key": "サロン シンカロン　デジタルツール",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ディスカヴァービジネスパブリッシング",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6051/9784910286051_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295406136",
+            "title": "CHANGE LEADER",
+            "title_collation_key": "チェンジリーダー",
+            "contributor": "中村　基樹/西村　聖司",
+            "contributor_collation_key": "ナカムラモトキ/ニシムラセイジ",
+            "imprint": "クロスメディア・パブリッシング",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6136/9784295406136_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784863263185",
+            "title": "2022新入社員基礎講座",
+            "title_collation_key": "ニセンニジュウニシンニュウシャインキソコウザ",
+            "contributor": "経営書院",
+            "contributor_collation_key": "ケイエイショイン",
+            "imprint": "産労総合研究所出版部経営書院",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3185/9784863263185_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784761275730",
+            "title": "生き残る会社をつくる「守り」の経営",
+            "title_collation_key": "イキノコルカイシャヲツクルマモリノケイエイ",
+            "contributor": "浜口　隆則",
+            "contributor_collation_key": "ハマグチ　タカノリ",
+            "imprint": "かんき出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5730/9784761275730_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784768459089",
+            "title": "クラウドファンディングで社会をつくる",
+            "title_collation_key": "クラウドファンディングデシャカイヲツクル",
+            "contributor": "秋山訓子",
+            "contributor_collation_key": "アキヤマノリコ",
+            "imprint": "現代書館",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9089/9784768459089_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784771035454",
+            "title": "改訂版　産業経済の発展と競争政策",
+            "title_collation_key": "カイテイバンサンギョウケイザイノハッテントキョウソウセイサク",
+            "contributor": "和田　聡子",
+            "contributor_collation_key": "ワダサトコ",
+            "imprint": "晃洋書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5454/9784771035454_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784539746745",
+            "title": "2021年度版 法人投資家のための証券投資の会計・税務",
+            "title_collation_key": "ニセンニジュウイチネンドバン ホウジントウシカノタメノショウケントウシノカイケイゼイム",
+            "contributor": "大和総研",
+            "contributor_collation_key": "ダイワソウケン",
+            "imprint": "日本法令",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6745/9784539746745.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784539728703",
+            "title": "改訂版 Q＆Aでよくわかる 消費税 インボイス対応 要点ナビ",
+            "title_collation_key": "カイテイバンキューアンドエーデヨクワカルショウヒゼイインボイスタイオウヨウテンナビ",
+            "contributor": "熊王 征秀",
+            "contributor_collation_key": "クマオウ マサヒデ",
+            "imprint": "日本法令",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8703/9784539728703_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784384048773",
+            "title": "図解　労務管理の基本と実務がわかる事典",
+            "title_collation_key": "ズカイロウムカンリノキホントジツムガワカルジテン",
+            "contributor": "森島　大吾",
+            "contributor_collation_key": "モリシマ　ダイゴ",
+            "imprint": "三修社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8773/9784384048773_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784326504886",
+            "title": "組織開発の理論化と実証研究",
+            "title_collation_key": "ソシキカイハツノリロンカトジッショウケンキュウ",
+            "contributor": "高橋　宏誠",
+            "contributor_collation_key": "タカハシ　コウセイ",
+            "imprint": "勁草書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4886/9784326504886_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784837987475",
+            "title": "優秀な人がこっそりやっている仕事のスゴ技75",
+            "title_collation_key": "ユウシュウナヒトガコッソリヤッテイルシゴトノスゴワザナナジュウゴ",
+            "contributor": "木部 智之",
+            "contributor_collation_key": "キベ トモユキ",
+            "imprint": "三笠書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7475/9784837987475.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784526081651",
+            "title": "これから伸びる首都圏のカイシャ2021秋",
+            "title_collation_key": "コレカラノビルシュトケンノカイシャ ニセンニジュウイチアキ",
+            "contributor": "日刊工業新聞社 東京支社",
+            "contributor_collation_key": "ニッカンコウギョウシンブンシャトウキョウシシャ",
+            "imprint": "日刊工業新聞社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1651/9784526081651_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784344934429",
+            "title": "サイエンスドリブン　生産性向上につながる科学的人事",
+            "title_collation_key": "サイエンスドリブン　セイサンセイコウジョウニツナガルカガクテキジンジ",
+            "contributor": "梅本 哲",
+            "contributor_collation_key": "ウメモト サトシ",
+            "imprint": "幻冬舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4429/9784344934429_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784891122003",
+            "title": "図解でわかる 時事重要テーマ100 2022-2023",
+            "title_collation_key": "ズカイデワカルジジジュウヨウテーマヒャク　ニセンニジュウニ ニセンニジュウサン",
+            "contributor": "日経HR編集部",
+            "contributor_collation_key": "ニッケイエイチアールヘンシュウブ",
+            "imprint": "日経HR",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2003/9784891122003_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784532114442",
+            "title": "アジアのビジネスモデル",
+            "title_collation_key": "アジアノビジネスモデル",
+            "contributor": "村山 宏",
+            "contributor_collation_key": "ムラヤマ ヒロシ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4442/9784532114442_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784910136110",
+            "title": "監査実務ハンドブック2022年版",
+            "title_collation_key": "カンサジツムハンドブックニセンニジュウニネンバン",
+            "contributor": "日本公認会計士協会",
+            "contributor_collation_key": "ニホンコウニンカイケイシキョウカイ",
+            "imprint": "日本公認会計士協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6110/9784910136110_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784905937616",
+            "title": "売りたいのに売れない！非上場企業の少数株主が困ったときに読む本",
+            "title_collation_key": "ウリタイノニウレナイヒジョウジョウキギョウノショウスウカブヌシガコマッタトキニヨムホン",
+            "contributor": "都　竜大",
+            "contributor_collation_key": "ミヤコ　タツヒロ",
+            "imprint": "玄文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7616/9784905937616_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433728410",
+            "title": "不動産の本当の価値を高めるために　やってはいけない遺産分割",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8410/9784433728410_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433716110",
+            "title": "令和3年版　STEP式　消費税申告書の作成手順",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6110/9784433716110_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798061030",
+            "title": "丸亀製麺のすごい働き方",
+            "title_collation_key": "マルガメセイメンノスゴイハタラキカタ",
+            "contributor": "小野正誉",
+            "contributor_collation_key": "オノマサトモ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1030/9784798061030_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297123475",
+            "title": "あっという間にかんたん確定申告　令和4年3月15日締切分",
+            "title_collation_key": "アットイウマニカンタンカクテイシンコク レイワヨネンサンガツジュウゴニチシメキリブン",
+            "contributor": "山本　宏［監修］",
+            "contributor_collation_key": "ヤマモト ヒロシ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3475/9784297123475_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784419068257",
+            "title": "投資ストラクチャーの税務［十訂版］",
+            "title_collation_key": "トウシストラクチャーノゼイム　ジュッテイバン",
+            "contributor": "鬼頭　朱実/箱田　晶子",
+            "contributor_collation_key": "キトウ　アケミ/ハコダ　アキコ",
+            "imprint": "税務経理協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8257/9784419068257_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297123376",
+            "title": "年金生活者・定年退職者のための確定申告　令和4年3月15日締切分",
+            "title_collation_key": "ネンキンセイカツシャ テイネンタイショクシャノタメノカクテイシンコク レイワヨネンサンガツジュウゴニチシメキリブン",
+            "contributor": "山本　宏［監修］",
+            "contributor_collation_key": "ヤマモト ヒロシ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3376/9784297123376_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784419068288",
+            "title": "ステークホルダー別　私的企業再生の税務ハンドブック",
+            "title_collation_key": "ステークホルダーベツ　シテキキギョウサイセイノゼイムハンドブック",
+            "contributor": "勢〆　健一",
+            "contributor_collation_key": "セシメ　ケンイチ",
+            "imprint": "税務経理協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8288/9784419068288_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784259522025",
+            "title": "これからの協同組合間連携",
+            "title_collation_key": "コレカラノキョウドウクミアイカンレンケイ",
+            "contributor": "石田　正昭",
+            "contributor_collation_key": "イシダ マサアキ",
+            "imprint": "家の光協会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2025/9784259522025_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502400018",
+            "title": "グローバル・ガバナンス・コンプライアンス",
+            "title_collation_key": "グローバルガバナンスコンプライアンス",
+            "contributor": "中山 達樹",
+            "contributor_collation_key": "ナカヤマ タツキ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0018/9784502400018_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784492534403",
+            "title": "数学的に話す技術・書く技術",
+            "title_collation_key": "スウガクテキニハナスギジュツ カクギジュツ",
+            "contributor": "曽布川 拓也/山本 直人",
+            "contributor_collation_key": "ソブカワ タクヤ/ヤマモト ナオト",
+            "imprint": "東洋経済新報社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4403/9784492534403_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784833424332",
+            "title": "「K字型経済」攻略法",
+            "title_collation_key": "ケイジガタケイザイコウリャクホウ",
+            "contributor": "鶴田東洋彦/松岡健夫",
+            "contributor_collation_key": "ツルタトヨヒコ/マツオカタケオ",
+            "imprint": "プレジデント社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4332/9784833424332_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784296000395",
+            "title": "世界「失敗」製品図鑑",
+            "title_collation_key": "セカイシッパイセイヒンズカン",
+            "contributor": "荒木 博行",
+            "contributor_collation_key": "アラキヒロユキ",
+            "imprint": "日経BP",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0395/9784296000395_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784881774830",
+            "title": "税理士のコーヒータイム　税理士のための百箇条第4弾",
+            "title_collation_key": "ゼイリシノコーヒータイム　ゼイリシノタメノヒャッカジョウダイヨンダン",
+            "contributor": "関根稔",
+            "contributor_collation_key": "セキネミノル",
+            "imprint": "財経詳報社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4830/9784881774830.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784805112373",
+            "title": "もっと学びたくなる経営学",
+            "title_collation_key": "モットマナビタクナルケイエイガク",
+            "contributor": "稲村 雄大",
+            "contributor_collation_key": "イナムラカツヒロ",
+            "imprint": "千倉書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2373/9784805112373_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784804718842",
+            "title": "通過率84.6％のプロが教える　資料作成＆プレゼン大全",
+            "title_collation_key": "ツウカリツハチジュウヨンテンロクパーセントノプロガオシエル　シリョウサクセイアンドプレゼンタイゼン",
+            "contributor": "亀谷 誠一郎",
+            "contributor_collation_key": "カメタニセイイチロウ",
+            "imprint": "大和出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8842/9784804718842_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784750352701",
+            "title": "福祉NPO・社会的企業の経済社会学",
+            "title_collation_key": "フクシエヌピーオーシャカイテキキギョウノケイザイシャカイガク",
+            "contributor": "桜井　政成",
+            "contributor_collation_key": "サクライ マサナリ",
+            "imprint": "明石書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2701/9784750352701_1_10.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784532324353",
+            "title": "競争しない競争戦略　改訂版",
+            "title_collation_key": "キョウソウシナイキョウソウセンリャク カイテイバン",
+            "contributor": "山田 英夫",
+            "contributor_collation_key": "ヤマダ ヒデオ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4353/9784532324353_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784793126468",
+            "title": "減価償却資産の耐用年数表（令和3年改訂新版）",
+            "title_collation_key": "ゲンカショウキャクシサンノタイヨウネンスウヒョウレイワサンネンカイテイシンハン",
+            "contributor": "税務研究会",
+            "contributor_collation_key": "ゼイムケンキュウカイ",
+            "imprint": "税務研究会出版局",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6468/9784793126468.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784863676985",
+            "title": "改訂版　Q＆A 中小企業の税務調査対応ハンドブック",
+            "title_collation_key": "カイテイバン キューアンドエー チュウショウキギョウノゼイムチョウサタイオウハンドブック",
+            "contributor": "辰巳　忠次/辰巳　八栄子",
+            "contributor_collation_key": "タツミ　タダツグ/タツミ　ヤエコ",
+            "imprint": "セルバ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6985/9784863676985_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297123277",
+            "title": "つい顔色をうかがってしまう私を手放す方法",
+            "title_collation_key": "ツイカオイロヲウカガッテシマウワタシヲテバナスホウホウ",
+            "contributor": "佐々木正悟",
+            "contributor_collation_key": "ササキショウゴ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3277/9784297123277_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299021984",
+            "title": "伝わる図解! 超入門",
+            "title_collation_key": "ツタワルズカイチョウニュウモン",
+            "contributor": "久保田 麻美",
+            "contributor_collation_key": "クボタ アサミ",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1984/9784299021984_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784049110845",
+            "title": "もらってうれしい おしゃれな年賀状　2022",
+            "title_collation_key": "モラッテウレシイ　オシャレナネンガジョウ　ニセンニジュウニ",
+            "contributor": "年賀状素材集編集部",
+            "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
+            "imprint": "角川アスキー総合研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0845/9784049110845_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784426127435",
+            "title": "この1冊でスラスラ！給与計算大全",
+            "title_collation_key": "コノイッサツデスラスラキュウヨケイサンタイゼン",
+            "contributor": "岡 久",
+            "contributor_collation_key": "オカ ヒサシ",
+            "imprint": "自由国民社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7435/9784426127435_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784863677029",
+            "title": "100年潰れない中小企業をつくる最強の財務経営",
+            "title_collation_key": "ヒャクネンツブレナイチュウショウキギョウヲツクルサイキョウノザイムケイエイ",
+            "contributor": "湯原　重之",
+            "contributor_collation_key": "ユハラ　シゲユキ",
+            "imprint": "セルバ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7029/9784863677029_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784426127411",
+            "title": "儲かる会社はホームページが9割！",
+            "title_collation_key": "モウカルカイシャハホームページガキュウワリ",
+            "contributor": "芝田 弘美",
+            "contributor_collation_key": "シバタ ヒロミ",
+            "imprint": "自由国民社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7411/9784426127411_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784785729042",
+            "title": "コーポレートガバナンス・コードの実務〔第4版〕",
+            "title_collation_key": "コーポレートガバナンスコードノジツムダイヨンハン",
+            "contributor": "澤口 実/内田 修平",
+            "contributor_collation_key": "サワグチ ミノル/ウチダ シュウヘイ",
+            "imprint": "商事法務",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9042/9784785729042_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433704216",
+            "title": "令和3年10月改訂　相続税・贈与税取扱いの手引",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4216/9784433704216_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784049110869",
+            "title": "筆ぐるめでつくる世界一かんたん年賀状　2022",
+            "title_collation_key": "フデグルメデツクルセカイイチカンタンネンガジョウ ニセンニジュウニ",
+            "contributor": "年賀状素材集編集部",
+            "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
+            "imprint": "角川アスキー総合研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0869/9784049110869_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784756921758",
+            "title": "仕事は1冊のノートで10倍差がつく",
+            "title_collation_key": "シゴトハイッサツノノートデジュウバイサガツク",
+            "contributor": "鈴木 進介",
+            "contributor_collation_key": "ズズキ　シンスケ",
+            "imprint": "明日香出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1758/9784756921758_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784322139969",
+            "title": "中小企業M＆A　株式譲渡の税務",
+            "title_collation_key": "チュウショウキギョウエムアンドエー カブシキジョウトノゼイム",
+            "contributor": "村木　良平",
+            "contributor_collation_key": "ムラキ　リョウヘイ",
+            "imprint": "きんざい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9969/9784322139969_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784793126420",
+            "title": "小さな会社の事業承継・引継ぎ徹底ガイド",
+            "title_collation_key": "チイサナカイシャノジギョウショウケイヒキツギテッテイガイド",
+            "contributor": "今村仁",
+            "contributor_collation_key": "イマムラヒトシ",
+            "imprint": "税務研究会出版局",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6420/9784793126420.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297123499",
+            "title": "あっという間に完成！筆まめ年賀状 2022年版",
+            "title_collation_key": "アットイウマニカンセイ フデマメネンガジョウ ニセンニジュウニネンバン",
+            "contributor": "技術評論社編集部　編・著",
+            "contributor_collation_key": "ギジュツヒョウロンシャヘンシュウブ ヘンチョ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3499/9784297123499_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295012337",
+            "title": "筆ぐるめかんたんさくさく年賀状（2022）",
+            "title_collation_key": "フデグルメ カンタン サクサク ネンガジョウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2337/9784295012337.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784539746721",
+            "title": "3年改正版 減価償却資産の耐用年数表とその使い方",
+            "title_collation_key": "サンネンカイセイバン　ゲンカショウキャクシサンノタイヨウネンスウヒョウトソノツカイカタ",
+            "contributor": "日本法令",
+            "contributor_collation_key": "ニホンホウレイ",
+            "imprint": "日本法令",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6721/9784539746721_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866905990",
+            "title": "60歳から始めるSNSの教科書",
+            "title_collation_key": "ロクジュッサイ カラ ハジメル エスエヌエス ノ キョウカショ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "マイウェイ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5990/9784866905990_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784813299561",
+            "title": "2023年度版　マスコミ就活　テレビ局　内定獲得！",
+            "title_collation_key": "2023ネンドバン マスコミシュウカツ テレビキョク ナイテイカクトク！",
+            "contributor": "冨板　敦",
+            "contributor_collation_key": "トミイタ アツシ",
+            "imprint": "TAC出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9561/9784813299561_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784049110852",
+            "title": "筆まめでつくる世界一かんたん年賀状　2022",
+            "title_collation_key": "フデマメデツクルセカイイチカンタンネンガジョウ　ニセンニジュウニ",
+            "contributor": "年賀状素材集編集部",
+            "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
+            "imprint": "角川アスキー総合研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0852/9784049110852_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784813299578",
+            "title": "2023年度版　マスコミ就活　出版社　内定獲得！",
+            "title_collation_key": "2023ネンドバン マスコミシュウカツ シュッパンシャ ナイテイカクトク！",
+            "contributor": "冨板　敦",
+            "contributor_collation_key": "トミイタ アツシ",
+            "imprint": "TAC出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9578/9784813299578_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798172309",
+            "title": "図解まるわかり DXのしくみ",
+            "title_collation_key": "ズカイマルワカリディーエックスノシクミ",
+            "contributor": "西村 泰洋",
+            "contributor_collation_key": "ニシムラ ヤスヒロ",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2309/9784798172309_1_22.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295012368",
+            "title": "おしゃれな大人のなでしこ年賀状（2022）",
+            "title_collation_key": "オシャレナ オトナ ノ ナデシコ ネンガジョウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2368/9784295012368.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295012351",
+            "title": "キラリと輝くおしゃれな年賀状（2022）",
+            "title_collation_key": "キラリ ト カガヤク オシャレナ ネンガジョウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2351/9784295012351_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839976828",
+            "title": "おしゃれでかわいい年賀状2022",
+            "title_collation_key": "オシャレデカワイイネンガジョウニセンニジュウニ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6828/9784839976828_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784532324322",
+            "title": "総務部DX課　岬ましろ",
+            "title_collation_key": "ソウムブディーエックスカ ミサキマシロ",
+            "contributor": "須藤 憲司",
+            "contributor_collation_key": "スドウ ケンジ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4322/9784532324322_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433709914",
+            "title": "Q&A　中小企業のための　欠損金の活用と留意点",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9914/9784433709914_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784862762719",
+            "title": "ここからはじめる企業法務",
+            "title_collation_key": "ココカラハジメルキギョウホウム",
+            "contributor": "登島和弘",
+            "contributor_collation_key": "トシマカズヒロ",
+            "imprint": "英治出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2719/9784862762719_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297123390",
+            "title": "あっという間に完成！筆ぐるめ年賀状 2022年版",
+            "title_collation_key": "アットイウマニカンセイ フデグルメ ネンガジョウ ニセンニジュウニネンバン",
+            "contributor": "技術評論社編集部　編・著",
+            "contributor_collation_key": "ギジュツヒョウロンシャヘンシュウブ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3390/9784297123390_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784344935976",
+            "title": "異文化コミュニケーションとしての外資系",
+            "title_collation_key": "イブンカコミュニケーショントシテノガイシケイ",
+            "contributor": "羽田 幸善",
+            "contributor_collation_key": "ハタ ユキヨシ",
+            "imprint": "幻冬舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5976/9784344935976_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784534058805",
+            "title": "トッププレゼンターが教える「企画書とプレゼン」実践講座",
+            "title_collation_key": "トッププレゼンターガオシエル「キカクショトプレゼン」ジッセンコウザ",
+            "contributor": "須藤 亮",
+            "contributor_collation_key": "スドウ リョウ",
+            "imprint": "日本実業出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8805/9784534058805_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784296000333",
+            "title": "実践スタートアップ・ファイナンス　資本政策の感想戦",
+            "title_collation_key": "ジッセンスタートアップファイナンスシホンセイサクノカンソウセン",
+            "contributor": "山岡 佑",
+            "contributor_collation_key": "ヤマオカタスク",
+            "imprint": "日経BP",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0333/9784296000333_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784049110838",
+            "title": "筆王でつくるかんたん年賀状　2022",
+            "title_collation_key": "フデオウデツクルカンタンネンガジョウ　ニセンニジュウニ",
+            "contributor": "年賀状素材集編集部",
+            "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
+            "imprint": "角川アスキー総合研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0838/9784049110838_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784022517876",
+            "title": "決算書「分析」超入門2022",
+            "title_collation_key": "ケッサンショ「ブンセキ」チョウニュウモン2022",
+            "contributor": "佐伯良隆",
+            "contributor_collation_key": "サエキヨシタカ",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7876/9784022517876_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295012344",
+            "title": "心に残る和の年賀状（令和寅年版）",
+            "title_collation_key": "ココロ ニ ノコル ワ ノ ネンガジョウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2344/9784295012344_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295012399",
+            "title": "はやわざ筆ぐるめ年賀状（2022）",
+            "title_collation_key": "ハヤワザ フデグルメ ネンガジョウ",
+            "contributor": "インプレス年賀状編集部",
+            "contributor_collation_key": "インプレス ネンガジョウ ヘンシュウブ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2399/9784295012399_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801817425",
+            "title": "超かんたん筆ぐるめ年賀状（2022）",
+            "title_collation_key": "チョウ カンタン フデグルメ ネンガジョウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "晋遊舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7425/9784801817425_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784335450662",
+            "title": "人事のためのジョブ・クラフティング入門",
+            "title_collation_key": "ジンジノタメノジョブクラフティングニュウモン",
+            "contributor": "川上　真史/種市　康太郎",
+            "contributor_collation_key": "カワカミ　シンジ/タネイチ　コウタロウ",
+            "imprint": "弘文堂",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0662/9784335450662_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801817418",
+            "title": "超かんたん筆まめ年賀状（2022）",
+            "title_collation_key": "チョウ カンタン フデマメ ネンガジョウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "晋遊舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7418/9784801817418_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784827213034",
+            "title": "本当に賢い会社のたたみ方",
+            "title_collation_key": "ホントウニカシコイカイシャノタタミカタ",
+            "contributor": "花本明宏",
+            "contributor_collation_key": "ハナモトアキヒロ",
+            "imprint": "ぱる出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3034/9784827213034_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839976903",
+            "title": "速効!筆まめ年賀状2022",
+            "title_collation_key": "ソッコウ フデマメネンガジョウニセンニジュウニ",
+            "contributor": "速効!筆まめ年賀状編集部",
+            "contributor_collation_key": "ソッコウ フデマメネンガジョウヘンシュウブ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6903/9784839976903_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784049110814",
+            "title": "印刷するだけ びゅんびゅん年賀状　DVD　2022",
+            "title_collation_key": "インサツスルダケ ビュンビュンネンガジョウ ディーブイディー ニセンニジュウニ",
+            "contributor": "年賀状素材集編集部",
+            "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
+            "imprint": "角川アスキー総合研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0814/9784049110814_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801817401",
+            "title": "超かんたんパソコン年賀状（2022）",
+            "title_collation_key": "チョウ カンタン パソコン ネンガジョウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "晋遊舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7401/9784801817401_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295012382",
+            "title": "はやわざ筆まめ年賀状（2022）",
+            "title_collation_key": "ハヤワザ フデマメ ネンガジョウ",
+            "contributor": "インプレス年賀状編集部",
+            "contributor_collation_key": "インプレス ネンガジョウ ヘンシュウブ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2382/9784295012382_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295012405",
+            "title": "はやわざ筆王年賀状（2022）",
+            "title_collation_key": "ハヤワザ フデオウ ネンガジョウ",
+            "contributor": "インプレス",
+            "contributor_collation_key": "インプレス ネンガジョウ ヘンシュウブ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2405/9784295012405_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866732824",
+            "title": "自分でできる！確定申告の書き方　令和4年3月15日締切分",
+            "title_collation_key": "ジブンデデキルカクテイシンコクノカキカタレイワヨネンサンガツジュウゴニチシメキリブン",
+            "contributor": "高崎文秀",
+            "contributor_collation_key": "タカサキフミヒデ",
+            "imprint": "三才ブックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2824/9784866732824_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784322134957",
+            "title": "新装版　真経営学読本",
+            "title_collation_key": "シンソウバン シンケイエイガクドクホン",
+            "contributor": "福島　正伸",
+            "contributor_collation_key": "フクシマ　マサノブ",
+            "imprint": "きんざい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4957/9784322134957_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784805112304",
+            "title": "経営情報戦略入門",
+            "title_collation_key": "ケイエイジョウホウセンリャクニュウモン",
+            "contributor": "宮元 万菜美",
+            "contributor_collation_key": "ミヤモトマナミ",
+            "imprint": "千倉書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2304/9784805112304_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784049110821",
+            "title": "世界一かんたん定番年賀状　2022",
+            "title_collation_key": "セカイイチカンタンテイバンネンガジョウ ニセンニジュウニ",
+            "contributor": "年賀状素材集編集部",
+            "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
+            "imprint": "角川アスキー総合研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0821/9784049110821_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434289880",
+            "title": "就活にとまどう君へ",
+            "title_collation_key": "シュウカツニトマドウキミヘ",
+            "contributor": "朝日吉太郎",
+            "contributor_collation_key": "アサヒキチタロウ",
+            "imprint": "日本橋出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9880/9784434289880_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502396410",
+            "title": "会計のイメージを変える",
+            "title_collation_key": "カイケイノイメージヲカエル",
+            "contributor": "菅原 智",
+            "contributor_collation_key": "スガハラ サトシ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6410/9784502396410_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502397813",
+            "title": "初級簿記セミナー",
+            "title_collation_key": "ショキュウボキセミナー",
+            "contributor": "岡部 勝成",
+            "contributor_collation_key": "オカベ カツヨシ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7813/9784502397813_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433717711",
+            "title": "消費税　インボイス制度導入の実務",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7711/9784433717711_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502833632",
+            "title": "税理士試験法人税法の要点整理",
+            "title_collation_key": "ゼイリシシケンホウジンゼイホウノヨウテンセイリ",
+            "contributor": "渡辺 淑夫",
+            "contributor_collation_key": "ワタナベ ヨシオ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3632/9784502833632_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502398315",
+            "title": "起業ストーリーで学ぶ会計",
+            "title_collation_key": "キギョウストーリーデマナブカイケイ",
+            "contributor": "川島 健司",
+            "contributor_collation_key": "カワシマ ケンジ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8315/9784502398315_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502383113",
+            "title": "PPAの評価",
+            "title_collation_key": "ピーピーエーノヒョウカ",
+            "contributor": "山本 智貴/金子 竜平",
+            "contributor_collation_key": "ヤマモト トモタカ/カネコ リュウヘイ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3113/9784502383113_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502383113",
+            "title": "PPAの評価",
+            "title_collation_key": "ピーピーエーノヒョウカ",
+            "contributor": "山本 智貴/金子 竜平",
+            "contributor_collation_key": "ヤマモト トモタカ/カネコ リュウヘイ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3113/9784502383113_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502401510",
+            "title": "スモールM＆Aのビジネスデューデリジェンス実務入門",
+            "title_collation_key": "スモールエムアンドエーノビジネスデューデリジェンスジツムニュウモン",
+            "contributor": "寺嶋 直史/齋藤 由紀夫",
+            "contributor_collation_key": "テラジマ ナオシ/サイトウ ユキオ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1510/9784502401510_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784408339795",
+            "title": "最高のテレワーク空間",
+            "title_collation_key": "サイコウノテレワーククウカン",
+            "contributor": "尾田 恵",
+            "contributor_collation_key": "オダ メグミ",
+            "imprint": "実業之日本社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9795/9784408339795_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502305818",
+            "title": "会計処理ハンドブック",
+            "title_collation_key": "カイケイショリハンドブック",
+            "contributor": "有限責任監査法人トーマツ",
+            "contributor_collation_key": "ユウゲンセキニンカンサホウジントーマツ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5818/9784502305818_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784892598968",
+            "title": "比較経営研究（第45号）",
+            "title_collation_key": "ヒカク ケイエイ ケンキュウ",
+            "contributor": "日本比較経営学会",
+            "contributor_collation_key": "ニホン ヒカク ケイエイ ガッカイ",
+            "imprint": "文理閣",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8968/9784892598968_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784074410750",
+            "title": "美しいノイズ",
+            "title_collation_key": "ウツクシイノイズ",
+            "contributor": "谷尻誠/吉田愛",
+            "contributor_collation_key": "タニジリマコト/ヨシダアイ",
+            "imprint": "主婦の友社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0750/9784074410750_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784898275511",
+            "title": "TBC中小企業診断士試験シリーズ速修テキスト（2　2022年版）",
+            "title_collation_key": "ティービーシー チュウショウ キギョウ シンダンシ シケン シリーズ ソクシュウ",
+            "contributor": "山口正浩/遠山直幹",
+            "contributor_collation_key": "ヤマグチ,マサヒロ/トオヤマ,ナオミキ",
+            "imprint": "早稲田出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5511/9784898275511_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433412814",
+            "title": "新時代の高生産性経営",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2814/9784433412814_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784502399916",
+            "title": "成功する開業医",
+            "title_collation_key": "セイコウスルカイギョウイ",
+            "contributor": "鶴田 幸之",
+            "contributor_collation_key": "ツルダ コウジ",
+            "imprint": "中央経済社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9916/9784502399916.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784322139914",
+            "title": "認定支援機関実務ハンドブック【第3版】",
+            "title_collation_key": "ニンテイシエンキカンジツムハンドブック ダイサンパン",
+            "contributor": "小寺　弘泰",
+            "contributor_collation_key": "コデラ　ヒロヤス",
+            "imprint": "一般社団法人金融財政事情研究会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9914/9784322139914_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784809686344",
+            "title": "神田川",
+            "title_collation_key": "カンダガワ",
+            "contributor": "鹿島賢治",
+            "contributor_collation_key": "カシマ,ケンジ",
+            "imprint": "東洋出版（文京区）",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6344/9784809686344_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784600008376",
+            "title": "聖書と起業",
+            "title_collation_key": "セイショ ト キギョウ",
+            "contributor": "前田昌調",
+            "contributor_collation_key": "マエダ,マサチカ",
+            "imprint": "鉱脈社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8376/9784600008376.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784324110409",
+            "title": "保険税務のプロによる相続・贈与のお悩み解決ノート",
+            "title_collation_key": "ホケン ゼイム ノ プロ ニ ヨル ソウゾク ゾウヨ ノ オナヤミ カイケツ ノー",
+            "contributor": "追中徳久",
+            "contributor_collation_key": "オイナカ,ノリヒサ",
+            "imprint": "ぎょうせい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0409/9784324110409_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784898275504",
+            "title": "TBC中小企業診断士試験シリーズ速修テキスト（1　2022年版）",
+            "title_collation_key": "ティービーシー チュウショウ キギョウ シンダンシ シケン シリーズ ソクシュウ",
+            "contributor": "山口正浩/木戸晶之",
+            "contributor_collation_key": "ヤマグチ,マサヒロ/キド,アキユキ",
+            "imprint": "早稲田出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5504/9784898275504_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784877835118",
+            "title": "Kintoneファーストガイド（2022年版）",
+            "title_collation_key": "キントーン ファースト ガイド",
+            "contributor": "相澤裕介",
+            "contributor_collation_key": "アイザワ,ユウスケ",
+            "imprint": "カットシステム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5118/9784877835118_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784782535646",
+            "title": "マスコミ就職完全ガイド（2024〜25年度版）",
+            "title_collation_key": "マスコミ シュウショク カンゼン ガイド",
+            "contributor": "阪東恭一",
+            "contributor_collation_key": "バンドウ,キョウイチ",
+            "imprint": "産学社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5646/9784782535646_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784828309163",
+            "title": "SWOT分析による戦国武将の成功と失敗",
+            "title_collation_key": "スウォットブンセキニヨルセンゴクブショウノセイコウトシッパイ",
+            "contributor": "森岡 健司",
+            "contributor_collation_key": "",
+            "imprint": "ビジネス教育出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9163/9784828309163_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784433707712",
+            "title": "令和3年版　法人税申告書の作り方",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7712/9784433707712_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784885922169",
+            "title": "人事制度が会社を変える",
+            "title_collation_key": "ジンジセイドガカイシャヲカエル",
+            "contributor": "山口忠明/徳田孝司",
+            "contributor_collation_key": "ヤマグチタダアキ/トクダタカシ",
+            "imprint": "東峰書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2169/9784885922169_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784324110560",
+            "title": "事例から学ぶこれならできる！DX税理士事務所",
+            "title_collation_key": "ジレイ カラ マナブ コレナラ デキル ディーエックス ゼイリシ ジムショ",
+            "contributor": "月刊「税理」編集局",
+            "contributor_collation_key": "ゲッカン ゼイリ ヘンシュウキョク",
+            "imprint": "ぎょうせい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0560/9784324110560_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784820729525",
+            "title": "マネジャーによる職場づくり 理論と実践",
+            "title_collation_key": "マネジャーニヨルショクバヅクリリロントジッセン",
+            "contributor": "中村 和彦",
+            "contributor_collation_key": "ナカムラカズヒコ",
+            "imprint": "日本能率協会マネジメントセンター",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9525/9784820729525_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784478113875",
+            "title": "構想力が劇的に高まる アーキテクト思考",
+            "title_collation_key": "コウソウリョクガゲキテキニタカマル　アーキテクトシコウ",
+            "contributor": "細谷　功/坂田　幸樹",
+            "contributor_collation_key": "ホソヤ　イサオ/サカタ　コウキ",
+            "imprint": "ダイヤモンド社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3875/9784478113875_1_2.jpg?_ex=200x200"
+        }
+    ]
+}

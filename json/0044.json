@@ -1,1604 +1,1602 @@
-[
-    {
-        "shelf_title": "資格・検定/教育・心理関係資格",
-        "category": "教育・心理関係資格",
-        "back_cover_images": [
-            "back_cover_image/0044_1.png",
-            "back_cover_image/0044_2.png",
-            "back_cover_image/0044_3.png",
-            "back_cover_image/0044_4.png"
-        ],
-        "back_cover_low_images": [
-            "back_cover_low_image/0044_1_low.png",
-            "back_cover_low_image/0044_2_low.png",
-            "back_cover_low_image/0044_3_low.png",
-            "back_cover_low_image/0044_4_low.png"
-        ],
-        "books": [
-            {
-                "isbn": "9784788903944",
-                "title": "2022年版　まんがでわかる 保育士らくらく要点マスター",
-                "title_collation_key": "2022ネンバン　マンガデワカルホイクシラクラクヨウテンマスター",
-                "contributor": "キャリア・ステーション",
-                "contributor_collation_key": "キャリア・ステーション",
-                "imprint": "実務教育出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3944/9784788903944_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784478113240",
-                "title": "子どもが伸びるスゴ技大全 カリスマ保育士てぃ先生の子育て〇×図鑑",
-                "title_collation_key": "コドモガノビルスゴワザタイゼン　カリスマホイクシティセンセイノコソダテマルバツズカン",
-                "contributor": "てぃ先生",
-                "contributor_collation_key": "ティーセンセイ",
-                "imprint": "ダイヤモンド社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3240/9784478113240_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784046053145",
-                "title": "実録　保育士でこ先生4",
-                "title_collation_key": "ジツロク　ホイクシデコセンセイヨン",
-                "contributor": "でこぽん吾郎",
-                "contributor_collation_key": "デコポンゴロウ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3145/9784046053145_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784805883853",
-                "title": "よく出る！保育士試験一問一答2022",
-                "title_collation_key": "ヨクデルホイクシシケンイチモンイットウニセンニジュウニ",
-                "contributor": "保育士受験対策研究会",
-                "contributor_collation_key": "ホイクシジュケンタイサクケンキュウカイ",
-                "imprint": "中央法規出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3853/9784805883853_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784414200010",
-                "title": "Q＆Aで学ぶカウンセラー・研修講師のための法律",
-                "title_collation_key": "キューアンドエーデマナブカウンセラーケンシュウコウシノタメノホウリツ",
-                "contributor": "鳥飼　康二",
-                "contributor_collation_key": "トリカイ　コウジ",
-                "imprint": "誠信書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0010/9784414200010.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798172132",
-                "title": "福祉教科書 保育士 出る！出る！一問一答 2022年版",
-                "title_collation_key": "フクシキョウカショ ホイクシ デルデルイチモンイットウウニセンニジュウニネンバン",
-                "contributor": "保育士試験対策委員会",
-                "contributor_collation_key": "ホイクシシケンタイサクイインカイ",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2132/9784798172132_1_13.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784815611798",
-                "title": "心理カウンセラーYouTuberが教える1秒で不安なくなる大百科",
-                "title_collation_key": "シンリカウンセラーユーチューバーガオシエルイチビョウデフアンナクナルダイヒャッカ",
-                "contributor": "るろうに",
-                "contributor_collation_key": "ルロウニ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1798/9784815611798_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866161327",
-                "title": "学校では教えないスクールカウンセラーの業務マニュアル",
-                "title_collation_key": "ガッコウデハオシエナイスクールカウンセラーノギョウムマニュアル",
-                "contributor": "田多井正彦/神白かどや",
-                "contributor_collation_key": "タタイマサヒコ/カミシロカドヤ",
-                "imprint": "遠見書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1327/9784866161327_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798172125",
-                "title": "福祉教科書 保育士 完全合格問題集 2022年版",
-                "title_collation_key": "フクシキョウカショホイクシカンゼンゴウカクモンダイシュウニセンニジュウニネンバン",
-                "contributor": "保育士試験対策委員会",
-                "contributor_collation_key": "ホイクシシケンタイサクイインカイ",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2125/9784798172125_1_22.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784046051615",
-                "title": "この1冊で合格！ 桜子先生の保育士 完成問題集 2022年版",
-                "title_collation_key": "コノイッサツデゴウカク！ サクラコセンセイノホイクシ カンセイモンダイシュウ ニセンニジュウニネンバン",
-                "contributor": "桜子先生",
-                "contributor_collation_key": "サクラコセンセイ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1615/9784046051615_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784816370748",
-                "title": "2022年版 サクッとわかる！保育士合格テキスト＆問題集　上巻",
-                "title_collation_key": "ニセンニジュウニネンバンサクットワカルホイクシゴウカクテキストアンドモンダイシュウジョウカン",
-                "contributor": "ライセンス学院",
-                "contributor_collation_key": "ライセンスガクイン",
-                "imprint": "ナツメ社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0748/9784816370748_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784816370755",
-                "title": "2022年版 サクッとわかる！保育士合格テキスト＆問題集　下巻",
-                "title_collation_key": "ニセンニジュウニネンバンサクットワカルホイクシゴウカクテキストアンドモンダイシュウゲカン",
-                "contributor": "ライセンス学院",
-                "contributor_collation_key": "ライセンスガクイン",
-                "imprint": "ナツメ社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0755/9784816370755_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784805883686",
-                "title": "できる！受かる！保育士試験合格問題集2022",
-                "title_collation_key": "デキルウカルホイクシシケンゴウカクモンダイシュウニセンニジュウニ",
-                "contributor": "保育士受験対策研究会",
-                "contributor_collation_key": "ホイクシジュケンタイサクケンキュウカイ",
-                "imprint": "中央法規出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3686/9784805883686_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784806917458",
-                "title": "保育士・幼稚園教諭採用試験 面接試験攻略法 改訂版",
-                "title_collation_key": "ホイクシヨウチエンキョウユサイヨウシケン メンセツシケンコウリャクホウ カイテイバン",
-                "contributor": "木梨 美奈子",
-                "contributor_collation_key": "キナシ ミナコ",
-                "imprint": "つちや書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7458/9784806917458_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784910415604",
-                "title": "保育士のキャリア形成と特別支援保育士",
-                "title_collation_key": "ホイクシノキャリアケイセイトトクベツシエンホイクシ",
-                "contributor": "田中 愽一/杣山 貴要江",
-                "contributor_collation_key": "タナカ　ヒロカズ/ソマヤマ　キヨエ",
-                "imprint": "学術研究出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5604/9784910415604_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784832238398",
-                "title": "スクールカウンセラーうさみ先生の悩み相談室　1",
-                "title_collation_key": "スクールカウンセラーウサミセンセイノナヤミソウダンシツ　イチ",
-                "contributor": "庄司七",
-                "contributor_collation_key": "ショウジシチ",
-                "imprint": "芳文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8398/9784832238398_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784909908384",
-                "title": "新装版 アストロカウンセラー・まーさの 12星座のおはなし",
-                "title_collation_key": "シンソウバンアストロカウンセラーマーサノジュウニセイザノオハナシ",
-                "contributor": "内田真朝",
-                "contributor_collation_key": "ウチダマアサ",
-                "imprint": "メトロポリタンプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8384/9784909908384_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784576210926",
-                "title": "きみとアイスを半分こ　〜傲慢王子な社長と保育士の純愛ロマンセ〜",
-                "title_collation_key": "キミトアイスヲハンブンコゴウマンオウジナシャチョウトホイクシノジュンアイロマンセ",
-                "contributor": "安曇 ひかる/柳 ゆと",
-                "contributor_collation_key": "アズミ ヒカル/ヤナギ ユト",
-                "imprint": "二見書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0926/9784576210926_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784805883365",
-                "title": "わかる！受かる！保育士試験合格テキスト2022",
-                "title_collation_key": "ワカルウカルホイクシシケンゴウカクテキストニセンニジュウニ",
-                "contributor": "保育士受験対策研究会",
-                "contributor_collation_key": "ホイクシジュケンタイサクケンキュウカイ",
-                "imprint": "中央法規出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3365/9784805883365_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784893473806",
-                "title": "子どもと保育士がつくる哲学の時間",
-                "title_collation_key": "コドモトホイクシガツクルテツガクノジカン",
-                "contributor": "佐藤嘉代子",
-                "contributor_collation_key": "サトウカヨコ",
-                "imprint": "萌文書林",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3806/9784893473806_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319335732",
-                "title": "名古屋市の公立幼稚園教諭（過去問題集）（2022年度版）",
-                "title_collation_key": "ナゴヤシ ノ コウリツ ヨウチエン キョウユ カコ モンダイシュウ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5732/9784319335732_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784759923858",
-                "title": "公認心理師・臨床心理士のための高次脳機能障害の診かた・考え方",
-                "title_collation_key": "コウニンシンリシリンショウシンリシノタメノコウジノウキノウショウガイノミカタカンガエカタ",
-                "contributor": "中野光子",
-                "contributor_collation_key": "ナカノミツコ",
-                "imprint": "風間書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3858/9784759923858_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319335428",
-                "title": "水戸市・日立市の公立幼稚園教諭・保育士（2022年度版）",
-                "title_collation_key": "ミトシ ヒタチシ ノ コウリツ ヨウチエン キョウユ ホイクシ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5428/9784319335428_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319336135",
-                "title": "大分市・佐伯市の公立幼稚園教諭・保育士（2022年度版）",
-                "title_collation_key": "オオイタシ サイキシ ノ コウリツ ヨウチエン キョウユ ホイクシ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6135/9784319336135_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319335640",
-                "title": "長野市・松本市・上田市・塩尻市の公立保育士（2022年度版）",
-                "title_collation_key": "ナガノシ マツモトシ ウエダシ シオジリシ ノ コウリツ ホイクシ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5640/9784319335640.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319335589",
-                "title": "相模原市・厚木市・平塚市・座間市の公立保育士（2022年度版）",
-                "title_collation_key": "サガミハラシ アツギシ ヒラツカシ ザマシ ノ コウリツ ホイクシ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5589/9784319335589.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784762831591",
-                "title": "公認心理師・臨床心理士のための福祉心理学入門",
-                "title_collation_key": "コウニンシンリシリンショウシンリシノタメノフクシシンリガクニュウモン",
-                "contributor": "塩谷 隼平/吉村 夕里",
-                "contributor_collation_key": "シオヤ シュンペイ/ヨシムラ ユリ",
-                "imprint": "北大路書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1591/9784762831591.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784867340127",
-                "title": "スピリチュアル・カウンセラーになって豊かに成功する教科書",
-                "title_collation_key": "スピリチュアルカウンセラーニナッテユタカニセイコウスルキョウカショ",
-                "contributor": "ミスカトニック",
-                "contributor_collation_key": "ミスカトニック",
-                "imprint": "Clover出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0127/9784867340127.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784860155391",
-                "title": "新版　保育士をめざす人の子ども家庭支援",
-                "title_collation_key": "シンパンホイクシヲメザスヒトノコドモカテイシエン",
-                "contributor": "白幡 久美子",
-                "contributor_collation_key": "シラハタ クミコ",
-                "imprint": "みらい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5391/9784860155391.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784788995376",
-                "title": "2022年度版　保育士・幼稚園教諭　論作文・面接対策ブック",
-                "title_collation_key": "2022ネンドバン　ホイクシヨウチエンキョウユロンサクブンメンセツタイサクブック",
-                "contributor": "保育士試験研究会",
-                "contributor_collation_key": "ホイクシシケンケンキュウカイ",
-                "imprint": "実務教育出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5376/9784788995376.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784788995369",
-                "title": "2022年度版　保育士・幼稚園教諭　採用試験問題集",
-                "title_collation_key": "2022ネンドバン　ホイクシヨウチエンキョウユサイヨウシケンモンダイシュウ",
-                "contributor": "保育士試験研究会",
-                "contributor_collation_key": "ホイクシシケンケンキュウカイ",
-                "imprint": "実務教育出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5369/9784788995369.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784860155377",
-                "title": "九訂 保育士をめざす人の社会福祉",
-                "title_collation_key": "キュウテイホイクシヲメザスヒトノシャカイフクシ",
-                "contributor": "相澤 譲治/杉山 博昭",
-                "contributor_collation_key": "アイザワ　ジョウジ/スギヤマ ヒロアキ",
-                "imprint": "みらい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5377/9784860155377.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784535563995",
-                "title": "スクールカウンセラーと担任教師の協働",
-                "title_collation_key": "スクールカウンセラートタンニンキョウシノキョウドウ",
-                "contributor": "山本 渉",
-                "contributor_collation_key": "ヤマモト　ワタル",
-                "imprint": "日本評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3995/9784535563995.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784816369643",
-                "title": "2021年版 試験対策のプロが徹底分析！保育士【でる順】問題集",
-                "title_collation_key": "ニセンニジュウイチネンバンシケンタイサクノプロガテッテイブンセキホイクシデルジュンモンダイシュウ",
-                "contributor": "ライセンス学院",
-                "contributor_collation_key": "ライセンスガクイン",
-                "imprint": "ナツメ社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9643/9784816369643.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784788903937",
-                "title": "2021年版　ほんとによく出る 保育士　ベスト過去問＆予想問題集",
-                "title_collation_key": "2021ネンバン　ホントニヨクデルホイクシベストカコモンアンドヨソウモンダイシュウ",
-                "contributor": "キャリア・ステーション",
-                "contributor_collation_key": "キャリア・ステーション",
-                "imprint": "実務教育出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3937/9784788903937.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784805882818",
-                "title": "よく出る！　保育士試験一問一答2021",
-                "title_collation_key": "ヨクデルホイクシシケンイチモンイットウニセンニジュウイチ",
-                "contributor": "保育士受験対策研究会",
-                "contributor_collation_key": "ホイクシジュケンタイサクケンキュウカイ",
-                "imprint": "中央法規出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2818/9784805882818.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774762609",
-                "title": "子連れ保育士 〜ちょっとクライムな恋を〜",
-                "title_collation_key": "コヅレホイクシ チョットクライムナコイヲ",
-                "contributor": "かみそう都芭",
-                "contributor_collation_key": "カミソウツバ",
-                "imprint": "コスミック出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2609/9784774762609.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784334791421",
-                "title": "社内保育士はじめました　5",
-                "title_collation_key": "シャナイホイクシハジメマシタゴ",
-                "contributor": "貴水玲",
-                "contributor_collation_key": "タカミ レイ",
-                "imprint": "光文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1421/9784334791421.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784046049049",
-                "title": "実録　保育士でこ先生3",
-                "title_collation_key": "ジツロク　ホイクシデコセンセイサン",
-                "contributor": "でこぽん吾郎",
-                "contributor_collation_key": "デコポンゴロウ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9049/9784046049049.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784788903920",
-                "title": "2021年版　まんがでわかる 保育士らくらく要点マスター",
-                "title_collation_key": "2021ネンバン　マンガデワカルホイクシラクラクヨウテンマスター",
-                "contributor": "キャリア・ステーション",
-                "contributor_collation_key": "キャリア・ステーション",
-                "imprint": "実務教育出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3920/9784788903920.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784046045256",
-                "title": "この1冊で合格！ 桜子先生の保育士 必修テキスト 下",
-                "title_collation_key": "コノイッサツデゴウカク！ サクラコセンセイノホイクシ ヒッシュウテキスト ゲ",
-                "contributor": "桜子先生",
-                "contributor_collation_key": "サクラコセンセイ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5256/9784046045256.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784046045249",
-                "title": "この1冊で合格！ 桜子先生の保育士 必修テキスト 上",
-                "title_collation_key": "コノイッサツデゴウカク！ サクラコセンセイノホイクシ ヒッシュウテキスト ジョウ",
-                "contributor": "桜子先生",
-                "contributor_collation_key": "サクラコセンセイ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5249/9784046045249.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784862807663",
-                "title": "一生使える！プロカウンセラーの傾聴の基本",
-                "title_collation_key": "イッショウツカエルプロカウンセラーノケイチョウノキホン",
-                "contributor": "古宮 昇",
-                "contributor_collation_key": "フルミヤ　ノボル",
-                "imprint": "総合法令出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7663/9784862807663.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784774762296",
-                "title": "保育士は獅子親子に愛される",
-                "title_collation_key": "ホイクシハシシオヤコニアイサレル",
-                "contributor": "滝沢　晴/鈴倉　温",
-                "contributor_collation_key": "タキザワ ハレ/スズクラハル",
-                "imprint": "コスミック出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2296/9784774762296.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798166681",
-                "title": "福祉教科書 保育士 完全合格問題集 2021年版",
-                "title_collation_key": "フクシキョウカショホイクシカンゼンゴウカクモンダイシュウニセンニジュウイチネンバン",
-                "contributor": "保育士試験対策委員会",
-                "contributor_collation_key": "ホイクシシケンタイサクイインカイ",
-                "imprint": "翔泳社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6681/9784798166681.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784772417631",
-                "title": "キャリアカウンセラーのためのスーパービジョン",
-                "title_collation_key": "キャリアカウンセラーノタメノスーパービジョン",
-                "contributor": "立野　了嗣",
-                "contributor_collation_key": "タツノ　リョウジ",
-                "imprint": "金剛出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7631/9784772417631.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866920641",
-                "title": "幼稚園教諭・保育教諭をめざす人のための教育学入門",
-                "title_collation_key": "ヨウチエンキョウユホイクキョウユヲメザスヒトノタメノキョウイクガクニュウモン",
-                "contributor": "橋本　勇人/中川　智之",
-                "contributor_collation_key": "ハシモト　ハヤト/ナカガワ　トモユキ",
-                "imprint": "大学教育出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0641/9784866920641.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319334759",
-                "title": "藤枝市・富士宮市の公立保育士（2021年度版）",
-                "title_collation_key": "フジエダシ フジノミヤシ ノ コウリツ ホイクシ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4759/9784319334759.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784046046239",
-                "title": "実録　保育士でこ先生2",
-                "title_collation_key": "ジツロク　ホイクシデコセンセイニ",
-                "contributor": "でこぽん吾郎",
-                "contributor_collation_key": "デコポンゴロウ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6239/9784046046239.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784535563858",
-                "title": "スクールカウンセラーと教師のための「チーム学校」入門",
-                "title_collation_key": "スクールカウンセラートキョウシノタメノチームガッコウニュウモン",
-                "contributor": "半田一郎",
-                "contributor_collation_key": "ハンダ イチロウ",
-                "imprint": "日本評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3858/9784535563858.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784780913729",
-                "title": "公認心理師必携テキスト　改訂第2版",
-                "title_collation_key": "コウニンシンリシヒッケイテキスト　カイテイダイニハン",
-                "contributor": "福島哲夫/尾久裕紀",
-                "contributor_collation_key": "フクシマテツオ/オギュウ ヒロキ",
-                "imprint": "学研メディカル秀潤社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3729/9784780913729.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434272196",
-                "title": "未来カウンセラー",
-                "title_collation_key": "ミライカウンセラー",
-                "contributor": "小島正輝",
-                "contributor_collation_key": "コジママサキ",
-                "imprint": "（株）パレード",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2196/9784434272196.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784780913736",
-                "title": "第2回公認心理師試験問題解説",
-                "title_collation_key": "ダイニカイコウニンシンリシシケンモンダイカイセツ",
-                "contributor": "福島哲夫",
-                "contributor_collation_key": "フクシマテツオ",
-                "imprint": "学研メディカル秀潤社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3736/9784780913736.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297112219",
-                "title": "第3版 書きながら覚える 保育士 まるわかり合格ノート",
-                "title_collation_key": "ダイサンパン カキナガラオボエル ホイクシ マルワカリゴウカクノート",
-                "contributor": "保育士資格取得支援研究会",
-                "contributor_collation_key": "ホイクシシカクシュトクシエンケンキュウカイ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2219/9784297112219.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784862979926",
-                "title": "淫村の呪縛とαカウンセラー",
-                "title_collation_key": "インソン ノ ジュバク ト アルファ カウンセラー",
-                "contributor": "ふかぃまろ",
-                "contributor_collation_key": "フカイ,マロ",
-                "imprint": "ロングランドジェイ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9926/9784862979926.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784860154936",
-                "title": "新版 保育士をめざす人の社会的養護1",
-                "title_collation_key": "シンパンホイクシヲメザスヒトノシャカイテキヨウゴイチ",
-                "contributor": "辰己 隆/波田埜 英治",
-                "contributor_collation_key": "タツミ タカシ/ハタノ エイジ",
-                "imprint": "みらい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4936/9784860154936.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784762029646",
-                "title": "保育士のための社会福祉",
-                "title_collation_key": "ホイクシノタメノシャカイフクシ",
-                "contributor": "成清 美治/成清 敦子",
-                "contributor_collation_key": "ナリキヨ ヨシハル/ナリキヨ アツコ",
-                "imprint": "学文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9646/9784762029646.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784860154943",
-                "title": "新版 保育士をめざす人の社会的養護2",
-                "title_collation_key": "シンパンホイクシヲメザスヒトノシャカイテキヨウゴニ",
-                "contributor": "辰己 隆/岡本 眞幸",
-                "contributor_collation_key": "タツミ タカシ/オカモト マサユキ",
-                "imprint": "みらい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4943/9784860154943.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784788902855",
-                "title": "2020年版　ほんとによく出る 保育士　ベスト過去問＆予想問題集",
-                "title_collation_key": "2020ネンバンホントニヨクデルホイクシベストカコモンアンドヨソウモンダイシュウ",
-                "contributor": "キャリア・ステーション",
-                "contributor_collation_key": "キャリア・ステーション",
-                "imprint": "実務教育出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2855/9784788902855.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784860155032",
-                "title": "保育士をめざす人のための施設実習ガイド",
-                "title_collation_key": "ホイクシヲメザスヒトノタメノジッシュウシセツガイド",
-                "contributor": "河合 高鋭/石山 直樹",
-                "contributor_collation_key": "カワイ タカトシ/イシヤマ ナオキ",
-                "imprint": "みらい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5032/9784860155032.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784334779658",
-                "title": "社内保育士はじめました　4",
-                "title_collation_key": "シャナイホイクシハジメマシタヨン",
-                "contributor": "貴水玲",
-                "contributor_collation_key": "タカミ レイ",
-                "imprint": "光文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9658/9784334779658.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784831515506",
-                "title": "幼稚園教諭になるには",
-                "title_collation_key": "ヨウチエンキョウユニナルニハ",
-                "contributor": "大豆生田 啓友",
-                "contributor_collation_key": "オオマメウダ ヒロトモ",
-                "imprint": "ぺりかん社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5506/9784831515506.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784422117287",
-                "title": "プロカウンセラーの薬だけにたよらずうつを乗り越える方法",
-                "title_collation_key": "プロカウンセラノークスリダケニタヨラズウツヲノリコエルホウホウ",
-                "contributor": "杉原 保史",
-                "contributor_collation_key": "スギハラ ヤスシ",
-                "imprint": "創元社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7287/9784422117287.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319295876",
-                "title": "鹿児島県の家庭科過去問（2021年度版）",
-                "title_collation_key": "カゴシマケン ノ カテイカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5876/9784319295876.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319479153",
-                "title": "奈良県の保健体育科参考書（2021年度版）",
-                "title_collation_key": "ナラケン ノ ホケン タイイクカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9153/9784319479153.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784058010907",
-                "title": "教員採用試験　一般教養ポイントチェック15日間2021",
-                "title_collation_key": "キョウインサイヨウシケンイッパンキョウヨウポイントチェック15ニチカン2021",
-                "contributor": "教育ジャーナル編集部",
-                "contributor_collation_key": "キョウイクジャーナルヘンシュウブ",
-                "imprint": "学研教育みらい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0907/9784058010907.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784058010914",
-                "title": "教員採用試験　教職教養ポイントチェック15日間2021",
-                "title_collation_key": "キョウインサイヨウシケンキョウショクキョウヨウポイントチェック15ニチカン2021",
-                "contributor": "教育ジャーナル編集部",
-                "contributor_collation_key": "キョウイクジャーナルヘンシュウブ",
-                "imprint": "学研教育みらい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0914/9784058010914.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784058010884",
-                "title": "教員採用試験　一般教養36日間2021",
-                "title_collation_key": "キョウインサイヨウシケンイッパンキョウヨウ36ニチカン2021",
-                "contributor": "津金邦明",
-                "contributor_collation_key": "ツガネクニアキ",
-                "imprint": "学研教育みらい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0884/9784058010884.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784058010891",
-                "title": "教員採用試験　教職教養36日間2021",
-                "title_collation_key": "キョウインサイヨウシケンキョウショクキョウヨウ36ニチカン2021",
-                "contributor": "津金邦明",
-                "contributor_collation_key": "ツガネクニアキ",
-                "imprint": "学研教育みらい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0891/9784058010891.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784760826728",
-                "title": "産業現場の事例で学ぶ　カウンセラーのためのスーパービジョン活用法",
-                "title_collation_key": "サンギョウゲンバノジレイデマナブカウンセラーノタメノスーパービジョンカツヨウホウ",
-                "contributor": "日本産業カウンセラー協会",
-                "contributor_collation_key": "ニホンサンギョウカウンセラーキョウカイ",
-                "imprint": "金子書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6728/9784760826728.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319290222",
-                "title": "北海道・札幌市の美術科過去問（2021年度版）",
-                "title_collation_key": "ホッカイドウ サッポロシ ノ ビジュツカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0222/9784319290222.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319477692",
-                "title": "石川県の養護教諭参考書（2021年度版）",
-                "title_collation_key": "イシカワケン ノ ヨウゴ キョウユ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7692/9784319477692.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319290208",
-                "title": "北海道・札幌市の理科過去問（2021年度版）",
-                "title_collation_key": "ホッカイドウ サッポロシ ノ リカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0208/9784319290208.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319475841",
-                "title": "青森県の家庭科参考書（2021年度版）",
-                "title_collation_key": "アオモリケン ノ カテイカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5841/9784319475841.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784864554169",
-                "title": "教員採用試験対策参考書（3（2021年度））",
-                "title_collation_key": "キョウイン サイヨウ シケン タイサク サンコウショ",
-                "contributor": "東京アカデミー",
-                "contributor_collation_key": "トウキョウ アカデミー",
-                "imprint": "ティーエーネットワーク",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4169/9784864554169.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784864554381",
-                "title": "教員採用試験対策教育用語集（2021年度）",
-                "title_collation_key": "キョウイン サイヨウ シケン タイサク キョウイク ヨウゴシュウ",
-                "contributor": "東京アカデミー",
-                "contributor_collation_key": "トウキョウ アカデミー",
-                "imprint": "ティーエーネットワーク",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4381/9784864554381.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319479290",
-                "title": "和歌山県の特別支援学校教諭参考書（2021年度版）",
-                "title_collation_key": "ワカヤマケン ノ トクベツ シエン ガッコウ キョウユ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9290/9784319479290.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319481217",
-                "title": "鹿児島県の家庭科参考書（2021年度版）",
-                "title_collation_key": "カゴシマケン ノ カテイカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1217/9784319481217.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784046043146",
-                "title": "実録　保育士でこ先生",
-                "title_collation_key": "ジツロク　ホイクシデコセンセイ",
-                "contributor": "でこぽん吾郎",
-                "contributor_collation_key": "デコポンゴロウ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3146/9784046043146.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784788914810",
-                "title": "92歳の現役保育士が伝えたい親子で幸せになる子育て",
-                "title_collation_key": "92サイノゲンエキホイクシガツタエタイオヤコデシアワセニナルコソダテ",
-                "contributor": "大川　繁子",
-                "contributor_collation_key": "オオカワ　シゲコ",
-                "imprint": "実務教育出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4810/9784788914810_1_106.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434265822",
-                "title": "保育士・看護師・介護福祉士が学ぶ社会福祉",
-                "title_collation_key": "ホイクシ カンゴシ カイゴ フクシシ ガ マナブ シャカイ フクシ",
-                "contributor": "小宅理沙/中典子",
-                "contributor_collation_key": "コヤケ,リサ/ナカ,ノリコ",
-                "imprint": "現代図書",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5822/9784434265822.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319479252",
-                "title": "和歌山県の理科参考書（2021年度版）",
-                "title_collation_key": "ワカヤマケン ノ リカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9252/9784319479252.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319477876",
-                "title": "山梨県の英語科参考書（2021年度版）",
-                "title_collation_key": "ヤマナシケン ノ エイゴカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7876/9784319477876.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319480456",
-                "title": "福岡県・北九州市の英語科参考書（2021年度版）",
-                "title_collation_key": "フクオカケン キタキュウシュウシ ノ エイゴカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0456/9784319480456.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784271531258",
-                "title": "保育士試験の要点（’21年度版）改訂新版",
-                "title_collation_key": "ホイクシ シケン ノ ヨウテン",
-                "contributor": "保育問題検討委員会編",
-                "contributor_collation_key": "ホイク モンダイ ケントウ イインカイ",
-                "imprint": "大阪教育図書",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1258/9784271531258.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319478514",
-                "title": "三重県の理科参考書（2021年度版）",
-                "title_collation_key": "ミエケン ノ リカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8514/9784319478514.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319478736",
-                "title": "京都府の社会科参考書（2021年度版）",
-                "title_collation_key": "キョウトフ ノ シャカイカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8736/9784319478736.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319475803",
-                "title": "青森県の英語科参考書（2021年度版）",
-                "title_collation_key": "アオモリケン ノ エイゴカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5803/9784319475803.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784818825420",
-                "title": "カウンセラーになる",
-                "title_collation_key": "カウンセラーニナル",
-                "contributor": "尾久 裕紀/福島 哲夫",
-                "contributor_collation_key": "オギュウヒロキ/フクシマテツオ",
-                "imprint": "日本経済評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5420/9784818825420.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319476732",
-                "title": "群馬県の国語科参考書（2021年度版）",
-                "title_collation_key": "グンマケン ノ コクゴカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6732/9784319476732.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319480050",
-                "title": "香川県の一般教養参考書（2021年度版）",
-                "title_collation_key": "カガワケン ノ イッパン キョウヨウ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0050/9784319480050.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319481033",
-                "title": "宮崎県の小学校教諭参考書（2021年度版）",
-                "title_collation_key": "ミヤザキケン ノ ショウガッコウ キョウユ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1033/9784319481033.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784334778675",
-                "title": "社内保育士はじめました 3",
-                "title_collation_key": "シャナイホイクシハジメマシタサン",
-                "contributor": "貴水玲",
-                "contributor_collation_key": "タカミ レイ",
-                "imprint": "光文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8675/9784334778675.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784772417006",
-                "title": "プロカウンセラーが教える対人支援術",
-                "title_collation_key": "プロカウンセラーガオシエルタイジンシエンジュツ",
-                "contributor": "大谷 彰",
-                "contributor_collation_key": "オオタニ　アキラ",
-                "imprint": "金剛出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7006/9784772417006.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434258848",
-                "title": "不埒な恋愛カウンセラー",
-                "title_collation_key": "フラチナ レンアイ カウンセラー",
-                "contributor": "有允ひろみ",
-                "contributor_collation_key": "ユウイン,ヒロミ",
-                "imprint": "アルファポリス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8848/9784434258848.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784837968931",
-                "title": "空間心理カウンセラーの部屋を整えるとお金がやってくる！",
-                "title_collation_key": "クウカンシンリカウンセラーノヘヤヲトトノエルトオカネガヤッテクル",
-                "contributor": "伊藤 勇司",
-                "contributor_collation_key": "イトウ ユウジ",
-                "imprint": "三笠書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8931/9784837968931.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784838730452",
-                "title": "保育士てぃ先生のつぶやき日誌　きょう、ほいくえんでね…!!",
-                "title_collation_key": "ホイクシティセンセイノツブヤキニッシ　キョウ　ホイクエンデネ",
-                "contributor": "てぃ先生",
-                "contributor_collation_key": "ティセンセイ",
-                "imprint": "マガジンハウス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0452/9784838730452.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784416519776",
-                "title": "公認心理師 合格テキスト",
-                "title_collation_key": "コウニンシンリシ ゴウカクテキスト",
-                "contributor": "大山 正/宮埜 壽夫",
-                "contributor_collation_key": "オオヤマ タダス/ミヤノ ヒサオ",
-                "imprint": "誠文堂新光社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9776/9784416519776.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319333677",
-                "title": "秋田市の公立保育士（2020年度版）",
-                "title_collation_key": "アキタシ ノ コウリツ ホイクシ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3677/9784319333677.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319284207",
-                "title": "岩手県の理科過去問（2020年度版）",
-                "title_collation_key": "イワテケン ノ リカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4207/9784319284207.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784860154684",
-                "title": "新版 保育士をめざす人の子ども家庭福祉",
-                "title_collation_key": "シンパンホイクシヲメザスヒトノコドモカテイフクシ",
-                "contributor": "波田埜 英治/辰己 隆",
-                "contributor_collation_key": "ハタノ エイジ/タツミ　タカシ",
-                "imprint": "みらい",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4684/9784860154684.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784414416527",
-                "title": "公認心理師のための精神分析入門",
-                "title_collation_key": "コウニンシンリシノタメノセイシンブンセキニュウモン",
-                "contributor": "祖父江　典人",
-                "contributor_collation_key": "ソブエ　ノリヒト",
-                "imprint": "誠信書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6527/9784414416527.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297104467",
-                "title": "らくらく突破保育士［過去問］ここだけ丸暗記第3版",
-                "title_collation_key": "ラクラク トッパ ホイクシ カコモン ココダケ マルアンキ",
-                "contributor": "保育士資格取得支援研究会",
-                "contributor_collation_key": "ホイクシ シカク シュトク シエン ケンキュウカイ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4467/9784297104467.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319284535",
-                "title": "山形県の社会科過去問（2020年度版）",
-                "title_collation_key": "ヤマガタケン ノ シャカイカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4535/9784319284535.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784344921269",
-                "title": "保育士が教える「子育て」の正解",
-                "title_collation_key": "ホイクシ ガ オシエル コソダテ ノ セイカイ",
-                "contributor": "須貝美香",
-                "contributor_collation_key": "スガイ,ミカ",
-                "imprint": "幻冬舎メディアコンサルティング",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1269/9784344921269.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319287727",
-                "title": "鳥取県の理科過去問（2020年度版）",
-                "title_collation_key": "トットリケン ノ リカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7727/9784319287727.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319288267",
-                "title": "山口県の保健体育科過去問（2020年度版）",
-                "title_collation_key": "ヤマグチケン ノ ホケン タイイクカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8267/9784319288267.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784271531197",
-                "title": "保育士資格・採用試験問題200選（20年度版）",
-                "title_collation_key": "ホイクシ シカク サイヨウ シケン モンダイ ニヒャクセン",
-                "contributor": "保育問題検討委員会",
-                "contributor_collation_key": "ホイク モンダイ ケントウ イインカイ",
-                "imprint": "大阪教育図書",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1197/9784271531197.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319286911",
-                "title": "滋賀県の国語科過去問（2020年度版）",
-                "title_collation_key": "シガケン ノ コクゴカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6911/9784319286911.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784271531203",
-                "title": "役立つ保育・教育用語集（20年度版）",
-                "title_collation_key": "ヤクダツ ホイク キョウイク ヨウゴシュウ",
-                "contributor": "植原清",
-                "contributor_collation_key": "ウエハラ,キヨシ",
-                "imprint": "大阪教育図書",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1203/9784271531203.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319286959",
-                "title": "滋賀県の理科過去問（2020年度版）",
-                "title_collation_key": "シガケン ノ リカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6959/9784319286959.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784799801710",
-                "title": "めざせ！保育士・幼稚園教諭",
-                "title_collation_key": "メザセホイクシヨウチエンキョウユ",
-                "contributor": "久保田 慶一/渡辺 行野",
-                "contributor_collation_key": "クボタ ケイイチ/ワタナベ ユキノ",
-                "imprint": "スタイルノート",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1710/9784799801710.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784334777937",
-                "title": "社内保育士はじめました 2",
-                "title_collation_key": "シャナイホイクシハジメマシタニ",
-                "contributor": "貴水玲",
-                "contributor_collation_key": "タカミ レイ",
-                "imprint": "光文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7937/9784334777937.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319284542",
-                "title": "山形県の英語科過去問（2020年度版）",
-                "title_collation_key": "ヤマガタケン ノ エイゴカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4542/9784319284542.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319287444",
-                "title": "奈良県の社会科過去問（2020年度版）",
-                "title_collation_key": "ナラケン ノ シャカイカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7444/9784319287444.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784489023095",
-                "title": "合格ナビ！公認心理師・臨床心理士大学院〔研究計画書〕",
-                "title_collation_key": "ゴウカク ナビ コウニン シンリシ リンショウ シンリシ ダイガクイン ケンキュウ",
-                "contributor": "遠田諭/福井博一",
-                "contributor_collation_key": "オンダ,サトシ/フクイ,ヒロイチ",
-                "imprint": "東京図書",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3095/9784489023095.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784286201481",
-                "title": "臨床心理士桜井純一郎／眠れる湖",
-                "title_collation_key": "リンショウ シンリシ サクライ ジュンイチロウ ネムレル ミズウミ",
-                "contributor": "田所和馬",
-                "contributor_collation_key": "タドコロ,カズマ",
-                "imprint": "文芸社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1481/9784286201481.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319285976",
-                "title": "石川県の音楽科過去問（2020年度版）",
-                "title_collation_key": "イシカワケン ノ オンガクカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5976/9784319285976.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319289721",
-                "title": "沖縄県の音楽科過去問（2020年度版）",
-                "title_collation_key": "オキナワケン ノ オンガクカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9721/9784319289721.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319286461",
-                "title": "岐阜県の音楽科過去問（2020年度版）",
-                "title_collation_key": "ギフケン ノ オンガクカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6461/9784319286461.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319289004",
-                "title": "佐賀県の家庭科過去問（2020年度版）",
-                "title_collation_key": "サガケン ノ カテイカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9004/9784319289004.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319467471",
-                "title": "香川県の保健体育科参考書（2020年度版）",
-                "title_collation_key": "カガワケン ノ ホケン タイイクカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7471/9784319467471.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319289851",
-                "title": "名古屋市の家庭科過去問（2020年度版）",
-                "title_collation_key": "ナゴヤシ ノ カテイカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9851/9784319289851.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319463053",
-                "title": "北海道・札幌市の保健体育科参考書（2020年度版）",
-                "title_collation_key": "ホッカイドウ サッポロシ ノ ホケン タイイクカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3053/9784319463053.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319465255",
-                "title": "山梨県の保健体育科参考書（2020年度版）",
-                "title_collation_key": "ヤマナシケン ノ ホケン タイイクカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5255/9784319465255.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784565203106",
-                "title": "教員採用試験教職教養テキストブック　2020年度版",
-                "title_collation_key": "キヨウイン サイヨウ シケン キヨウシヨク キヨウヨウ テキストブツク",
-                "contributor": "山口　和孝",
-                "contributor_collation_key": "ヤマグチ,カズタカ",
-                "imprint": "一ツ橋書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3106/9784565203106.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319284429",
-                "title": "秋田県の英語科過去問（2020年度版）",
-                "title_collation_key": "アキタケン ノ エイゴカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784319284948",
-                "title": "栃木県の音楽科過去問（2020年度版）",
-                "title_collation_key": "トチギケン ノ オンガクカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4948/9784319284948.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319466122",
-                "title": "京都府の保健体育科参考書（2020年度版）",
-                "title_collation_key": "キョウトフ ノ ホケン タイイクカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6122/9784319466122.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319285822",
-                "title": "富山県の英語科過去問（2020年度版）",
-                "title_collation_key": "トヤマケン ノ エイゴカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784319284047",
-                "title": "青森県の国語科過去問（2020年度版）",
-                "title_collation_key": "アオモリケン ノ コクゴカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4047/9784319284047.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319465385",
-                "title": "長野県の保健体育科参考書（2020年度版）",
-                "title_collation_key": "ナガノケン ノ ホケン タイイクカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5385/9784319465385.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319467235",
-                "title": "山口県の養護教諭参考書（2020年度版）",
-                "title_collation_key": "ヤマグチケン ノ ヨウゴ キョウユ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7235/9784319467235.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319467013",
-                "title": "岡山県・岡山市の特別支援学校教諭参考書（2020年度版）",
-                "title_collation_key": "オカヤマケン オカヤマシ ノ トクベツ シエン ガッコウ キョウユ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7013/9784319467013.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319466269",
-                "title": "大阪府・大阪市・堺市・豊能地区の養護教諭参考書（2020年度版）",
-                "title_collation_key": "オオサカフ オオサカシ サカイシ トヨノ チク ノ ヨウゴ キョウユ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6269/9784319466269.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319468560",
-                "title": "鹿児島県の養護教諭参考書（2020年度版）",
-                "title_collation_key": "カゴシマケン ノ ヨウゴ キョウユ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8560/9784319468560.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319465026",
-                "title": "石川県の養護教諭参考書（2020年度版）",
-                "title_collation_key": "イシカワケン ノ ヨウゴ キョウユ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5026/9784319465026.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319285044",
-                "title": "群馬県の英語科過去問（2020年度版）",
-                "title_collation_key": "グンマケン ノ エイゴカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5044/9784319285044.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319288212",
-                "title": "山口県の英語科過去問（2020年度版）",
-                "title_collation_key": "ヤマグチケン ノ エイゴカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8212/9784319288212.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784864553896",
-                "title": "教員採用試験対策教育用語集（2020年度）",
-                "title_collation_key": "キョウイン サイヨウ シケン タイサク キョウイク ヨウゴシュウ",
-                "contributor": "東京アカデミー",
-                "contributor_collation_key": "トウキョウ アカデミー",
-                "imprint": "ティーエーネットワーク",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3896/9784864553896.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319467815",
-                "title": "福岡県・北九州市の音楽科参考書（2020年度版）",
-                "title_collation_key": "フクオカケン キタキュウシュウシ ノ オンガクカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7815/9784319467815.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319467709",
-                "title": "高知県の家庭科参考書（2020年度版）",
-                "title_collation_key": "コウチケン ノ カテイカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7709/9784319467709.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319463862",
-                "title": "茨城県の家庭科参考書（2020年度版）",
-                "title_collation_key": "イバラキケン ノ カテイカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3862/9784319463862.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319468140",
-                "title": "熊本県・熊本市の社会科参考書（2020年度版）",
-                "title_collation_key": "クマモトケン クマモトシ ノ シャカイカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8140/9784319468140.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319468737",
-                "title": "名古屋市の社会科参考書（2020年度版）",
-                "title_collation_key": "ナゴヤシ ノ シャカイカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8737/9784319468737.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319466474",
-                "title": "奈良県の家庭科参考書（2020年度版）",
-                "title_collation_key": "ナラケン ノ カテイカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6474/9784319466474.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866663395",
-                "title": "【POD】カウンセラー天野仁善のみんな悩んでるのがわかる本",
-                "title_collation_key": "カウンセラーアマノヒトヨシノミンナナヤンデルノガワカルホン",
-                "contributor": "天野仁善",
-                "contributor_collation_key": "アマノヒトヨシ",
-                "imprint": "ギャラクシーブックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3395/9784866663395.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784334777234",
-                "title": "社内保育士はじめました",
-                "title_collation_key": "シャナイホイクシハジメマシタ",
-                "contributor": "貴水玲",
-                "contributor_collation_key": "タカミ レイ",
-                "imprint": "光文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7234/9784334777234.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319463930",
-                "title": "栃木県の国語科参考書（2020年度版）",
-                "title_collation_key": "トチギケン ノ コクゴカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3930/9784319463930.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319467785",
-                "title": "福岡県・福岡市・北九州市の英語科参考書（2020年度版）",
-                "title_collation_key": "フクオカケン フクオカシ キタキュウシュウシ ノ エイゴカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7785/9784319467785.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319463367",
-                "title": "宮城県・仙台市の英語科参考書（2020年度版）",
-                "title_collation_key": "ミヤギケン センダイシ ノ エイゴカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3367/9784319463367.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319465200",
-                "title": "山梨県の英語科参考書（2020年度版）",
-                "title_collation_key": "ヤマナシケン ノ エイゴカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5200/9784319465200.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319463138",
-                "title": "青森県の英語科参考書",
-                "title_collation_key": "アオモリケン ノ エイゴカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3138/9784319463138.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319464609",
-                "title": "神奈川県・横浜市・川崎市・相模原市の理科参考書（2020年度版）",
-                "title_collation_key": "カナガワケン ヨコハマシ カワサキシ サガミハラシ ノ リカ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4609/9784319464609.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784344918719",
-                "title": "じーじ、65歳で保育士になったよ",
-                "title_collation_key": "ジージ ロクジュウゴサイ デ ホイクシ ニ ナッタヨ",
-                "contributor": "高田勇紀夫",
-                "contributor_collation_key": "タカダ,ユキオ",
-                "imprint": "幻冬舎メディアコンサルティング",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8719/9784344918719.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319467136",
-                "title": "山口県の教職・一般教養参考書（2020年度版）",
-                "title_collation_key": "ヤマグチケン ノ キョウショク イッパン キョウヨウ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7136/9784319467136.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319463091",
-                "title": "青森県の一般教養参考書（2020年度版）",
-                "title_collation_key": "アオモリケン ノ イッパン キョウヨウ サンコウショ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3091/9784319463091.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784908637803",
-                "title": "教員採用試験パーフェクトガイド 小論文編",
-                "title_collation_key": "キョウインサイヨウシケンパーフェクトガイド ショウロンブンヘン",
-                "contributor": "岸上 隆文/三浦 一心",
-                "contributor_collation_key": "キシガミ タカフミ/ミウラ イッシン",
-                "imprint": "学芸みらい社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7803/9784908637803.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319333066",
-                "title": "浜松市・磐田市の公立幼稚園教諭・保育士（2019年度版）",
-                "title_collation_key": "ハママツシ イワタシ ノ コウリツ ヨウチエン キョウユ ホイクシ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3066/9784319333066.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319333400",
-                "title": "広島市の公立幼稚園教諭（2019年度版）",
-                "title_collation_key": "ヒロシマシ ノ コウリツ ヨウチエン キョウユ",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3400/9784319333400.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784837968627",
-                "title": "空間心理カウンセラーの「いいこと」が次々起こる片づけの法則",
-                "title_collation_key": "クウカンシンリカウンセラーノイイコトガツギツギオコルカタヅケノホウソク",
-                "contributor": "伊藤 勇司",
-                "contributor_collation_key": "イトウ ユウジ",
-                "imprint": "三笠書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8627/9784837968627.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784832290600",
-                "title": "パパは保育士さんが好き!?",
-                "title_collation_key": "パパハホイクシサンガスキ",
-                "contributor": "海行リリ",
-                "contributor_collation_key": "ウミユキリリ",
-                "imprint": "芳文社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0600/9784832290600.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784260036160",
-                "title": "大人の発達障害ってそういうことだったのか　その後",
-                "title_collation_key": "オトナノハッタツショウガイッテソウイウコトダッタノカ　ソノゴ",
-                "contributor": "宮岡 等",
-                "contributor_collation_key": "ミヤオカ ヒトシ",
-                "imprint": "医学書院",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6160/9784260036160.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784909400765",
-                "title": "【POD】心理カウンセラーが教える　社会人のための必ず続く勉強法",
-                "title_collation_key": "シンリカウンセラーガオシエルシャカイジンノタメノカナラズツヅクベンキョウホウ",
-                "contributor": "笹氣健治",
-                "contributor_collation_key": "ササキケンジ",
-                "imprint": "パンダ・パブリッシング",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0765/9784909400765.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784902591323",
-                "title": "保育士、教員がDV被害を受けた親子を理解するための本",
-                "title_collation_key": "ホイクシ キョウイン ガ ディーヴイ ヒガイ オ ウケタ オヤコ オ リカイスル",
-                "contributor": "須賀朋子",
-                "contributor_collation_key": "スガ,トモコ",
-                "imprint": "かりん舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1323/9784902591323.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784760826667",
-                "title": "スクールカウンセラーのビリーフとアクティビティ",
-                "title_collation_key": "スクールカウンセラーノビリーフトアクティビティ",
-                "contributor": "稲垣応顕/坂井祐円",
-                "contributor_collation_key": "イナガキマサアキ/サカイユウエン",
-                "imprint": "金子書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6667/9784760826667.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319281596",
-                "title": "島根県の理科過去問（2019年度版）",
-                "title_collation_key": "シマネケン ノ リカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1596/9784319281596.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784576180625",
-                "title": "人気のカウンセラーになる教科書",
-                "title_collation_key": "ニンキ ノ カウンセラー ニ ナル キョウカショ",
-                "contributor": "城市奈津子",
-                "contributor_collation_key": "ジョウイチ,ナツコ",
-                "imprint": "二見書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0625/9784576180625.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784274222085",
-                "title": "解くコツがわかる 小学校教員採用試験　理科問題集 改訂2版",
-                "title_collation_key": "トクコツガワカルショウガッコウキョウインサイヨウシケン リカモンダイシュウ",
-                "contributor": "松原 静郎/岩間 淳子",
-                "contributor_collation_key": "マツバラ シズロウ/イワマ ジュンコ",
-                "imprint": "株式会社オーム社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2085/9784274222085.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784831887672",
-                "title": "お坊さんでスクールカウンセラー",
-                "title_collation_key": "オボウサンデスクールカウンセラー",
-                "contributor": "坂井 祐円",
-                "contributor_collation_key": "サカイ ユウエン",
-                "imprint": "法藏館",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7672/9784831887672.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434246005",
-                "title": "デンマークで保育士",
-                "title_collation_key": "デンマーク デ ホイクシ",
-                "contributor": "遠藤祐太郎",
-                "contributor_collation_key": "エンドウ,ユウタロウ",
-                "imprint": "ビネバル出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6005/9784434246005.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784863674110",
-                "title": "キャリアカウンセラーという生き方",
-                "title_collation_key": "キャリア カウンセラー ト イウ イキカタ",
-                "contributor": "古川晶子",
-                "contributor_collation_key": "フルカワ,アキコ",
-                "imprint": "セルバ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4110/9784863674110.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784893472977",
-                "title": "実習日誌の書き方",
-                "title_collation_key": "ジッシュウ ニッシ ノ カキカタ",
-                "contributor": "相馬和子/中田カヨ子",
-                "contributor_collation_key": "ソウマ,カズコ/ナカタ,カヨコ",
-                "imprint": "萌文書林",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2977/9784893472977.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784842917160",
-                "title": "保育士のための社会的養護（第2版）",
-                "title_collation_key": "ホイクシノタメノシャカイテキヨウゴ",
-                "contributor": "吉田　明弘",
-                "contributor_collation_key": "ヨシダ アキヒロ",
-                "imprint": "八千代出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7160/9784842917160.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784793512704",
-                "title": "全国保育士会倫理綱領ガイドブック改訂2版",
-                "title_collation_key": "ゼンコク ホイクシカイ リンリ コウリョウ ガイドブック",
-                "contributor": "柏女霊峰/全国保育士会",
-                "contributor_collation_key": "カシワメ,レイホウ/ゼンコク ホイクシカイ",
-                "imprint": "全国社会福祉協議会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2704/9784793512704.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784319281749",
-                "title": "岡山県・岡山市の家庭科過去問（2019年度版）",
-                "title_collation_key": "オカヤマケン オカヤマシ ノ カテイカ カコモン",
-                "contributor": "協同教育研究会",
-                "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
-                "imprint": "協同出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1749/9784319281749.jpg?_ex=200x200"
-            }
-        ]
-    }
-]
+{
+    "shelf_title": "資格・検定/教育・心理関係資格",
+    "category": "教育・心理関係資格",
+    "back_cover_images": [
+        "back_cover_img/0044_1.png",
+        "back_cover_img/0044_2.png",
+        "back_cover_img/0044_3.png",
+        "back_cover_img/0044_4.png"
+    ],
+    "back_cover_low_images": [
+        "back_cover_low_img/0044_1_low.png",
+        "back_cover_low_img/0044_2_low.png",
+        "back_cover_low_img/0044_3_low.png",
+        "back_cover_low_img/0044_4_low.png"
+    ],
+    "books": [
+        {
+            "isbn": "9784788903944",
+            "title": "2022年版　まんがでわかる 保育士らくらく要点マスター",
+            "title_collation_key": "2022ネンバン　マンガデワカルホイクシラクラクヨウテンマスター",
+            "contributor": "キャリア・ステーション",
+            "contributor_collation_key": "キャリア・ステーション",
+            "imprint": "実務教育出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3944/9784788903944_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784478113240",
+            "title": "子どもが伸びるスゴ技大全 カリスマ保育士てぃ先生の子育て〇×図鑑",
+            "title_collation_key": "コドモガノビルスゴワザタイゼン　カリスマホイクシティセンセイノコソダテマルバツズカン",
+            "contributor": "てぃ先生",
+            "contributor_collation_key": "ティーセンセイ",
+            "imprint": "ダイヤモンド社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3240/9784478113240_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784046053145",
+            "title": "実録　保育士でこ先生4",
+            "title_collation_key": "ジツロク　ホイクシデコセンセイヨン",
+            "contributor": "でこぽん吾郎",
+            "contributor_collation_key": "デコポンゴロウ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3145/9784046053145_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784805883853",
+            "title": "よく出る！保育士試験一問一答2022",
+            "title_collation_key": "ヨクデルホイクシシケンイチモンイットウニセンニジュウニ",
+            "contributor": "保育士受験対策研究会",
+            "contributor_collation_key": "ホイクシジュケンタイサクケンキュウカイ",
+            "imprint": "中央法規出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3853/9784805883853_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784414200010",
+            "title": "Q＆Aで学ぶカウンセラー・研修講師のための法律",
+            "title_collation_key": "キューアンドエーデマナブカウンセラーケンシュウコウシノタメノホウリツ",
+            "contributor": "鳥飼　康二",
+            "contributor_collation_key": "トリカイ　コウジ",
+            "imprint": "誠信書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0010/9784414200010.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798172132",
+            "title": "福祉教科書 保育士 出る！出る！一問一答 2022年版",
+            "title_collation_key": "フクシキョウカショ ホイクシ デルデルイチモンイットウウニセンニジュウニネンバン",
+            "contributor": "保育士試験対策委員会",
+            "contributor_collation_key": "ホイクシシケンタイサクイインカイ",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2132/9784798172132_1_13.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784815611798",
+            "title": "心理カウンセラーYouTuberが教える1秒で不安なくなる大百科",
+            "title_collation_key": "シンリカウンセラーユーチューバーガオシエルイチビョウデフアンナクナルダイヒャッカ",
+            "contributor": "るろうに",
+            "contributor_collation_key": "ルロウニ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1798/9784815611798_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866161327",
+            "title": "学校では教えないスクールカウンセラーの業務マニュアル",
+            "title_collation_key": "ガッコウデハオシエナイスクールカウンセラーノギョウムマニュアル",
+            "contributor": "田多井正彦/神白かどや",
+            "contributor_collation_key": "タタイマサヒコ/カミシロカドヤ",
+            "imprint": "遠見書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1327/9784866161327_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798172125",
+            "title": "福祉教科書 保育士 完全合格問題集 2022年版",
+            "title_collation_key": "フクシキョウカショホイクシカンゼンゴウカクモンダイシュウニセンニジュウニネンバン",
+            "contributor": "保育士試験対策委員会",
+            "contributor_collation_key": "ホイクシシケンタイサクイインカイ",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2125/9784798172125_1_22.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784046051615",
+            "title": "この1冊で合格！ 桜子先生の保育士 完成問題集 2022年版",
+            "title_collation_key": "コノイッサツデゴウカク！ サクラコセンセイノホイクシ カンセイモンダイシュウ ニセンニジュウニネンバン",
+            "contributor": "桜子先生",
+            "contributor_collation_key": "サクラコセンセイ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1615/9784046051615_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784816370748",
+            "title": "2022年版 サクッとわかる！保育士合格テキスト＆問題集　上巻",
+            "title_collation_key": "ニセンニジュウニネンバンサクットワカルホイクシゴウカクテキストアンドモンダイシュウジョウカン",
+            "contributor": "ライセンス学院",
+            "contributor_collation_key": "ライセンスガクイン",
+            "imprint": "ナツメ社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0748/9784816370748_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784816370755",
+            "title": "2022年版 サクッとわかる！保育士合格テキスト＆問題集　下巻",
+            "title_collation_key": "ニセンニジュウニネンバンサクットワカルホイクシゴウカクテキストアンドモンダイシュウゲカン",
+            "contributor": "ライセンス学院",
+            "contributor_collation_key": "ライセンスガクイン",
+            "imprint": "ナツメ社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0755/9784816370755_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784805883686",
+            "title": "できる！受かる！保育士試験合格問題集2022",
+            "title_collation_key": "デキルウカルホイクシシケンゴウカクモンダイシュウニセンニジュウニ",
+            "contributor": "保育士受験対策研究会",
+            "contributor_collation_key": "ホイクシジュケンタイサクケンキュウカイ",
+            "imprint": "中央法規出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3686/9784805883686_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784806917458",
+            "title": "保育士・幼稚園教諭採用試験 面接試験攻略法 改訂版",
+            "title_collation_key": "ホイクシヨウチエンキョウユサイヨウシケン メンセツシケンコウリャクホウ カイテイバン",
+            "contributor": "木梨 美奈子",
+            "contributor_collation_key": "キナシ ミナコ",
+            "imprint": "つちや書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7458/9784806917458_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784910415604",
+            "title": "保育士のキャリア形成と特別支援保育士",
+            "title_collation_key": "ホイクシノキャリアケイセイトトクベツシエンホイクシ",
+            "contributor": "田中 愽一/杣山 貴要江",
+            "contributor_collation_key": "タナカ　ヒロカズ/ソマヤマ　キヨエ",
+            "imprint": "学術研究出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5604/9784910415604_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784832238398",
+            "title": "スクールカウンセラーうさみ先生の悩み相談室　1",
+            "title_collation_key": "スクールカウンセラーウサミセンセイノナヤミソウダンシツ　イチ",
+            "contributor": "庄司七",
+            "contributor_collation_key": "ショウジシチ",
+            "imprint": "芳文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8398/9784832238398_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784909908384",
+            "title": "新装版 アストロカウンセラー・まーさの 12星座のおはなし",
+            "title_collation_key": "シンソウバンアストロカウンセラーマーサノジュウニセイザノオハナシ",
+            "contributor": "内田真朝",
+            "contributor_collation_key": "ウチダマアサ",
+            "imprint": "メトロポリタンプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8384/9784909908384_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784805883365",
+            "title": "わかる！受かる！保育士試験合格テキスト2022",
+            "title_collation_key": "ワカルウカルホイクシシケンゴウカクテキストニセンニジュウニ",
+            "contributor": "保育士受験対策研究会",
+            "contributor_collation_key": "ホイクシジュケンタイサクケンキュウカイ",
+            "imprint": "中央法規出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3365/9784805883365_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784576210926",
+            "title": "きみとアイスを半分こ　〜傲慢王子な社長と保育士の純愛ロマンセ〜",
+            "title_collation_key": "キミトアイスヲハンブンコゴウマンオウジナシャチョウトホイクシノジュンアイロマンセ",
+            "contributor": "安曇 ひかる/柳 ゆと",
+            "contributor_collation_key": "アズミ ヒカル/ヤナギ ユト",
+            "imprint": "二見書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0926/9784576210926_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784893473806",
+            "title": "子どもと保育士がつくる哲学の時間",
+            "title_collation_key": "コドモトホイクシガツクルテツガクノジカン",
+            "contributor": "佐藤嘉代子",
+            "contributor_collation_key": "サトウカヨコ",
+            "imprint": "萌文書林",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3806/9784893473806_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319335732",
+            "title": "名古屋市の公立幼稚園教諭（過去問題集）（2022年度版）",
+            "title_collation_key": "ナゴヤシ ノ コウリツ ヨウチエン キョウユ カコ モンダイシュウ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5732/9784319335732_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784759923858",
+            "title": "公認心理師・臨床心理士のための高次脳機能障害の診かた・考え方",
+            "title_collation_key": "コウニンシンリシリンショウシンリシノタメノコウジノウキノウショウガイノミカタカンガエカタ",
+            "contributor": "中野光子",
+            "contributor_collation_key": "ナカノミツコ",
+            "imprint": "風間書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3858/9784759923858_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319335428",
+            "title": "水戸市・日立市の公立幼稚園教諭・保育士（2022年度版）",
+            "title_collation_key": "ミトシ ヒタチシ ノ コウリツ ヨウチエン キョウユ ホイクシ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5428/9784319335428_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319336135",
+            "title": "大分市・佐伯市の公立幼稚園教諭・保育士（2022年度版）",
+            "title_collation_key": "オオイタシ サイキシ ノ コウリツ ヨウチエン キョウユ ホイクシ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6135/9784319336135_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319335589",
+            "title": "相模原市・厚木市・平塚市・座間市の公立保育士（2022年度版）",
+            "title_collation_key": "サガミハラシ アツギシ ヒラツカシ ザマシ ノ コウリツ ホイクシ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5589/9784319335589.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319335640",
+            "title": "長野市・松本市・上田市・塩尻市の公立保育士（2022年度版）",
+            "title_collation_key": "ナガノシ マツモトシ ウエダシ シオジリシ ノ コウリツ ホイクシ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5640/9784319335640.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784762831591",
+            "title": "公認心理師・臨床心理士のための福祉心理学入門",
+            "title_collation_key": "コウニンシンリシリンショウシンリシノタメノフクシシンリガクニュウモン",
+            "contributor": "塩谷 隼平/吉村 夕里",
+            "contributor_collation_key": "シオヤ シュンペイ/ヨシムラ ユリ",
+            "imprint": "北大路書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1591/9784762831591.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784867340127",
+            "title": "スピリチュアル・カウンセラーになって豊かに成功する教科書",
+            "title_collation_key": "スピリチュアルカウンセラーニナッテユタカニセイコウスルキョウカショ",
+            "contributor": "ミスカトニック",
+            "contributor_collation_key": "ミスカトニック",
+            "imprint": "Clover出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0127/9784867340127.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784860155391",
+            "title": "新版　保育士をめざす人の子ども家庭支援",
+            "title_collation_key": "シンパンホイクシヲメザスヒトノコドモカテイシエン",
+            "contributor": "白幡 久美子",
+            "contributor_collation_key": "シラハタ クミコ",
+            "imprint": "みらい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5391/9784860155391.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784788995376",
+            "title": "2022年度版　保育士・幼稚園教諭　論作文・面接対策ブック",
+            "title_collation_key": "2022ネンドバン　ホイクシヨウチエンキョウユロンサクブンメンセツタイサクブック",
+            "contributor": "保育士試験研究会",
+            "contributor_collation_key": "ホイクシシケンケンキュウカイ",
+            "imprint": "実務教育出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5376/9784788995376.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784788995369",
+            "title": "2022年度版　保育士・幼稚園教諭　採用試験問題集",
+            "title_collation_key": "2022ネンドバン　ホイクシヨウチエンキョウユサイヨウシケンモンダイシュウ",
+            "contributor": "保育士試験研究会",
+            "contributor_collation_key": "ホイクシシケンケンキュウカイ",
+            "imprint": "実務教育出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5369/9784788995369.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784860155377",
+            "title": "九訂 保育士をめざす人の社会福祉",
+            "title_collation_key": "キュウテイホイクシヲメザスヒトノシャカイフクシ",
+            "contributor": "相澤 譲治/杉山 博昭",
+            "contributor_collation_key": "アイザワ　ジョウジ/スギヤマ ヒロアキ",
+            "imprint": "みらい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5377/9784860155377.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784535563995",
+            "title": "スクールカウンセラーと担任教師の協働",
+            "title_collation_key": "スクールカウンセラートタンニンキョウシノキョウドウ",
+            "contributor": "山本 渉",
+            "contributor_collation_key": "ヤマモト　ワタル",
+            "imprint": "日本評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3995/9784535563995.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784816369643",
+            "title": "2021年版 試験対策のプロが徹底分析！保育士【でる順】問題集",
+            "title_collation_key": "ニセンニジュウイチネンバンシケンタイサクノプロガテッテイブンセキホイクシデルジュンモンダイシュウ",
+            "contributor": "ライセンス学院",
+            "contributor_collation_key": "ライセンスガクイン",
+            "imprint": "ナツメ社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9643/9784816369643.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784788903937",
+            "title": "2021年版　ほんとによく出る 保育士　ベスト過去問＆予想問題集",
+            "title_collation_key": "2021ネンバン　ホントニヨクデルホイクシベストカコモンアンドヨソウモンダイシュウ",
+            "contributor": "キャリア・ステーション",
+            "contributor_collation_key": "キャリア・ステーション",
+            "imprint": "実務教育出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3937/9784788903937.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784805882818",
+            "title": "よく出る！　保育士試験一問一答2021",
+            "title_collation_key": "ヨクデルホイクシシケンイチモンイットウニセンニジュウイチ",
+            "contributor": "保育士受験対策研究会",
+            "contributor_collation_key": "ホイクシジュケンタイサクケンキュウカイ",
+            "imprint": "中央法規出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2818/9784805882818.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774762609",
+            "title": "子連れ保育士 〜ちょっとクライムな恋を〜",
+            "title_collation_key": "コヅレホイクシ チョットクライムナコイヲ",
+            "contributor": "かみそう都芭",
+            "contributor_collation_key": "カミソウツバ",
+            "imprint": "コスミック出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2609/9784774762609.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784334791421",
+            "title": "社内保育士はじめました　5",
+            "title_collation_key": "シャナイホイクシハジメマシタゴ",
+            "contributor": "貴水玲",
+            "contributor_collation_key": "タカミ レイ",
+            "imprint": "光文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1421/9784334791421.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784046049049",
+            "title": "実録　保育士でこ先生3",
+            "title_collation_key": "ジツロク　ホイクシデコセンセイサン",
+            "contributor": "でこぽん吾郎",
+            "contributor_collation_key": "デコポンゴロウ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9049/9784046049049.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784788903920",
+            "title": "2021年版　まんがでわかる 保育士らくらく要点マスター",
+            "title_collation_key": "2021ネンバン　マンガデワカルホイクシラクラクヨウテンマスター",
+            "contributor": "キャリア・ステーション",
+            "contributor_collation_key": "キャリア・ステーション",
+            "imprint": "実務教育出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3920/9784788903920.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784046045256",
+            "title": "この1冊で合格！ 桜子先生の保育士 必修テキスト 下",
+            "title_collation_key": "コノイッサツデゴウカク！ サクラコセンセイノホイクシ ヒッシュウテキスト ゲ",
+            "contributor": "桜子先生",
+            "contributor_collation_key": "サクラコセンセイ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5256/9784046045256.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784046045249",
+            "title": "この1冊で合格！ 桜子先生の保育士 必修テキスト 上",
+            "title_collation_key": "コノイッサツデゴウカク！ サクラコセンセイノホイクシ ヒッシュウテキスト ジョウ",
+            "contributor": "桜子先生",
+            "contributor_collation_key": "サクラコセンセイ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5249/9784046045249.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784862807663",
+            "title": "一生使える！プロカウンセラーの傾聴の基本",
+            "title_collation_key": "イッショウツカエルプロカウンセラーノケイチョウノキホン",
+            "contributor": "古宮 昇",
+            "contributor_collation_key": "フルミヤ　ノボル",
+            "imprint": "総合法令出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7663/9784862807663.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784774762296",
+            "title": "保育士は獅子親子に愛される",
+            "title_collation_key": "ホイクシハシシオヤコニアイサレル",
+            "contributor": "滝沢　晴/鈴倉　温",
+            "contributor_collation_key": "タキザワ ハレ/スズクラハル",
+            "imprint": "コスミック出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2296/9784774762296.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798166681",
+            "title": "福祉教科書 保育士 完全合格問題集 2021年版",
+            "title_collation_key": "フクシキョウカショホイクシカンゼンゴウカクモンダイシュウニセンニジュウイチネンバン",
+            "contributor": "保育士試験対策委員会",
+            "contributor_collation_key": "ホイクシシケンタイサクイインカイ",
+            "imprint": "翔泳社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6681/9784798166681.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784772417631",
+            "title": "キャリアカウンセラーのためのスーパービジョン",
+            "title_collation_key": "キャリアカウンセラーノタメノスーパービジョン",
+            "contributor": "立野　了嗣",
+            "contributor_collation_key": "タツノ　リョウジ",
+            "imprint": "金剛出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7631/9784772417631.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866920641",
+            "title": "幼稚園教諭・保育教諭をめざす人のための教育学入門",
+            "title_collation_key": "ヨウチエンキョウユホイクキョウユヲメザスヒトノタメノキョウイクガクニュウモン",
+            "contributor": "橋本　勇人/中川　智之",
+            "contributor_collation_key": "ハシモト　ハヤト/ナカガワ　トモユキ",
+            "imprint": "大学教育出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0641/9784866920641.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319334759",
+            "title": "藤枝市・富士宮市の公立保育士（2021年度版）",
+            "title_collation_key": "フジエダシ フジノミヤシ ノ コウリツ ホイクシ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4759/9784319334759.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784046046239",
+            "title": "実録　保育士でこ先生2",
+            "title_collation_key": "ジツロク　ホイクシデコセンセイニ",
+            "contributor": "でこぽん吾郎",
+            "contributor_collation_key": "デコポンゴロウ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6239/9784046046239.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784535563858",
+            "title": "スクールカウンセラーと教師のための「チーム学校」入門",
+            "title_collation_key": "スクールカウンセラートキョウシノタメノチームガッコウニュウモン",
+            "contributor": "半田一郎",
+            "contributor_collation_key": "ハンダ イチロウ",
+            "imprint": "日本評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3858/9784535563858.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784780913729",
+            "title": "公認心理師必携テキスト　改訂第2版",
+            "title_collation_key": "コウニンシンリシヒッケイテキスト　カイテイダイニハン",
+            "contributor": "福島哲夫/尾久裕紀",
+            "contributor_collation_key": "フクシマテツオ/オギュウ ヒロキ",
+            "imprint": "学研メディカル秀潤社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3729/9784780913729.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434272196",
+            "title": "未来カウンセラー",
+            "title_collation_key": "ミライカウンセラー",
+            "contributor": "小島正輝",
+            "contributor_collation_key": "コジママサキ",
+            "imprint": "（株）パレード",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2196/9784434272196.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784780913736",
+            "title": "第2回公認心理師試験問題解説",
+            "title_collation_key": "ダイニカイコウニンシンリシシケンモンダイカイセツ",
+            "contributor": "福島哲夫",
+            "contributor_collation_key": "フクシマテツオ",
+            "imprint": "学研メディカル秀潤社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3736/9784780913736.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297112219",
+            "title": "第3版 書きながら覚える 保育士 まるわかり合格ノート",
+            "title_collation_key": "ダイサンパン カキナガラオボエル ホイクシ マルワカリゴウカクノート",
+            "contributor": "保育士資格取得支援研究会",
+            "contributor_collation_key": "ホイクシシカクシュトクシエンケンキュウカイ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2219/9784297112219.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784862979926",
+            "title": "淫村の呪縛とαカウンセラー",
+            "title_collation_key": "インソン ノ ジュバク ト アルファ カウンセラー",
+            "contributor": "ふかぃまろ",
+            "contributor_collation_key": "フカイ,マロ",
+            "imprint": "ロングランドジェイ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9926/9784862979926.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784860154936",
+            "title": "新版 保育士をめざす人の社会的養護1",
+            "title_collation_key": "シンパンホイクシヲメザスヒトノシャカイテキヨウゴイチ",
+            "contributor": "辰己 隆/波田埜 英治",
+            "contributor_collation_key": "タツミ タカシ/ハタノ エイジ",
+            "imprint": "みらい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4936/9784860154936.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784762029646",
+            "title": "保育士のための社会福祉",
+            "title_collation_key": "ホイクシノタメノシャカイフクシ",
+            "contributor": "成清 美治/成清 敦子",
+            "contributor_collation_key": "ナリキヨ ヨシハル/ナリキヨ アツコ",
+            "imprint": "学文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9646/9784762029646.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784860154943",
+            "title": "新版 保育士をめざす人の社会的養護2",
+            "title_collation_key": "シンパンホイクシヲメザスヒトノシャカイテキヨウゴニ",
+            "contributor": "辰己 隆/岡本 眞幸",
+            "contributor_collation_key": "タツミ タカシ/オカモト マサユキ",
+            "imprint": "みらい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4943/9784860154943.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784788902855",
+            "title": "2020年版　ほんとによく出る 保育士　ベスト過去問＆予想問題集",
+            "title_collation_key": "2020ネンバンホントニヨクデルホイクシベストカコモンアンドヨソウモンダイシュウ",
+            "contributor": "キャリア・ステーション",
+            "contributor_collation_key": "キャリア・ステーション",
+            "imprint": "実務教育出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2855/9784788902855.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784860155032",
+            "title": "保育士をめざす人のための施設実習ガイド",
+            "title_collation_key": "ホイクシヲメザスヒトノタメノジッシュウシセツガイド",
+            "contributor": "河合 高鋭/石山 直樹",
+            "contributor_collation_key": "カワイ タカトシ/イシヤマ ナオキ",
+            "imprint": "みらい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5032/9784860155032.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784334779658",
+            "title": "社内保育士はじめました　4",
+            "title_collation_key": "シャナイホイクシハジメマシタヨン",
+            "contributor": "貴水玲",
+            "contributor_collation_key": "タカミ レイ",
+            "imprint": "光文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9658/9784334779658.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784831515506",
+            "title": "幼稚園教諭になるには",
+            "title_collation_key": "ヨウチエンキョウユニナルニハ",
+            "contributor": "大豆生田 啓友",
+            "contributor_collation_key": "オオマメウダ ヒロトモ",
+            "imprint": "ぺりかん社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5506/9784831515506.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784422117287",
+            "title": "プロカウンセラーの薬だけにたよらずうつを乗り越える方法",
+            "title_collation_key": "プロカウンセラノークスリダケニタヨラズウツヲノリコエルホウホウ",
+            "contributor": "杉原 保史",
+            "contributor_collation_key": "スギハラ ヤスシ",
+            "imprint": "創元社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7287/9784422117287.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319295876",
+            "title": "鹿児島県の家庭科過去問（2021年度版）",
+            "title_collation_key": "カゴシマケン ノ カテイカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5876/9784319295876.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319479153",
+            "title": "奈良県の保健体育科参考書（2021年度版）",
+            "title_collation_key": "ナラケン ノ ホケン タイイクカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9153/9784319479153.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784058010914",
+            "title": "教員採用試験　教職教養ポイントチェック15日間2021",
+            "title_collation_key": "キョウインサイヨウシケンキョウショクキョウヨウポイントチェック15ニチカン2021",
+            "contributor": "教育ジャーナル編集部",
+            "contributor_collation_key": "キョウイクジャーナルヘンシュウブ",
+            "imprint": "学研教育みらい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0914/9784058010914.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784058010907",
+            "title": "教員採用試験　一般教養ポイントチェック15日間2021",
+            "title_collation_key": "キョウインサイヨウシケンイッパンキョウヨウポイントチェック15ニチカン2021",
+            "contributor": "教育ジャーナル編集部",
+            "contributor_collation_key": "キョウイクジャーナルヘンシュウブ",
+            "imprint": "学研教育みらい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0907/9784058010907.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784058010884",
+            "title": "教員採用試験　一般教養36日間2021",
+            "title_collation_key": "キョウインサイヨウシケンイッパンキョウヨウ36ニチカン2021",
+            "contributor": "津金邦明",
+            "contributor_collation_key": "ツガネクニアキ",
+            "imprint": "学研教育みらい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0884/9784058010884.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784058010891",
+            "title": "教員採用試験　教職教養36日間2021",
+            "title_collation_key": "キョウインサイヨウシケンキョウショクキョウヨウ36ニチカン2021",
+            "contributor": "津金邦明",
+            "contributor_collation_key": "ツガネクニアキ",
+            "imprint": "学研教育みらい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0891/9784058010891.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784760826728",
+            "title": "産業現場の事例で学ぶ　カウンセラーのためのスーパービジョン活用法",
+            "title_collation_key": "サンギョウゲンバノジレイデマナブカウンセラーノタメノスーパービジョンカツヨウホウ",
+            "contributor": "日本産業カウンセラー協会",
+            "contributor_collation_key": "ニホンサンギョウカウンセラーキョウカイ",
+            "imprint": "金子書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6728/9784760826728.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319290208",
+            "title": "北海道・札幌市の理科過去問（2021年度版）",
+            "title_collation_key": "ホッカイドウ サッポロシ ノ リカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0208/9784319290208.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319475841",
+            "title": "青森県の家庭科参考書（2021年度版）",
+            "title_collation_key": "アオモリケン ノ カテイカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5841/9784319475841.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319477692",
+            "title": "石川県の養護教諭参考書（2021年度版）",
+            "title_collation_key": "イシカワケン ノ ヨウゴ キョウユ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7692/9784319477692.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319290222",
+            "title": "北海道・札幌市の美術科過去問（2021年度版）",
+            "title_collation_key": "ホッカイドウ サッポロシ ノ ビジュツカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0222/9784319290222.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319481217",
+            "title": "鹿児島県の家庭科参考書（2021年度版）",
+            "title_collation_key": "カゴシマケン ノ カテイカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1217/9784319481217.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319479290",
+            "title": "和歌山県の特別支援学校教諭参考書（2021年度版）",
+            "title_collation_key": "ワカヤマケン ノ トクベツ シエン ガッコウ キョウユ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9290/9784319479290.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784864554381",
+            "title": "教員採用試験対策教育用語集（2021年度）",
+            "title_collation_key": "キョウイン サイヨウ シケン タイサク キョウイク ヨウゴシュウ",
+            "contributor": "東京アカデミー",
+            "contributor_collation_key": "トウキョウ アカデミー",
+            "imprint": "ティーエーネットワーク",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4381/9784864554381.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784864554169",
+            "title": "教員採用試験対策参考書（3（2021年度））",
+            "title_collation_key": "キョウイン サイヨウ シケン タイサク サンコウショ",
+            "contributor": "東京アカデミー",
+            "contributor_collation_key": "トウキョウ アカデミー",
+            "imprint": "ティーエーネットワーク",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4169/9784864554169.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784046043146",
+            "title": "実録　保育士でこ先生",
+            "title_collation_key": "ジツロク　ホイクシデコセンセイ",
+            "contributor": "でこぽん吾郎",
+            "contributor_collation_key": "デコポンゴロウ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3146/9784046043146.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784788914810",
+            "title": "92歳の現役保育士が伝えたい親子で幸せになる子育て",
+            "title_collation_key": "92サイノゲンエキホイクシガツタエタイオヤコデシアワセニナルコソダテ",
+            "contributor": "大川　繁子",
+            "contributor_collation_key": "オオカワ　シゲコ",
+            "imprint": "実務教育出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4810/9784788914810_1_106.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434265822",
+            "title": "保育士・看護師・介護福祉士が学ぶ社会福祉",
+            "title_collation_key": "ホイクシ カンゴシ カイゴ フクシシ ガ マナブ シャカイ フクシ",
+            "contributor": "小宅理沙/中典子",
+            "contributor_collation_key": "コヤケ,リサ/ナカ,ノリコ",
+            "imprint": "現代図書",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5822/9784434265822.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319477876",
+            "title": "山梨県の英語科参考書（2021年度版）",
+            "title_collation_key": "ヤマナシケン ノ エイゴカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7876/9784319477876.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319479252",
+            "title": "和歌山県の理科参考書（2021年度版）",
+            "title_collation_key": "ワカヤマケン ノ リカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9252/9784319479252.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319478736",
+            "title": "京都府の社会科参考書（2021年度版）",
+            "title_collation_key": "キョウトフ ノ シャカイカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8736/9784319478736.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319480456",
+            "title": "福岡県・北九州市の英語科参考書（2021年度版）",
+            "title_collation_key": "フクオカケン キタキュウシュウシ ノ エイゴカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0456/9784319480456.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784271531258",
+            "title": "保育士試験の要点（’21年度版）改訂新版",
+            "title_collation_key": "ホイクシ シケン ノ ヨウテン",
+            "contributor": "保育問題検討委員会編",
+            "contributor_collation_key": "ホイク モンダイ ケントウ イインカイ",
+            "imprint": "大阪教育図書",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1258/9784271531258.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319475803",
+            "title": "青森県の英語科参考書（2021年度版）",
+            "title_collation_key": "アオモリケン ノ エイゴカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5803/9784319475803.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319478514",
+            "title": "三重県の理科参考書（2021年度版）",
+            "title_collation_key": "ミエケン ノ リカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8514/9784319478514.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784818825420",
+            "title": "カウンセラーになる",
+            "title_collation_key": "カウンセラーニナル",
+            "contributor": "尾久 裕紀/福島 哲夫",
+            "contributor_collation_key": "オギュウヒロキ/フクシマテツオ",
+            "imprint": "日本経済評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5420/9784818825420.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319480050",
+            "title": "香川県の一般教養参考書（2021年度版）",
+            "title_collation_key": "カガワケン ノ イッパン キョウヨウ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0050/9784319480050.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319476732",
+            "title": "群馬県の国語科参考書（2021年度版）",
+            "title_collation_key": "グンマケン ノ コクゴカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6732/9784319476732.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319481033",
+            "title": "宮崎県の小学校教諭参考書（2021年度版）",
+            "title_collation_key": "ミヤザキケン ノ ショウガッコウ キョウユ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1033/9784319481033.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784334778675",
+            "title": "社内保育士はじめました 3",
+            "title_collation_key": "シャナイホイクシハジメマシタサン",
+            "contributor": "貴水玲",
+            "contributor_collation_key": "タカミ レイ",
+            "imprint": "光文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8675/9784334778675.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784772417006",
+            "title": "プロカウンセラーが教える対人支援術",
+            "title_collation_key": "プロカウンセラーガオシエルタイジンシエンジュツ",
+            "contributor": "大谷 彰",
+            "contributor_collation_key": "オオタニ　アキラ",
+            "imprint": "金剛出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7006/9784772417006.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434258848",
+            "title": "不埒な恋愛カウンセラー",
+            "title_collation_key": "フラチナ レンアイ カウンセラー",
+            "contributor": "有允ひろみ",
+            "contributor_collation_key": "ユウイン,ヒロミ",
+            "imprint": "アルファポリス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8848/9784434258848.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784837968931",
+            "title": "空間心理カウンセラーの部屋を整えるとお金がやってくる！",
+            "title_collation_key": "クウカンシンリカウンセラーノヘヤヲトトノエルトオカネガヤッテクル",
+            "contributor": "伊藤 勇司",
+            "contributor_collation_key": "イトウ ユウジ",
+            "imprint": "三笠書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8931/9784837968931.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784838730452",
+            "title": "保育士てぃ先生のつぶやき日誌　きょう、ほいくえんでね…!!",
+            "title_collation_key": "ホイクシティセンセイノツブヤキニッシ　キョウ　ホイクエンデネ",
+            "contributor": "てぃ先生",
+            "contributor_collation_key": "ティセンセイ",
+            "imprint": "マガジンハウス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0452/9784838730452.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784416519776",
+            "title": "公認心理師 合格テキスト",
+            "title_collation_key": "コウニンシンリシ ゴウカクテキスト",
+            "contributor": "大山 正/宮埜 壽夫",
+            "contributor_collation_key": "オオヤマ タダス/ミヤノ ヒサオ",
+            "imprint": "誠文堂新光社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9776/9784416519776.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319333677",
+            "title": "秋田市の公立保育士（2020年度版）",
+            "title_collation_key": "アキタシ ノ コウリツ ホイクシ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3677/9784319333677.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319284207",
+            "title": "岩手県の理科過去問（2020年度版）",
+            "title_collation_key": "イワテケン ノ リカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4207/9784319284207.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784860154684",
+            "title": "新版 保育士をめざす人の子ども家庭福祉",
+            "title_collation_key": "シンパンホイクシヲメザスヒトノコドモカテイフクシ",
+            "contributor": "波田埜 英治/辰己 隆",
+            "contributor_collation_key": "ハタノ エイジ/タツミ　タカシ",
+            "imprint": "みらい",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4684/9784860154684.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784414416527",
+            "title": "公認心理師のための精神分析入門",
+            "title_collation_key": "コウニンシンリシノタメノセイシンブンセキニュウモン",
+            "contributor": "祖父江　典人",
+            "contributor_collation_key": "ソブエ　ノリヒト",
+            "imprint": "誠信書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6527/9784414416527.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297104467",
+            "title": "らくらく突破保育士［過去問］ここだけ丸暗記第3版",
+            "title_collation_key": "ラクラク トッパ ホイクシ カコモン ココダケ マルアンキ",
+            "contributor": "保育士資格取得支援研究会",
+            "contributor_collation_key": "ホイクシ シカク シュトク シエン ケンキュウカイ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4467/9784297104467.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319288267",
+            "title": "山口県の保健体育科過去問（2020年度版）",
+            "title_collation_key": "ヤマグチケン ノ ホケン タイイクカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8267/9784319288267.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319284535",
+            "title": "山形県の社会科過去問（2020年度版）",
+            "title_collation_key": "ヤマガタケン ノ シャカイカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4535/9784319284535.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784344921269",
+            "title": "保育士が教える「子育て」の正解",
+            "title_collation_key": "ホイクシ ガ オシエル コソダテ ノ セイカイ",
+            "contributor": "須貝美香",
+            "contributor_collation_key": "スガイ,ミカ",
+            "imprint": "幻冬舎メディアコンサルティング",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1269/9784344921269.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319287727",
+            "title": "鳥取県の理科過去問（2020年度版）",
+            "title_collation_key": "トットリケン ノ リカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7727/9784319287727.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319286911",
+            "title": "滋賀県の国語科過去問（2020年度版）",
+            "title_collation_key": "シガケン ノ コクゴカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6911/9784319286911.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784271531197",
+            "title": "保育士資格・採用試験問題200選（20年度版）",
+            "title_collation_key": "ホイクシ シカク サイヨウ シケン モンダイ ニヒャクセン",
+            "contributor": "保育問題検討委員会",
+            "contributor_collation_key": "ホイク モンダイ ケントウ イインカイ",
+            "imprint": "大阪教育図書",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1197/9784271531197.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784271531203",
+            "title": "役立つ保育・教育用語集（20年度版）",
+            "title_collation_key": "ヤクダツ ホイク キョウイク ヨウゴシュウ",
+            "contributor": "植原清",
+            "contributor_collation_key": "ウエハラ,キヨシ",
+            "imprint": "大阪教育図書",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1203/9784271531203.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319286959",
+            "title": "滋賀県の理科過去問（2020年度版）",
+            "title_collation_key": "シガケン ノ リカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6959/9784319286959.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784799801710",
+            "title": "めざせ！保育士・幼稚園教諭",
+            "title_collation_key": "メザセホイクシヨウチエンキョウユ",
+            "contributor": "久保田 慶一/渡辺 行野",
+            "contributor_collation_key": "クボタ ケイイチ/ワタナベ ユキノ",
+            "imprint": "スタイルノート",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1710/9784799801710.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784334777937",
+            "title": "社内保育士はじめました 2",
+            "title_collation_key": "シャナイホイクシハジメマシタニ",
+            "contributor": "貴水玲",
+            "contributor_collation_key": "タカミ レイ",
+            "imprint": "光文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7937/9784334777937.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319284542",
+            "title": "山形県の英語科過去問（2020年度版）",
+            "title_collation_key": "ヤマガタケン ノ エイゴカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4542/9784319284542.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319287444",
+            "title": "奈良県の社会科過去問（2020年度版）",
+            "title_collation_key": "ナラケン ノ シャカイカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7444/9784319287444.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784489023095",
+            "title": "合格ナビ！公認心理師・臨床心理士大学院〔研究計画書〕",
+            "title_collation_key": "ゴウカク ナビ コウニン シンリシ リンショウ シンリシ ダイガクイン ケンキュウ",
+            "contributor": "遠田諭/福井博一",
+            "contributor_collation_key": "オンダ,サトシ/フクイ,ヒロイチ",
+            "imprint": "東京図書",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3095/9784489023095.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784286201481",
+            "title": "臨床心理士桜井純一郎／眠れる湖",
+            "title_collation_key": "リンショウ シンリシ サクライ ジュンイチロウ ネムレル ミズウミ",
+            "contributor": "田所和馬",
+            "contributor_collation_key": "タドコロ,カズマ",
+            "imprint": "文芸社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1481/9784286201481.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319285976",
+            "title": "石川県の音楽科過去問（2020年度版）",
+            "title_collation_key": "イシカワケン ノ オンガクカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5976/9784319285976.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319289721",
+            "title": "沖縄県の音楽科過去問（2020年度版）",
+            "title_collation_key": "オキナワケン ノ オンガクカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9721/9784319289721.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319286461",
+            "title": "岐阜県の音楽科過去問（2020年度版）",
+            "title_collation_key": "ギフケン ノ オンガクカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6461/9784319286461.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319289004",
+            "title": "佐賀県の家庭科過去問（2020年度版）",
+            "title_collation_key": "サガケン ノ カテイカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9004/9784319289004.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319467471",
+            "title": "香川県の保健体育科参考書（2020年度版）",
+            "title_collation_key": "カガワケン ノ ホケン タイイクカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7471/9784319467471.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319289851",
+            "title": "名古屋市の家庭科過去問（2020年度版）",
+            "title_collation_key": "ナゴヤシ ノ カテイカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9851/9784319289851.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319463053",
+            "title": "北海道・札幌市の保健体育科参考書（2020年度版）",
+            "title_collation_key": "ホッカイドウ サッポロシ ノ ホケン タイイクカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3053/9784319463053.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319465255",
+            "title": "山梨県の保健体育科参考書（2020年度版）",
+            "title_collation_key": "ヤマナシケン ノ ホケン タイイクカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5255/9784319465255.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784565203106",
+            "title": "教員採用試験教職教養テキストブック　2020年度版",
+            "title_collation_key": "キヨウイン サイヨウ シケン キヨウシヨク キヨウヨウ テキストブツク",
+            "contributor": "山口　和孝",
+            "contributor_collation_key": "ヤマグチ,カズタカ",
+            "imprint": "一ツ橋書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3106/9784565203106.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319284429",
+            "title": "秋田県の英語科過去問（2020年度版）",
+            "title_collation_key": "アキタケン ノ エイゴカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784319284948",
+            "title": "栃木県の音楽科過去問（2020年度版）",
+            "title_collation_key": "トチギケン ノ オンガクカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4948/9784319284948.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319466122",
+            "title": "京都府の保健体育科参考書（2020年度版）",
+            "title_collation_key": "キョウトフ ノ ホケン タイイクカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6122/9784319466122.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319285822",
+            "title": "富山県の英語科過去問（2020年度版）",
+            "title_collation_key": "トヤマケン ノ エイゴカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784319284047",
+            "title": "青森県の国語科過去問（2020年度版）",
+            "title_collation_key": "アオモリケン ノ コクゴカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4047/9784319284047.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319465385",
+            "title": "長野県の保健体育科参考書（2020年度版）",
+            "title_collation_key": "ナガノケン ノ ホケン タイイクカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5385/9784319465385.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319467235",
+            "title": "山口県の養護教諭参考書（2020年度版）",
+            "title_collation_key": "ヤマグチケン ノ ヨウゴ キョウユ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7235/9784319467235.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319467013",
+            "title": "岡山県・岡山市の特別支援学校教諭参考書（2020年度版）",
+            "title_collation_key": "オカヤマケン オカヤマシ ノ トクベツ シエン ガッコウ キョウユ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7013/9784319467013.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319466269",
+            "title": "大阪府・大阪市・堺市・豊能地区の養護教諭参考書（2020年度版）",
+            "title_collation_key": "オオサカフ オオサカシ サカイシ トヨノ チク ノ ヨウゴ キョウユ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6269/9784319466269.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319468560",
+            "title": "鹿児島県の養護教諭参考書（2020年度版）",
+            "title_collation_key": "カゴシマケン ノ ヨウゴ キョウユ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8560/9784319468560.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319465026",
+            "title": "石川県の養護教諭参考書（2020年度版）",
+            "title_collation_key": "イシカワケン ノ ヨウゴ キョウユ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5026/9784319465026.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319285044",
+            "title": "群馬県の英語科過去問（2020年度版）",
+            "title_collation_key": "グンマケン ノ エイゴカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5044/9784319285044.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784864553896",
+            "title": "教員採用試験対策教育用語集（2020年度）",
+            "title_collation_key": "キョウイン サイヨウ シケン タイサク キョウイク ヨウゴシュウ",
+            "contributor": "東京アカデミー",
+            "contributor_collation_key": "トウキョウ アカデミー",
+            "imprint": "ティーエーネットワーク",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3896/9784864553896.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319467709",
+            "title": "高知県の家庭科参考書（2020年度版）",
+            "title_collation_key": "コウチケン ノ カテイカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7709/9784319467709.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319288212",
+            "title": "山口県の英語科過去問（2020年度版）",
+            "title_collation_key": "ヤマグチケン ノ エイゴカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8212/9784319288212.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319467815",
+            "title": "福岡県・北九州市の音楽科参考書（2020年度版）",
+            "title_collation_key": "フクオカケン キタキュウシュウシ ノ オンガクカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7815/9784319467815.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319463862",
+            "title": "茨城県の家庭科参考書（2020年度版）",
+            "title_collation_key": "イバラキケン ノ カテイカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3862/9784319463862.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319468140",
+            "title": "熊本県・熊本市の社会科参考書（2020年度版）",
+            "title_collation_key": "クマモトケン クマモトシ ノ シャカイカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8140/9784319468140.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319468737",
+            "title": "名古屋市の社会科参考書（2020年度版）",
+            "title_collation_key": "ナゴヤシ ノ シャカイカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8737/9784319468737.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319466474",
+            "title": "奈良県の家庭科参考書（2020年度版）",
+            "title_collation_key": "ナラケン ノ カテイカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6474/9784319466474.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866663395",
+            "title": "【POD】カウンセラー天野仁善のみんな悩んでるのがわかる本",
+            "title_collation_key": "カウンセラーアマノヒトヨシノミンナナヤンデルノガワカルホン",
+            "contributor": "天野仁善",
+            "contributor_collation_key": "アマノヒトヨシ",
+            "imprint": "ギャラクシーブックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3395/9784866663395.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784334777234",
+            "title": "社内保育士はじめました",
+            "title_collation_key": "シャナイホイクシハジメマシタ",
+            "contributor": "貴水玲",
+            "contributor_collation_key": "タカミ レイ",
+            "imprint": "光文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7234/9784334777234.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319463367",
+            "title": "宮城県・仙台市の英語科参考書（2020年度版）",
+            "title_collation_key": "ミヤギケン センダイシ ノ エイゴカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3367/9784319463367.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319463930",
+            "title": "栃木県の国語科参考書（2020年度版）",
+            "title_collation_key": "トチギケン ノ コクゴカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3930/9784319463930.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319467785",
+            "title": "福岡県・福岡市・北九州市の英語科参考書（2020年度版）",
+            "title_collation_key": "フクオカケン フクオカシ キタキュウシュウシ ノ エイゴカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7785/9784319467785.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319464609",
+            "title": "神奈川県・横浜市・川崎市・相模原市の理科参考書（2020年度版）",
+            "title_collation_key": "カナガワケン ヨコハマシ カワサキシ サガミハラシ ノ リカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4609/9784319464609.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319463138",
+            "title": "青森県の英語科参考書",
+            "title_collation_key": "アオモリケン ノ エイゴカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3138/9784319463138.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319465200",
+            "title": "山梨県の英語科参考書（2020年度版）",
+            "title_collation_key": "ヤマナシケン ノ エイゴカ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5200/9784319465200.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784344918719",
+            "title": "じーじ、65歳で保育士になったよ",
+            "title_collation_key": "ジージ ロクジュウゴサイ デ ホイクシ ニ ナッタヨ",
+            "contributor": "高田勇紀夫",
+            "contributor_collation_key": "タカダ,ユキオ",
+            "imprint": "幻冬舎メディアコンサルティング",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8719/9784344918719.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319467136",
+            "title": "山口県の教職・一般教養参考書（2020年度版）",
+            "title_collation_key": "ヤマグチケン ノ キョウショク イッパン キョウヨウ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7136/9784319467136.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319463091",
+            "title": "青森県の一般教養参考書（2020年度版）",
+            "title_collation_key": "アオモリケン ノ イッパン キョウヨウ サンコウショ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3091/9784319463091.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784908637803",
+            "title": "教員採用試験パーフェクトガイド 小論文編",
+            "title_collation_key": "キョウインサイヨウシケンパーフェクトガイド ショウロンブンヘン",
+            "contributor": "岸上 隆文/三浦 一心",
+            "contributor_collation_key": "キシガミ タカフミ/ミウラ イッシン",
+            "imprint": "学芸みらい社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7803/9784908637803.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319333066",
+            "title": "浜松市・磐田市の公立幼稚園教諭・保育士（2019年度版）",
+            "title_collation_key": "ハママツシ イワタシ ノ コウリツ ヨウチエン キョウユ ホイクシ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3066/9784319333066.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319333400",
+            "title": "広島市の公立幼稚園教諭（2019年度版）",
+            "title_collation_key": "ヒロシマシ ノ コウリツ ヨウチエン キョウユ",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3400/9784319333400.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784837968627",
+            "title": "空間心理カウンセラーの「いいこと」が次々起こる片づけの法則",
+            "title_collation_key": "クウカンシンリカウンセラーノイイコトガツギツギオコルカタヅケノホウソク",
+            "contributor": "伊藤 勇司",
+            "contributor_collation_key": "イトウ ユウジ",
+            "imprint": "三笠書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8627/9784837968627.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784832290600",
+            "title": "パパは保育士さんが好き!?",
+            "title_collation_key": "パパハホイクシサンガスキ",
+            "contributor": "海行リリ",
+            "contributor_collation_key": "ウミユキリリ",
+            "imprint": "芳文社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0600/9784832290600.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784260036160",
+            "title": "大人の発達障害ってそういうことだったのか　その後",
+            "title_collation_key": "オトナノハッタツショウガイッテソウイウコトダッタノカ　ソノゴ",
+            "contributor": "宮岡 等",
+            "contributor_collation_key": "ミヤオカ ヒトシ",
+            "imprint": "医学書院",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6160/9784260036160.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784909400765",
+            "title": "【POD】心理カウンセラーが教える　社会人のための必ず続く勉強法",
+            "title_collation_key": "シンリカウンセラーガオシエルシャカイジンノタメノカナラズツヅクベンキョウホウ",
+            "contributor": "笹氣健治",
+            "contributor_collation_key": "ササキケンジ",
+            "imprint": "パンダ・パブリッシング",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0765/9784909400765.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784902591323",
+            "title": "保育士、教員がDV被害を受けた親子を理解するための本",
+            "title_collation_key": "ホイクシ キョウイン ガ ディーヴイ ヒガイ オ ウケタ オヤコ オ リカイスル",
+            "contributor": "須賀朋子",
+            "contributor_collation_key": "スガ,トモコ",
+            "imprint": "かりん舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1323/9784902591323.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784760826667",
+            "title": "スクールカウンセラーのビリーフとアクティビティ",
+            "title_collation_key": "スクールカウンセラーノビリーフトアクティビティ",
+            "contributor": "稲垣応顕/坂井祐円",
+            "contributor_collation_key": "イナガキマサアキ/サカイユウエン",
+            "imprint": "金子書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6667/9784760826667.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319281596",
+            "title": "島根県の理科過去問（2019年度版）",
+            "title_collation_key": "シマネケン ノ リカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1596/9784319281596.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784576180625",
+            "title": "人気のカウンセラーになる教科書",
+            "title_collation_key": "ニンキ ノ カウンセラー ニ ナル キョウカショ",
+            "contributor": "城市奈津子",
+            "contributor_collation_key": "ジョウイチ,ナツコ",
+            "imprint": "二見書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0625/9784576180625.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784274222085",
+            "title": "解くコツがわかる 小学校教員採用試験　理科問題集 改訂2版",
+            "title_collation_key": "トクコツガワカルショウガッコウキョウインサイヨウシケン リカモンダイシュウ",
+            "contributor": "松原 静郎/岩間 淳子",
+            "contributor_collation_key": "マツバラ シズロウ/イワマ ジュンコ",
+            "imprint": "株式会社オーム社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2085/9784274222085.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784831887672",
+            "title": "お坊さんでスクールカウンセラー",
+            "title_collation_key": "オボウサンデスクールカウンセラー",
+            "contributor": "坂井 祐円",
+            "contributor_collation_key": "サカイ ユウエン",
+            "imprint": "法藏館",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7672/9784831887672.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434246005",
+            "title": "デンマークで保育士",
+            "title_collation_key": "デンマーク デ ホイクシ",
+            "contributor": "遠藤祐太郎",
+            "contributor_collation_key": "エンドウ,ユウタロウ",
+            "imprint": "ビネバル出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6005/9784434246005.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784863674110",
+            "title": "キャリアカウンセラーという生き方",
+            "title_collation_key": "キャリア カウンセラー ト イウ イキカタ",
+            "contributor": "古川晶子",
+            "contributor_collation_key": "フルカワ,アキコ",
+            "imprint": "セルバ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4110/9784863674110.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784893472977",
+            "title": "実習日誌の書き方",
+            "title_collation_key": "ジッシュウ ニッシ ノ カキカタ",
+            "contributor": "相馬和子/中田カヨ子",
+            "contributor_collation_key": "ソウマ,カズコ/ナカタ,カヨコ",
+            "imprint": "萌文書林",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2977/9784893472977.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784842917160",
+            "title": "保育士のための社会的養護（第2版）",
+            "title_collation_key": "ホイクシノタメノシャカイテキヨウゴ",
+            "contributor": "吉田　明弘",
+            "contributor_collation_key": "ヨシダ アキヒロ",
+            "imprint": "八千代出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7160/9784842917160.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784793512704",
+            "title": "全国保育士会倫理綱領ガイドブック改訂2版",
+            "title_collation_key": "ゼンコク ホイクシカイ リンリ コウリョウ ガイドブック",
+            "contributor": "柏女霊峰/全国保育士会",
+            "contributor_collation_key": "カシワメ,レイホウ/ゼンコク ホイクシカイ",
+            "imprint": "全国社会福祉協議会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2704/9784793512704.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784319281749",
+            "title": "岡山県・岡山市の家庭科過去問（2019年度版）",
+            "title_collation_key": "オカヤマケン オカヤマシ ノ カテイカ カコモン",
+            "contributor": "協同教育研究会",
+            "contributor_collation_key": "キョウドウ キョウイク ケンキュウカイ",
+            "imprint": "協同出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1749/9784319281749.jpg?_ex=200x200"
+        }
+    ]
+}

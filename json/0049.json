@@ -1,1604 +1,1602 @@
-[
-    {
-        "shelf_title": "パソコン・システム開発/ハードウェア",
-        "category": "ハードウェア",
-        "back_cover_images": [
-            "back_cover_image/0049_1.png",
-            "back_cover_image/0049_2.png",
-            "back_cover_image/0049_3.png",
-            "back_cover_image/0049_4.png"
-        ],
-        "back_cover_low_images": [
-            "back_cover_low_image/0049_1_low.png",
-            "back_cover_low_image/0049_2_low.png",
-            "back_cover_low_image/0049_3_low.png",
-            "back_cover_low_image/0049_4_low.png"
-        ],
-        "books": [
-            {
-                "isbn": "9784866535609",
-                "title": "わかる！LINEをすぐに使いこなせる本2022最新版",
-                "title_collation_key": "ワカルラインヲスグニツカイコナセルホンニセンニジュウニサイシンバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "コアマガジン",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5609/9784866535609.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784299023193",
-                "title": "Windows 11がぜんぶわかる本",
-                "title_collation_key": "ウィンドウズイレブンガゼンブワカルホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3193/9784299023193.gif?_ex=200x200"
-            },
-            {
-                "isbn": "9784798065908",
-                "title": "はじめての今さら聞けないスマートフォン入門［第3版］",
-                "title_collation_key": "ハジメテノイマサラキケナイスマートフォンニュウモンダイサンパン",
-                "contributor": "高橋慈子/八木重和",
-                "contributor_collation_key": "タカハシシゲコ/ヤギシゲカズ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5908/9784798065908_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798064796",
-                "title": "これ1冊でOK!　iPhoneだけで今すぐはじめる動画編集",
-                "title_collation_key": "コレイッサツデオーケーアイフォーンダケデイマスグハジメルドウガヘンシュウ",
-                "contributor": "Taka",
-                "contributor_collation_key": "タカ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4796/9784798064796_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798625911",
-                "title": "スマホで描く！　はじめてのデジ絵ガイドブック",
-                "title_collation_key": "スマホデカク　ハジメテノデジエガイドブック",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "ホビージャパン",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5911/9784798625911_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299022554",
-                "title": "iPhoneの「わからない!」をスッキリ解決する本",
-                "title_collation_key": "アイフォンノワカラナイヲスッキリカイケツスルホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2554/9784299022554_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784867172490",
-                "title": "65歳からはじめるiPhone",
-                "title_collation_key": "ロクジュウゴサイ カラ ハジメル アイフォン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "ジーウォーク",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2490/9784867172490_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866743387",
-                "title": "「はじめて」のAndroidスマホ　スタートガイド",
-                "title_collation_key": "ハジメテノアンドロイドスマホ　スタートガイド",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3387/9784866743387_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784074498819",
-                "title": "60歳からのスマホ品格レッスン",
-                "title_collation_key": "ロクジュッサイカラノスマホヒンカクレッスン",
-                "contributor": "増田由紀",
-                "contributor_collation_key": "マスダユキ",
-                "imprint": "主婦の友社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8819/9784074498819_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866743394",
-                "title": "初めてのiPhone13　困った時に読む本",
-                "title_collation_key": "ハジメテノアイフォンサーティーン　コマッタトキニヨムホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3394/9784866743394_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784594617707",
-                "title": "NHK趣味どきっ！ このまま真似るだけスマホアプリ講座",
-                "title_collation_key": "シュミドキコノッママネルダケスマホアプリコウザ",
-                "contributor": "講師　岡嶋裕史",
-                "contributor_collation_key": "オカジマユウシ",
-                "imprint": "扶桑社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7707/9784594617707_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798065595",
-                "title": "最新 スマホ用語＆操作事典",
-                "title_collation_key": "サイシンスマホヨウゴアンドソウサジテン",
-                "contributor": "秀和システム編集本部",
-                "contributor_collation_key": "シュウワシステムヘンシュウホンブ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5595/9784798065595_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295012757",
-                "title": "Kubernetes CI/CDパイプラインの実装",
-                "title_collation_key": "",
-                "contributor": "北山晋吾",
-                "contributor_collation_key": "キタヤマシンゴ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2757/9784295012757_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295600022",
-                "title": "【POD】解決！Androidアプリ開発のアレコレ 実践編",
-                "title_collation_key": "カイケツアンドロイドアプリカイハツノアレコレジッセンヘン",
-                "contributor": "前田 欣耶",
-                "contributor_collation_key": "マエダ ヨシヤ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0022/9784295600022.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784049110807",
-                "title": "世界一かんたんデジカメ年賀状　2022",
-                "title_collation_key": "セカイイチカンタンデジカメネンガジョウ ニセンニジュウニ",
-                "contributor": "年賀状素材集編集部",
-                "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
-                "imprint": "角川アスキー総合研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0807/9784049110807_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784867300800",
-                "title": "iPhoneの基本がQ＆Aでわかる本（2022）",
-                "title_collation_key": "アイフォーン ノ キホン ガ キュー アンド エイ デ ワカル ホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0800/9784867300800_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784046051790",
-                "title": "スマートフォングラフィ 手軽にドラマを生み出す全撮影術",
-                "title_collation_key": "スマートフォングラフィ テガルニドラマヲウミダスゼンサツエイジュツ",
-                "contributor": "あああつし",
-                "contributor_collation_key": "アアアツシ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1790/9784046051790_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295012610",
-                "title": "できるfit Instagram 基本＋活用ワザ 最新改訂版",
-                "title_collation_key": "デキルフィットインスタグラムキホンプラスカツヨウワザサイシンカイテイバン",
-                "contributor": "田口和裕/いしたにまさき",
-                "contributor_collation_key": "タグチカズヒロ/イシタニマサキ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2610/9784295012610_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295600107",
-                "title": "【POD】WindowsではじめるSTM32",
-                "title_collation_key": "ウィンドウズデハジメルエスティーエムサンジュウニ",
-                "contributor": "山本 小鉄",
-                "contributor_collation_key": "ヤマモト コテツ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0107/9784295600107.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784561267539",
-                "title": "アジアの情報通信産業と産業クラスター",
-                "title_collation_key": "アジアノジョウホウツウシンサンギョウトサンギョウクラスター",
-                "contributor": "税所　哲郎",
-                "contributor_collation_key": "サイショ　テツロウ",
-                "imprint": "白桃書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7539/9784561267539_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784890222827",
-                "title": "今日、不可能でも明日可能になる。",
-                "title_collation_key": "キョウ フカノウ デモ アス カノウ ニ ナル",
-                "contributor": "木野将徳/鈴木たつお",
-                "contributor_collation_key": "キノ,マサノリ/スズキ,タツオ",
-                "imprint": "日本地域社会研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2827/9784890222827_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866743219",
-                "title": "1冊ですべてマスター！65歳からのAndroidスマホ",
-                "title_collation_key": "イッサツデスベテマスター　ロクジュウゴサイカラノアンドロイドスマホ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3219/9784866743219_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299019974",
-                "title": "スマホの便利技150",
-                "title_collation_key": "スマホノベンリワザヒャクゴジュウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9974/9784299019974_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784047335660",
-                "title": "ファミ通App Android別冊　水着女子コレクション2021",
-                "title_collation_key": "ファミツウアップアンドロイドベッサツ　ミズギジョシコレクションニセンニジュウイチ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "KADOKAWA　Game　Linkage",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5660/9784047335660_1_5.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866905730",
-                "title": "Androidスマホ超便利活用術（2021）",
-                "title_collation_key": "アンドロイド スマホ チョウ ベンリ カツヨウジュツ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "マイウェイ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5730/9784866905730_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299018564",
-                "title": "医者が教える正しいスマホ習慣",
-                "title_collation_key": "イシャガオシエルタダシイスマホシュウカン",
-                "contributor": "奥村 歩/佐久間 寛之",
-                "contributor_collation_key": "オクムラ アユミ/サクマ ヒロシ",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8564/9784299018564_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866743066",
-                "title": "とてもやさしいAndroidスマホの本",
-                "title_collation_key": "トテモヤサシイアンドロイドスマホノホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3066/9784866743066_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798064093",
-                "title": "Instagram完全マニュアル",
-                "title_collation_key": "インスタグラムカンゼンマニュアル",
-                "contributor": "八木重和",
-                "contributor_collation_key": "ヤギシゲカズ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4093/9784798064093_1_4.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801816640",
-                "title": "iPhone＆iPadの便利帖",
-                "title_collation_key": "アイフォン アンド アイパッド ノ ベンリチョウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "晋遊舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6640/9784801816640_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866743059",
-                "title": "50代からのAndroid 超決定版",
-                "title_collation_key": "ゴジュウダイカラノアンドロイド　チョウケッテイバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3059/9784866743059_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866364902",
-                "title": "2021年最新版 初めてでもできる超初心者のLINE入門",
-                "title_collation_key": "ニセンニジュウイチネンバンハジメテデモデキルチョウショシンシャノラインニュウモン",
-                "contributor": "standards",
-                "contributor_collation_key": "スタンダーズ",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4902/9784866364902_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784802613156",
-                "title": "Unity2021 3D/2D ゲーム開発実践入門",
-                "title_collation_key": "ユニティニゼロニイチ スリーディーツディーゲームカイハツジッセンニュウモン",
-                "contributor": "吉谷 幹人",
-                "contributor_collation_key": "ヨシヤ ミキト",
-                "imprint": "ソシム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3156/9784802613156_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299017970",
-                "title": "これで安心! スマホのセキュリティ＆パスワード管理術",
-                "title_collation_key": "コレデアンシンスマホノセキュリティアンドパスワードカンリジュツ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7970/9784299017970_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866742991",
-                "title": "「困った」を解決！iPhoneを買ったらまず読む本",
-                "title_collation_key": "コマッタヲカイケツ　アイフォンヲカッタラマズヨムホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2991/9784866742991_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798064536",
-                "title": "はじめての今さら聞けないインスタグラム[第2版]",
-                "title_collation_key": "ハジメテノイマサラキケナイインスタグラムダイニハン",
-                "contributor": "吉岡豊",
-                "contributor_collation_key": "ヨシオカユタカ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4536/9784798064536_1_2.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295011569",
-                "title": "世界一やさしいスマートフォン改訂4版",
-                "title_collation_key": "セカイイチ ヤサシイ スマートフォン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1569/9784295011569.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784777521494",
-                "title": "Androidスマホの改造",
-                "title_collation_key": "アンドロイドスマホノカイゾウ",
-                "contributor": "I/O編集部",
-                "contributor_collation_key": "アイオウヘンシュウブ",
-                "imprint": "工学社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1494/9784777521494.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866364964",
-                "title": "iPhoneはかどる！便利技2021",
-                "title_collation_key": "アイフォンハカドルベンリワザニセンニジュウイチ",
-                "contributor": "standards",
-                "contributor_collation_key": "スタンダーズ",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4964/9784866364964.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784142288175",
-                "title": "いまこそスマホ",
-                "title_collation_key": "イマコソスマホ",
-                "contributor": "岡嶋 裕史",
-                "contributor_collation_key": "オカジマ ユウシ",
-                "imprint": "NHK出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8175/9784142288175_1_3.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299016607",
-                "title": "Macがぜんぶわかる本 完全版",
-                "title_collation_key": "マックガゼンブワカルホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6607/9784299016607.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866905532",
-                "title": "60代からはじめるシニアスマホ入門（2021年版）",
-                "title_collation_key": "ロクジュウダイ カラ ハジメル シニア スマホ ニュウモン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "マイウェイ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5532/9784866905532.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297120825",
-                "title": "ゼロからはじめる　LINE ライン　基本&便利技",
-                "title_collation_key": "ゼロカラハジメルラインラインキホンアンドベンリワザ",
-                "contributor": "リンクアップ",
-                "contributor_collation_key": "リンクアップ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0825/9784297120825.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297120849",
-                "title": "図解即戦力　モバイルゲーム開発がこれ1冊でしっかりわかる教科書",
-                "title_collation_key": "ズカイソクセンリョクモバイルゲームカイハツガコレイッサツデシッカリワカルキョウカショ",
-                "contributor": "永田 峰弘/大嶋 剛直",
-                "contributor_collation_key": "ナガタ ミネヒロ/オオシマ タケナオ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0849/9784297120849.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839975562",
-                "title": "大人のためのiPhone講座",
-                "title_collation_key": "オトナノタメノアイフォーンコウザ",
-                "contributor": "松山茂/矢橋司",
-                "contributor_collation_key": "マツヤマシゲル/ヤハシツカサ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5562/9784839975562.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784867171691",
-                "title": "65歳からはじめるスマホ　アンドロイドスマートフォン専用",
-                "title_collation_key": "ロクジュウゴサイ カラ ハジメル スマホ アンドロイド スマートフォン センヨウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "ジーウォーク",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1691/9784867171691.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801815520",
-                "title": "スマートフォン完全ガイド（2021）",
-                "title_collation_key": "スマートフォン カンゼン ガイド",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "晋遊舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5520/9784801815520.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299016034",
-                "title": "世界一カンタン! スマホ料金を下げる本 2021年最新版",
-                "title_collation_key": "セカイイチカンタンスマホリョウキンヲサゲルホンニセンニジュウイチネンサイシンバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6034/9784299016034.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866742922",
-                "title": "Androidは初期設定で使っちゃダメ!!",
-                "title_collation_key": "アンドロイドハショキセッテイデツカッチャダメ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2922/9784866742922.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866364896",
-                "title": "iPhone完全マニュアル2021",
-                "title_collation_key": "アイフォンカンゼンマニュアル　ニセンニジュウイチ",
-                "contributor": "standards",
-                "contributor_collation_key": "スタンダーズ",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4896/9784866364896.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299015983",
-                "title": "SNSの「わからない!」をスッキリ解決する本",
-                "title_collation_key": "セスエヌエスノワカラナイヲスッキリカイケツスルホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5983/9784299015983.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798064499",
-                "title": "LINE完全マニュアル［第2版］公式アカウント対応",
-                "title_collation_key": "ラインカンゼンマニュアルダイニハンコウシキアカウントタイオウ",
-                "contributor": "桑名由美/松浦法子",
-                "contributor_collation_key": "クワナユミ/マツウラノリコ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4499/9784798064499.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784296109104",
-                "title": "2021年最新版 iPhoneは初期設定で使うな",
-                "title_collation_key": "2021ネンサイシンバンiPhoneハショキセッテイデツカウナ",
-                "contributor": "日経PC21",
-                "contributor_collation_key": "ニッケイピーシーニジュウイチ",
-                "imprint": "日経BP",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9104/9784296109104.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784867300251",
-                "title": "最新！スマホの「わからない」「困った」すべて解決大事典",
-                "title_collation_key": "サイシン スマホ ノ ワカラナイ コマッタ スベテ カイケツ ダイジテン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0251/9784867300251.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784651200866",
-                "title": "500円でわかるアンドロイドスマートフォン最新版",
-                "title_collation_key": "ゴヒャクエン デ ワカル アンドロイド スマートフォン サイシンバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "ワン・パブリッシング",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0866/9784651200866.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866742878",
-                "title": "AQUOS sense5Gのすべてがわかる本",
-                "title_collation_key": "アクオスセンスファイブジーノスベテガワカルホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2878/9784866742878.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299015235",
-                "title": "わかる! 楽しい! LINE",
-                "title_collation_key": "ワカルタノシイライン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5235/9784299015235.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784022727367",
-                "title": "スマホで困ったときに開く本　2021-2022",
-                "title_collation_key": "スマホデコマッタトキニヒラクホン 2021-2022",
-                "contributor": "PASO編集部",
-                "contributor_collation_key": "PASOヘンシュウブ",
-                "imprint": "朝日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7367/9784022727367.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866742700",
-                "title": "絶対できる！50代からのスマートフォン最新超カンタン版",
-                "title_collation_key": "ゼッタイデキル　ゴジュウダイカラノスマートフォンサイシンチョウカンタンバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2700/9784866742700.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866742793",
-                "title": "「困った」を解決！Androidスマホを買ったらまず読む本",
-                "title_collation_key": "コマッタヲカイケツ　アンドロイドスマホヲカッタラマズヨムホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2793/9784866742793.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784141992967",
-                "title": "はじめてのスマホ　「やりたい！」がすぐできる　スマホ用語100",
-                "title_collation_key": "ハジメテノスマホヤリタイガスグデキルスマホヨウゴヒャク",
-                "contributor": "岡嶋 裕史/NHK出版",
-                "contributor_collation_key": "オカジマ ユウシ/エヌエイチケイシュッパン",
-                "imprint": "NHK出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2967/9784141992967.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784296108671",
-                "title": "2021年最新版 アンドロイドは初期設定で使うな",
-                "title_collation_key": "2021ネンサイシンバンアンドロイドハショキセッテイデツカウナ",
-                "contributor": "日経PC21",
-                "contributor_collation_key": "ニッケイピーシーニジュウイチ",
-                "imprint": "日経BP",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8671/9784296108671.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866364315",
-                "title": "Androidスマートフォン完全マニュアル2021",
-                "title_collation_key": "アンドロイドスマートフォンカンゼンマニュアルニセンニジュウイチ",
-                "contributor": "standards",
-                "contributor_collation_key": "スタンダーズ",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4315/9784866364315.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784867300060",
-                "title": "Androidほぼ標準機能で使える速攻技（2021）",
-                "title_collation_key": "アンドロイド ホボ ヒョウジュン キノウ デ ツカエル ソッコウワザ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0060/9784867300060.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784777521319",
-                "title": "はじめてのFlutter",
-                "title_collation_key": "ハジメテノフラッター",
-                "contributor": "新井　克人",
-                "contributor_collation_key": "アライ　カツト",
-                "imprint": "工学社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1319/9784777521319.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866364698",
-                "title": "iPhone迷わず使える操作ガイド 2021",
-                "title_collation_key": "アイフォンマヨワズツカエルソウサガイドニセンニジュウイチ",
-                "contributor": "standards",
-                "contributor_collation_key": "スタンダーズ",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4698/9784866364698.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866742625",
-                "title": "50代からのAndroid",
-                "title_collation_key": "ゴジュウダイカラノアンドロイド",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2625/9784866742625.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784815607968",
-                "title": "はじめてのAndroidプログラミング　第5版",
-                "title_collation_key": "ハジメテノアンドロイドプログラミングダイゴハン",
-                "contributor": "金田浩明",
-                "contributor_collation_key": "カネダヒロアキ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7968/9784815607968.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865458848",
-                "title": "とてもやさしいiPhoneの本",
-                "title_collation_key": "トテモ ヤサシイ アイフォン ノ ホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8848/9784865458848.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299012098",
-                "title": "スマホの「わからない!」をスッキリ解決する本",
-                "title_collation_key": "スマホノワカラナイヲスッキリカイケツスルホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2098/9784299012098.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865458909",
-                "title": "スマートフォンの基本がQ＆Aでわかる本（2021）",
-                "title_collation_key": "スマートフォン ノ キホン ガ キュー アンド エイ デ ワカル ホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8909/9784865458909.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784022727343",
-                "title": "はじめてのスマホで困ったときに開く本",
-                "title_collation_key": "ハジメテノスマホデコマッタトキニヒラクホン",
-                "contributor": "朝日新聞出版",
-                "contributor_collation_key": "アサヒシンブンシュッパン",
-                "imprint": "朝日新聞出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7343/9784022727343.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784528023062",
-                "title": "まるごとわかる！撮り方ブック　iPhone&スマホ編",
-                "title_collation_key": "マルゴトワカル　トリカタブック　アイフォンアンドスマホヘン",
-                "contributor": "山崎理佳",
-                "contributor_collation_key": "ヤマザキリカ",
-                "imprint": "日東書院本社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3062/9784528023062.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299011794",
-                "title": "iPadがぜんぶわかる本 2021年最新版",
-                "title_collation_key": "アイパッドガゼンブワカルホンニセンニジュウイチネンサイシンバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1794/9784299011794.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295010357",
-                "title": "PC自作・チューンナップ虎の巻（2021）",
-                "title_collation_key": "ピーシー ジサク チューンナップ トラ ノ マキ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0357/9784295010357.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866742557",
-                "title": "50代からのiPhone　楽々スタート版",
-                "title_collation_key": "ゴジュウダイカラノアイフォン　ラクラクスタートバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2557/9784866742557.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839974657",
-                "title": "iPhone Fan iOS 14徹底活用ガイド",
-                "title_collation_key": "アイフォーンファン アイオーエス ジューヨン テッテイカツヨウガイド",
-                "contributor": "松山茂/矢橋司",
-                "contributor_collation_key": "マツヤマシゲル/ヤハシツカサ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4657/9784839974657.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865458824",
-                "title": "とてもやさしいスマホの本",
-                "title_collation_key": "トテモ ヤサシイ スマホ ノ ホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8824/9784865458824.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865458732",
-                "title": "Q＆Aでよくわかる！iPhoneの基本＆便利ワザ（2021）",
-                "title_collation_key": "キュー アンド エイ デ ヨクワカル アイフォーン ノ キホン アンド ベンリワサ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8732/9784865458732.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801815148",
-                "title": "デジカメ＆ビデオカメラがまるごとわかる本（2021）",
-                "title_collation_key": "デジカメ アンド ビデオ カメラ ガ マルゴト ワカル ホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "晋遊舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5148/9784801815148.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865458640",
-                "title": "iPhone完全マスターガイド　iOS14のすべて",
-                "title_collation_key": "アイフォン カンゼン マスター ガイド アイオーエス ジュウヨン ノ スベテ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8640/9784865458640.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784296107346",
-                "title": "官邸vs携帯大手　値下げを巡る1000日戦争",
-                "title_collation_key": "カンテイvsケイタイオオテネサゲヲメグル1000ニチセンソウ",
-                "contributor": "堀越 功",
-                "contributor_collation_key": "ホリコシ イサオ",
-                "imprint": "日経BP",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7346/9784296107346.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784434279447",
-                "title": "現代情報通信政策論",
-                "title_collation_key": "ゲンダイジョウホウツウシンセイサクロン",
-                "contributor": "柴田怜",
-                "contributor_collation_key": "シバタサトシ",
-                "imprint": "現代図書",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9447/9784434279447.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798062228",
-                "title": "チームのスキルアップに役立つ Android開発テクニック",
-                "title_collation_key": "チーム ノ スキルアップ ニ ヤクダツ アンドロイド カイハツ テクニック",
-                "contributor": "坂口亮太",
-                "contributor_collation_key": "サカグチリョウタ",
-                "imprint": "秀和システム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2228/9784798062228.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839968519",
-                "title": "作ろう！CPU",
-                "title_collation_key": "ツクロウ　シーピーユー",
-                "contributor": "上原周",
-                "contributor_collation_key": "ウエハラアマネ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8519/9784839968519.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299007575",
-                "title": "NHK趣味どきっ! スマホがあれば広がる世界",
-                "title_collation_key": "エヌエイチケーシュミドキッスマホガアレバヒロガルセカイ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7575/9784299007575.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784822286422",
-                "title": "いちばんやさしい60代からのAndroidスマホ 第2版",
-                "title_collation_key": "イチバンヤサシイロクジュウダイカラノアンドロイドスマホダイニハン",
-                "contributor": "増田 由紀",
-                "contributor_collation_key": "マスダユキ",
-                "imprint": "日経BP",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6422/9784822286422.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295009146",
-                "title": "世界一やさしいiPhoneSE",
-                "title_collation_key": "セカイイチ ヤサシイ アイフォーン エスイー",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9146/9784295009146.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784106108686",
-                "title": "スマホ料金はなぜ高いのか",
-                "title_collation_key": "スマホリョウキンハナゼタカイノカ",
-                "contributor": "山田 明",
-                "contributor_collation_key": "ヤマダ アキラ",
-                "imprint": "新潮社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8686/9784106108686.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801814424",
-                "title": "デジカメお得技ベストセレクション最新版",
-                "title_collation_key": "デジカメ オトクワザ ベスト セレクション サイシンバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "晋遊舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4424/9784801814424.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295404330",
-                "title": "iPhoneで作ろう ビジネス動画の教科書",
-                "title_collation_key": "アイホンデツクロウ ビジネスドウガノキョウカショ",
-                "contributor": "渡川 修一",
-                "contributor_collation_key": "オリカワ　シュウイチ",
-                "imprint": "ペンコム",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4330/9784295404330.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784815605124",
-                "title": "いちばんやさしいスマートフォン超入門　Android対応",
-                "title_collation_key": "イチバンヤサシイスマートフォンチョウニュウモンアンドロイドタイオウ",
-                "contributor": "原田和也",
-                "contributor_collation_key": "ハラダカズヤ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5124/9784815605124.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866742175",
-                "title": "iPhone SE パーフェクトマスター",
-                "title_collation_key": "アイフォンエスイーパーフェクトマスター",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2175/9784866742175.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784141992936",
-                "title": "ひとりでできる！　はじめてのスマホ　100の困った！解決ブック",
-                "title_collation_key": "ヒトリデデキルハジメテノスマホヒャクノコマッタカイケツブック",
-                "contributor": "NHK出版",
-                "contributor_collation_key": "エヌエイチケイシュッパン",
-                "imprint": "NHK出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2936/9784141992936.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866364407",
-                "title": "Androidスマートフォン便利すぎる！テクニック2020",
-                "title_collation_key": "アンドロイドスマートフォンベンリスギルテクニック　ニセンニジュウ",
-                "contributor": "standards",
-                "contributor_collation_key": "スタンダーズ",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4407/9784866364407.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784046048387",
-                "title": "ミニマリスト　スマホの中を片付ける",
-                "title_collation_key": "ミニマリスト　スマホノナカヲカタヅケル",
-                "contributor": "飯島彩香",
-                "contributor_collation_key": "イイジマアヤカ",
-                "imprint": "KADOKAWA",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8387/9784046048387.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784899775041",
-                "title": "SwiftUIではじめるiPhoneアプリプログラミング入門",
-                "title_collation_key": "スウィフトユーアイデハジメルアイフォンアプリプログラミングニュウモン",
-                "contributor": "大津 真",
-                "contributor_collation_key": "オオツ マコト",
-                "imprint": "ラトルズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5041/9784899775041.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784802511889",
-                "title": "はじめてでもきれいに書ける iPadレタリング",
-                "title_collation_key": "ハジメテデモキレイニカケルアイパッドレタリング",
-                "contributor": "島野真希",
-                "contributor_collation_key": "シマノマキ",
-                "imprint": "ビー・エヌ・エヌ新社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1889/9784802511889.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784777959457",
-                "title": "デジモノ超愛用品リモートワークスタイル",
-                "title_collation_key": "デジモノ チョウ アイヨウヒン リモート ワーク スタイル",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "エイ出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9457/9784777959457.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865458299",
-                "title": "かんたん・やさしい・はじめてのスマートフォン",
-                "title_collation_key": "カンタン ヤサシイ ハジメテ ノ スマートフォン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8299/9784865458299.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866742083",
-                "title": "50代からのiPhone最新版",
-                "title_collation_key": "ゴジュウダイカラノアイフォンサイシンバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2083/9784866742083.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866364216",
-                "title": "iPhoneはかどる！便利技2020",
-                "title_collation_key": "アイフォンハカドルベンリワザニセンニジュウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4216/9784866364216.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297113438",
-                "title": "作って学ぶAndroidアプリ開発［Kotlin対応］",
-                "title_collation_key": "ツクッテマナブアンドロイドアプリカイハツコトリンタイオウ",
-                "contributor": "有山 圭二",
-                "contributor_collation_key": "アリヤマ ケイジ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3438/9784297113438.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784837665977",
-                "title": "スマートフォン（楽）入門2020",
-                "title_collation_key": "スマートフォンマルラクニュウモンニセンニジュウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "マキノ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5977/9784837665977.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865458152",
-                "title": "Q＆Aでよくわかる！大人のためのiPhone入門",
-                "title_collation_key": "キュー アンド エイ デ ヨクワカル オトナ ノ タメノ アイフォーン ニュウモン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8152/9784865458152.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866742014",
-                "title": "50代からのAndroid標準機能で使える超便利テクニック",
-                "title_collation_key": "ゴジュウダイカラノアンドロイドヒョウジュンキノウデツカエルチョウベンリテクニック",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "メディアックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2014/9784866742014.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865458077",
-                "title": "スマホの「わからない」「困った」すべて解決大事典",
-                "title_collation_key": "スマホ ノ ワカラナイ コマッタ スベテ カイケツ ダイジテン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8077/9784865458077.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866364254",
-                "title": "iPhone完全マニュアル2020",
-                "title_collation_key": "アイフォンカンゼンマニュアル　ニセンニジュウ",
-                "contributor": "standards",
-                "contributor_collation_key": "スタンダーズ",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4254/9784866364254.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801813557",
-                "title": "iPad　for　ビギナーズ（2020）",
-                "title_collation_key": "アイパッド フォー ビギナーズ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "晋遊舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3557/9784801813557.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784142287925",
-                "title": "こんどこそスマホ",
-                "title_collation_key": "コンドコソスマホ",
-                "contributor": "岡嶋 裕史",
-                "contributor_collation_key": "オカジマ ユウシ",
-                "imprint": "NHK出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7925/9784142287925.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784299003348",
-                "title": "スマホの「わからない!」を ぜんぶ解決する本 最新版",
-                "title_collation_key": "スマホノワカラナイヲゼンブカイケツスルホンサイシンバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3348/9784299003348.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865457926",
-                "title": "今すぐ役立つ！iPhone＆iPad便利ワザ大全",
-                "title_collation_key": "イマスグ ヤクダツ アイフォン アンド アイパッド ベンリワザ タイゼン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7926/9784865457926.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784326403738",
-                "title": "先端技術と規制の公法学",
-                "title_collation_key": "センタンギジュツトキセイノコウホウガク",
-                "contributor": "寺田　麻佑",
-                "contributor_collation_key": "テラダ　マユ",
-                "imprint": "勁草書房",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3738/9784326403738_1_106.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784296105083",
-                "title": "2020年最新版 アンドロイドは初期設定で使うな",
-                "title_collation_key": "2020ネンサイシンバンアンドロイドハショキセッテイデツカウナ",
-                "contributor": "日経PC21",
-                "contributor_collation_key": "ニッケイピーシーニジュウイチ",
-                "imprint": "日経BP",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5083/9784296105083.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866364131",
-                "title": "Androidスマートフォン完全マニュアル2020",
-                "title_collation_key": "アンドロイドスマートフォンカンゼンマニュアルニセンニジュウ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4131/9784866364131.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866364117",
-                "title": "2020年最新版 初めてでもできる超初心者のLINE入門",
-                "title_collation_key": "ニセンニジュウネンサイシンバンハジメテデモデキルチョウショシンシャノラインニュウモン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4117/9784866364117.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866731766",
-                "title": "iPadOS13徹底活用ガイドアップデート対応版",
-                "title_collation_key": "アイパッドオーエスジュウサンテッテイカツヨウガイドアップデートタイオウバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "三才ブックス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1766/9784866731766.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297111151",
-                "title": "ゼロからはじめる　ソフトバンク Xperia 5 スマートガイド",
-                "title_collation_key": "ゼロカラハジメルソフトバンクエクスペリアファイブスマートガイド",
-                "contributor": "技術評論社編集部",
-                "contributor_collation_key": "ギジュツヒョウロンシャヘンシュウブ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1151/9784297111151.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784141992882",
-                "title": "ひとりでできる！　はじめてのスマホアプリ使いこなし入門",
-                "title_collation_key": "ヒトリデデキルハジメテノスマホアプリツカイコナシニュウモン",
-                "contributor": "NHK出版",
-                "contributor_collation_key": "エヌエイチケイシュッパン",
-                "imprint": "NHK出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2882/9784141992882.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866364100",
-                "title": "iPhone迷わず使える操作ガイド",
-                "title_collation_key": "アイフォンマヨワズツカエルソウサガイド",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4100/9784866364100.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784899774914",
-                "title": "キットではじめる3Dプリンタ自作入門",
-                "title_collation_key": "キットデハジメルスリーディープリンタジサクニュウモン",
-                "contributor": "吹田 智章",
-                "contributor_collation_key": "スイタ トシアキ",
-                "imprint": "ラトルズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4914/9784899774914.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866903576",
-                "title": "知らないと危険！！！スマホ・ネットの処方箋",
-                "title_collation_key": "シラナイ ト キケン スマホ ネット ノ ショホウセン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "マイウェイ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3576/9784866903576.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865457698",
-                "title": "Q＆Aでよくわかる！スマートフォンの基本＆便利ワザ",
-                "title_collation_key": "キュー アンド エイ デ ヨク ワカル スマートフォン ノ キホン アンド ベンリ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7698/9784865457698.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295008071",
-                "title": "Instagramインスタグラム基本＋活用ワザ",
-                "title_collation_key": "インスタグラム インスタグラム キホン プラス カツヨウワザ",
-                "contributor": "田口和裕/いしたにまさき",
-                "contributor_collation_key": "タグチ,カズヒロ/イシタニ,マサキ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8071/9784295008071.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295008088",
-                "title": "iPhone芸人かじがや卓哉の超スゴいiPhone",
-                "title_collation_key": "アイフォン ゲイニン カジガヤ タクヤ ノ チョウ スゴイ アイフォン",
-                "contributor": "かじがや卓哉",
-                "contributor_collation_key": "カジガヤ,タクヤ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8088/9784295008088.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295008132",
-                "title": "世界一やさしいiPhone11／Pro／Pro　MAX",
-                "title_collation_key": "セカイイチ ヤサシイ アイフォン イレブン プロ プロ マックス",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8132/9784295008132.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865457650",
-                "title": "最新版！大人のためのiPhone入門",
-                "title_collation_key": "サイシンバン オトナ ノ タメノ アイフォン ニュウモン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7650/9784865457650.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784815603854",
-                "title": "LINE やりたいことが全部わかる本",
-                "title_collation_key": "ラインヤリタイコトガゼンブワカルホン",
-                "contributor": "田中 拓也",
-                "contributor_collation_key": "タナカ タクヤ",
-                "imprint": "SBクリエイティブ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3854/9784815603854.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784800712455",
-                "title": "Raspberry Pi ＋ AI 電子工作超入門",
-                "title_collation_key": "ラズベリー　パイ　プラス　エーアイ　デンシコウサクチョウニュウモン",
-                "contributor": "吉田顕一",
-                "contributor_collation_key": "ヨシダケンイチ",
-                "imprint": "ソーテック社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2455/9784800712455.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784800299093",
-                "title": "スマホひとつで快適暮らし",
-                "title_collation_key": "スマホ ヒトツ デ カイテキグラシ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9093/9784800299093.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295007692",
-                "title": "auのiPhone　11／Pro／Pro　Max基本＋活用ワザ",
-                "title_collation_key": "エイユー ノ アイフォン イレブン プロ プロ マックス キホン プラス カツヨウ",
-                "contributor": "法林岳之/橋本保",
-                "contributor_collation_key": "ホウリン,タカユキ/ハシモト,タモツ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7692/9784295007692.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784478107706",
-                "title": "TikTok 最強のSNSは中国から生まれる",
-                "title_collation_key": "ティックトック サイキョウノエスエヌエスハチュウゴクカラウマレル",
-                "contributor": "黄 未来",
-                "contributor_collation_key": "コウミク",
-                "imprint": "ダイヤモンド社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7706/9784478107706.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295007685",
-                "title": "ドコモのiPhone11／Pro／Pro　Max基本＆活用ワザ",
-                "title_collation_key": "ドコモ ノ アイフォーン イレブン プロ プロ マックス キホン カツヨウ ワザ",
-                "contributor": "法林岳之/橋本保",
-                "contributor_collation_key": "ホウリン,タカユキ/ハシモト,タモツ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7685/9784295007685.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839970871",
-                "title": "Flutter　モバイルアプリ開発バイブル",
-                "title_collation_key": "フラッター　モバイルアプリカイハツバイブル",
-                "contributor": "南里勇気/太田佳敬",
-                "contributor_collation_key": "ナンリ ユウキ/オオタ ヨシアキ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0871/9784839970871.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784838730735",
-                "title": "スマホ使いこなしてる？",
-                "title_collation_key": "スマホツカイコナシテル？",
-                "contributor": "こいしゆうか",
-                "contributor_collation_key": "コイシユウカ",
-                "imprint": "マガジンハウス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0735/9784838730735.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865457575",
-                "title": "iPadOS13完全マスターガイド",
-                "title_collation_key": "アイパッド オーエス サーティーン カンゼン マスター ガイド",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7575/9784865457575.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784899774983",
-                "title": "PythonではじめるiOSプログラミング",
-                "title_collation_key": "パイソンデハジメルアイオーエスプログラミング",
-                "contributor": "掌田　津耶乃",
-                "contributor_collation_key": "ショウダ ツヤノ",
-                "imprint": "ラトルズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4983/9784899774983.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784413113052",
-                "title": "15秒から始めるウケるスマホ動画入門",
-                "title_collation_key": "ジュウゴビョウカラハジメルウケルスマホドウガニュウモン",
-                "contributor": "戸田覚",
-                "contributor_collation_key": "トダサトル",
-                "imprint": "青春出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3052/9784413113052.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865457568",
-                "title": "Q＆Aでよくわかる！iPhoneの基本＆便利ワザ（2020）",
-                "title_collation_key": "キュー アンド エイ デ ヨクワカル アイフォーン ノ キホン アンド ベンリワサ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7568/9784865457568.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784798502649",
-                "title": "通信産業の経済学 R1",
-                "title_collation_key": "",
-                "contributor": "実積 寿也",
-                "contributor_collation_key": "ジツヅミ トシヤ",
-                "imprint": "九州大学出版会",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2649/9784798502649.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865457483",
-                "title": "iPhone完全マスターガイド　iOS13のすべて",
-                "title_collation_key": "アイフォン カンゼン マスター ガイド アイオーエス ジュウサン ノ スベテ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7483/9784865457483.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844398936",
-                "title": "【POD】スマートスピーカーアプリのお品書き",
-                "title_collation_key": "スマートスピーカーアプリノオシナガキ",
-                "contributor": "元木 理恵/伊藤 清香",
-                "contributor_collation_key": "モトキ リエ/イトウ サヤカ",
-                "imprint": "インプレスR&D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8936/9784844398936.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784413113007",
-                "title": "もっときれいに撮れる！スマホで旅行写真 コツと裏ワザ",
-                "title_collation_key": "モットキレイニトレル　スマホデリョコウシャシンコツトウラワザ",
-                "contributor": "庄子利男",
-                "contributor_collation_key": "ショウジトシオ",
-                "imprint": "青春出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3007/9784413113007.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784862464569",
-                "title": "HTML5 ゲーム開発の教科書",
-                "title_collation_key": "エイチティエムエルファイブゲームカイハツノキョウカショ",
-                "contributor": "Smith",
-                "contributor_collation_key": "スミス",
-                "imprint": "ボーンデジタル",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4569/9784862464569.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784837665571",
-                "title": "スマートフォン 疑問と悩み一発解消！令和版",
-                "title_collation_key": "スマートフォン ギモントナヤミイッパツカイショウ レイワバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "マキノ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5571/9784837665571.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784863548398",
-                "title": "基礎から学ぶLINEクリエイターズスタンプ",
-                "title_collation_key": "キソ カラ マナブ ライン クリエイターズ スタンプ",
-                "contributor": "篠塚充",
-                "contributor_collation_key": "シノズカ,ミチル",
-                "imprint": "シーアンドアール研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8398/9784863548398.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295007296",
-                "title": "iPhone芸人かじがや卓哉の今度はスゴいスマホ",
-                "title_collation_key": "アイフォン ゲイニン カジガヤ タクヤ ノ コンド ワ スゴイ スマホ",
-                "contributor": "かじがや卓哉",
-                "contributor_collation_key": "カジガヤ,タクヤ",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7296/9784295007296.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784198647414",
-                "title": "LINE上手",
-                "title_collation_key": "ラインジョウズ",
-                "contributor": "浮世満理子",
-                "contributor_collation_key": "ウキヨマリコ",
-                "imprint": "徳間書店",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7414/9784198647414.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839970734",
-                "title": "iOSビジネス年鑑",
-                "title_collation_key": "アイオーエスビジネスネンカン",
-                "contributor": "栗原亮/佐武洋介",
-                "contributor_collation_key": "クリハラリョウ/サタケヨウスケ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0734/9784839970734.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866363936",
-                "title": "Androidスマートフォン 迷わず使える操作ガイド",
-                "title_collation_key": "アンドロイドスマートフォンマヨワズツカエルソウサガイド",
-                "contributor": "standards",
-                "contributor_collation_key": "スタンダーズ",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3936/9784866363936.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784141992868",
-                "title": "5日ではじめる！5日で使える！　はじめてのスマホ",
-                "title_collation_key": "イツカデハジメルイツカデツカエルハジメテノスマホ",
-                "contributor": "NHK出版",
-                "contributor_collation_key": "エヌエイチケイシュッパン",
-                "imprint": "NHK出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2868/9784141992868.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297108212",
-                "title": "動かしてわかる CPUの作り方10講",
-                "title_collation_key": "ウゴカシテワカルシーピーユーノツクリカタジュッコウ",
-                "contributor": "井澤裕司",
-                "contributor_collation_key": "イザワユウジ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8212/9784297108212.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866363820",
-                "title": "AQUOS完全マニュアル",
-                "title_collation_key": "アクオスカンゼンマニュアル",
-                "contributor": "standards",
-                "contributor_collation_key": "スタンダーズ",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3820/9784866363820.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784141992820",
-                "title": "5日でデビュー！　はじめてのスマホ",
-                "title_collation_key": "イツカデデビューハジメテノスマホ",
-                "contributor": "池澤 あやか/NHK出版",
-                "contributor_collation_key": "イケザワ アヤカ/エヌエイチケイシュッパン",
-                "imprint": "NHK出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2820/9784141992820.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784801811669",
-                "title": "iPhone＆iPadの便利帖最新版",
-                "title_collation_key": "アイフォン アンド アイパッド ノ ベンリチョウ サイシンバン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "晋遊舎",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1669/9784801811669.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295006244",
-                "title": "48歳からのスマホ入門",
-                "title_collation_key": "ヨンジュウハッサイ カラノ スマホ ニュウモン",
-                "contributor": "リブロワークス",
-                "contributor_collation_key": "リブロ ワークス",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6244/9784295006244.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844378105",
-                "title": "OD＞驚異！デジカメだけで月のクレーターや木星の大赤斑が撮れる",
-                "title_collation_key": "オーディー キョウイ デジカメ ダケデ ツキ ノ クレーター ヤ モクセイ ノ",
-                "contributor": "山野泰照",
-                "contributor_collation_key": "ヤマモト,ヤステル",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8105/9784844378105.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784569843018",
-                "title": "スマホ1台で1000万円得する！マネーアプリ超活用術",
-                "title_collation_key": "スマホイチダイデイッセンマンエントクスル マネーアプリチョウカツヨウジュツ",
-                "contributor": "山崎 俊輔",
-                "contributor_collation_key": "ヤマサキ シュンスケ",
-                "imprint": "PHP研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3018/9784569843018.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297104801",
-                "title": "たった1日で基本が身に付く！　Swift　アプリ開発　超入門",
-                "title_collation_key": "タッタイチニチデキホンガミニツクスイフトアプリカイハツチョウニュウモン",
-                "contributor": "高橋　広樹",
-                "contributor_collation_key": "タカハシ ヒロキ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4801/9784297104801.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784839968991",
-                "title": "大人のためのiPhone講座",
-                "title_collation_key": "オトナノタメノアイフォーンコウザ",
-                "contributor": "松山茂/矢橋司",
-                "contributor_collation_key": "マツヤマシゲル/ヤハシツカサ",
-                "imprint": "マイナビ出版",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8991/9784839968991.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784873118536",
-                "title": "MESHをはじめよう",
-                "title_collation_key": "メッシュヲハジメヨウ",
-                "contributor": "萩原 丈博/小林 茂",
-                "contributor_collation_key": "ハギワラ タケヒロ/コバヤシ シゲル",
-                "imprint": "オライリー・ジャパン",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8536/9784873118536.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844396932",
-                "title": "OD＞超簡単フィルムのデジタイズ",
-                "title_collation_key": "オーディー チョウカンタン フィルム ノ デジタイズ",
-                "contributor": "山野泰照",
-                "contributor_collation_key": "ヤマノ,ヤステル",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6932/9784844396932.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865456929",
-                "title": "大人のためのiPhone入門",
-                "title_collation_key": "オトナ ノ タメノ アイフォン ニュウモン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6929/9784865456929.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784866363578",
-                "title": "iPhone完全マニュアル　2019",
-                "title_collation_key": "アイフォーンカンゼンマニュアルニセンジュウキュウ",
-                "contributor": "standards",
-                "contributor_collation_key": "スタンダーズ",
-                "imprint": "スタンダーズ",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3578/9784866363578.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297103767",
-                "title": "ゼロからはじめる格安SIM＆スマホスマートガイド",
-                "title_collation_key": "ゼロ カラ ハジメル カクヤス シム アンド スマホ スマート ガイド",
-                "contributor": "リンクアップ",
-                "contributor_collation_key": "リンク アップ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3767/9784297103767.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297103842",
-                "title": "大きな字でわかりやすいLINE入門",
-                "title_collation_key": "オオキナ ジ デ ワカリヤスイ ライン ニュウモン",
-                "contributor": "岩間麻帆",
-                "contributor_collation_key": "イワマ,マホ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3842/9784297103842.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784822286057",
-                "title": "いちばんやさしい 60代からのiPad iOS12対応",
-                "title_collation_key": "イチバンヤサシイロクジュウダイカラノアイパットアイオーエスジュウニタイオウ",
-                "contributor": "増田 由紀",
-                "contributor_collation_key": "マスダユキ",
-                "imprint": "日経BP",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6057/9784822286057.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784800291820",
-                "title": "いまからスマホ一週間でマスター！スマホの基本",
-                "title_collation_key": "イマ カラ スマホ イッシュウカン デ マスター スマホ ノ キホン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "宝島社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1820/9784800291820.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784777954148",
-                "title": "iPad超活用術Proと9．7インチ",
-                "title_collation_key": "アイパッド チョウカツヨウジュツ プロ ト キュウテンナナインチ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "エイ出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4148/9784777954148.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297104016",
-                "title": "桜と紅葉撮影ハンドブック",
-                "title_collation_key": "サクラ トコウヨウ サツエイ ハンドブック",
-                "contributor": "萩原史郎/ナイスク",
-                "contributor_collation_key": "ハギハラ,シロウ/ナイスク",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4016/9784297104016.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297103729",
-                "title": "風景写真撮影ハンドブック",
-                "title_collation_key": "フウケイ シャシン サツエイ ハンドブック",
-                "contributor": "服部考規/ナイスク",
-                "contributor_collation_key": "ハットリ,タカノリ/ナイスク",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3729/9784297103729.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784844398455",
-                "title": "OD＞iOSアプリ開発UI実装であると嬉しいレシピブック",
-                "title_collation_key": "オーディー アイ オーエス アプリ カイハツ デ ユーアイ ジッソウ デ アルト",
-                "contributor": "酒井文也",
-                "contributor_collation_key": "サカイ,フミヤ",
-                "imprint": "インプレスR＆D",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8455/9784844398455.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784295005605",
-                "title": "世界一やさしいiPhone",
-                "title_collation_key": "セカイイチ ヤサシイ アイフォン",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "インプレス",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5605/9784295005605.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784865456707",
-                "title": "Androidほぼ標準機能で使える速攻技（2019）",
-                "title_collation_key": "アンドロイド ホボ ヒョウジュン キノウ デ ツカエル ソッコウワザ",
-                "contributor": "",
-                "contributor_collation_key": "",
-                "imprint": "英和出版社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6707/9784865456707.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784297102289",
-                "title": "iPadプロ技BESTセレクション",
-                "title_collation_key": "アイパッド プロワザ ベスト セレクション",
-                "contributor": "リンクアップ",
-                "contributor_collation_key": "リンク アップ",
-                "imprint": "技術評論社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2289/9784297102289.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784049110104",
-                "title": "週刊アスキー特別編集　週アス2019January",
-                "title_collation_key": "シュウカンアスキートクベツヘンシュウ　シュウアス2019ジャニュアリー",
-                "contributor": "週刊アスキー編集部",
-                "contributor_collation_key": "シュウカンアスキーヘンシュウブ",
-                "imprint": "角川アスキー総合研究所",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0104/9784049110104.jpg?_ex=200x200"
-            },
-            {
-                "isbn": "9784800712288",
-                "title": "プロが教える！iPhone動画撮影&iMovie編集講座",
-                "title_collation_key": "プロガオシエル　アイフォーンドウガサツエイ　アンド　アイムービーヘンシュウコウザ",
-                "contributor": "月足直人",
-                "contributor_collation_key": "ツキアシナオト",
-                "imprint": "ソーテック社",
-                "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2288/9784800712288.jpg?_ex=200x200"
-            }
-        ]
-    }
-]
+{
+    "shelf_title": "パソコン・システム開発/ハードウェア",
+    "category": "ハードウェア",
+    "back_cover_images": [
+        "back_cover_img/0049_1.png",
+        "back_cover_img/0049_2.png",
+        "back_cover_img/0049_3.png",
+        "back_cover_img/0049_4.png"
+    ],
+    "back_cover_low_images": [
+        "back_cover_low_img/0049_1_low.png",
+        "back_cover_low_img/0049_2_low.png",
+        "back_cover_low_img/0049_3_low.png",
+        "back_cover_low_img/0049_4_low.png"
+    ],
+    "books": [
+        {
+            "isbn": "9784866535609",
+            "title": "わかる！LINEをすぐに使いこなせる本2022最新版",
+            "title_collation_key": "ワカルラインヲスグニツカイコナセルホンニセンニジュウニサイシンバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "コアマガジン",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5609/9784866535609.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784299023193",
+            "title": "Windows 11がぜんぶわかる本",
+            "title_collation_key": "ウィンドウズイレブンガゼンブワカルホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3193/9784299023193.gif?_ex=200x200"
+        },
+        {
+            "isbn": "9784798065908",
+            "title": "はじめての今さら聞けないスマートフォン入門［第3版］",
+            "title_collation_key": "ハジメテノイマサラキケナイスマートフォンニュウモンダイサンパン",
+            "contributor": "高橋慈子/八木重和",
+            "contributor_collation_key": "タカハシシゲコ/ヤギシゲカズ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5908/9784798065908_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798625911",
+            "title": "スマホで描く！　はじめてのデジ絵ガイドブック",
+            "title_collation_key": "スマホデカク　ハジメテノデジエガイドブック",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ホビージャパン",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5911/9784798625911_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798064796",
+            "title": "これ1冊でOK!　iPhoneだけで今すぐはじめる動画編集",
+            "title_collation_key": "コレイッサツデオーケーアイフォーンダケデイマスグハジメルドウガヘンシュウ",
+            "contributor": "Taka",
+            "contributor_collation_key": "タカ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4796/9784798064796_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299022554",
+            "title": "iPhoneの「わからない!」をスッキリ解決する本",
+            "title_collation_key": "アイフォンノワカラナイヲスッキリカイケツスルホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2554/9784299022554_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784867172490",
+            "title": "65歳からはじめるiPhone",
+            "title_collation_key": "ロクジュウゴサイ カラ ハジメル アイフォン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ジーウォーク",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2490/9784867172490_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784074498819",
+            "title": "60歳からのスマホ品格レッスン",
+            "title_collation_key": "ロクジュッサイカラノスマホヒンカクレッスン",
+            "contributor": "増田由紀",
+            "contributor_collation_key": "マスダユキ",
+            "imprint": "主婦の友社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8819/9784074498819_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866743394",
+            "title": "初めてのiPhone13　困った時に読む本",
+            "title_collation_key": "ハジメテノアイフォンサーティーン　コマッタトキニヨムホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3394/9784866743394_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866743387",
+            "title": "「はじめて」のAndroidスマホ　スタートガイド",
+            "title_collation_key": "ハジメテノアンドロイドスマホ　スタートガイド",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3387/9784866743387_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798065595",
+            "title": "最新 スマホ用語＆操作事典",
+            "title_collation_key": "サイシンスマホヨウゴアンドソウサジテン",
+            "contributor": "秀和システム編集本部",
+            "contributor_collation_key": "シュウワシステムヘンシュウホンブ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5595/9784798065595_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295012757",
+            "title": "Kubernetes CI/CDパイプラインの実装",
+            "title_collation_key": "",
+            "contributor": "北山晋吾",
+            "contributor_collation_key": "キタヤマシンゴ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2757/9784295012757_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295600022",
+            "title": "【POD】解決！Androidアプリ開発のアレコレ 実践編",
+            "title_collation_key": "カイケツアンドロイドアプリカイハツノアレコレジッセンヘン",
+            "contributor": "前田 欣耶",
+            "contributor_collation_key": "マエダ ヨシヤ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0022/9784295600022.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784049110807",
+            "title": "世界一かんたんデジカメ年賀状　2022",
+            "title_collation_key": "セカイイチカンタンデジカメネンガジョウ ニセンニジュウニ",
+            "contributor": "年賀状素材集編集部",
+            "contributor_collation_key": "ネンガジョウソザイシュウヘンシュウブ",
+            "imprint": "角川アスキー総合研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0807/9784049110807_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784867300800",
+            "title": "iPhoneの基本がQ＆Aでわかる本（2022）",
+            "title_collation_key": "アイフォーン ノ キホン ガ キュー アンド エイ デ ワカル ホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0800/9784867300800_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784046051790",
+            "title": "スマートフォングラフィ 手軽にドラマを生み出す全撮影術",
+            "title_collation_key": "スマートフォングラフィ テガルニドラマヲウミダスゼンサツエイジュツ",
+            "contributor": "あああつし",
+            "contributor_collation_key": "アアアツシ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1790/9784046051790_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295012610",
+            "title": "できるfit Instagram 基本＋活用ワザ 最新改訂版",
+            "title_collation_key": "デキルフィットインスタグラムキホンプラスカツヨウワザサイシンカイテイバン",
+            "contributor": "田口和裕/いしたにまさき",
+            "contributor_collation_key": "タグチカズヒロ/イシタニマサキ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2610/9784295012610_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295600107",
+            "title": "【POD】WindowsではじめるSTM32",
+            "title_collation_key": "ウィンドウズデハジメルエスティーエムサンジュウニ",
+            "contributor": "山本 小鉄",
+            "contributor_collation_key": "ヤマモト コテツ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0107/9784295600107.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784561267539",
+            "title": "アジアの情報通信産業と産業クラスター",
+            "title_collation_key": "アジアノジョウホウツウシンサンギョウトサンギョウクラスター",
+            "contributor": "税所　哲郎",
+            "contributor_collation_key": "サイショ　テツロウ",
+            "imprint": "白桃書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7539/9784561267539_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784890222827",
+            "title": "今日、不可能でも明日可能になる。",
+            "title_collation_key": "キョウ フカノウ デモ アス カノウ ニ ナル",
+            "contributor": "木野将徳/鈴木たつお",
+            "contributor_collation_key": "キノ,マサノリ/スズキ,タツオ",
+            "imprint": "日本地域社会研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2827/9784890222827_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866743219",
+            "title": "1冊ですべてマスター！65歳からのAndroidスマホ",
+            "title_collation_key": "イッサツデスベテマスター　ロクジュウゴサイカラノアンドロイドスマホ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3219/9784866743219_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299019974",
+            "title": "スマホの便利技150",
+            "title_collation_key": "スマホノベンリワザヒャクゴジュウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9974/9784299019974_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784047335660",
+            "title": "ファミ通App Android別冊　水着女子コレクション2021",
+            "title_collation_key": "ファミツウアップアンドロイドベッサツ　ミズギジョシコレクションニセンニジュウイチ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "KADOKAWA　Game　Linkage",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5660/9784047335660_1_5.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866905730",
+            "title": "Androidスマホ超便利活用術（2021）",
+            "title_collation_key": "アンドロイド スマホ チョウ ベンリ カツヨウジュツ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "マイウェイ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5730/9784866905730_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866743189",
+            "title": "サルでもわかるAndroidスマートフォン",
+            "title_collation_key": "サルデモワカルアンドロイドスマートフォン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3189/9784866743189_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299018564",
+            "title": "医者が教える正しいスマホ習慣",
+            "title_collation_key": "イシャガオシエルタダシイスマホシュウカン",
+            "contributor": "奥村 歩/佐久間 寛之",
+            "contributor_collation_key": "オクムラ アユミ/サクマ ヒロシ",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8564/9784299018564_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798064093",
+            "title": "Instagram完全マニュアル",
+            "title_collation_key": "インスタグラムカンゼンマニュアル",
+            "contributor": "八木重和",
+            "contributor_collation_key": "ヤギシゲカズ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4093/9784798064093_1_4.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866743066",
+            "title": "とてもやさしいAndroidスマホの本",
+            "title_collation_key": "トテモヤサシイアンドロイドスマホノホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3066/9784866743066_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801816640",
+            "title": "iPhone＆iPadの便利帖",
+            "title_collation_key": "アイフォン アンド アイパッド ノ ベンリチョウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "晋遊舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6640/9784801816640_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866743059",
+            "title": "50代からのAndroid 超決定版",
+            "title_collation_key": "ゴジュウダイカラノアンドロイド　チョウケッテイバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3059/9784866743059_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866364902",
+            "title": "2021年最新版 初めてでもできる超初心者のLINE入門",
+            "title_collation_key": "ニセンニジュウイチネンバンハジメテデモデキルチョウショシンシャノラインニュウモン",
+            "contributor": "standards",
+            "contributor_collation_key": "スタンダーズ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4902/9784866364902_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784802613156",
+            "title": "Unity2021 3D/2D ゲーム開発実践入門",
+            "title_collation_key": "ユニティニゼロニイチ スリーディーツディーゲームカイハツジッセンニュウモン",
+            "contributor": "吉谷 幹人",
+            "contributor_collation_key": "ヨシヤ ミキト",
+            "imprint": "ソシム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3156/9784802613156_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299017970",
+            "title": "これで安心! スマホのセキュリティ＆パスワード管理術",
+            "title_collation_key": "コレデアンシンスマホノセキュリティアンドパスワードカンリジュツ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7970/9784299017970_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866742991",
+            "title": "「困った」を解決！iPhoneを買ったらまず読む本",
+            "title_collation_key": "コマッタヲカイケツ　アイフォンヲカッタラマズヨムホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2991/9784866742991_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798064536",
+            "title": "はじめての今さら聞けないインスタグラム[第2版]",
+            "title_collation_key": "ハジメテノイマサラキケナイインスタグラムダイニハン",
+            "contributor": "吉岡豊",
+            "contributor_collation_key": "ヨシオカユタカ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4536/9784798064536_1_2.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295011569",
+            "title": "世界一やさしいスマートフォン改訂4版",
+            "title_collation_key": "セカイイチ ヤサシイ スマートフォン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1569/9784295011569.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784777521494",
+            "title": "Androidスマホの改造",
+            "title_collation_key": "アンドロイドスマホノカイゾウ",
+            "contributor": "I/O編集部",
+            "contributor_collation_key": "アイオウヘンシュウブ",
+            "imprint": "工学社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1494/9784777521494.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866364964",
+            "title": "iPhoneはかどる！便利技2021",
+            "title_collation_key": "アイフォンハカドルベンリワザニセンニジュウイチ",
+            "contributor": "standards",
+            "contributor_collation_key": "スタンダーズ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4964/9784866364964.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784142288175",
+            "title": "いまこそスマホ",
+            "title_collation_key": "イマコソスマホ",
+            "contributor": "岡嶋 裕史",
+            "contributor_collation_key": "オカジマ ユウシ",
+            "imprint": "NHK出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8175/9784142288175_1_3.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299016607",
+            "title": "Macがぜんぶわかる本 完全版",
+            "title_collation_key": "マックガゼンブワカルホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6607/9784299016607.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866905532",
+            "title": "60代からはじめるシニアスマホ入門（2021年版）",
+            "title_collation_key": "ロクジュウダイ カラ ハジメル シニア スマホ ニュウモン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "マイウェイ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5532/9784866905532.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297120825",
+            "title": "ゼロからはじめる　LINE ライン　基本&便利技",
+            "title_collation_key": "ゼロカラハジメルラインラインキホンアンドベンリワザ",
+            "contributor": "リンクアップ",
+            "contributor_collation_key": "リンクアップ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0825/9784297120825.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297120849",
+            "title": "図解即戦力　モバイルゲーム開発がこれ1冊でしっかりわかる教科書",
+            "title_collation_key": "ズカイソクセンリョクモバイルゲームカイハツガコレイッサツデシッカリワカルキョウカショ",
+            "contributor": "永田 峰弘/大嶋 剛直",
+            "contributor_collation_key": "ナガタ ミネヒロ/オオシマ タケナオ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0849/9784297120849.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839975562",
+            "title": "大人のためのiPhone講座",
+            "title_collation_key": "オトナノタメノアイフォーンコウザ",
+            "contributor": "松山茂/矢橋司",
+            "contributor_collation_key": "マツヤマシゲル/ヤハシツカサ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5562/9784839975562.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784867171691",
+            "title": "65歳からはじめるスマホ　アンドロイドスマートフォン専用",
+            "title_collation_key": "ロクジュウゴサイ カラ ハジメル スマホ アンドロイド スマートフォン センヨウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ジーウォーク",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1691/9784867171691.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801815520",
+            "title": "スマートフォン完全ガイド（2021）",
+            "title_collation_key": "スマートフォン カンゼン ガイド",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "晋遊舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5520/9784801815520.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299016034",
+            "title": "世界一カンタン! スマホ料金を下げる本 2021年最新版",
+            "title_collation_key": "セカイイチカンタンスマホリョウキンヲサゲルホンニセンニジュウイチネンサイシンバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6034/9784299016034.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866742922",
+            "title": "Androidは初期設定で使っちゃダメ!!",
+            "title_collation_key": "アンドロイドハショキセッテイデツカッチャダメ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2922/9784866742922.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866364896",
+            "title": "iPhone完全マニュアル2021",
+            "title_collation_key": "アイフォンカンゼンマニュアル　ニセンニジュウイチ",
+            "contributor": "standards",
+            "contributor_collation_key": "スタンダーズ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4896/9784866364896.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299015983",
+            "title": "SNSの「わからない!」をスッキリ解決する本",
+            "title_collation_key": "セスエヌエスノワカラナイヲスッキリカイケツスルホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5983/9784299015983.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798064499",
+            "title": "LINE完全マニュアル［第2版］公式アカウント対応",
+            "title_collation_key": "ラインカンゼンマニュアルダイニハンコウシキアカウントタイオウ",
+            "contributor": "桑名由美/松浦法子",
+            "contributor_collation_key": "クワナユミ/マツウラノリコ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4499/9784798064499.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784867300251",
+            "title": "最新！スマホの「わからない」「困った」すべて解決大事典",
+            "title_collation_key": "サイシン スマホ ノ ワカラナイ コマッタ スベテ カイケツ ダイジテン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0251/9784867300251.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784296109104",
+            "title": "2021年最新版 iPhoneは初期設定で使うな",
+            "title_collation_key": "2021ネンサイシンバンiPhoneハショキセッテイデツカウナ",
+            "contributor": "日経PC21",
+            "contributor_collation_key": "ニッケイピーシーニジュウイチ",
+            "imprint": "日経BP",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9104/9784296109104.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784651200866",
+            "title": "500円でわかるアンドロイドスマートフォン最新版",
+            "title_collation_key": "ゴヒャクエン デ ワカル アンドロイド スマートフォン サイシンバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ワン・パブリッシング",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0866/9784651200866.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866742878",
+            "title": "AQUOS sense5Gのすべてがわかる本",
+            "title_collation_key": "アクオスセンスファイブジーノスベテガワカルホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2878/9784866742878.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299015235",
+            "title": "わかる! 楽しい! LINE",
+            "title_collation_key": "ワカルタノシイライン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5235/9784299015235.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784022727367",
+            "title": "スマホで困ったときに開く本　2021-2022",
+            "title_collation_key": "スマホデコマッタトキニヒラクホン 2021-2022",
+            "contributor": "PASO編集部",
+            "contributor_collation_key": "PASOヘンシュウブ",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7367/9784022727367.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866742700",
+            "title": "絶対できる！50代からのスマートフォン最新超カンタン版",
+            "title_collation_key": "ゼッタイデキル　ゴジュウダイカラノスマートフォンサイシンチョウカンタンバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2700/9784866742700.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866742793",
+            "title": "「困った」を解決！Androidスマホを買ったらまず読む本",
+            "title_collation_key": "コマッタヲカイケツ　アンドロイドスマホヲカッタラマズヨムホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2793/9784866742793.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784141992967",
+            "title": "はじめてのスマホ　「やりたい！」がすぐできる　スマホ用語100",
+            "title_collation_key": "ハジメテノスマホヤリタイガスグデキルスマホヨウゴヒャク",
+            "contributor": "岡嶋 裕史/NHK出版",
+            "contributor_collation_key": "オカジマ ユウシ/エヌエイチケイシュッパン",
+            "imprint": "NHK出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2967/9784141992967.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784296108671",
+            "title": "2021年最新版 アンドロイドは初期設定で使うな",
+            "title_collation_key": "2021ネンサイシンバンアンドロイドハショキセッテイデツカウナ",
+            "contributor": "日経PC21",
+            "contributor_collation_key": "ニッケイピーシーニジュウイチ",
+            "imprint": "日経BP",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8671/9784296108671.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866364315",
+            "title": "Androidスマートフォン完全マニュアル2021",
+            "title_collation_key": "アンドロイドスマートフォンカンゼンマニュアルニセンニジュウイチ",
+            "contributor": "standards",
+            "contributor_collation_key": "スタンダーズ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4315/9784866364315.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784867300060",
+            "title": "Androidほぼ標準機能で使える速攻技（2021）",
+            "title_collation_key": "アンドロイド ホボ ヒョウジュン キノウ デ ツカエル ソッコウワザ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0060/9784867300060.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784777521319",
+            "title": "はじめてのFlutter",
+            "title_collation_key": "ハジメテノフラッター",
+            "contributor": "新井　克人",
+            "contributor_collation_key": "アライ　カツト",
+            "imprint": "工学社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1319/9784777521319.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866364698",
+            "title": "iPhone迷わず使える操作ガイド 2021",
+            "title_collation_key": "アイフォンマヨワズツカエルソウサガイドニセンニジュウイチ",
+            "contributor": "standards",
+            "contributor_collation_key": "スタンダーズ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4698/9784866364698.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866742625",
+            "title": "50代からのAndroid",
+            "title_collation_key": "ゴジュウダイカラノアンドロイド",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2625/9784866742625.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784815607968",
+            "title": "はじめてのAndroidプログラミング　第5版",
+            "title_collation_key": "ハジメテノアンドロイドプログラミングダイゴハン",
+            "contributor": "金田浩明",
+            "contributor_collation_key": "カネダヒロアキ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7968/9784815607968.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865458848",
+            "title": "とてもやさしいiPhoneの本",
+            "title_collation_key": "トテモ ヤサシイ アイフォン ノ ホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8848/9784865458848.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299012098",
+            "title": "スマホの「わからない!」をスッキリ解決する本",
+            "title_collation_key": "スマホノワカラナイヲスッキリカイケツスルホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2098/9784299012098.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865458909",
+            "title": "スマートフォンの基本がQ＆Aでわかる本（2021）",
+            "title_collation_key": "スマートフォン ノ キホン ガ キュー アンド エイ デ ワカル ホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8909/9784865458909.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784022727343",
+            "title": "はじめてのスマホで困ったときに開く本",
+            "title_collation_key": "ハジメテノスマホデコマッタトキニヒラクホン",
+            "contributor": "朝日新聞出版",
+            "contributor_collation_key": "アサヒシンブンシュッパン",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7343/9784022727343.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784528023062",
+            "title": "まるごとわかる！撮り方ブック　iPhone&スマホ編",
+            "title_collation_key": "マルゴトワカル　トリカタブック　アイフォンアンドスマホヘン",
+            "contributor": "山崎理佳",
+            "contributor_collation_key": "ヤマザキリカ",
+            "imprint": "日東書院本社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3062/9784528023062.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299011794",
+            "title": "iPadがぜんぶわかる本 2021年最新版",
+            "title_collation_key": "アイパッドガゼンブワカルホンニセンニジュウイチネンサイシンバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1794/9784299011794.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295010357",
+            "title": "PC自作・チューンナップ虎の巻（2021）",
+            "title_collation_key": "ピーシー ジサク チューンナップ トラ ノ マキ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0357/9784295010357.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866742557",
+            "title": "50代からのiPhone　楽々スタート版",
+            "title_collation_key": "ゴジュウダイカラノアイフォン　ラクラクスタートバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2557/9784866742557.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839974657",
+            "title": "iPhone Fan iOS 14徹底活用ガイド",
+            "title_collation_key": "アイフォーンファン アイオーエス ジューヨン テッテイカツヨウガイド",
+            "contributor": "松山茂/矢橋司",
+            "contributor_collation_key": "マツヤマシゲル/ヤハシツカサ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4657/9784839974657.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865458732",
+            "title": "Q＆Aでよくわかる！iPhoneの基本＆便利ワザ（2021）",
+            "title_collation_key": "キュー アンド エイ デ ヨクワカル アイフォーン ノ キホン アンド ベンリワサ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8732/9784865458732.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865458824",
+            "title": "とてもやさしいスマホの本",
+            "title_collation_key": "トテモ ヤサシイ スマホ ノ ホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8824/9784865458824.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801815148",
+            "title": "デジカメ＆ビデオカメラがまるごとわかる本（2021）",
+            "title_collation_key": "デジカメ アンド ビデオ カメラ ガ マルゴト ワカル ホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "晋遊舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5148/9784801815148.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865458640",
+            "title": "iPhone完全マスターガイド　iOS14のすべて",
+            "title_collation_key": "アイフォン カンゼン マスター ガイド アイオーエス ジュウヨン ノ スベテ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8640/9784865458640.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784296107346",
+            "title": "官邸vs携帯大手　値下げを巡る1000日戦争",
+            "title_collation_key": "カンテイvsケイタイオオテネサゲヲメグル1000ニチセンソウ",
+            "contributor": "堀越 功",
+            "contributor_collation_key": "ホリコシ イサオ",
+            "imprint": "日経BP",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7346/9784296107346.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784434279447",
+            "title": "現代情報通信政策論",
+            "title_collation_key": "ゲンダイジョウホウツウシンセイサクロン",
+            "contributor": "柴田怜",
+            "contributor_collation_key": "シバタサトシ",
+            "imprint": "現代図書",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9447/9784434279447.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798062228",
+            "title": "チームのスキルアップに役立つ Android開発テクニック",
+            "title_collation_key": "チーム ノ スキルアップ ニ ヤクダツ アンドロイド カイハツ テクニック",
+            "contributor": "坂口亮太",
+            "contributor_collation_key": "サカグチリョウタ",
+            "imprint": "秀和システム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2228/9784798062228.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839968519",
+            "title": "作ろう！CPU",
+            "title_collation_key": "ツクロウ　シーピーユー",
+            "contributor": "上原周",
+            "contributor_collation_key": "ウエハラアマネ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8519/9784839968519.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299007575",
+            "title": "NHK趣味どきっ! スマホがあれば広がる世界",
+            "title_collation_key": "エヌエイチケーシュミドキッスマホガアレバヒロガルセカイ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7575/9784299007575.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784822286422",
+            "title": "いちばんやさしい60代からのAndroidスマホ 第2版",
+            "title_collation_key": "イチバンヤサシイロクジュウダイカラノアンドロイドスマホダイニハン",
+            "contributor": "増田 由紀",
+            "contributor_collation_key": "マスダユキ",
+            "imprint": "日経BP",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6422/9784822286422.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295009146",
+            "title": "世界一やさしいiPhoneSE",
+            "title_collation_key": "セカイイチ ヤサシイ アイフォーン エスイー",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9146/9784295009146.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784106108686",
+            "title": "スマホ料金はなぜ高いのか",
+            "title_collation_key": "スマホリョウキンハナゼタカイノカ",
+            "contributor": "山田 明",
+            "contributor_collation_key": "ヤマダ アキラ",
+            "imprint": "新潮社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8686/9784106108686.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801814424",
+            "title": "デジカメお得技ベストセレクション最新版",
+            "title_collation_key": "デジカメ オトクワザ ベスト セレクション サイシンバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "晋遊舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4424/9784801814424.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295404330",
+            "title": "iPhoneで作ろう ビジネス動画の教科書",
+            "title_collation_key": "アイホンデツクロウ ビジネスドウガノキョウカショ",
+            "contributor": "渡川 修一",
+            "contributor_collation_key": "オリカワ　シュウイチ",
+            "imprint": "ペンコム",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4330/9784295404330.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784815605124",
+            "title": "いちばんやさしいスマートフォン超入門　Android対応",
+            "title_collation_key": "イチバンヤサシイスマートフォンチョウニュウモンアンドロイドタイオウ",
+            "contributor": "原田和也",
+            "contributor_collation_key": "ハラダカズヤ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5124/9784815605124.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866742175",
+            "title": "iPhone SE パーフェクトマスター",
+            "title_collation_key": "アイフォンエスイーパーフェクトマスター",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2175/9784866742175.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784141992936",
+            "title": "ひとりでできる！　はじめてのスマホ　100の困った！解決ブック",
+            "title_collation_key": "ヒトリデデキルハジメテノスマホヒャクノコマッタカイケツブック",
+            "contributor": "NHK出版",
+            "contributor_collation_key": "エヌエイチケイシュッパン",
+            "imprint": "NHK出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2936/9784141992936.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866364407",
+            "title": "Androidスマートフォン便利すぎる！テクニック2020",
+            "title_collation_key": "アンドロイドスマートフォンベンリスギルテクニック　ニセンニジュウ",
+            "contributor": "standards",
+            "contributor_collation_key": "スタンダーズ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4407/9784866364407.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784046048387",
+            "title": "ミニマリスト　スマホの中を片付ける",
+            "title_collation_key": "ミニマリスト　スマホノナカヲカタヅケル",
+            "contributor": "飯島彩香",
+            "contributor_collation_key": "イイジマアヤカ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8387/9784046048387.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784899775041",
+            "title": "SwiftUIではじめるiPhoneアプリプログラミング入門",
+            "title_collation_key": "スウィフトユーアイデハジメルアイフォンアプリプログラミングニュウモン",
+            "contributor": "大津 真",
+            "contributor_collation_key": "オオツ マコト",
+            "imprint": "ラトルズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5041/9784899775041.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784802511889",
+            "title": "はじめてでもきれいに書ける iPadレタリング",
+            "title_collation_key": "ハジメテデモキレイニカケルアイパッドレタリング",
+            "contributor": "島野真希",
+            "contributor_collation_key": "シマノマキ",
+            "imprint": "ビー・エヌ・エヌ新社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1889/9784802511889.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784777959457",
+            "title": "デジモノ超愛用品リモートワークスタイル",
+            "title_collation_key": "デジモノ チョウ アイヨウヒン リモート ワーク スタイル",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "エイ出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9457/9784777959457.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865458299",
+            "title": "かんたん・やさしい・はじめてのスマートフォン",
+            "title_collation_key": "カンタン ヤサシイ ハジメテ ノ スマートフォン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8299/9784865458299.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866742083",
+            "title": "50代からのiPhone最新版",
+            "title_collation_key": "ゴジュウダイカラノアイフォンサイシンバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2083/9784866742083.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866364216",
+            "title": "iPhoneはかどる！便利技2020",
+            "title_collation_key": "アイフォンハカドルベンリワザニセンニジュウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4216/9784866364216.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297113438",
+            "title": "作って学ぶAndroidアプリ開発［Kotlin対応］",
+            "title_collation_key": "ツクッテマナブアンドロイドアプリカイハツコトリンタイオウ",
+            "contributor": "有山 圭二",
+            "contributor_collation_key": "アリヤマ ケイジ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3438/9784297113438.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784837665977",
+            "title": "スマートフォン（楽）入門2020",
+            "title_collation_key": "スマートフォンマルラクニュウモンニセンニジュウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "マキノ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5977/9784837665977.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865458152",
+            "title": "Q＆Aでよくわかる！大人のためのiPhone入門",
+            "title_collation_key": "キュー アンド エイ デ ヨクワカル オトナ ノ タメノ アイフォーン ニュウモン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8152/9784865458152.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866742014",
+            "title": "50代からのAndroid標準機能で使える超便利テクニック",
+            "title_collation_key": "ゴジュウダイカラノアンドロイドヒョウジュンキノウデツカエルチョウベンリテクニック",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "メディアックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2014/9784866742014.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865458077",
+            "title": "スマホの「わからない」「困った」すべて解決大事典",
+            "title_collation_key": "スマホ ノ ワカラナイ コマッタ スベテ カイケツ ダイジテン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8077/9784865458077.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866364254",
+            "title": "iPhone完全マニュアル2020",
+            "title_collation_key": "アイフォンカンゼンマニュアル　ニセンニジュウ",
+            "contributor": "standards",
+            "contributor_collation_key": "スタンダーズ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4254/9784866364254.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801813557",
+            "title": "iPad　for　ビギナーズ（2020）",
+            "title_collation_key": "アイパッド フォー ビギナーズ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "晋遊舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3557/9784801813557.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784142287925",
+            "title": "こんどこそスマホ",
+            "title_collation_key": "コンドコソスマホ",
+            "contributor": "岡嶋 裕史",
+            "contributor_collation_key": "オカジマ ユウシ",
+            "imprint": "NHK出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7925/9784142287925.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784299003348",
+            "title": "スマホの「わからない!」を ぜんぶ解決する本 最新版",
+            "title_collation_key": "スマホノワカラナイヲゼンブカイケツスルホンサイシンバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3348/9784299003348.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865457926",
+            "title": "今すぐ役立つ！iPhone＆iPad便利ワザ大全",
+            "title_collation_key": "イマスグ ヤクダツ アイフォン アンド アイパッド ベンリワザ タイゼン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7926/9784865457926.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784326403738",
+            "title": "先端技術と規制の公法学",
+            "title_collation_key": "センタンギジュツトキセイノコウホウガク",
+            "contributor": "寺田　麻佑",
+            "contributor_collation_key": "テラダ　マユ",
+            "imprint": "勁草書房",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3738/9784326403738_1_106.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784296105083",
+            "title": "2020年最新版 アンドロイドは初期設定で使うな",
+            "title_collation_key": "2020ネンサイシンバンアンドロイドハショキセッテイデツカウナ",
+            "contributor": "日経PC21",
+            "contributor_collation_key": "ニッケイピーシーニジュウイチ",
+            "imprint": "日経BP",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5083/9784296105083.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866364131",
+            "title": "Androidスマートフォン完全マニュアル2020",
+            "title_collation_key": "アンドロイドスマートフォンカンゼンマニュアルニセンニジュウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4131/9784866364131.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866364117",
+            "title": "2020年最新版 初めてでもできる超初心者のLINE入門",
+            "title_collation_key": "ニセンニジュウネンサイシンバンハジメテデモデキルチョウショシンシャノラインニュウモン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4117/9784866364117.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866731766",
+            "title": "iPadOS13徹底活用ガイドアップデート対応版",
+            "title_collation_key": "アイパッドオーエスジュウサンテッテイカツヨウガイドアップデートタイオウバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "三才ブックス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1766/9784866731766.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297111151",
+            "title": "ゼロからはじめる　ソフトバンク Xperia 5 スマートガイド",
+            "title_collation_key": "ゼロカラハジメルソフトバンクエクスペリアファイブスマートガイド",
+            "contributor": "技術評論社編集部",
+            "contributor_collation_key": "ギジュツヒョウロンシャヘンシュウブ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1151/9784297111151.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866364100",
+            "title": "iPhone迷わず使える操作ガイド",
+            "title_collation_key": "アイフォンマヨワズツカエルソウサガイド",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4100/9784866364100.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784141992882",
+            "title": "ひとりでできる！　はじめてのスマホアプリ使いこなし入門",
+            "title_collation_key": "ヒトリデデキルハジメテノスマホアプリツカイコナシニュウモン",
+            "contributor": "NHK出版",
+            "contributor_collation_key": "エヌエイチケイシュッパン",
+            "imprint": "NHK出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2882/9784141992882.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784899774914",
+            "title": "キットではじめる3Dプリンタ自作入門",
+            "title_collation_key": "キットデハジメルスリーディープリンタジサクニュウモン",
+            "contributor": "吹田 智章",
+            "contributor_collation_key": "スイタ トシアキ",
+            "imprint": "ラトルズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4914/9784899774914.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866903576",
+            "title": "知らないと危険！！！スマホ・ネットの処方箋",
+            "title_collation_key": "シラナイ ト キケン スマホ ネット ノ ショホウセン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "マイウェイ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3576/9784866903576.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865457698",
+            "title": "Q＆Aでよくわかる！スマートフォンの基本＆便利ワザ",
+            "title_collation_key": "キュー アンド エイ デ ヨク ワカル スマートフォン ノ キホン アンド ベンリ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7698/9784865457698.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295008071",
+            "title": "Instagramインスタグラム基本＋活用ワザ",
+            "title_collation_key": "インスタグラム インスタグラム キホン プラス カツヨウワザ",
+            "contributor": "田口和裕/いしたにまさき",
+            "contributor_collation_key": "タグチ,カズヒロ/イシタニ,マサキ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8071/9784295008071.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295008088",
+            "title": "iPhone芸人かじがや卓哉の超スゴいiPhone",
+            "title_collation_key": "アイフォン ゲイニン カジガヤ タクヤ ノ チョウ スゴイ アイフォン",
+            "contributor": "かじがや卓哉",
+            "contributor_collation_key": "カジガヤ,タクヤ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8088/9784295008088.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295008132",
+            "title": "世界一やさしいiPhone11／Pro／Pro　MAX",
+            "title_collation_key": "セカイイチ ヤサシイ アイフォン イレブン プロ プロ マックス",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8132/9784295008132.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865457650",
+            "title": "最新版！大人のためのiPhone入門",
+            "title_collation_key": "サイシンバン オトナ ノ タメノ アイフォン ニュウモン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7650/9784865457650.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784815603854",
+            "title": "LINE やりたいことが全部わかる本",
+            "title_collation_key": "ラインヤリタイコトガゼンブワカルホン",
+            "contributor": "田中 拓也",
+            "contributor_collation_key": "タナカ タクヤ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3854/9784815603854.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784800712455",
+            "title": "Raspberry Pi ＋ AI 電子工作超入門",
+            "title_collation_key": "ラズベリー　パイ　プラス　エーアイ　デンシコウサクチョウニュウモン",
+            "contributor": "吉田顕一",
+            "contributor_collation_key": "ヨシダケンイチ",
+            "imprint": "ソーテック社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2455/9784800712455.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784800299093",
+            "title": "スマホひとつで快適暮らし",
+            "title_collation_key": "スマホ ヒトツ デ カイテキグラシ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9093/9784800299093.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295007692",
+            "title": "auのiPhone　11／Pro／Pro　Max基本＋活用ワザ",
+            "title_collation_key": "エイユー ノ アイフォン イレブン プロ プロ マックス キホン プラス カツヨウ",
+            "contributor": "法林岳之/橋本保",
+            "contributor_collation_key": "ホウリン,タカユキ/ハシモト,タモツ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7692/9784295007692.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295007685",
+            "title": "ドコモのiPhone11／Pro／Pro　Max基本＆活用ワザ",
+            "title_collation_key": "ドコモ ノ アイフォーン イレブン プロ プロ マックス キホン カツヨウ ワザ",
+            "contributor": "法林岳之/橋本保",
+            "contributor_collation_key": "ホウリン,タカユキ/ハシモト,タモツ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7685/9784295007685.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784478107706",
+            "title": "TikTok 最強のSNSは中国から生まれる",
+            "title_collation_key": "ティックトック サイキョウノエスエヌエスハチュウゴクカラウマレル",
+            "contributor": "黄 未来",
+            "contributor_collation_key": "コウミク",
+            "imprint": "ダイヤモンド社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7706/9784478107706.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839970871",
+            "title": "Flutter　モバイルアプリ開発バイブル",
+            "title_collation_key": "フラッター　モバイルアプリカイハツバイブル",
+            "contributor": "南里勇気/太田佳敬",
+            "contributor_collation_key": "ナンリ ユウキ/オオタ ヨシアキ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0871/9784839970871.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784838730735",
+            "title": "スマホ使いこなしてる？",
+            "title_collation_key": "スマホツカイコナシテル？",
+            "contributor": "こいしゆうか",
+            "contributor_collation_key": "コイシユウカ",
+            "imprint": "マガジンハウス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0735/9784838730735.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865457575",
+            "title": "iPadOS13完全マスターガイド",
+            "title_collation_key": "アイパッド オーエス サーティーン カンゼン マスター ガイド",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7575/9784865457575.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784899774983",
+            "title": "PythonではじめるiOSプログラミング",
+            "title_collation_key": "パイソンデハジメルアイオーエスプログラミング",
+            "contributor": "掌田　津耶乃",
+            "contributor_collation_key": "ショウダ ツヤノ",
+            "imprint": "ラトルズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4983/9784899774983.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784413113052",
+            "title": "15秒から始めるウケるスマホ動画入門",
+            "title_collation_key": "ジュウゴビョウカラハジメルウケルスマホドウガニュウモン",
+            "contributor": "戸田覚",
+            "contributor_collation_key": "トダサトル",
+            "imprint": "青春出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3052/9784413113052.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865457568",
+            "title": "Q＆Aでよくわかる！iPhoneの基本＆便利ワザ（2020）",
+            "title_collation_key": "キュー アンド エイ デ ヨクワカル アイフォーン ノ キホン アンド ベンリワサ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7568/9784865457568.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784798502649",
+            "title": "通信産業の経済学 R1",
+            "title_collation_key": "",
+            "contributor": "実積 寿也",
+            "contributor_collation_key": "ジツヅミ トシヤ",
+            "imprint": "九州大学出版会",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2649/9784798502649.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865457483",
+            "title": "iPhone完全マスターガイド　iOS13のすべて",
+            "title_collation_key": "アイフォン カンゼン マスター ガイド アイオーエス ジュウサン ノ スベテ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7483/9784865457483.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844398936",
+            "title": "【POD】スマートスピーカーアプリのお品書き",
+            "title_collation_key": "スマートスピーカーアプリノオシナガキ",
+            "contributor": "元木 理恵/伊藤 清香",
+            "contributor_collation_key": "モトキ リエ/イトウ サヤカ",
+            "imprint": "インプレスR&D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8936/9784844398936.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784413113007",
+            "title": "もっときれいに撮れる！スマホで旅行写真 コツと裏ワザ",
+            "title_collation_key": "モットキレイニトレル　スマホデリョコウシャシンコツトウラワザ",
+            "contributor": "庄子利男",
+            "contributor_collation_key": "ショウジトシオ",
+            "imprint": "青春出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3007/9784413113007.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784862464569",
+            "title": "HTML5 ゲーム開発の教科書",
+            "title_collation_key": "エイチティエムエルファイブゲームカイハツノキョウカショ",
+            "contributor": "Smith",
+            "contributor_collation_key": "スミス",
+            "imprint": "ボーンデジタル",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4569/9784862464569.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784837665571",
+            "title": "スマートフォン 疑問と悩み一発解消！令和版",
+            "title_collation_key": "スマートフォン ギモントナヤミイッパツカイショウ レイワバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "マキノ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5571/9784837665571.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784863548398",
+            "title": "基礎から学ぶLINEクリエイターズスタンプ",
+            "title_collation_key": "キソ カラ マナブ ライン クリエイターズ スタンプ",
+            "contributor": "篠塚充",
+            "contributor_collation_key": "シノズカ,ミチル",
+            "imprint": "シーアンドアール研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8398/9784863548398.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295007296",
+            "title": "iPhone芸人かじがや卓哉の今度はスゴいスマホ",
+            "title_collation_key": "アイフォン ゲイニン カジガヤ タクヤ ノ コンド ワ スゴイ スマホ",
+            "contributor": "かじがや卓哉",
+            "contributor_collation_key": "カジガヤ,タクヤ",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7296/9784295007296.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784198647414",
+            "title": "LINE上手",
+            "title_collation_key": "ラインジョウズ",
+            "contributor": "浮世満理子",
+            "contributor_collation_key": "ウキヨマリコ",
+            "imprint": "徳間書店",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7414/9784198647414.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839970734",
+            "title": "iOSビジネス年鑑",
+            "title_collation_key": "アイオーエスビジネスネンカン",
+            "contributor": "栗原亮/佐武洋介",
+            "contributor_collation_key": "クリハラリョウ/サタケヨウスケ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0734/9784839970734.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866363936",
+            "title": "Androidスマートフォン 迷わず使える操作ガイド",
+            "title_collation_key": "アンドロイドスマートフォンマヨワズツカエルソウサガイド",
+            "contributor": "standards",
+            "contributor_collation_key": "スタンダーズ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3936/9784866363936.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784141992868",
+            "title": "5日ではじめる！5日で使える！　はじめてのスマホ",
+            "title_collation_key": "イツカデハジメルイツカデツカエルハジメテノスマホ",
+            "contributor": "NHK出版",
+            "contributor_collation_key": "エヌエイチケイシュッパン",
+            "imprint": "NHK出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2868/9784141992868.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297108212",
+            "title": "動かしてわかる CPUの作り方10講",
+            "title_collation_key": "ウゴカシテワカルシーピーユーノツクリカタジュッコウ",
+            "contributor": "井澤裕司",
+            "contributor_collation_key": "イザワユウジ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8212/9784297108212.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866363820",
+            "title": "AQUOS完全マニュアル",
+            "title_collation_key": "アクオスカンゼンマニュアル",
+            "contributor": "standards",
+            "contributor_collation_key": "スタンダーズ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3820/9784866363820.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784141992820",
+            "title": "5日でデビュー！　はじめてのスマホ",
+            "title_collation_key": "イツカデデビューハジメテノスマホ",
+            "contributor": "池澤 あやか/NHK出版",
+            "contributor_collation_key": "イケザワ アヤカ/エヌエイチケイシュッパン",
+            "imprint": "NHK出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2820/9784141992820.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784801811669",
+            "title": "iPhone＆iPadの便利帖最新版",
+            "title_collation_key": "アイフォン アンド アイパッド ノ ベンリチョウ サイシンバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "晋遊舎",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1669/9784801811669.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295006244",
+            "title": "48歳からのスマホ入門",
+            "title_collation_key": "ヨンジュウハッサイ カラノ スマホ ニュウモン",
+            "contributor": "リブロワークス",
+            "contributor_collation_key": "リブロ ワークス",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6244/9784295006244.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844378105",
+            "title": "OD＞驚異！デジカメだけで月のクレーターや木星の大赤斑が撮れる",
+            "title_collation_key": "オーディー キョウイ デジカメ ダケデ ツキ ノ クレーター ヤ モクセイ ノ",
+            "contributor": "山野泰照",
+            "contributor_collation_key": "ヤマモト,ヤステル",
+            "imprint": "インプレスR＆D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8105/9784844378105.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784569843018",
+            "title": "スマホ1台で1000万円得する！マネーアプリ超活用術",
+            "title_collation_key": "スマホイチダイデイッセンマンエントクスル マネーアプリチョウカツヨウジュツ",
+            "contributor": "山崎 俊輔",
+            "contributor_collation_key": "ヤマサキ シュンスケ",
+            "imprint": "PHP研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3018/9784569843018.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297104801",
+            "title": "たった1日で基本が身に付く！　Swift　アプリ開発　超入門",
+            "title_collation_key": "タッタイチニチデキホンガミニツクスイフトアプリカイハツチョウニュウモン",
+            "contributor": "高橋　広樹",
+            "contributor_collation_key": "タカハシ ヒロキ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4801/9784297104801.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784839968991",
+            "title": "大人のためのiPhone講座",
+            "title_collation_key": "オトナノタメノアイフォーンコウザ",
+            "contributor": "松山茂/矢橋司",
+            "contributor_collation_key": "マツヤマシゲル/ヤハシツカサ",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8991/9784839968991.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784873118536",
+            "title": "MESHをはじめよう",
+            "title_collation_key": "メッシュヲハジメヨウ",
+            "contributor": "萩原 丈博/小林 茂",
+            "contributor_collation_key": "ハギワラ タケヒロ/コバヤシ シゲル",
+            "imprint": "オライリー・ジャパン",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8536/9784873118536.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844396932",
+            "title": "OD＞超簡単フィルムのデジタイズ",
+            "title_collation_key": "オーディー チョウカンタン フィルム ノ デジタイズ",
+            "contributor": "山野泰照",
+            "contributor_collation_key": "ヤマノ,ヤステル",
+            "imprint": "インプレスR＆D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6932/9784844396932.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865456929",
+            "title": "大人のためのiPhone入門",
+            "title_collation_key": "オトナ ノ タメノ アイフォン ニュウモン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6929/9784865456929.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784866363578",
+            "title": "iPhone完全マニュアル　2019",
+            "title_collation_key": "アイフォーンカンゼンマニュアルニセンジュウキュウ",
+            "contributor": "standards",
+            "contributor_collation_key": "スタンダーズ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3578/9784866363578.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297103767",
+            "title": "ゼロからはじめる格安SIM＆スマホスマートガイド",
+            "title_collation_key": "ゼロ カラ ハジメル カクヤス シム アンド スマホ スマート ガイド",
+            "contributor": "リンクアップ",
+            "contributor_collation_key": "リンク アップ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3767/9784297103767.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297103842",
+            "title": "大きな字でわかりやすいLINE入門",
+            "title_collation_key": "オオキナ ジ デ ワカリヤスイ ライン ニュウモン",
+            "contributor": "岩間麻帆",
+            "contributor_collation_key": "イワマ,マホ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3842/9784297103842.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784822286057",
+            "title": "いちばんやさしい 60代からのiPad iOS12対応",
+            "title_collation_key": "イチバンヤサシイロクジュウダイカラノアイパットアイオーエスジュウニタイオウ",
+            "contributor": "増田 由紀",
+            "contributor_collation_key": "マスダユキ",
+            "imprint": "日経BP",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6057/9784822286057.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784800291820",
+            "title": "いまからスマホ一週間でマスター！スマホの基本",
+            "title_collation_key": "イマ カラ スマホ イッシュウカン デ マスター スマホ ノ キホン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "宝島社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1820/9784800291820.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784777954148",
+            "title": "iPad超活用術Proと9．7インチ",
+            "title_collation_key": "アイパッド チョウカツヨウジュツ プロ ト キュウテンナナインチ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "エイ出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4148/9784777954148.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297104016",
+            "title": "桜と紅葉撮影ハンドブック",
+            "title_collation_key": "サクラ トコウヨウ サツエイ ハンドブック",
+            "contributor": "萩原史郎/ナイスク",
+            "contributor_collation_key": "ハギハラ,シロウ/ナイスク",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4016/9784297104016.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297103729",
+            "title": "風景写真撮影ハンドブック",
+            "title_collation_key": "フウケイ シャシン サツエイ ハンドブック",
+            "contributor": "服部考規/ナイスク",
+            "contributor_collation_key": "ハットリ,タカノリ/ナイスク",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3729/9784297103729.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784844398455",
+            "title": "OD＞iOSアプリ開発UI実装であると嬉しいレシピブック",
+            "title_collation_key": "オーディー アイ オーエス アプリ カイハツ デ ユーアイ ジッソウ デ アルト",
+            "contributor": "酒井文也",
+            "contributor_collation_key": "サカイ,フミヤ",
+            "imprint": "インプレスR＆D",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8455/9784844398455.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784295005605",
+            "title": "世界一やさしいiPhone",
+            "title_collation_key": "セカイイチ ヤサシイ アイフォン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "インプレス",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5605/9784295005605.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784865456707",
+            "title": "Androidほぼ標準機能で使える速攻技（2019）",
+            "title_collation_key": "アンドロイド ホボ ヒョウジュン キノウ デ ツカエル ソッコウワザ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "英和出版社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6707/9784865456707.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784297102289",
+            "title": "iPadプロ技BESTセレクション",
+            "title_collation_key": "アイパッド プロワザ ベスト セレクション",
+            "contributor": "リンクアップ",
+            "contributor_collation_key": "リンク アップ",
+            "imprint": "技術評論社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2289/9784297102289.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784049110104",
+            "title": "週刊アスキー特別編集　週アス2019January",
+            "title_collation_key": "シュウカンアスキートクベツヘンシュウ　シュウアス2019ジャニュアリー",
+            "contributor": "週刊アスキー編集部",
+            "contributor_collation_key": "シュウカンアスキーヘンシュウブ",
+            "imprint": "角川アスキー総合研究所",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0104/9784049110104.jpg?_ex=200x200"
+        },
+        {
+            "isbn": "9784800712288",
+            "title": "プロが教える！iPhone動画撮影&iMovie編集講座",
+            "title_collation_key": "プロガオシエル　アイフォーンドウガサツエイ　アンド　アイムービーヘンシュウコウザ",
+            "contributor": "月足直人",
+            "contributor_collation_key": "ツキアシナオト",
+            "imprint": "ソーテック社",
+            "main_cover": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2288/9784800712288.jpg?_ex=200x200"
+        }
+    ]
+}
