@@ -103,7 +103,7 @@
       cover.setAttribute("opacity",0);
       cover.setAttribute("book","isbn: " + isbn);
       cover.setAttribute("rotation", "-90 0 0");
-      cover.setAttribute("position", "0 "+(book_depth*count)+0.01+" 0");
+      cover.setAttribute("position", "0 "+((book_depth*count)+0.002)+" 0");
       cover.classList.add("collidable");
       var bookface = document.createElement("a-plane");
       bookface.setAttribute("id",id);
@@ -111,7 +111,7 @@
       bookface.setAttribute("height",book_height);
       bookface.setAttribute("width", book_width);
       bookface.setAttribute("rotation", "-90 0 0");
-      bookface.setAttribute("position", "0 "+ (book_depth*count) +" 0" );
+      bookface.setAttribute("position", "0 "+ ((book_depth*count)+0.001) +" 0" );
       var bookbox = document.createElement("a-box");
       bookbox.setAttribute("height",book_height);
       bookbox.setAttribute("width", book_width);
