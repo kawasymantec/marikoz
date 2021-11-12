@@ -15,13 +15,44 @@
     ],
     "books": [
         {
+            "isbn": "9784260044769",
+            "title": "精神医学 第4版増補版",
+            "title_collation_key": "セイシンイガク",
+            "contributor": "奈良 勲",
+            "contributor_collation_key": "ナラ イサオ",
+            "imprint": "医学書院",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16615027/"
+        },
+        {
+            "isbn": "9784791152803",
+            "title": "臨床精神薬理（Vol．24　No．2（Feb）",
+            "title_collation_key": "リンショウ セイシン ヤクリ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "星和書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16619367/"
+        },
+        {
+            "isbn": "9784524403745",
+            "title": "コンパス生物薬剤学（改訂第3版）",
+            "title_collation_key": "コンパスセイブツヤクザイガク",
+            "contributor": "岩城　正宏/尾上　誠良",
+            "contributor_collation_key": "イワキ　マサヒロ/オノウエ　サトミ",
+            "imprint": "南江堂",
+            "main_cover": "https://cover.openbd.jp/9784524403745.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16598230/"
+        },
+        {
             "isbn": "9784784931811",
             "title": "カラー図解 人体の正常構造と機能 全10巻縮刷版",
             "title_collation_key": "カラーズカイジンタイノセイジョウコウゾウトキノウゼンジュッカンシュクサツバン",
             "contributor": "坂井建雄/河原克雅",
             "contributor_collation_key": "サカイタツオ/カワハラカツマサ",
             "imprint": "日本医事新報社",
-            "main_cover": "https://cover.openbd.jp/9784784931811.jpg"
+            "main_cover": "https://cover.openbd.jp/9784784931811.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16586725/"
         },
         {
             "isbn": "9784866801186",
@@ -30,7 +61,8 @@
             "contributor": "牧田　善二",
             "contributor_collation_key": "マキタ　ゼンジ",
             "imprint": "フォレスト出版",
-            "main_cover": "https://cover.openbd.jp/9784866801186.jpg"
+            "main_cover": "https://cover.openbd.jp/9784866801186.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16578730/"
         },
         {
             "isbn": "9784524227648",
@@ -39,16 +71,8 @@
             "contributor": "佐藤　達夫/秋田　恵一",
             "contributor_collation_key": "サトウ　タツオ/アキタ　ケイイチ",
             "imprint": "南江堂",
-            "main_cover": "https://cover.openbd.jp/9784524227648.jpg"
-        },
-        {
-            "isbn": "9784760830411",
-            "title": "新装版　人間の脳と心理過程",
-            "title_collation_key": "シンソウバン　ニンゲンノノウトシンリカテイ",
-            "contributor": "A．R．ルリヤ/松野豊",
-            "contributor_collation_key": "アレクサンドル　ロマーノヴィチ　ルリヤ/マツノユタカ",
-            "imprint": "金子書房",
-            "main_cover": "https://cover.openbd.jp/9784760830411.jpg"
+            "main_cover": "https://cover.openbd.jp/9784524227648.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16579988/"
         },
         {
             "isbn": "9784524228041",
@@ -57,7 +81,18 @@
             "contributor": "平野　正美/勝田　逸郎",
             "contributor_collation_key": "ヒラノ　マサミ/カツダ　イツロウ",
             "imprint": "南江堂",
-            "main_cover": "https://cover.openbd.jp/9784524228041.jpg"
+            "main_cover": "https://cover.openbd.jp/9784524228041.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16534158/"
+        },
+        {
+            "isbn": "9784760830411",
+            "title": "新装版　人間の脳と心理過程",
+            "title_collation_key": "シンソウバン　ニンゲンノノウトシンリカテイ",
+            "contributor": "A．R．ルリヤ/松野豊",
+            "contributor_collation_key": "アレクサンドル　ロマーノヴィチ　ルリヤ/マツノユタカ",
+            "imprint": "金子書房",
+            "main_cover": "https://cover.openbd.jp/9784760830411.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16440994/"
         },
         {
             "isbn": "9784260042178",
@@ -66,7 +101,8 @@
             "contributor": "尾尻 博也",
             "contributor_collation_key": "オジリ ヒロヤ",
             "imprint": "医学書院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16602505/"
         },
         {
             "isbn": "9784781314761",
@@ -75,16 +111,8 @@
             "contributor": "三林浩二",
             "contributor_collation_key": "ミツバヤシコウジ",
             "imprint": "シーエムシー出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784805882276",
-            "title": "イラストで理解するケアマネのための薬図鑑",
-            "title_collation_key": "イラストデリカイスルケアマネノタメノクスリズカン",
-            "contributor": "鈴木 匡/利根川 恵子",
-            "contributor_collation_key": "スズキ タダシ/トネガワ ケイコ",
-            "imprint": "中央法規出版",
-            "main_cover": "https://cover.openbd.jp/9784805882276.jpg"
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16541939/"
         },
         {
             "isbn": "9784826507202",
@@ -93,34 +121,18 @@
             "contributor": "高岡健",
             "contributor_collation_key": "タカオカケン",
             "imprint": "批評社",
-            "main_cover": "https://cover.openbd.jp/9784826507202.jpg"
+            "main_cover": "https://cover.openbd.jp/9784826507202.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16585207/"
         },
         {
-            "isbn": "9784791152797",
-            "title": "臨床精神薬理（Vol．24　No．1（Jan）",
-            "title_collation_key": "リンショウ セイシン ヤクリ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "星和書店",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784263223772",
-            "title": "医動物学第2版",
-            "title_collation_key": "イドウブツガク",
-            "contributor": "平山謙二",
-            "contributor_collation_key": "ヒラヤマ,ケンジ",
-            "imprint": "医歯薬出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784498067301",
-            "title": "はじめてのリハビリテーション医学",
-            "title_collation_key": "ハジメテ ノ リハビリテーション イガク",
-            "contributor": "須田万豊",
-            "contributor_collation_key": "スダ,マブ",
-            "imprint": "中外医学社",
-            "main_cover": ""
+            "isbn": "9784805882276",
+            "title": "イラストで理解するケアマネのための薬図鑑",
+            "title_collation_key": "イラストデリカイスルケアマネノタメノクスリズカン",
+            "contributor": "鈴木 匡/利根川 恵子",
+            "contributor_collation_key": "スズキ タダシ/トネガワ ケイコ",
+            "imprint": "中央法規出版",
+            "main_cover": "https://cover.openbd.jp/9784805882276.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16528385/"
         },
         {
             "isbn": "9784498076983",
@@ -129,7 +141,28 @@
             "contributor": "谷岡哲也/友竹正人",
             "contributor_collation_key": "タニオカ,テツヤ/トモタケ,マサヒト",
             "imprint": "中外医学社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16596185/"
+        },
+        {
+            "isbn": "9784263223772",
+            "title": "医動物学第2版",
+            "title_collation_key": "イドウブツガク",
+            "contributor": "平山謙二",
+            "contributor_collation_key": "ヒラヤマ,ケンジ",
+            "imprint": "医歯薬出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16595475/"
+        },
+        {
+            "isbn": "9784498067301",
+            "title": "はじめてのリハビリテーション医学",
+            "title_collation_key": "ハジメテ ノ リハビリテーション イガク",
+            "contributor": "須田万豊",
+            "contributor_collation_key": "スダ,マブ",
+            "imprint": "中外医学社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16605219/"
         },
         {
             "isbn": "9784765318518",
@@ -138,25 +171,18 @@
             "contributor": "遠山正彌/馬場明道",
             "contributor_collation_key": "トオヤマ,マサヤ/ババ,アケミチ",
             "imprint": "金芳堂",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16619363/"
         },
         {
-            "isbn": "9784798057965",
-            "title": "薬局の現場ですぐに役立つ 実践で学ぶ! 薬物動態学",
-            "title_collation_key": "ヤッキョクノゲンバデスグニヤクダツ ジッセンデマナブヤクブツドウタイガク",
-            "contributor": "雜賀智也/淺沼晋",
-            "contributor_collation_key": "サイカトモヤ/アサヌマススム",
-            "imprint": "秀和システム",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784781315935",
-            "title": "ウェアラブル医療・ヘルスケア機器の技術と市場",
-            "title_collation_key": "ウェアラブルイリョウヘルスケアキキノギジュツトシジョウ",
-            "contributor": "シーエムシー出版編集部",
-            "contributor_collation_key": "シーエムシーシュッパンヘンシュウブ",
-            "imprint": "シーエムシー出版",
-            "main_cover": "https://cover.openbd.jp/9784781315935.jpg"
+            "isbn": "9784791152797",
+            "title": "臨床精神薬理（Vol．24　No．1（Jan）",
+            "title_collation_key": "リンショウ セイシン ヤクリ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "星和書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16587006/"
         },
         {
             "isbn": "9784781315645",
@@ -165,7 +191,28 @@
             "contributor": "有原圭三",
             "contributor_collation_key": "アリハラケイゾウ",
             "imprint": "シーエムシー出版",
-            "main_cover": "https://cover.openbd.jp/9784781315645.jpg"
+            "main_cover": "https://cover.openbd.jp/9784781315645.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16588736/"
+        },
+        {
+            "isbn": "9784798057965",
+            "title": "薬局の現場ですぐに役立つ 実践で学ぶ! 薬物動態学",
+            "title_collation_key": "ヤッキョクノゲンバデスグニヤクダツ ジッセンデマナブヤクブツドウタイガク",
+            "contributor": "雜賀智也/淺沼晋",
+            "contributor_collation_key": "サイカトモヤ/アサヌマススム",
+            "imprint": "秀和システム",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16484186/"
+        },
+        {
+            "isbn": "9784781315935",
+            "title": "ウェアラブル医療・ヘルスケア機器の技術と市場",
+            "title_collation_key": "ウェアラブルイリョウヘルスケアキキノギジュツトシジョウ",
+            "contributor": "シーエムシー出版編集部",
+            "contributor_collation_key": "シーエムシーシュッパンヘンシュウブ",
+            "imprint": "シーエムシー出版",
+            "main_cover": "https://cover.openbd.jp/9784781315935.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16588743/"
         },
         {
             "isbn": "9784787824592",
@@ -174,7 +221,8 @@
             "contributor": "内藤　裕二",
             "contributor_collation_key": "ナイトウ　ユウジ",
             "imprint": "診断と治療社",
-            "main_cover": "https://cover.openbd.jp/9784787824592.jpg"
+            "main_cover": "https://cover.openbd.jp/9784787824592.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16547262/"
         },
         {
             "isbn": "9784000296991",
@@ -183,7 +231,8 @@
             "contributor": "乾 敏郎/阪口 豊",
             "contributor_collation_key": "イヌイ トシオ/サカグチ ユタカ",
             "imprint": "岩波書店",
-            "main_cover": "https://cover.openbd.jp/9784000296991.jpg"
+            "main_cover": "https://cover.openbd.jp/9784000296991.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16520256/"
         },
         {
             "isbn": "9784758121118",
@@ -192,7 +241,8 @@
             "contributor": "井村　裕夫",
             "contributor_collation_key": "イムラ　ヒロオ",
             "imprint": "羊土社",
-            "main_cover": "https://cover.openbd.jp/9784758121118.jpg"
+            "main_cover": "https://cover.openbd.jp/9784758121118.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16546769/"
         },
         {
             "isbn": "9784065219195",
@@ -201,7 +251,8 @@
             "contributor": "毛内 拡",
             "contributor_collation_key": "モウナイ ヒロム",
             "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065219195.jpg"
+            "main_cover": "https://cover.openbd.jp/9784065219195.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16518809/"
         },
         {
             "isbn": "9784763138651",
@@ -210,7 +261,8 @@
             "contributor": "小林弘幸",
             "contributor_collation_key": "コバヤシヒロユキ",
             "imprint": "サンマーク出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16527456/"
         },
         {
             "isbn": "9784758103916",
@@ -219,7 +271,8 @@
             "contributor": "小林　徹也/杉村　薫",
             "contributor_collation_key": "コバヤシ　テツヤ/スギムラ　カオル",
             "imprint": "羊土社",
-            "main_cover": "https://cover.openbd.jp/9784758103916.jpg"
+            "main_cover": "https://cover.openbd.jp/9784758103916.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16540551/"
         },
         {
             "isbn": "9784471408350",
@@ -228,7 +281,8 @@
             "contributor": "日高 雄二",
             "contributor_collation_key": "ヒダカ ユウジ",
             "imprint": "高橋書店",
-            "main_cover": "https://cover.openbd.jp/9784471408350.jpg"
+            "main_cover": "https://cover.openbd.jp/9784471408350.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16494628/"
         },
         {
             "isbn": "9784296108343",
@@ -237,7 +291,8 @@
             "contributor": "下北沢病院医師団",
             "contributor_collation_key": "シモキタザワビョウインイシダン",
             "imprint": "日経BP",
-            "main_cover": "https://cover.openbd.jp/9784296108343.jpg"
+            "main_cover": "https://cover.openbd.jp/9784296108343.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16546974/"
         },
         {
             "isbn": "9784415329512",
@@ -246,7 +301,8 @@
             "contributor": "中島　淳",
             "contributor_collation_key": "ナカジマ　アツシ",
             "imprint": "成美堂出版",
-            "main_cover": "https://cover.openbd.jp/9784415329512.jpg"
+            "main_cover": "https://cover.openbd.jp/9784415329512.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16534093/"
         },
         {
             "isbn": "9784074463749",
@@ -255,16 +311,8 @@
             "contributor": "主婦の友社",
             "contributor_collation_key": "シュフノトモシャ",
             "imprint": "主婦の友社",
-            "main_cover": "https://cover.openbd.jp/9784074463749.jpg"
-        },
-        {
-            "isbn": "9784903803289",
-            "title": "医学論文査読のお作法",
-            "title_collation_key": "イガクロンブンサドクノオサホウ",
-            "contributor": "大前憲史/福原俊一",
-            "contributor_collation_key": "オオマエケンジ/フクハラシュンイチ",
-            "imprint": "健康医療評価研究機構",
-            "main_cover": "https://cover.openbd.jp/9784903803289.jpg"
+            "main_cover": "https://cover.openbd.jp/9784074463749.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16511218/"
         },
         {
             "isbn": "9784791152780",
@@ -273,34 +321,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "星和書店",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16534370/"
         },
         {
-            "isbn": "9784890262137",
-            "title": "生存のための身体信号",
-            "title_collation_key": "セイゾン ノ タメノ ソマティック マーカー",
-            "contributor": "中井孝章",
-            "contributor_collation_key": "ナカイ,タカアキ",
-            "imprint": "日本教育研究センター",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784895907002",
-            "title": "町田志樹の聴いて覚える解剖学　中枢・末梢神経編",
-            "title_collation_key": "マチダ シキ ノ キイテ オボエル カイボウガク チュウスウ マッショウ シンケイ",
-            "contributor": "町田志樹",
-            "contributor_collation_key": "マチダ,シキ",
-            "imprint": "三輪書店",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784840472371",
-            "title": "臨床薬理学　第5版",
-            "title_collation_key": "リンショウヤクリガクダイゴハン",
-            "contributor": "古川 裕之/赤瀬 智子",
-            "contributor_collation_key": "フルカワヒロユキ/アカセトモコ",
-            "imprint": "メディカ出版",
-            "main_cover": ""
+            "isbn": "9784903803289",
+            "title": "医学論文査読のお作法",
+            "title_collation_key": "イガクロンブンサドクノオサホウ",
+            "contributor": "大前憲史/福原俊一",
+            "contributor_collation_key": "オオマエケンジ/フクハラシュンイチ",
+            "imprint": "健康医療評価研究機構",
+            "main_cover": "https://cover.openbd.jp/9784903803289.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16517313/"
         },
         {
             "isbn": "9784780914191",
@@ -309,7 +341,28 @@
             "contributor": "橋本さとみ",
             "contributor_collation_key": "ハシモトサトミ",
             "imprint": "学研メディカル秀潤社",
-            "main_cover": "https://cover.openbd.jp/9784780914191.jpg"
+            "main_cover": "https://cover.openbd.jp/9784780914191.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16462106/"
+        },
+        {
+            "isbn": "9784890262137",
+            "title": "生存のための身体信号",
+            "title_collation_key": "セイゾン ノ タメノ ソマティック マーカー",
+            "contributor": "中井孝章",
+            "contributor_collation_key": "ナカイ,タカアキ",
+            "imprint": "日本教育研究センター",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16618370/"
+        },
+        {
+            "isbn": "9784895907002",
+            "title": "町田志樹の聴いて覚える解剖学　中枢・末梢神経編",
+            "title_collation_key": "マチダ シキ ノ キイテ オボエル カイボウガク チュウスウ マッショウ シンケイ",
+            "contributor": "町田志樹",
+            "contributor_collation_key": "マチダ,シキ",
+            "imprint": "三輪書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16456502/"
         },
         {
             "isbn": "9784263731970",
@@ -318,16 +371,28 @@
             "contributor": "赤木忠厚/松原修",
             "contributor_collation_key": "アカギ,タダアツ/マツバラ,オサム",
             "imprint": "医歯薬出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16585987/"
         },
         {
-            "isbn": "9784621305638",
-            "title": "人体解剖カラーリングブック　補訂版",
-            "title_collation_key": "ジンタイカイボウカラーリングブック　ホテイバン",
-            "contributor": "天野　修/千田　隆夫",
-            "contributor_collation_key": "アマノ　オサム/センダ　タカオ",
-            "imprint": "丸善出版",
-            "main_cover": "https://cover.openbd.jp/9784621305638.jpg"
+            "isbn": "9784890262137",
+            "title": "生存のための身体信号",
+            "title_collation_key": "セイゾン ノ タメノ ソマティック マーカー",
+            "contributor": "中井孝章",
+            "contributor_collation_key": "ナカイ,タカアキ",
+            "imprint": "日本教育研究センター",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16618370/"
+        },
+        {
+            "isbn": "9784840472371",
+            "title": "臨床薬理学　第5版",
+            "title_collation_key": "リンショウヤクリガクダイゴハン",
+            "contributor": "古川 裕之/赤瀬 智子",
+            "contributor_collation_key": "フルカワヒロユキ/アカセトモコ",
+            "imprint": "メディカ出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16540614/"
         },
         {
             "isbn": "9784844609025",
@@ -336,7 +401,8 @@
             "contributor": "安河内　朗/岩永　光一",
             "contributor_collation_key": "ヤスコウチ　アキラ/イワナガ　コウイチ",
             "imprint": "理工図書",
-            "main_cover": "https://cover.openbd.jp/9784844609025.jpg"
+            "main_cover": "https://cover.openbd.jp/9784844609025.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16542970/"
         },
         {
             "isbn": "9784758118750",
@@ -345,7 +411,18 @@
             "contributor": "日本漢方医学教育協議会",
             "contributor_collation_key": "ニホンカンポウイガクキョウイクキョウギカイ",
             "imprint": "羊土社",
-            "main_cover": "https://cover.openbd.jp/9784758118750.jpg"
+            "main_cover": "https://cover.openbd.jp/9784758118750.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16520607/"
+        },
+        {
+            "isbn": "9784621305638",
+            "title": "人体解剖カラーリングブック　補訂版",
+            "title_collation_key": "ジンタイカイボウカラーリングブック　ホテイバン",
+            "contributor": "天野　修/千田　隆夫",
+            "contributor_collation_key": "アマノ　オサム/センダ　タカオ",
+            "imprint": "丸善出版",
+            "main_cover": "https://cover.openbd.jp/9784621305638.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16480689/"
         },
         {
             "isbn": "9784524252916",
@@ -354,7 +431,8 @@
             "contributor": "荻田　喜代一/首藤　誠",
             "contributor_collation_key": "オギタ　キヨカズ/シユトウ　マコト",
             "imprint": "南江堂",
-            "main_cover": "https://cover.openbd.jp/9784524252916.jpg"
+            "main_cover": "https://cover.openbd.jp/9784524252916.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16502246/"
         },
         {
             "isbn": "9784315522990",
@@ -363,7 +441,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ニュートンプレス",
-            "main_cover": "https://cover.openbd.jp/9784315522990.jpg"
+            "main_cover": "https://cover.openbd.jp/9784315522990.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16490110/"
         },
         {
             "isbn": "9784414416725",
@@ -372,7 +451,8 @@
             "contributor": "西園マーハ　文",
             "contributor_collation_key": "ニシゾノマーハ　アヤ",
             "imprint": "誠信書房",
-            "main_cover": "https://cover.openbd.jp/9784414416725.jpg"
+            "main_cover": "https://cover.openbd.jp/9784414416725.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16484980/"
         },
         {
             "isbn": "9784535984981",
@@ -381,7 +461,8 @@
             "contributor": "切池信夫",
             "contributor_collation_key": "キリイケ ノブオ",
             "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535984981.jpg"
+            "main_cover": "https://cover.openbd.jp/9784535984981.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16470388/"
         },
         {
             "isbn": "9784767906850",
@@ -390,7 +471,8 @@
             "contributor": "林　修",
             "contributor_collation_key": "ハヤシ　オサム",
             "imprint": "建帛社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16503676/"
         },
         {
             "isbn": "9784813083467",
@@ -399,25 +481,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "大洋図書",
-            "main_cover": "https://cover.openbd.jp/9784813083467.jpg"
-        },
-        {
-            "isbn": "9784861740770",
-            "title": "わかりやすい薬理学第4版",
-            "title_collation_key": "ワカリヤスイ ヤクリガク",
-            "contributor": "安原一/小口勝司",
-            "contributor_collation_key": "ヤスハラ,ハジメ/オグチ,カツジ",
-            "imprint": "ヌーヴェルヒロカワ",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784761926649",
-            "title": "小児科医のママが教える大切なウンチの話",
-            "title_collation_key": "ショウニカイ ノ ママ ガ オシエル タイセツナ ウンチ ノ ハナシ",
-            "contributor": "工藤紀子",
-            "contributor_collation_key": "クドウ,ノリコ",
-            "imprint": "学事出版",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784813083467.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16469756/"
         },
         {
             "isbn": "9784765544900",
@@ -426,16 +491,28 @@
             "contributor": "稲場秀明",
             "contributor_collation_key": "イナバ,ヒデアキ",
             "imprint": "技報堂出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16515313/"
         },
         {
-            "isbn": "9784787824776",
-            "title": "免疫・炎症疾患のすべて",
-            "title_collation_key": "メンエキ エンショウ シッカン ノ スベテ",
-            "contributor": "日本医師会/竹内勤",
-            "contributor_collation_key": "ニホン イシカイ/タケウチ,ツトム",
-            "imprint": "日本医師会",
-            "main_cover": ""
+            "isbn": "9784861740770",
+            "title": "わかりやすい薬理学第4版",
+            "title_collation_key": "ワカリヤスイ ヤクリガク",
+            "contributor": "安原一/小口勝司",
+            "contributor_collation_key": "ヤスハラ,ハジメ/オグチ,カツジ",
+            "imprint": "ヌーヴェルヒロカワ",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16579613/"
+        },
+        {
+            "isbn": "9784761926649",
+            "title": "小児科医のママが教える大切なウンチの話",
+            "title_collation_key": "ショウニカイ ノ ママ ガ オシエル タイセツナ ウンチ ノ ハナシ",
+            "contributor": "工藤紀子",
+            "contributor_collation_key": "クドウ,ノリコ",
+            "imprint": "学事出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16541349/"
         },
         {
             "isbn": "9784866171111",
@@ -444,7 +521,8 @@
             "contributor": "橋本明",
             "contributor_collation_key": "ハシモト,アキラ",
             "imprint": "六花出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16549731/"
         },
         {
             "isbn": "9784791152773",
@@ -453,7 +531,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "星和書店",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16501771/"
+        },
+        {
+            "isbn": "9784787824776",
+            "title": "免疫・炎症疾患のすべて",
+            "title_collation_key": "メンエキ エンショウ シッカン ノ スベテ",
+            "contributor": "日本医師会/竹内勤",
+            "contributor_collation_key": "ニホン イシカイ/タケウチ,ツトム",
+            "imprint": "日本医師会",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16509103/"
         },
         {
             "isbn": "9784798057958",
@@ -462,7 +551,8 @@
             "contributor": "淺沼晋/雜賀智也",
             "contributor_collation_key": "アサヌマススム/サイカトモヤ",
             "imprint": "秀和システム",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16445504/"
         },
         {
             "isbn": "9784623090563",
@@ -471,7 +561,8 @@
             "contributor": "松本　卓也/野間　俊一",
             "contributor_collation_key": "マツモト　タクヤ/ノマ　シュンイチ",
             "imprint": "ミネルヴァ書房",
-            "main_cover": "https://cover.openbd.jp/9784623090563.jpg"
+            "main_cover": "https://cover.openbd.jp/9784623090563.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16464973/"
         },
         {
             "isbn": "9784758102506",
@@ -480,7 +571,8 @@
             "contributor": "町田　志樹",
             "contributor_collation_key": "マチダ　シキ",
             "imprint": "羊土社",
-            "main_cover": "https://cover.openbd.jp/9784758102506.jpg"
+            "main_cover": "https://cover.openbd.jp/9784758102506.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16479818/"
         },
         {
             "isbn": "9784480860910",
@@ -489,7 +581,8 @@
             "contributor": "川端　裕人",
             "contributor_collation_key": "カワバタ　ヒロト",
             "imprint": "筑摩書房",
-            "main_cover": "https://cover.openbd.jp/9784480860910.jpg"
+            "main_cover": "https://cover.openbd.jp/9784480860910.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16464125/"
         },
         {
             "isbn": "9784336066800",
@@ -498,7 +591,8 @@
             "contributor": "篠浦伸禎",
             "contributor_collation_key": "シノウラノブサダ",
             "imprint": "国書刊行会",
-            "main_cover": "https://cover.openbd.jp/9784336066800.jpg"
+            "main_cover": "https://cover.openbd.jp/9784336066800.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16456438/"
         },
         {
             "isbn": "9784763910899",
@@ -507,7 +601,8 @@
             "contributor": "森岡　周",
             "contributor_collation_key": "モリオカシュウ",
             "imprint": "協同医書出版社",
-            "main_cover": "https://cover.openbd.jp/9784763910899.jpg"
+            "main_cover": "https://cover.openbd.jp/9784763910899.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16472910/"
         },
         {
             "isbn": "9784767962153",
@@ -516,7 +611,8 @@
             "contributor": "機能油脂懇話会",
             "contributor_collation_key": "キノウユシコンワカイ",
             "imprint": "建帛社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16489030/"
         },
         {
             "isbn": "9784758103909",
@@ -525,7 +621,8 @@
             "contributor": "河本　宏/辻　真博",
             "contributor_collation_key": "カワモト　ヒロシ/ツジ　マサヒロ",
             "imprint": "羊土社",
-            "main_cover": "https://cover.openbd.jp/9784758103909.jpg"
+            "main_cover": "https://cover.openbd.jp/9784758103909.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16478975/"
         },
         {
             "isbn": "9784260040839",
@@ -534,7 +631,8 @@
             "contributor": "田口 敏彦",
             "contributor_collation_key": "タグチ トシヒコ",
             "imprint": "医学書院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16489037/"
         },
         {
             "isbn": "9784780909982",
@@ -543,7 +641,8 @@
             "contributor": "堀川宗之",
             "contributor_collation_key": "ホリカワムネユキ",
             "imprint": "学研メディカル秀潤社",
-            "main_cover": "https://cover.openbd.jp/9784780909982.jpg"
+            "main_cover": "https://cover.openbd.jp/9784780909982.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16426944/"
         },
         {
             "isbn": "9784780904147",
@@ -552,7 +651,8 @@
             "contributor": "池田研二/嶋津秀昭",
             "contributor_collation_key": "イケダケンジ/シマヅ゛ヒデアキ",
             "imprint": "学研メディカル秀潤社",
-            "main_cover": "https://cover.openbd.jp/9784780904147.jpg"
+            "main_cover": "https://cover.openbd.jp/9784780904147.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16426781/"
         },
         {
             "isbn": "9784904419960",
@@ -561,7 +661,8 @@
             "contributor": "千田　隆夫/小村　一也",
             "contributor_collation_key": "センダ　タカオ/コムラ　カズヤ",
             "imprint": "アドスリー",
-            "main_cover": "https://cover.openbd.jp/9784904419960.jpg"
+            "main_cover": "https://cover.openbd.jp/9784904419960.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16449098/"
         },
         {
             "isbn": "9784480073303",
@@ -570,7 +671,8 @@
             "contributor": "湯澤　規子",
             "contributor_collation_key": "ユザワ　ノリコ",
             "imprint": "筑摩書房",
-            "main_cover": "https://cover.openbd.jp/9784480073303.jpg"
+            "main_cover": "https://cover.openbd.jp/9784480073303.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16444703/"
         },
         {
             "isbn": "9784753311729",
@@ -579,7 +681,8 @@
             "contributor": "岡野　憲一郎",
             "contributor_collation_key": "オカノ　ケンイチロウ",
             "imprint": "岩崎学術出版社",
-            "main_cover": "https://cover.openbd.jp/9784753311729.in03.jpg"
+            "main_cover": "https://cover.openbd.jp/9784753311729.in03.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16462412/"
         },
         {
             "isbn": "9784753311712",
@@ -588,7 +691,8 @@
             "contributor": "井原　裕",
             "contributor_collation_key": "イハラ　ヒロシ",
             "imprint": "岩崎学術出版社",
-            "main_cover": "https://cover.openbd.jp/9784753311712.jpg"
+            "main_cover": "https://cover.openbd.jp/9784753311712.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16462413/"
         },
         {
             "isbn": "9784023317895",
@@ -597,7 +701,8 @@
             "contributor": "池谷裕二",
             "contributor_collation_key": "イケガヤユウジ",
             "imprint": "朝日新聞出版",
-            "main_cover": "https://cover.openbd.jp/9784023317895.jpg"
+            "main_cover": "https://cover.openbd.jp/9784023317895.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16437001/"
         },
         {
             "isbn": "9784254171747",
@@ -606,7 +711,8 @@
             "contributor": "永宗 喜三郎/脇 司",
             "contributor_collation_key": "ナガムネ キサブロウ/ワキ ツカサ",
             "imprint": "朝倉書店",
-            "main_cover": "https://cover.openbd.jp/9784254171747.jpg"
+            "main_cover": "https://cover.openbd.jp/9784254171747.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16438279/"
         },
         {
             "isbn": "9784525751326",
@@ -615,7 +721,8 @@
             "contributor": "藤井暢弘/山本友子",
             "contributor_collation_key": "フジイノブヒロ/ヤマモトトモコ",
             "imprint": "南山堂",
-            "main_cover": "https://cover.openbd.jp/9784525751326.jpg"
+            "main_cover": "https://cover.openbd.jp/9784525751326.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16446356/"
         },
         {
             "isbn": "9784752911937",
@@ -624,7 +731,8 @@
             "contributor": "原田晃",
             "contributor_collation_key": "ハラダアキラ",
             "imprint": "医道の日本社",
-            "main_cover": "https://cover.openbd.jp/9784752911937.jpg"
+            "main_cover": "https://cover.openbd.jp/9784752911937.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16486987/"
         },
         {
             "isbn": "9784758109758",
@@ -633,7 +741,8 @@
             "contributor": "増澤　俊幸",
             "contributor_collation_key": "マスザワ　トシユキ",
             "imprint": "羊土社",
-            "main_cover": "https://cover.openbd.jp/9784758109758.jpg"
+            "main_cover": "https://cover.openbd.jp/9784758109758.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16458178/"
         },
         {
             "isbn": "9784791152766",
@@ -642,7 +751,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "星和書店",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16463681/"
         },
         {
             "isbn": "9784895907026",
@@ -651,7 +761,8 @@
             "contributor": "中村謙介",
             "contributor_collation_key": "ナカムラ,ケンスケ",
             "imprint": "三輪書店",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16508217/"
         },
         {
             "isbn": "9784830613951",
@@ -660,7 +771,8 @@
             "contributor": "大森安恵",
             "contributor_collation_key": "オオモリ,ヤスエ",
             "imprint": "文光堂",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16489364/"
         },
         {
             "isbn": "9784990673987",
@@ -669,7 +781,8 @@
             "contributor": "神谷茂",
             "contributor_collation_key": "カミヤ,シゲル",
             "imprint": "ヤクルト・バイオサイエンス研究財団",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16520979/"
         },
         {
             "isbn": "9784840752923",
@@ -678,16 +791,8 @@
             "contributor": "日本組織培養学会",
             "contributor_collation_key": "ニホンソシキバイヨウガッカイ",
             "imprint": "じほう",
-            "main_cover": "https://cover.openbd.jp/9784840752923.jpg"
-        },
-        {
-            "isbn": "9784799326756",
-            "title": "BRAIN　DRIVEN　ブレインドリブン",
-            "title_collation_key": "ブレイン ドリブン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ディスカヴァー・トゥエンティワン",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784840752923.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16441591/"
         },
         {
             "isbn": "9784883787173",
@@ -696,7 +801,18 @@
             "contributor": "岸本年史",
             "contributor_collation_key": "キシモト トシフミ",
             "imprint": "総合医学社",
-            "main_cover": "https://cover.openbd.jp/9784883787173.jpg"
+            "main_cover": "https://cover.openbd.jp/9784883787173.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16440102/"
+        },
+        {
+            "isbn": "9784799326756",
+            "title": "BRAIN　DRIVEN　ブレインドリブン",
+            "title_collation_key": "ブレイン ドリブン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ディスカヴァー・トゥエンティワン",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16430219/"
         },
         {
             "isbn": "9784434279294",
@@ -705,7 +821,8 @@
             "contributor": "真壁昭夫/中野信子",
             "contributor_collation_key": "マカベアキオ/ナカノノブコ",
             "imprint": "株式会社白秋社",
-            "main_cover": "https://cover.openbd.jp/9784434279294.jpg"
+            "main_cover": "https://cover.openbd.jp/9784434279294.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16406596/"
         },
         {
             "isbn": "9784839972479",
@@ -714,7 +831,8 @@
             "contributor": "山田篤生",
             "contributor_collation_key": "ヤマダアツオ",
             "imprint": "マイナビ出版",
-            "main_cover": "https://cover.openbd.jp/9784839972479.jpg"
+            "main_cover": "https://cover.openbd.jp/9784839972479.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16420040/"
         },
         {
             "isbn": "9784758120982",
@@ -723,7 +841,8 @@
             "contributor": "櫻井　武",
             "contributor_collation_key": "サクライ　タケシ",
             "imprint": "羊土社",
-            "main_cover": "https://cover.openbd.jp/9784758120982.jpg"
+            "main_cover": "https://cover.openbd.jp/9784758120982.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16440310/"
         },
         {
             "isbn": "9784260041393",
@@ -732,7 +851,8 @@
             "contributor": "横溝 岳彦",
             "contributor_collation_key": "ヨコミゾ タケヒコ",
             "imprint": "医学書院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16441041/"
         },
         {
             "isbn": "9784040823720",
@@ -741,16 +861,8 @@
             "contributor": "池谷　敏郎",
             "contributor_collation_key": "イケタニ　トシロウ",
             "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784040823720.jpg"
-        },
-        {
-            "isbn": "9784762831218",
-            "title": "医療関係者のための脳機能研究入門",
-            "title_collation_key": "イリョウカンケイシャノタメノノウキノウケンキュウニュウモン",
-            "contributor": "佐藤 正之/田部井 賢一",
-            "contributor_collation_key": "サトウ マサユキ/タベイ ケンイチ",
-            "imprint": "北大路書房",
-            "main_cover": "https://cover.openbd.jp/9784762831218.jpg"
+            "main_cover": "https://cover.openbd.jp/9784040823720.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16409226/"
         },
         {
             "isbn": "9784315522723",
@@ -759,7 +871,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ニュートンプレス",
-            "main_cover": "https://cover.openbd.jp/9784315522723.jpg"
+            "main_cover": "https://cover.openbd.jp/9784315522723.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16425937/"
+        },
+        {
+            "isbn": "9784762831218",
+            "title": "医療関係者のための脳機能研究入門",
+            "title_collation_key": "イリョウカンケイシャノタメノノウキノウケンキュウニュウモン",
+            "contributor": "佐藤 正之/田部井 賢一",
+            "contributor_collation_key": "サトウ マサユキ/タベイ ケンイチ",
+            "imprint": "北大路書房",
+            "main_cover": "https://cover.openbd.jp/9784762831218.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16411018/"
         },
         {
             "isbn": "9784840471992",
@@ -768,7 +891,8 @@
             "contributor": "今中 健二",
             "contributor_collation_key": "イマナカケンジ",
             "imprint": "メディカ出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16422038/"
         },
         {
             "isbn": "9784865812633",
@@ -777,7 +901,8 @@
             "contributor": "常喜眞理",
             "contributor_collation_key": "ジョウキマリ",
             "imprint": "さくら舎",
-            "main_cover": "https://cover.openbd.jp/9784865812633.jpg"
+            "main_cover": "https://cover.openbd.jp/9784865812633.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16409169/"
         },
         {
             "isbn": "9784909197740",
@@ -786,7 +911,8 @@
             "contributor": "浅野哲",
             "contributor_collation_key": "アサノ,テツ",
             "imprint": "京都廣川書店",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16510071/"
         },
         {
             "isbn": "9784909197719",
@@ -795,7 +921,18 @@
             "contributor": "久保田隆廣",
             "contributor_collation_key": "クボタ,タカヒロ",
             "imprint": "京都廣川書店",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16526715/"
+        },
+        {
+            "isbn": "9784909197634",
+            "title": "分子病態薬物治療学第2版",
+            "title_collation_key": "ブンシ ビョウタイ ヤクブツ チリョウガク",
+            "contributor": "秋葉聡/石原慶一",
+            "contributor_collation_key": "アキバ,サトシ/イシハラ,ケイイチ",
+            "imprint": "京都廣川書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16462683/"
         },
         {
             "isbn": "9784901276573",
@@ -804,7 +941,8 @@
             "contributor": "日本医療機器学会",
             "contributor_collation_key": "ニホン イリョウ キキ ガッカイ",
             "imprint": "エム・イー振興協会",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16449572/"
         },
         {
             "isbn": "9784909197702",
@@ -813,70 +951,8 @@
             "contributor": "北川裕之/山田修平",
             "contributor_collation_key": "キタガワ,ヒロユキ/ヤマダ,シュウヘイ",
             "imprint": "京都廣川書店",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784909197733",
-            "title": "衛生化学詳解（上）第3版",
-            "title_collation_key": "エイセイ カガク ショウカイ",
-            "contributor": "浅野哲",
-            "contributor_collation_key": "アサノ,テツ",
-            "imprint": "京都廣川書店",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784909197030",
-            "title": "生命活動と生化学への展開第2版",
-            "title_collation_key": "セイメイ カツドウ ト セイカガク エノ テンカイ",
-            "contributor": "森田哲生",
-            "contributor_collation_key": "モリタ,テツオ",
-            "imprint": "京都廣川書店",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784901276597",
-            "title": "医療機器安全実践必携ガイド　臨床工学編第4版",
-            "title_collation_key": "イリョウ キキ アンゼン ジッセン ヒッケイ ガイド リンショウ コウガクヘン",
-            "contributor": "日本医療機器学会",
-            "contributor_collation_key": "ニホン イリョウ キキ ガッカイ",
-            "imprint": "エム・イー振興協会",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784901276580",
-            "title": "医療機器安全実践必携ガイド　臨床医学編第4版",
-            "title_collation_key": "イリョウ キキ アンゼン ジッセン ヒッケイ ガイド リンショウ イガクヘン",
-            "contributor": "日本医療機器学会",
-            "contributor_collation_key": "ニホン イリョウ キキ ガッカイ",
-            "imprint": "エム・イー振興協会",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784901276603",
-            "title": "医療機器安全実践必携ガイド　医療情報編第4版",
-            "title_collation_key": "イリョウ キキ アンゼン ジッセン ヒッケイ ガイド イリョウ ジョウホウヘン",
-            "contributor": "日本医療機器学会",
-            "contributor_collation_key": "ニホン イリョウ キキ ガッカイ",
-            "imprint": "エム・イー振興協会",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784791152759",
-            "title": "臨床精神薬理（Vol．23　No．9（Sep）",
-            "title_collation_key": "リンショウ セイシン ヤクリ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "星和書店",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784867190043",
-            "title": "医療現場の滅菌改訂第5版",
-            "title_collation_key": "イリョウ ゲンバ ノ メッキン",
-            "contributor": "高階雅紀",
-            "contributor_collation_key": "タカシナ,マサキ",
-            "imprint": "へるす出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16510068/"
         },
         {
             "isbn": "9784909197689",
@@ -885,16 +961,78 @@
             "contributor": "馬場広子",
             "contributor_collation_key": "ババ,ヒロコ",
             "imprint": "京都廣川書店",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16667435/"
         },
         {
-            "isbn": "9784781315195",
-            "title": "ヒト常在菌叢と生理機能・全身疾患",
-            "title_collation_key": "ヒトジョウザイキンソウトセイリキノウゼンシンシッカン",
-            "contributor": "落合邦康",
-            "contributor_collation_key": "オチアイクニヤス",
-            "imprint": "シーエムシー出版",
-            "main_cover": "https://cover.openbd.jp/9784781315195.jpg"
+            "isbn": "9784909197733",
+            "title": "衛生化学詳解（上）第3版",
+            "title_collation_key": "エイセイ カガク ショウカイ",
+            "contributor": "浅野哲",
+            "contributor_collation_key": "アサノ,テツ",
+            "imprint": "京都廣川書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16510070/"
+        },
+        {
+            "isbn": "9784901276580",
+            "title": "医療機器安全実践必携ガイド　臨床医学編第4版",
+            "title_collation_key": "イリョウ キキ アンゼン ジッセン ヒッケイ ガイド リンショウ イガクヘン",
+            "contributor": "日本医療機器学会",
+            "contributor_collation_key": "ニホン イリョウ キキ ガッカイ",
+            "imprint": "エム・イー振興協会",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16449573/"
+        },
+        {
+            "isbn": "9784901276603",
+            "title": "医療機器安全実践必携ガイド　医療情報編第4版",
+            "title_collation_key": "イリョウ キキ アンゼン ジッセン ヒッケイ ガイド イリョウ ジョウホウヘン",
+            "contributor": "日本医療機器学会",
+            "contributor_collation_key": "ニホン イリョウ キキ ガッカイ",
+            "imprint": "エム・イー振興協会",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16449575/"
+        },
+        {
+            "isbn": "9784909197030",
+            "title": "生命活動と生化学への展開第2版",
+            "title_collation_key": "セイメイ カツドウ ト セイカガク エノ テンカイ",
+            "contributor": "森田哲生",
+            "contributor_collation_key": "モリタ,テツオ",
+            "imprint": "京都廣川書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16462682/"
+        },
+        {
+            "isbn": "9784791152759",
+            "title": "臨床精神薬理（Vol．23　No．9（Sep）",
+            "title_collation_key": "リンショウ セイシン ヤクリ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "星和書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16431557/"
+        },
+        {
+            "isbn": "9784901276597",
+            "title": "医療機器安全実践必携ガイド　臨床工学編第4版",
+            "title_collation_key": "イリョウ キキ アンゼン ジッセン ヒッケイ ガイド リンショウ コウガクヘン",
+            "contributor": "日本医療機器学会",
+            "contributor_collation_key": "ニホン イリョウ キキ ガッカイ",
+            "imprint": "エム・イー振興協会",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16449574/"
+        },
+        {
+            "isbn": "9784867190043",
+            "title": "医療現場の滅菌改訂第5版",
+            "title_collation_key": "イリョウ ゲンバ ノ メッキン",
+            "contributor": "高階雅紀",
+            "contributor_collation_key": "タカシナ,マサキ",
+            "imprint": "へるす出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16469059/"
         },
         {
             "isbn": "9784260042574",
@@ -903,7 +1041,18 @@
             "contributor": "砂川 融",
             "contributor_collation_key": "スナガワ トオル",
             "imprint": "医学書院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16429859/"
+        },
+        {
+            "isbn": "9784781315195",
+            "title": "ヒト常在菌叢と生理機能・全身疾患",
+            "title_collation_key": "ヒトジョウザイキンソウトセイリキノウゼンシンシッカン",
+            "contributor": "落合邦康",
+            "contributor_collation_key": "オチアイクニヤス",
+            "imprint": "シーエムシー出版",
+            "main_cover": "https://cover.openbd.jp/9784781315195.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16434158/"
         },
         {
             "isbn": "9784787824479",
@@ -912,7 +1061,8 @@
             "contributor": "水沼　英樹",
             "contributor_collation_key": "ミズヌマ　ヒデキ",
             "imprint": "診断と治療社",
-            "main_cover": "https://cover.openbd.jp/9784787824479.jpg"
+            "main_cover": "https://cover.openbd.jp/9784787824479.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16409208/"
         },
         {
             "isbn": "9784621305393",
@@ -921,7 +1071,8 @@
             "contributor": "佐伯 由香/細谷 安彦",
             "contributor_collation_key": "サエキ ユカ/ホソヤ ヤスヒコ",
             "imprint": "丸善出版",
-            "main_cover": "https://cover.openbd.jp/9784621305393.jpg"
+            "main_cover": "https://cover.openbd.jp/9784621305393.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16387796/"
         },
         {
             "isbn": "9784023333406",
@@ -930,7 +1081,8 @@
             "contributor": "加藤俊徳",
             "contributor_collation_key": "カトウトシノリ",
             "imprint": "朝日新聞出版",
-            "main_cover": "https://cover.openbd.jp/9784023333406.jpg"
+            "main_cover": "https://cover.openbd.jp/9784023333406.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16391102/"
         },
         {
             "isbn": "9784814002900",
@@ -939,7 +1091,8 @@
             "contributor": "錦織 宏/三好 沙耶佳",
             "contributor_collation_key": "ニシゴリ ヒロシ/ミヨシ サヤカ",
             "imprint": "京都大学学術出版会",
-            "main_cover": "https://cover.openbd.jp/9784814002900.jpg"
+            "main_cover": "https://cover.openbd.jp/9784814002900.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16360888/"
         },
         {
             "isbn": "9784860031220",
@@ -948,7 +1101,8 @@
             "contributor": "渡邉 直行",
             "contributor_collation_key": "ワタナベナオユキ",
             "imprint": "医療科学社",
-            "main_cover": "https://cover.openbd.jp/9784860031220.jpg"
+            "main_cover": "https://cover.openbd.jp/9784860031220.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16393020/"
         },
         {
             "isbn": "9784773061031",
@@ -957,7 +1111,8 @@
             "contributor": "上原 健志/石井 直方",
             "contributor_collation_key": "ウエハラ タケシ/イシイ ナオカタ",
             "imprint": "笠倉出版社",
-            "main_cover": "https://cover.openbd.jp/9784773061031.jpg"
+            "main_cover": "https://cover.openbd.jp/9784773061031.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16294947/"
         },
         {
             "isbn": "9784862464248",
@@ -966,7 +1121,8 @@
             "contributor": "ゴットフリード・バメス",
             "contributor_collation_key": "ゴットフリードバメス",
             "imprint": "ボーンデジタル",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/15886728/"
         },
         {
             "isbn": "9784864121767",
@@ -975,16 +1131,8 @@
             "contributor": "狛 潤一/佐藤 明子",
             "contributor_collation_key": "",
             "imprint": "子どもの未来社",
-            "main_cover": "https://cover.openbd.jp/9784864121767.jpg"
-        },
-        {
-            "isbn": "9784791152742",
-            "title": "臨床精神薬理（Vol．23　No．8（Aug）",
-            "title_collation_key": "リンショウ セイシン ヤクリ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "星和書店",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784864121767.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16402577/"
         },
         {
             "isbn": "9784906514953",
@@ -993,7 +1141,8 @@
             "contributor": "日本組織細胞化学会",
             "contributor_collation_key": "ニホン ソシキ サイボウ カガクカイ",
             "imprint": "学際企画",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16449577/"
         },
         {
             "isbn": "9784860436711",
@@ -1002,16 +1151,18 @@
             "contributor": "鈴木淳史",
             "contributor_collation_key": "スズキ,アツシ",
             "imprint": "エヌ・ティー・エス",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16419596/"
         },
         {
-            "isbn": "9784498039186",
-            "title": "人工心肺ハンドブック改訂3版",
-            "title_collation_key": "ジンコウ シンパイ ハンドブック",
-            "contributor": "山口敦司/百瀬直樹",
-            "contributor_collation_key": "ヤマグチ,アツシ/モモセ,ナオキ",
-            "imprint": "中外医学社",
-            "main_cover": ""
+            "isbn": "9784791152742",
+            "title": "臨床精神薬理（Vol．23　No．8（Aug）",
+            "title_collation_key": "リンショウ セイシン ヤクリ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "星和書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16399435/"
         },
         {
             "isbn": "9784909117359",
@@ -1020,7 +1171,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "地域医療振興協会地域医療研究所",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16405723/"
+        },
+        {
+            "isbn": "9784498039186",
+            "title": "人工心肺ハンドブック改訂3版",
+            "title_collation_key": "ジンコウ シンパイ ハンドブック",
+            "contributor": "山口敦司/百瀬直樹",
+            "contributor_collation_key": "ヤマグチ,アツシ/モモセ,ナオキ",
+            "imprint": "中外医学社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16411241/"
         },
         {
             "isbn": "9784263445884",
@@ -1029,7 +1191,8 @@
             "contributor": "奥田克爾",
             "contributor_collation_key": "オクダ,カツジ",
             "imprint": "医歯薬出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16433229/"
         },
         {
             "isbn": "9784525783716",
@@ -1038,7 +1201,8 @@
             "contributor": "高村徳人",
             "contributor_collation_key": "タカムラノリト",
             "imprint": "南山堂",
-            "main_cover": "https://cover.openbd.jp/9784525783716.jpg"
+            "main_cover": "https://cover.openbd.jp/9784525783716.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16390882/"
         },
         {
             "isbn": "9784780913323",
@@ -1047,7 +1211,8 @@
             "contributor": "竹田津文俊/竹田津文俊",
             "contributor_collation_key": "タケタヅフミトシ/タケタヅフミトシ",
             "imprint": "学研メディカル秀潤社",
-            "main_cover": "https://cover.openbd.jp/9784780913323.jpg"
+            "main_cover": "https://cover.openbd.jp/9784780913323.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16193691/"
         },
         {
             "isbn": "9784798701783",
@@ -1056,7 +1221,8 @@
             "contributor": "加藤 公太",
             "contributor_collation_key": "カトウ コウタ",
             "imprint": "トランスビュー",
-            "main_cover": "https://cover.openbd.jp/9784798701783.jpg"
+            "main_cover": "https://cover.openbd.jp/9784798701783.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16369666/"
         },
         {
             "isbn": "9784525140823",
@@ -1065,7 +1231,8 @@
             "contributor": "町谷安紀",
             "contributor_collation_key": "マチタニヤスノリ",
             "imprint": "南山堂",
-            "main_cover": "https://cover.openbd.jp/9784525140823.jpg"
+            "main_cover": "https://cover.openbd.jp/9784525140823.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16390503/"
         },
         {
             "isbn": "9784525121716",
@@ -1074,7 +1241,8 @@
             "contributor": "安谷屋　均",
             "contributor_collation_key": "アダニヤ ヒトシ",
             "imprint": "南山堂",
-            "main_cover": "https://cover.openbd.jp/9784525121716.jpg"
+            "main_cover": "https://cover.openbd.jp/9784525121716.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16386552/"
         },
         {
             "isbn": "9784525140717",
@@ -1083,7 +1251,8 @@
             "contributor": "金井好克/安西尚彦",
             "contributor_collation_key": "カナイヨシカツ/アンザイナオヒコ",
             "imprint": "南山堂",
-            "main_cover": "https://cover.openbd.jp/9784525140717.jpg"
+            "main_cover": "https://cover.openbd.jp/9784525140717.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16390947/"
         },
         {
             "isbn": "9784065190319",
@@ -1092,7 +1261,8 @@
             "contributor": "萩原 清文",
             "contributor_collation_key": "ハギワラ キヨフミ",
             "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065190319.jpg"
+            "main_cover": "https://cover.openbd.jp/9784065190319.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16366003/"
         },
         {
             "isbn": "9784781315140",
@@ -1101,25 +1271,8 @@
             "contributor": "シーエムシー出版編集部",
             "contributor_collation_key": "シーエムシーシュッパンヘンシュウブ",
             "imprint": "シーエムシー出版",
-            "main_cover": "https://cover.openbd.jp/9784781315140.jpg"
-        },
-        {
-            "isbn": "9784040823508",
-            "title": "毒 サリン、VX、生物兵器",
-            "title_collation_key": "ドク サリン、ブイエックス、セイブツヘイキ",
-            "contributor": "アンソニー・トゥー",
-            "contributor_collation_key": "アンソニー　トゥー",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784040823508.jpg"
-        },
-        {
-            "isbn": "9784781680668",
-            "title": "「うまい！」の科学　データでわかるおいしさの真実",
-            "title_collation_key": "ウマイノカガク　データデワカルオイシサノシンジツ",
-            "contributor": "高橋貴洋",
-            "contributor_collation_key": "タカハシタカヒロ",
-            "imprint": "イースト・プレス",
-            "main_cover": "https://cover.openbd.jp/9784781680668.jpg"
+            "main_cover": "https://cover.openbd.jp/9784781315140.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16399124/"
         },
         {
             "isbn": "9784524249343",
@@ -1128,7 +1281,28 @@
             "contributor": "笹野　公伸/岡田　保典",
             "contributor_collation_key": "ササノ　ヒロノブ/オカダ　ヤスノリ",
             "imprint": "南江堂",
-            "main_cover": "https://cover.openbd.jp/9784524249343.jpg"
+            "main_cover": "https://cover.openbd.jp/9784524249343.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16366010/"
+        },
+        {
+            "isbn": "9784781680668",
+            "title": "「うまい！」の科学　データでわかるおいしさの真実",
+            "title_collation_key": "ウマイノカガク　データデワカルオイシサノシンジツ",
+            "contributor": "高橋貴洋",
+            "contributor_collation_key": "タカハシタカヒロ",
+            "imprint": "イースト・プレス",
+            "main_cover": "https://cover.openbd.jp/9784781680668.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16320694/"
+        },
+        {
+            "isbn": "9784040823508",
+            "title": "毒 サリン、VX、生物兵器",
+            "title_collation_key": "ドク サリン、ブイエックス、セイブツヘイキ",
+            "contributor": "アンソニー・トゥー",
+            "contributor_collation_key": "アンソニー　トゥー",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784040823508.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16365383/"
         },
         {
             "isbn": "9784904419946",
@@ -1137,7 +1311,8 @@
             "contributor": "斎藤　徹/文　彰鍾",
             "contributor_collation_key": "サイトウ　トオル/ムン　チャンジョン",
             "imprint": "アドスリー",
-            "main_cover": "https://cover.openbd.jp/9784904419946.jpg"
+            "main_cover": "https://cover.openbd.jp/9784904419946.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16356108/"
         },
         {
             "isbn": "9784583113029",
@@ -1146,7 +1321,8 @@
             "contributor": "篠原美穂/鳥居俊",
             "contributor_collation_key": "シノハラミホ/トリイスグル",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583113029.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583113029.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16324722/"
         },
         {
             "isbn": "9784594085360",
@@ -1155,7 +1331,8 @@
             "contributor": "池谷 裕二",
             "contributor_collation_key": "イケガヤユウジ",
             "imprint": "扶桑社",
-            "main_cover": "https://cover.openbd.jp/9784594085360.jpg"
+            "main_cover": "https://cover.openbd.jp/9784594085360.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16364402/"
         },
         {
             "isbn": "9784909197672",
@@ -1164,16 +1341,8 @@
             "contributor": "板部洋之/荒田洋一郎",
             "contributor_collation_key": "イタベ,ヒロユキ/アラタ,ヨウイチロウ",
             "imprint": "京都廣川書店",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784791152735",
-            "title": "臨床精神薬理（Vol．23　No．7（Jul）",
-            "title_collation_key": "リンショウ セイシン ヤクリ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "星和書店",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16405725/"
         },
         {
             "isbn": "9784815701970",
@@ -1182,16 +1351,28 @@
             "contributor": "中山智祥",
             "contributor_collation_key": "ナカヤマ,トモヒロ",
             "imprint": "メディカル・サイエンス・インターナショナ",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16408691/"
         },
         {
-            "isbn": "9784498328402",
-            "title": "脳血流量は語る",
-            "title_collation_key": "ノウケツリュウリョウ ワ カタル",
-            "contributor": "菅野巖",
-            "contributor_collation_key": "カンノ,イワオ",
-            "imprint": "中外医学社",
-            "main_cover": ""
+            "isbn": "9784815701970",
+            "title": "医療に役立つ遺伝子関連Web情報検索第2版",
+            "title_collation_key": "イリョウ ニ ヤクダツ イデンシ カンレン ウェブ ジョウホウ ケンサク",
+            "contributor": "中山智祥",
+            "contributor_collation_key": "ナカヤマ,トモヒロ",
+            "imprint": "メディカル・サイエンス・インターナショナ",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16408691/"
+        },
+        {
+            "isbn": "9784791152735",
+            "title": "臨床精神薬理（Vol．23　No．7（Jul）",
+            "title_collation_key": "リンショウ セイシン ヤクリ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "星和書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16371600/"
         },
         {
             "isbn": "9784526080692",
@@ -1200,7 +1381,8 @@
             "contributor": "野本 康二",
             "contributor_collation_key": "ノモトコウジ",
             "imprint": "日刊工業新聞社",
-            "main_cover": "https://cover.openbd.jp/9784526080692.jpg"
+            "main_cover": "https://cover.openbd.jp/9784526080692.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16359539/"
         },
         {
             "isbn": "9784524226535",
@@ -1209,7 +1391,8 @@
             "contributor": "弓岡　光徳/溝田　勝彦",
             "contributor_collation_key": "ユミオカ　ミツノリ/ミゾタ　カツヒコ",
             "imprint": "南江堂",
-            "main_cover": "https://cover.openbd.jp/9784524226535.jpg"
+            "main_cover": "https://cover.openbd.jp/9784524226535.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16371334/"
         },
         {
             "isbn": "9784307102032",
@@ -1218,7 +1401,8 @@
             "contributor": "國松 淳和",
             "contributor_collation_key": "クニマツ ジュンワ",
             "imprint": "金原出版",
-            "main_cover": "https://cover.openbd.jp/9784307102032.jpg"
+            "main_cover": "https://cover.openbd.jp/9784307102032.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16355081/"
         },
         {
             "isbn": "9784166612659",
@@ -1227,7 +1411,8 @@
             "contributor": "橘 玲",
             "contributor_collation_key": "タチバナ アキラ",
             "imprint": "文藝春秋",
-            "main_cover": "https://cover.openbd.jp/9784166612659.jpg"
+            "main_cover": "https://cover.openbd.jp/9784166612659.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16335320/"
         },
         {
             "isbn": "9784866141169",
@@ -1236,7 +1421,8 @@
             "contributor": "米澤 好史",
             "contributor_collation_key": "ヨネザワ ヨシフミ",
             "imprint": "ほんの森出版",
-            "main_cover": "https://cover.openbd.jp/9784866141169.jpg"
+            "main_cover": "https://cover.openbd.jp/9784866141169.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16363741/"
         },
         {
             "isbn": "9784758103879",
@@ -1245,7 +1431,8 @@
             "contributor": "内田　浩二",
             "contributor_collation_key": "ウチダ　コウジ",
             "imprint": "羊土社",
-            "main_cover": "https://cover.openbd.jp/9784758103879.jpg"
+            "main_cover": "https://cover.openbd.jp/9784758103879.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16338533/"
         },
         {
             "isbn": "9784794971760",
@@ -1254,7 +1441,8 @@
             "contributor": "小倉明彦",
             "contributor_collation_key": "オグラアキヒコ",
             "imprint": "晶文社",
-            "main_cover": "https://cover.openbd.jp/9784794971760.jpg"
+            "main_cover": "https://cover.openbd.jp/9784794971760.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16321734/"
         },
         {
             "isbn": "9784880025971",
@@ -1263,7 +1451,8 @@
             "contributor": "岸本　年史",
             "contributor_collation_key": "キシモトトシフミ",
             "imprint": "新興医学出版社",
-            "main_cover": "https://cover.openbd.jp/9784880025971.jpg"
+            "main_cover": "https://cover.openbd.jp/9784880025971.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16285934/"
         },
         {
             "isbn": "9784794224538",
@@ -1272,7 +1461,8 @@
             "contributor": "大山 卞 圭悟",
             "contributor_collation_key": "オオヤマ　ベン　ケイゴ",
             "imprint": "草思社",
-            "main_cover": "https://cover.openbd.jp/9784794224538.jpg"
+            "main_cover": "https://cover.openbd.jp/9784794224538.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16324539/"
         },
         {
             "isbn": "9784780913873",
@@ -1281,7 +1471,8 @@
             "contributor": "中原保裕",
             "contributor_collation_key": "ナカハラヤスヒロ",
             "imprint": "学研メディカル秀潤社",
-            "main_cover": "https://cover.openbd.jp/9784780913873.jpg"
+            "main_cover": "https://cover.openbd.jp/9784780913873.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16269345/"
         },
         {
             "isbn": "9784904224786",
@@ -1290,7 +1481,8 @@
             "contributor": "日本中医協会",
             "contributor_collation_key": "ニホン チュウイ キョウカイ",
             "imprint": "東洋学術出版社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16371632/"
         },
         {
             "isbn": "9784860436599",
@@ -1299,7 +1491,8 @@
             "contributor": "服部正平",
             "contributor_collation_key": "ハットリ,マサヒラ",
             "imprint": "エヌ・ティー・エス",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16360225/"
         },
         {
             "isbn": "9784830645846",
@@ -1308,7 +1501,8 @@
             "contributor": "浅賀忠義/吉田直樹",
             "contributor_collation_key": "アサカ,タダヨシ/ヨシダ,ナオキ",
             "imprint": "文光堂",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16369324/"
         },
         {
             "isbn": "9784791152728",
@@ -1317,7 +1511,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "星和書店",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16337873/"
         },
         {
             "isbn": "9784840752725",
@@ -1326,7 +1521,8 @@
             "contributor": "小出 徹",
             "contributor_collation_key": "コイデ トオル",
             "imprint": "じほう",
-            "main_cover": "https://cover.openbd.jp/9784840752725.jpg"
+            "main_cover": "https://cover.openbd.jp/9784840752725.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16326980/"
         },
         {
             "isbn": "9784784911790",
@@ -1335,7 +1531,8 @@
             "contributor": "野上晴雄/藤原　研",
             "contributor_collation_key": "ノガミハルオ/フジワラケン",
             "imprint": "日本医事新報社",
-            "main_cover": "https://cover.openbd.jp/9784784911790.jpg"
+            "main_cover": "https://cover.openbd.jp/9784784911790.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16323158/"
         },
         {
             "isbn": "9784524227723",
@@ -1344,7 +1541,8 @@
             "contributor": "鈴木　則宏",
             "contributor_collation_key": "スズキ　ノリヒロ",
             "imprint": "南江堂",
-            "main_cover": "https://cover.openbd.jp/9784524227723.jpg"
+            "main_cover": "https://cover.openbd.jp/9784524227723.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16307126/"
         },
         {
             "isbn": "9784344985902",
@@ -1353,7 +1551,8 @@
             "contributor": "江田 証",
             "contributor_collation_key": "エダ アカシ",
             "imprint": "幻冬舎",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16323663/"
         },
         {
             "isbn": "9784815701949",
@@ -1362,7 +1561,8 @@
             "contributor": "生坂　政臣",
             "contributor_collation_key": "イクサカ　マサオミ",
             "imprint": "メディカル・サイエンス・インターナショナル",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16347131/"
         },
         {
             "isbn": "9784074435715",
@@ -1371,16 +1571,8 @@
             "contributor": "主婦の友社",
             "contributor_collation_key": "シュフノトモシャ",
             "imprint": "主婦の友社",
-            "main_cover": "https://cover.openbd.jp/9784074435715.jpg"
-        },
-        {
-            "isbn": "9784767906157",
-            "title": "臨床医学入門",
-            "title_collation_key": "リンショウイガクニュウモン",
-            "contributor": "福井　次矢/小林　修平",
-            "contributor_collation_key": "フクイ　ツグヤ/コバヤシ　シュウヘイ",
-            "imprint": "建帛社",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784074435715.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16313819/"
         },
         {
             "isbn": "9784830950872",
@@ -1389,7 +1581,18 @@
             "contributor": "閻　淑珍",
             "contributor_collation_key": "イェン シュチン",
             "imprint": "文眞堂",
-            "main_cover": "https://cover.openbd.jp/9784830950872.jpg"
+            "main_cover": "https://cover.openbd.jp/9784830950872.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16317782/"
+        },
+        {
+            "isbn": "9784767906157",
+            "title": "臨床医学入門",
+            "title_collation_key": "リンショウイガクニュウモン",
+            "contributor": "福井　次矢/小林　修平",
+            "contributor_collation_key": "フクイ　ツグヤ/コバヤシ　シュウヘイ",
+            "imprint": "建帛社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16328501/"
         },
         {
             "isbn": "9784307004886",
@@ -1398,7 +1601,8 @@
             "contributor": "篠田 達明",
             "contributor_collation_key": "シノダ タツアキ",
             "imprint": "金原出版",
-            "main_cover": "https://cover.openbd.jp/9784307004886.jpg"
+            "main_cover": "https://cover.openbd.jp/9784307004886.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16308622/"
         },
         {
             "isbn": "9784779514722",
@@ -1407,7 +1611,8 @@
             "contributor": "坂本　敏郎/上北　朋子",
             "contributor_collation_key": "サカモト　トシロウ/ウエキタ　トモコ",
             "imprint": "ナカニシヤ出版",
-            "main_cover": "https://cover.openbd.jp/9784779514722.jpg"
+            "main_cover": "https://cover.openbd.jp/9784779514722.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16321775/"
         },
         {
             "isbn": "9784788516809",
@@ -1416,7 +1621,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "新曜社",
-            "main_cover": "https://cover.openbd.jp/9784788516809.jpg"
+            "main_cover": "https://cover.openbd.jp/9784788516809.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16309816/"
         },
         {
             "isbn": "9784274225444",
@@ -1425,16 +1631,8 @@
             "contributor": "藤田 広志",
             "contributor_collation_key": "フジタ ヒロシ",
             "imprint": "オーム社",
-            "main_cover": "https://cover.openbd.jp/9784274225444.jpg"
-        },
-        {
-            "isbn": "9784260042345",
-            "title": "「脳コワさん」支援ガイド",
-            "title_collation_key": "「ノウコワサン」シエンガイド",
-            "contributor": "鈴木 大介",
-            "contributor_collation_key": "スズキ ダイスケ",
-            "imprint": "医学書院",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784274225444.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16263182/"
         },
         {
             "isbn": "9784260042468",
@@ -1443,16 +1641,18 @@
             "contributor": "角南 久仁子",
             "contributor_collation_key": "スナミ クニコ",
             "imprint": "医学書院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16321141/"
         },
         {
-            "isbn": "9784339072464",
-            "title": "人体の力学",
-            "title_collation_key": "ジンタイノリキガク",
-            "contributor": "松井 剛一/照井 直人",
-            "contributor_collation_key": "マツイ ゴウイチ/テルイ ナオヒト",
-            "imprint": "コロナ社",
-            "main_cover": "https://cover.openbd.jp/9784339072464.jpg"
+            "isbn": "9784260042345",
+            "title": "「脳コワさん」支援ガイド",
+            "title_collation_key": "「ノウコワサン」シエンガイド",
+            "contributor": "鈴木 大介",
+            "contributor_collation_key": "スズキ ダイスケ",
+            "imprint": "医学書院",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16321137/"
         },
         {
             "isbn": "9784254640489",
@@ -1461,7 +1661,18 @@
             "contributor": "津田 良夫/安居院 宣昭",
             "contributor_collation_key": "ツダ ヨシオ/アグイ ノリアキ",
             "imprint": "朝倉書店",
-            "main_cover": "https://cover.openbd.jp/9784254640489.jpg"
+            "main_cover": "https://cover.openbd.jp/9784254640489.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16233700/"
+        },
+        {
+            "isbn": "9784339072464",
+            "title": "人体の力学",
+            "title_collation_key": "ジンタイノリキガク",
+            "contributor": "松井 剛一/照井 直人",
+            "contributor_collation_key": "マツイ ゴウイチ/テルイ ナオヒト",
+            "imprint": "コロナ社",
+            "main_cover": "https://cover.openbd.jp/9784339072464.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16285804/"
         },
         {
             "isbn": "9784299005199",
@@ -1470,16 +1681,8 @@
             "contributor": "藤田 紘一郎",
             "contributor_collation_key": "フジタ コウイチロウ",
             "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299005199.jpg"
-        },
-        {
-            "isbn": "9784791152711",
-            "title": "臨床精神薬理（Vol．23　No．5（May）",
-            "title_collation_key": "リンショウ セイシン ヤクリ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "星和書店",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784299005199.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16302335/"
         },
         {
             "isbn": "9784909197542",
@@ -1488,16 +1691,8 @@
             "contributor": "赤路健一",
             "contributor_collation_key": "アカジ,ケンイチ",
             "imprint": "京都廣川書店",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784904613696",
-            "title": "ROMナビ増補改訂第3版",
-            "title_collation_key": "ロム ナビ",
-            "contributor": "青木主税/根本悟子",
-            "contributor_collation_key": "アオキ,チカラ/ネモト,サトコ",
-            "imprint": "ラウンドフラット",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16344221/"
         },
         {
             "isbn": "9784498109162",
@@ -1506,25 +1701,28 @@
             "contributor": "青島周一",
             "contributor_collation_key": "アオシマ,シュウイチ",
             "imprint": "中外医学社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16337868/"
         },
         {
-            "isbn": "9784498048843",
-            "title": "医師・医学生のための人工知能入門",
-            "title_collation_key": "イシ イガクセイ ノ タメノ ジンコウ チノウ ニュウモン",
-            "contributor": "北澤茂",
-            "contributor_collation_key": "キタザワ,シゲル",
-            "imprint": "中外医学社",
-            "main_cover": ""
+            "isbn": "9784904613696",
+            "title": "ROMナビ増補改訂第3版",
+            "title_collation_key": "ロム ナビ",
+            "contributor": "青木主税/根本悟子",
+            "contributor_collation_key": "アオキ,チカラ/ネモト,サトコ",
+            "imprint": "ラウンドフラット",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16347158/"
         },
         {
-            "isbn": "9784909888105",
-            "title": "がんゲノム医療結果報告書の読み方と患者への伝え方",
-            "title_collation_key": "ガン ゲノム イリョウ ケッカ ホウコクショ ノ ヨミカタ ト カンジャ エノ ツタ",
-            "contributor": "関根郁夫/村谷匡史",
-            "contributor_collation_key": "セキネ,イクオ/ムラタニ,マサフミ",
-            "imprint": "医学と看護社",
-            "main_cover": ""
+            "isbn": "9784791152711",
+            "title": "臨床精神薬理（Vol．23　No．5（May）",
+            "title_collation_key": "リンショウ セイシン ヤクリ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "星和書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16310357/"
         },
         {
             "isbn": "9784498160064",
@@ -1533,7 +1731,28 @@
             "contributor": "関沢明彦/佐村修",
             "contributor_collation_key": "セキザワ,アキヒコ/サムラ,オサム",
             "imprint": "中外医学社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16317318/"
+        },
+        {
+            "isbn": "9784498048843",
+            "title": "医師・医学生のための人工知能入門",
+            "title_collation_key": "イシ イガクセイ ノ タメノ ジンコウ チノウ ニュウモン",
+            "contributor": "北澤茂",
+            "contributor_collation_key": "キタザワ,シゲル",
+            "imprint": "中外医学社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16328015/"
+        },
+        {
+            "isbn": "9784909888105",
+            "title": "がんゲノム医療結果報告書の読み方と患者への伝え方",
+            "title_collation_key": "ガン ゲノム イリョウ ケッカ ホウコクショ ノ ヨミカタ ト カンジャ エノ ツタ",
+            "contributor": "関根郁夫/村谷匡史",
+            "contributor_collation_key": "セキネ,イクオ/ムラタニ,マサフミ",
+            "imprint": "医学と看護社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16335118/"
         },
         {
             "isbn": "9784263731956",
@@ -1542,7 +1761,8 @@
             "contributor": "岩瀬博太郎",
             "contributor_collation_key": "イワセ,ヒロタロウ",
             "imprint": "医歯薬出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16317299/"
         },
         {
             "isbn": "9784260041706",
@@ -1551,52 +1771,8 @@
             "contributor": "天野 雅之",
             "contributor_collation_key": "アマノ マサユキ",
             "imprint": "医学書院",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784791110506",
-            "title": "臨床試験のデータを読み解く",
-            "title_collation_key": "リンショウシケンノデータヲヨミトク",
-            "contributor": "中林 哲夫",
-            "contributor_collation_key": "ナカバヤシ テツオ",
-            "imprint": "星和書店",
-            "main_cover": "https://cover.openbd.jp/9784791110506.in03.jpg"
-        },
-        {
-            "isbn": "9784315522341",
-            "title": "ニュートン式 超図解 最強に面白い!! 脳",
-            "title_collation_key": "ニュートンシキチョウズカイサイキョウニオモシロイノウ",
-            "contributor": "久保健一郎",
-            "contributor_collation_key": "クボケンイチロウ",
-            "imprint": "ニュートンプレス",
-            "main_cover": "https://cover.openbd.jp/9784315522341.jpg"
-        },
-        {
-            "isbn": "9784307102001",
-            "title": "また来たくなる外来",
-            "title_collation_key": "マタキタクナルガイライ",
-            "contributor": "國松 淳和",
-            "contributor_collation_key": "クニマツ ジュンワ",
-            "imprint": "金原出版",
-            "main_cover": "https://cover.openbd.jp/9784307102001.jpg"
-        },
-        {
-            "isbn": "9784866920726",
-            "title": "生命科学が解き明かす食と健康",
-            "title_collation_key": "セイメイカガクガトキアカスショクトケンコウ",
-            "contributor": "塩見 尚史/塩見 晃史",
-            "contributor_collation_key": "シオミ　ナオフミ/シオミ　アキフミ",
-            "imprint": "大学教育出版",
-            "main_cover": "https://cover.openbd.jp/9784866920726.jpg"
-        },
-        {
-            "isbn": "9784521748054",
-            "title": "各科スペシャリストが伝授　内科医が知っておくべき疾患102",
-            "title_collation_key": "カクカスペシャリストガデンジュ　ナイカイガシッテオクベキシッカンヒャクニ",
-            "contributor": "宮地良樹",
-            "contributor_collation_key": "ミヤチヨシキ",
-            "imprint": "中山書店",
-            "main_cover": "https://cover.openbd.jp/9784521748054.jpg"
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16301206/"
         }
     ]
 }

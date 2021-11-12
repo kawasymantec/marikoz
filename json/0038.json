@@ -15,13 +15,394 @@
     ],
     "books": [
         {
+            "isbn": "9784434294983",
+            "title": "BJハンドブックシリーズV107 北陸鉄道",
+            "title_collation_key": "ビージェイハンドブックシリーズ　ブイ107　ホクリクテツドウ",
+            "contributor": "谷口礼子/鈴木文彦",
+            "contributor_collation_key": "タニグチレイコ/スズキフミヒコ",
+            "imprint": "BJエディターズ",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16890463/"
+        },
+        {
+            "isbn": "9784768458990",
+            "title": "七転八倒百姓記",
+            "title_collation_key": "シチテンバットウヒャクショウキ",
+            "contributor": "菅野芳秀",
+            "contributor_collation_key": "カンノヨシヒデ",
+            "imprint": "現代書館",
+            "main_cover": "https://cover.openbd.jp/9784768458990.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16901278/"
+        },
+        {
+            "isbn": "9784496055577",
+            "title": "フランチャイズシステム構築マニュアル",
+            "title_collation_key": "フランチャイズシステムコウチクマニュアル",
+            "contributor": "山下　義/池田安弘",
+            "contributor_collation_key": "ヤマシタタダシ/イケダヤスヒロ",
+            "imprint": "同友館",
+            "main_cover": "https://cover.openbd.jp/9784496055577.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16890471/"
+        },
+        {
+            "isbn": "9784812221037",
+            "title": "SDGs時代の食・環境問題入門",
+            "title_collation_key": "エスディジーズジダイノショクカンキョウモンダイニュウモン",
+            "contributor": "吉積巳貴/島田幸司",
+            "contributor_collation_key": "ヨシズミミキ/シマダコウジ",
+            "imprint": "昭和堂",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16841438/"
+        },
+        {
+            "isbn": "9784801928404",
+            "title": "もぐもぐガーデン",
+            "title_collation_key": "モグモグガーデン",
+            "contributor": "宇仁田 ゆみ",
+            "contributor_collation_key": "ウニタ ユミ",
+            "imprint": "竹書房",
+            "main_cover": "https://cover.openbd.jp/9784801928404.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16813562/"
+        },
+        {
+            "isbn": "9784140886632",
+            "title": "ナチスと鉄道",
+            "title_collation_key": "ナチストテツドウ",
+            "contributor": "鴋澤 歩",
+            "contributor_collation_key": "バンザワ アユム",
+            "imprint": "NHK出版",
+            "main_cover": "https://cover.openbd.jp/9784140886632.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866878/"
+        },
+        {
+            "isbn": "9784866801506",
+            "title": "サブスクリプションの教科書",
+            "title_collation_key": "サブスクリプションノキョウカショ",
+            "contributor": "佐藤　剛",
+            "contributor_collation_key": "サトウ　タケシ",
+            "imprint": "フォレスト出版",
+            "main_cover": "https://cover.openbd.jp/9784866801506.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866940/"
+        },
+        {
+            "isbn": "9784883257317",
+            "title": "近江日野商人の歴史と商法",
+            "title_collation_key": "オウミヒノショウニンノレキシトショウホウ",
+            "contributor": "満田 良順",
+            "contributor_collation_key": "ミツダ リョウジュン",
+            "imprint": "サンライズ出版",
+            "main_cover": "https://cover.openbd.jp/9784883257317.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882827/"
+        },
+        {
+            "isbn": "9784416522011",
+            "title": "カメ大図鑑 潜頸亜目・曲頸亜目",
+            "title_collation_key": "カメダイズカン センケイアモク キョクケイアモク",
+            "contributor": "中井 穂瑞領/川添 宣広",
+            "contributor_collation_key": "ナカイ ホズレ/カワゾエ ノブヒロ",
+            "imprint": "誠文堂新光社",
+            "main_cover": "https://cover.openbd.jp/9784416522011.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16850757/"
+        },
+        {
+            "isbn": "9784040824116",
+            "title": "無印良品の教え 「仕組み」を武器にする経営",
+            "title_collation_key": "ムジルシリョウヒンノオシエ シクミヲブキニスルケイエイ",
+            "contributor": "松井　忠三",
+            "contributor_collation_key": "マツイ　タダミツ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784040824116.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16886320/"
+        },
+        {
+            "isbn": "9784766427585",
+            "title": "英語で仕事をしたい人の必修14講",
+            "title_collation_key": "エイゴデシゴトヲシタイヒトノヒッシュウジュウヨンコウ",
+            "contributor": "松崎 久純",
+            "contributor_collation_key": "マツザキ ヒサズミ",
+            "imprint": "慶應義塾大学出版会",
+            "main_cover": "https://cover.openbd.jp/9784766427585.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16777455/"
+        },
+        {
+            "isbn": "9784120054693",
+            "title": "宮脇俊三の紀行文学を読む",
+            "title_collation_key": "ミヤワキシュンゾウノキコウブンガクヲヨム",
+            "contributor": "小牟田 哲彦",
+            "contributor_collation_key": "コムタテツヒコ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784120054693.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882742/"
+        },
+        {
+            "isbn": "9784532135195",
+            "title": "コマースの興亡史",
+            "title_collation_key": "コマースノコウボウシ",
+            "contributor": "矢作 敏行",
+            "contributor_collation_key": "ヤハギ トシユキ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://cover.openbd.jp/9784532135195.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16857346/"
+        },
+        {
+            "isbn": "9784774519203",
+            "title": "会わない営業　だから、売れる！",
+            "title_collation_key": "アワナイエイギョウダカラウレル",
+            "contributor": "今野　富康",
+            "contributor_collation_key": "コンノ　トミヤス",
+            "imprint": "現代書林",
+            "main_cover": "https://cover.openbd.jp/9784774519203.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16876916/"
+        },
+        {
+            "isbn": "9784534058799",
+            "title": "超効率的に結果を出す　テレアポ＆リモート営業の基本",
+            "title_collation_key": "チョウコウリツテキニケッカヲダス テレアポ＆リモートエイギョウノキホン",
+            "contributor": "伊庭 正康",
+            "contributor_collation_key": "イバ マサヤス",
+            "imprint": "日本実業出版社",
+            "main_cover": "https://cover.openbd.jp/9784534058799.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16865696/"
+        },
+        {
+            "isbn": "9784058016732",
+            "title": "aruco　東京おやつさんぽ",
+            "title_collation_key": "アルコトウキョウオヤツサンポ",
+            "contributor": "地球の歩き方編集室",
+            "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
+            "imprint": "地球の歩き方",
+            "main_cover": "https://cover.openbd.jp/9784058016732.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16819097/"
+        },
+        {
+            "isbn": "9784886164131",
+            "title": "園芸Collection Vol、26",
+            "title_collation_key": "エンゲイコレクションニジュウロク",
+            "contributor": "栃の葉書房",
+            "contributor_collation_key": "トチノハショボウ",
+            "imprint": "栃の葉書房",
+            "main_cover": "https://cover.openbd.jp/9784886164131.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16900366/"
+        },
+        {
+            "isbn": "9784780311808",
+            "title": "貧困・飢餓をなくす",
+            "title_collation_key": "ヒンコンキガヲナクス",
+            "contributor": "関根　佳恵",
+            "contributor_collation_key": "セキネカエ",
+            "imprint": "かもがわ出版",
+            "main_cover": "https://cover.openbd.jp/9784780311808.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16849193/"
+        },
+        {
+            "isbn": "9784777828579",
+            "title": "芸人ラジオ（Vol.2）",
+            "title_collation_key": "ゲイニンラジオ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "辰巳出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16851054/"
+        },
+        {
+            "isbn": "9784784220014",
+            "title": "図説　大名庭園の近代",
+            "title_collation_key": "ズセツ　ダイミョウテイエンノキンダイ",
+            "contributor": "小野芳朗/本康宏史",
+            "contributor_collation_key": "オノヨシロウ/モトヤスヒロシ",
+            "imprint": "思文閣出版",
+            "main_cover": "https://cover.openbd.jp/9784784220014.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16900299/"
+        },
+        {
+            "isbn": "9784533146770",
+            "title": "時刻表復刻版 1968年10月号",
+            "title_collation_key": "ジコクヒョウフッコックバンセンキュウヤクロクジュウハチネンジュウガツゴウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784533146770.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16877196/"
+        },
+        {
+            "isbn": "9784827212952",
+            "title": "35歳までに現金1億円を作る［入口戦略］不動産投資術",
+            "title_collation_key": "サンジュウゴサイマデニゲンキンイチオクエンヲツクルイリグチセンリャクフドウサントウシジュツ",
+            "contributor": "ひろや",
+            "contributor_collation_key": "ヒロヤ",
+            "imprint": "ぱる出版",
+            "main_cover": "https://cover.openbd.jp/9784827212952.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16878036/"
+        },
+        {
+            "isbn": "9784641150874",
+            "title": "サービス・マーケティング",
+            "title_collation_key": "サービスマーケティング",
+            "contributor": "黒岩 健一郎/浦野 寛子",
+            "contributor_collation_key": "クロイワケンイチロウ/ウラノヒロコ",
+            "imprint": "有斐閣",
+            "main_cover": "https://cover.openbd.jp/9784641150874.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879474/"
+        },
+        {
+            "isbn": "9784591171134",
+            "title": "一緒に飲みたくない客は断れ！",
+            "title_collation_key": "イッショニノミタクナイキャクハコトワレ",
+            "contributor": "藤嶋　由香",
+            "contributor_collation_key": "フジシマユカ",
+            "imprint": "ポプラ社",
+            "main_cover": "https://cover.openbd.jp/9784591171134.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16836943/"
+        },
+        {
+            "isbn": "9784863676930",
+            "title": "人なし金なし時間なしに活路！中小企業の営業代行サービス活用術",
+            "title_collation_key": "ヒトナシカネナシジカンナシニカツロ　チュウショウキギョウノエイギョウダイコウサービスカツヨウジュツ",
+            "contributor": "鈴木　徹",
+            "contributor_collation_key": "スズキ　トオル",
+            "imprint": "セルバ出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16879147/"
+        },
+        {
+            "isbn": "9784388809073",
+            "title": "cafe-sweets (カフェースイーツ) vol.208",
+            "title_collation_key": "カフェスイーツニヒャクハチゴウ",
+            "contributor": "柴田書店",
+            "contributor_collation_key": "シバタショテン",
+            "imprint": "柴田書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16841641/"
+        },
+        {
+            "isbn": "9784073426400",
+            "title": "ガーデンダイアリー　バラと暮らす幸せ　Vol．16",
+            "title_collation_key": "ガーデンダイアリーバラトクラスシアワセボリュームジュウロク",
+            "contributor": "八月社",
+            "contributor_collation_key": "ハチガツシャ",
+            "imprint": "主婦の友社",
+            "main_cover": "https://cover.openbd.jp/9784073426400.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16875770/"
+        },
+        {
+            "isbn": "9784790717614",
+            "title": "テレビから学んだ時代",
+            "title_collation_key": "テレビカラマナンダジダイ",
+            "contributor": "木下 浩一",
+            "contributor_collation_key": "キノシタ コウイチ",
+            "imprint": "世界思想社",
+            "main_cover": "https://cover.openbd.jp/9784790717614.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16868490/"
+        },
+        {
+            "isbn": "9784502392313",
+            "title": "CFOのためのサブスクリプション・ビジネスの実務",
+            "title_collation_key": "シーエフオーノタメノサブスクリプションビジネスノジツム",
+            "contributor": "吉村 壮司/畑中 孝介",
+            "contributor_collation_key": "ヨシムラ タケシ/ハタナカ タカユキ",
+            "imprint": "中央経済社",
+            "main_cover": "https://cover.openbd.jp/9784502392313.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16834672/"
+        },
+        {
+            "isbn": "9784777026395",
+            "title": "コーラル・フリークス　VOL.35",
+            "title_collation_key": "コーラルフリークス",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ネコ・パブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784777026395.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16906162/"
+        },
+        {
+            "isbn": "9784065257401",
+            "title": "FRaU　SDGs　MOOK　FOOD　「おいしい」の未来。",
+            "title_collation_key": "フラウ エスディージーズ ムック フード オイシイノミライ.",
+            "contributor": "講談社",
+            "contributor_collation_key": "コウダンシャ",
+            "imprint": "講談社",
+            "main_cover": "https://cover.openbd.jp/9784065257401.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16895071/"
+        },
+        {
+            "isbn": "9784772661515",
+            "title": "仕掛ける力",
+            "title_collation_key": "シカケルチカラ",
+            "contributor": "三井　智子",
+            "contributor_collation_key": "ミイ　トモコ",
+            "imprint": "合同フォレスト",
+            "main_cover": "https://cover.openbd.jp/9784772661515.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16792630/"
+        },
+        {
+            "isbn": "9784048971270",
+            "title": "農産物を買Walker2022 ウォーカームック",
+            "title_collation_key": "ノウサンブツヲカウォーカーニセンニジュウニ ウォーカームック",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "角川アスキー総合研究所",
+            "main_cover": "https://cover.openbd.jp/9784048971270.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882825/"
+        },
+        {
+            "isbn": "9784582646085",
+            "title": "2022年カレンダー 絶景貨物鉄道",
+            "title_collation_key": "2022ネンカレンダー　ゼッケイカモツテツドウ",
+            "contributor": "木村　雄一",
+            "contributor_collation_key": "キムラ　ユウイチ",
+            "imprint": "平凡社",
+            "main_cover": "https://cover.openbd.jp/9784582646085.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866837/"
+        },
+        {
+            "isbn": "9784651201580",
+            "title": "決定版　はじめての庭づくり百科",
+            "title_collation_key": "ケッテイバンハジメテノニワヅクリヒャッカ",
+            "contributor": "ドゥーパ！編集部",
+            "contributor_collation_key": "ドゥーパヘンシュウブ",
+            "imprint": "ワン・パブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784651201580.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16868264/"
+        },
+        {
+            "isbn": "9784780425291",
+            "title": "懐かしくて新しい 「銭湯学」 お風呂屋さんを愉しむとっておき案内",
+            "title_collation_key": "ナツカシクテアタラシイセントウガクオフロヤサンヲタノシムトッテオキアンナイ",
+            "contributor": "町田 忍",
+            "contributor_collation_key": "マチダシノブ",
+            "imprint": "メイツ出版",
+            "main_cover": "https://cover.openbd.jp/9784780425291.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16818089/"
+        },
+        {
+            "isbn": "9784811906102",
+            "title": "貧困緩和の処方箋",
+            "title_collation_key": "ヒンコンカンワノショホウセン",
+            "contributor": "鈴木 宣弘",
+            "contributor_collation_key": "スズキ ノブヒロ",
+            "imprint": "筑波書房",
+            "main_cover": "https://cover.openbd.jp/9784811906102.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16885520/"
+        },
+        {
+            "isbn": "9784426127398",
+            "title": "1日30分からはじめる　はじめてのeBay(第2版)",
+            "title_collation_key": "イチニチサンジュップンカラハジメルハジメテノイーベイダイニハン",
+            "contributor": "荒井 智代",
+            "contributor_collation_key": "アライ トモヨ",
+            "imprint": "自由国民社",
+            "main_cover": "https://cover.openbd.jp/9784426127398.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879127/"
+        },
+        {
             "isbn": "9784787721129",
             "title": "なぜ環境保全米をつくるのか",
             "title_collation_key": "ナゼカンキョウホゼンマイヲツクルノカ",
             "contributor": "谷川 彩月",
             "contributor_collation_key": "タニカワサツキ",
             "imprint": "新泉社",
-            "main_cover": "https://cover.openbd.jp/9784787721129.jpg"
+            "main_cover": "https://cover.openbd.jp/9784787721129.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16870059/"
         },
         {
             "isbn": "9784540211522",
@@ -30,79 +411,8 @@
             "contributor": "農文協",
             "contributor_collation_key": "ノウブンキョウ",
             "imprint": "農山漁村文化協会",
-            "main_cover": "https://cover.openbd.jp/9784540211522.jpg"
-        },
-        {
-            "isbn": "9784809099250",
-            "title": "月刊交通（2021年10月号）",
-            "title_collation_key": "ゲッカン コウツウ",
-            "contributor": "道路交通研究会",
-            "contributor_collation_key": "ドウロ コウツウ ケンキュウカイ",
-            "imprint": "東京法令出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784890863303",
-            "title": "パッケージデザイン総覧38",
-            "title_collation_key": "パッケージデザインソウラン",
-            "contributor": "日報ビジネス",
-            "contributor_collation_key": "ニッポウビジネス",
-            "imprint": "クリエイト日報",
-            "main_cover": "https://cover.openbd.jp/9784890863303.jpg"
-        },
-        {
-            "isbn": "9784897324456",
-            "title": "現代農業簿記会計概論",
-            "title_collation_key": "ゲンダイ ノウギョウ ボキ カイケイ ガイロン",
-            "contributor": "古塚秀夫/高田理",
-            "contributor_collation_key": "フルツカ,ヒデオ/タカダ,オサム",
-            "imprint": "農林統計出版",
-            "main_cover": "https://cover.openbd.jp/9784897324456.jpg"
-        },
-        {
-            "isbn": "9784814338375",
-            "title": "DVD＞大井川鐵道大井川本線",
-            "title_collation_key": "オオイガワ テツドウ イカワセン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ビコム",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784905104230",
-            "title": "日本の化粧品総覧（2022）",
-            "title_collation_key": "ニホン ノ ケショウヒン ソウラン",
-            "contributor": "週刊粧業出版局",
-            "contributor_collation_key": "シュウカン ショウギョウ シュッパンキョク",
-            "imprint": "週刊粧業",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784814361632",
-            "title": "BD＞ありがとうドレミファインバータ",
-            "title_collation_key": "アリガトウ ドレミ ファイン バータ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ビコム",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784897324470",
-            "title": "大震災・原発事故以後の農水産物・食品輸出",
-            "title_collation_key": "ダイシンサイ ゲンパツ ジコ イゴ ノ ノウスイサンブツ ショクヒン ユシュツ",
-            "contributor": "増田聡/中村哲也",
-            "contributor_collation_key": "マスダ,サトル/ナカムラ,テツヤ",
-            "imprint": "農林統計出版",
-            "main_cover": "https://cover.openbd.jp/9784897324470.jpg"
-        },
-        {
-            "isbn": "9784541043351",
-            "title": "新農家暦（令和4年）",
-            "title_collation_key": "シン ノウカレキ",
-            "contributor": "農林統計協会",
-            "contributor_collation_key": "ノウリン トウケイ キョウカイ",
-            "imprint": "農林統計協会",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784540211522.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16852439/"
         },
         {
             "isbn": "9784502400810",
@@ -111,7 +421,48 @@
             "contributor": "阿部川 勝義",
             "contributor_collation_key": "アベカワ カツヨシ",
             "imprint": "中央経済社",
-            "main_cover": "https://cover.openbd.jp/9784502400810.jpg"
+            "main_cover": "https://cover.openbd.jp/9784502400810.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16902500/"
+        },
+        {
+            "isbn": "9784905104230",
+            "title": "日本の化粧品総覧（2022）",
+            "title_collation_key": "ニホン ノ ケショウヒン ソウラン",
+            "contributor": "週刊粧業出版局",
+            "contributor_collation_key": "シュウカン ショウギョウ シュッパンキョク",
+            "imprint": "週刊粧業",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16938378/"
+        },
+        {
+            "isbn": "9784897324456",
+            "title": "現代農業簿記会計概論",
+            "title_collation_key": "ゲンダイ ノウギョウ ボキ カイケイ ガイロン",
+            "contributor": "古塚秀夫/高田理",
+            "contributor_collation_key": "フルツカ,ヒデオ/タカダ,オサム",
+            "imprint": "農林統計出版",
+            "main_cover": "https://cover.openbd.jp/9784897324456.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16934166/"
+        },
+        {
+            "isbn": "9784890863303",
+            "title": "パッケージデザイン総覧38",
+            "title_collation_key": "パッケージデザインソウラン",
+            "contributor": "日報ビジネス",
+            "contributor_collation_key": "ニッポウビジネス",
+            "imprint": "クリエイト日報",
+            "main_cover": "https://cover.openbd.jp/9784890863303.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16909885/"
+        },
+        {
+            "isbn": "9784809099250",
+            "title": "月刊交通（2021年10月号）",
+            "title_collation_key": "ゲッカン コウツウ",
+            "contributor": "道路交通研究会",
+            "contributor_collation_key": "ドウロ コウツウ ケンキュウカイ",
+            "imprint": "東京法令出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16932987/"
         },
         {
             "isbn": "9784897324449",
@@ -120,43 +471,8 @@
             "contributor": "斎藤修",
             "contributor_collation_key": "サイトウ,オサム",
             "imprint": "農林統計出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784642046640",
-            "title": "日本古代の塩生産と流通",
-            "title_collation_key": "ニホンコダイノシオセイサントリュウツウ",
-            "contributor": "岸本　雅敏",
-            "contributor_collation_key": "キシモト　マサトシ",
-            "imprint": "吉川弘文館",
-            "main_cover": "https://cover.openbd.jp/9784642046640.jpg"
-        },
-        {
-            "isbn": "9784495540968",
-            "title": "はじめてのネット広告",
-            "title_collation_key": "ハジメテノネットコウコク",
-            "contributor": "船井総合研究所",
-            "contributor_collation_key": "フナイソウゴウケンキュウジョ",
-            "imprint": "同文舘出版（株）",
-            "main_cover": "https://cover.openbd.jp/9784495540968.jpg"
-        },
-        {
-            "isbn": "9784862751966",
-            "title": "運行管理者試験問題と解説旅客編（令和4年3月受験版）",
-            "title_collation_key": "ウンコウ カンリシャ シケン モンダイ ト カイセツ リョカクヘン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "公論出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784885481345",
-            "title": "鉄道要覧（令和3年度）",
-            "title_collation_key": "テツドウ ヨウラン",
-            "contributor": "国土交通省鉄道局",
-            "contributor_collation_key": "コクド コウツウショウ テツドウキョク",
-            "imprint": "電気車研究会",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16924241/"
         },
         {
             "isbn": "9784861327841",
@@ -165,25 +481,78 @@
             "contributor": "海津英夫",
             "contributor_collation_key": "カイズ,ヒデオ",
             "imprint": "新潟日報事業社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16917283/"
         },
         {
-            "isbn": "9784541043375",
-            "title": "農業日誌（令和4年）",
-            "title_collation_key": "ノウギョウ ニッシ",
+            "isbn": "9784541043351",
+            "title": "新農家暦（令和4年）",
+            "title_collation_key": "シン ノウカレキ",
             "contributor": "農林統計協会",
             "contributor_collation_key": "ノウリン トウケイ キョウカイ",
             "imprint": "農林統計協会",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16917266/"
         },
         {
-            "isbn": "9784502397615",
-            "title": "経験者が語るQ＆A電子契約導入・運用実務のすべて",
-            "title_collation_key": "ケイケンシャガカタルキューアンドエーデンシケイヤクドウニュウウンヨウジツムノスベテ",
-            "contributor": "柴山 吉報/高岸 亘",
-            "contributor_collation_key": "シバヤマ キッポウ/タカギシ ワタル",
+            "isbn": "9784897324470",
+            "title": "大震災・原発事故以後の農水産物・食品輸出",
+            "title_collation_key": "ダイシンサイ ゲンパツ ジコ イゴ ノ ノウスイサンブツ ショクヒン ユシュツ",
+            "contributor": "増田聡/中村哲也",
+            "contributor_collation_key": "マスダ,サトル/ナカムラ,テツヤ",
+            "imprint": "農林統計出版",
+            "main_cover": "https://cover.openbd.jp/9784897324470.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16934167/"
+        },
+        {
+            "isbn": "9784541043351",
+            "title": "新農家暦（令和4年）",
+            "title_collation_key": "シン ノウカレキ",
+            "contributor": "農林統計協会",
+            "contributor_collation_key": "ノウリン トウケイ キョウカイ",
+            "imprint": "農林統計協会",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16917266/"
+        },
+        {
+            "isbn": "9784502400810",
+            "title": "フードサービス経営戦略論",
+            "title_collation_key": "フードサービスケイエイセンリャクロン",
+            "contributor": "阿部川 勝義",
+            "contributor_collation_key": "アベカワ カツヨシ",
             "imprint": "中央経済社",
-            "main_cover": "https://cover.openbd.jp/9784502397615.jpg"
+            "main_cover": "https://cover.openbd.jp/9784502400810.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16902500/"
+        },
+        {
+            "isbn": "9784890863303",
+            "title": "パッケージデザイン総覧38",
+            "title_collation_key": "パッケージデザインソウラン",
+            "contributor": "日報ビジネス",
+            "contributor_collation_key": "ニッポウビジネス",
+            "imprint": "クリエイト日報",
+            "main_cover": "https://cover.openbd.jp/9784890863303.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16909885/"
+        },
+        {
+            "isbn": "9784809099250",
+            "title": "月刊交通（2021年10月号）",
+            "title_collation_key": "ゲッカン コウツウ",
+            "contributor": "道路交通研究会",
+            "contributor_collation_key": "ドウロ コウツウ ケンキュウカイ",
+            "imprint": "東京法令出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16932987/"
+        },
+        {
+            "isbn": "9784897324470",
+            "title": "大震災・原発事故以後の農水産物・食品輸出",
+            "title_collation_key": "ダイシンサイ ゲンパツ ジコ イゴ ノ ノウスイサンブツ ショクヒン ユシュツ",
+            "contributor": "増田聡/中村哲也",
+            "contributor_collation_key": "マスダ,サトル/ナカムラ,テツヤ",
+            "imprint": "農林統計出版",
+            "main_cover": "https://cover.openbd.jp/9784897324470.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16934167/"
         },
         {
             "isbn": "9784904337400",
@@ -192,88 +561,28 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "日本ミシュランタイヤ",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16879175/"
         },
         {
-            "isbn": "9784814368082",
-            "title": "BD＞大井川鐵道井川線",
-            "title_collation_key": "オオイガワ テツドウ イカワセン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ビコム",
-            "main_cover": ""
+            "isbn": "9784885481345",
+            "title": "鉄道要覧（令和3年度）",
+            "title_collation_key": "テツドウ ヨウラン",
+            "contributor": "国土交通省鉄道局",
+            "contributor_collation_key": "コクド コウツウショウ テツドウキョク",
+            "imprint": "電気車研究会",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16914442/"
         },
         {
-            "isbn": "9784889126020",
-            "title": "数字でみる航空（2021）",
-            "title_collation_key": "スウジ デ ミル コウクウ",
-            "contributor": "国土交通省航空局",
-            "contributor_collation_key": "コクド コウツウショウ コウクウキョク",
-            "imprint": "日本航空協会",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784780425185",
-            "title": "群馬 カフェ日和 すてきなCAFEさんぽ 新装改訂版",
-            "title_collation_key": "グンマカフェビヨリステキナカフェサンポシンソウカイテイバン",
-            "contributor": "ゆたり編集室",
-            "contributor_collation_key": "ユタリヘンシュウシツ",
-            "imprint": "メイツ出版",
-            "main_cover": "https://cover.openbd.jp/9784780425185.jpg"
-        },
-        {
-            "isbn": "9784910131214",
-            "title": "ホスピタリティ・オペレーション",
-            "title_collation_key": "ホスピタリティ オペレーション",
-            "contributor": "村瀬永育",
-            "contributor_collation_key": "ムラセ,エイスケ",
-            "imprint": "文化科学高等研究院",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784820121282",
-            "title": "価値共創のサービスイノベーション実践論",
-            "title_collation_key": "カチ キョウソウ ノ サービス イノベーション ジッセンロン",
-            "contributor": "村上輝康/松井拓己",
-            "contributor_collation_key": "ムラカミ,テルヤス/マツイ,タクミ",
-            "imprint": "生産性出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784882380535",
-            "title": "New　Roses（Vol．30）",
-            "title_collation_key": "ニュー ローゼス",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "産経広告社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784862751959",
-            "title": "運行管理者試験問題と解説貨物編（令和4年3月受験版）",
-            "title_collation_key": "ウンコウ カンリシャ シケン モンダイ ト カイセツ カモツヘン",
+            "isbn": "9784862751966",
+            "title": "運行管理者試験問題と解説旅客編（令和4年3月受験版）",
+            "title_collation_key": "ウンコウ カンリシャ シケン モンダイ ト カイセツ リョカクヘン",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "公論出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784537218800",
-            "title": "本当に小さな庭づくり",
-            "title_collation_key": "ホントウニチイサナニワヅクリ",
-            "contributor": "高山 徹也",
-            "contributor_collation_key": "タカヤマ テツヤ",
-            "imprint": "日本文芸社",
-            "main_cover": "https://cover.openbd.jp/9784537218800.jpg"
-        },
-        {
-            "isbn": "9784864868945",
-            "title": "農業経理士教科書　経営管理編第3版",
-            "title_collation_key": "ノウギョウ ケイリシ キョウカショ ケイエイ カンリヘン",
-            "contributor": "森剛一/吉川順子",
-            "contributor_collation_key": "モリ,タケカズ/ヨシカワ,ジュンコ",
-            "imprint": "大原出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16939708/"
         },
         {
             "isbn": "9784871121200",
@@ -282,43 +591,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "エリエイ",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784990798642",
-            "title": "顔ハメ百景　青森最果てワンダー編",
-            "title_collation_key": "カオハメ ヒャッケイ アオモリ サイハテ ワンダーヘン",
-            "contributor": "塩谷朋之",
-            "contributor_collation_key": "シオヤ,トモユキ",
-            "imprint": "阿佐ケ谷書院",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784908657672",
-            "title": "農業経営者（No．307（2021　10））",
-            "title_collation_key": "ノウギョウ ケイエイシャ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "農業技術通信社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784495540920",
-            "title": "リアル地域密着店がネットで”全国繁盛店”になる方法",
-            "title_collation_key": "リアルチイキミッチャクテンガネットデゼンコクハンジョウテンニナルホウホウ",
-            "contributor": "佐藤勝人",
-            "contributor_collation_key": "サトウカツヒト",
-            "imprint": "同文舘出版（株）",
-            "main_cover": "https://cover.openbd.jp/9784495540920.jpg"
-        },
-        {
-            "isbn": "9784814343607",
-            "title": "DVD＞ありがとうドレミファインバータ",
-            "title_collation_key": "アリガトウ ドレミ ファイン バータ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ビコム",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16931092/"
         },
         {
             "isbn": "9784863164246",
@@ -327,7 +601,138 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "日刊自動車新聞社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16931087/"
+        },
+        {
+            "isbn": "9784862751959",
+            "title": "運行管理者試験問題と解説貨物編（令和4年3月受験版）",
+            "title_collation_key": "ウンコウ カンリシャ シケン モンダイ ト カイセツ カモツヘン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "公論出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16939707/"
+        },
+        {
+            "isbn": "9784814343607",
+            "title": "DVD＞ありがとうドレミファインバータ",
+            "title_collation_key": "アリガトウ ドレミ ファイン バータ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ビコム",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16914429/"
+        },
+        {
+            "isbn": "9784882380535",
+            "title": "New　Roses（Vol．30）",
+            "title_collation_key": "ニュー ローゼス",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "産経広告社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16947810/"
+        },
+        {
+            "isbn": "9784495540920",
+            "title": "リアル地域密着店がネットで”全国繁盛店”になる方法",
+            "title_collation_key": "リアルチイキミッチャクテンガネットデゼンコクハンジョウテンニナルホウホウ",
+            "contributor": "佐藤勝人",
+            "contributor_collation_key": "サトウカツヒト",
+            "imprint": "同文舘出版（株）",
+            "main_cover": "https://cover.openbd.jp/9784495540920.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16738135/"
+        },
+        {
+            "isbn": "9784820121282",
+            "title": "価値共創のサービスイノベーション実践論",
+            "title_collation_key": "カチ キョウソウ ノ サービス イノベーション ジッセンロン",
+            "contributor": "村上輝康/松井拓己",
+            "contributor_collation_key": "ムラカミ,テルヤス/マツイ,タクミ",
+            "imprint": "生産性出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16917281/"
+        },
+        {
+            "isbn": "9784910131214",
+            "title": "ホスピタリティ・オペレーション",
+            "title_collation_key": "ホスピタリティ オペレーション",
+            "contributor": "村瀬永育",
+            "contributor_collation_key": "ムラセ,エイスケ",
+            "imprint": "文化科学高等研究院",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16938389/"
+        },
+        {
+            "isbn": "9784908657672",
+            "title": "農業経営者（No．307（2021　10））",
+            "title_collation_key": "ノウギョウ ケイエイシャ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "農業技術通信社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16905622/"
+        },
+        {
+            "isbn": "9784541043382",
+            "title": "ファミリー日誌（令和4年版）",
+            "title_collation_key": "ファミリー ニッシ",
+            "contributor": "農林統計協会",
+            "contributor_collation_key": "ノウリン トウケイ キョウカイ",
+            "imprint": "農林統計協会",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16947774/"
+        },
+        {
+            "isbn": "9784864868945",
+            "title": "農業経理士教科書　経営管理編第3版",
+            "title_collation_key": "ノウギョウ ケイリシ キョウカショ ケイエイ カンリヘン",
+            "contributor": "森剛一/吉川順子",
+            "contributor_collation_key": "モリ,タケカズ/ヨシカワ,ジュンコ",
+            "imprint": "大原出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16907687/"
+        },
+        {
+            "isbn": "9784990798642",
+            "title": "顔ハメ百景　青森最果てワンダー編",
+            "title_collation_key": "カオハメ ヒャッケイ アオモリ サイハテ ワンダーヘン",
+            "contributor": "塩谷朋之",
+            "contributor_collation_key": "シオヤ,トモユキ",
+            "imprint": "阿佐ケ谷書院",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16908108/"
+        },
+        {
+            "isbn": "9784780425185",
+            "title": "群馬 カフェ日和 すてきなCAFEさんぽ 新装改訂版",
+            "title_collation_key": "グンマカフェビヨリステキナカフェサンポシンソウカイテイバン",
+            "contributor": "ゆたり編集室",
+            "contributor_collation_key": "ユタリヘンシュウシツ",
+            "imprint": "メイツ出版",
+            "main_cover": "https://cover.openbd.jp/9784780425185.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16815259/"
+        },
+        {
+            "isbn": "9784892900594",
+            "title": "転換期におけるわが国漁業の構造変化",
+            "title_collation_key": "テンカンキ ニ オケル ワガクニ ギョギョウ ノ コウゾウ ヘンカ",
+            "contributor": "農林水産省",
+            "contributor_collation_key": "ノウリン スイサンショウ",
+            "imprint": "北斗書房（江戸川区）",
+            "main_cover": "https://cover.openbd.jp/9784892900594.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16948809/"
+        },
+        {
+            "isbn": "9784814368082",
+            "title": "BD＞大井川鐵道井川線",
+            "title_collation_key": "オオイガワ テツドウ イカワセン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ビコム",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16925384/"
         },
         {
             "isbn": "9784909357717",
@@ -336,16 +741,38 @@
             "contributor": "田口宏",
             "contributor_collation_key": "タグチ,ヒロシ",
             "imprint": "プラチナ出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16908104/"
         },
         {
-            "isbn": "9784540211799",
-            "title": "どう考える？「みどりの食料システム戦略」",
-            "title_collation_key": "ドウカンガエルミドリノショクリョウシステムセンリャク",
-            "contributor": "農文協",
-            "contributor_collation_key": "ノウブンキョウ",
-            "imprint": "農山漁村文化協会",
-            "main_cover": "https://cover.openbd.jp/9784540211799.jpg"
+            "isbn": "9784537218800",
+            "title": "本当に小さな庭づくり",
+            "title_collation_key": "ホントウニチイサナニワヅクリ",
+            "contributor": "高山 徹也",
+            "contributor_collation_key": "タカヤマ テツヤ",
+            "imprint": "日本文芸社",
+            "main_cover": "https://cover.openbd.jp/9784537218800.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16595808/"
+        },
+        {
+            "isbn": "9784502397615",
+            "title": "経験者が語るQ＆A電子契約導入・運用実務のすべて",
+            "title_collation_key": "ケイケンシャガカタルキューアンドエーデンシケイヤクドウニュウウンヨウジツムノスベテ",
+            "contributor": "柴山 吉報/高岸 亘",
+            "contributor_collation_key": "シバヤマ キッポウ/タカギシ ワタル",
+            "imprint": "中央経済社",
+            "main_cover": "https://cover.openbd.jp/9784502397615.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16902498/"
+        },
+        {
+            "isbn": "9784889126020",
+            "title": "数字でみる航空（2021）",
+            "title_collation_key": "スウジ デ ミル コウクウ",
+            "contributor": "国土交通省航空局",
+            "contributor_collation_key": "コクド コウツウショウ コウクウキョク",
+            "imprint": "日本航空協会",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16915897/"
         },
         {
             "isbn": "9784130403047",
@@ -354,16 +781,8 @@
             "contributor": "深尾　京司",
             "contributor_collation_key": "フカオ　キョウジ",
             "imprint": "東京大学出版会",
-            "main_cover": "https://cover.openbd.jp/9784130403047.jpg"
-        },
-        {
-            "isbn": "9784811906096",
-            "title": "戦前日本のマーケティング",
-            "title_collation_key": "センゼンニホンノマーケティング",
-            "contributor": "野村 比加留",
-            "contributor_collation_key": "ノムラ ヒカル",
-            "imprint": "筑波書房",
-            "main_cover": "https://cover.openbd.jp/9784811906096.jpg"
+            "main_cover": "https://cover.openbd.jp/9784130403047.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16825810/"
         },
         {
             "isbn": "9784811906065",
@@ -372,7 +791,18 @@
             "contributor": "山崎 亮一",
             "contributor_collation_key": "ヤマザキ リョウイチ",
             "imprint": "筑波書房",
-            "main_cover": "https://cover.openbd.jp/9784811906065.jpg"
+            "main_cover": "https://cover.openbd.jp/9784811906065.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16840784/"
+        },
+        {
+            "isbn": "9784811906096",
+            "title": "戦前日本のマーケティング",
+            "title_collation_key": "センゼンニホンノマーケティング",
+            "contributor": "野村 比加留",
+            "contributor_collation_key": "ノムラ ヒカル",
+            "imprint": "筑波書房",
+            "main_cover": "https://cover.openbd.jp/9784811906096.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16874920/"
         },
         {
             "isbn": "9784495650124",
@@ -381,7 +811,8 @@
             "contributor": "藤岡芳郎",
             "contributor_collation_key": "フジオカヨシロウ",
             "imprint": "同文舘出版（株）",
-            "main_cover": "https://cover.openbd.jp/9784495650124.jpg"
+            "main_cover": "https://cover.openbd.jp/9784495650124.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16850860/"
         },
         {
             "isbn": "9784495540975",
@@ -390,7 +821,8 @@
             "contributor": "向井邦雄",
             "contributor_collation_key": "ムカイクニオ",
             "imprint": "同文舘出版（株）",
-            "main_cover": "https://cover.openbd.jp/9784495540975.jpg"
+            "main_cover": "https://cover.openbd.jp/9784495540975.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16821899/"
         },
         {
             "isbn": "9784861446108",
@@ -399,25 +831,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "八重洲出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784883198962",
-            "title": "10の基本ルールで学ぶ 外国人のためのビジネス文書の書き方",
-            "title_collation_key": "ジュウノキホンルールデマナブガイコクジンノタメノビジネスブンショノカキカタ",
-            "contributor": "白崎佐夜子",
-            "contributor_collation_key": "シラサキサヨコ",
-            "imprint": "スリーエーネットワーク",
-            "main_cover": "https://cover.openbd.jp/9784883198962.jpg"
-        },
-        {
-            "isbn": "9784777828449",
-            "title": "日本懐かしラジオ大全",
-            "title_collation_key": "ニホンナツカシラジオタイゼン",
-            "contributor": "川野将一",
-            "contributor_collation_key": "カワノマサカズ",
-            "imprint": "辰巳出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16905652/"
         },
         {
             "isbn": "9784495540951",
@@ -426,7 +841,18 @@
             "contributor": "高橋威知郎",
             "contributor_collation_key": "タカハシイチロウ",
             "imprint": "同文舘出版（株）",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16821897/"
+        },
+        {
+            "isbn": "9784883198962",
+            "title": "10の基本ルールで学ぶ 外国人のためのビジネス文書の書き方",
+            "title_collation_key": "ジュウノキホンルールデマナブガイコクジンノタメノビジネスブンショノカキカタ",
+            "contributor": "白崎佐夜子",
+            "contributor_collation_key": "シラサキサヨコ",
+            "imprint": "スリーエーネットワーク",
+            "main_cover": "https://cover.openbd.jp/9784883198962.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16876020/"
         },
         {
             "isbn": "9784495540999",
@@ -435,7 +861,18 @@
             "contributor": "佐久間俊一",
             "contributor_collation_key": "サクマシュンイチ",
             "imprint": "同文舘出版（株）",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16836917/"
+        },
+        {
+            "isbn": "9784777828449",
+            "title": "日本懐かしラジオ大全",
+            "title_collation_key": "ニホンナツカシラジオタイゼン",
+            "contributor": "川野将一",
+            "contributor_collation_key": "カワノマサカズ",
+            "imprint": "辰巳出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16849212/"
         },
         {
             "isbn": "9784865988758",
@@ -444,7 +881,8 @@
             "contributor": "山田 亮",
             "contributor_collation_key": "ヤマダ アキラ",
             "imprint": "アルファベータブックス",
-            "main_cover": "https://cover.openbd.jp/9784865988758.jpg"
+            "main_cover": "https://cover.openbd.jp/9784865988758.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16874377/"
         },
         {
             "isbn": "9784393741597",
@@ -453,16 +891,8 @@
             "contributor": "福岡 正信/金光 寿郎",
             "contributor_collation_key": "フクオカ マサノブ/カナミツ トシオ",
             "imprint": "春秋社",
-            "main_cover": "https://cover.openbd.jp/9784393741597.jpg"
-        },
-        {
-            "isbn": "9784802210690",
-            "title": "国産アボカド栽培入門",
-            "title_collation_key": "コクサン アボカド サイバイ ニュウモン",
-            "contributor": "東愛理",
-            "contributor_collation_key": "ヒガシ,アイリ",
-            "imprint": "イカロス出版",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784393741597.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16850835/"
         },
         {
             "isbn": "9784815611477",
@@ -471,16 +901,18 @@
             "contributor": "石原博光",
             "contributor_collation_key": "イシハラヒロミツ",
             "imprint": "SBクリエイティブ",
-            "main_cover": "https://cover.openbd.jp/9784815611477.jpg"
+            "main_cover": "https://cover.openbd.jp/9784815611477.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16800741/"
         },
         {
-            "isbn": "9784802210546",
-            "title": "鉄道廃止転換バスをゆく",
-            "title_collation_key": "テツドウ ハイシ テンカン バス オ ユク",
-            "contributor": "",
-            "contributor_collation_key": "",
+            "isbn": "9784802210690",
+            "title": "国産アボカド栽培入門",
+            "title_collation_key": "コクサン アボカド サイバイ ニュウモン",
+            "contributor": "東愛理",
+            "contributor_collation_key": "ヒガシ,アイリ",
             "imprint": "イカロス出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16903021/"
         },
         {
             "isbn": "9784802210676",
@@ -489,25 +921,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "イカロス出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16903020/"
         },
         {
-            "isbn": "9784802210683",
-            "title": "東京 鉄道バトル",
-            "title_collation_key": "トウキョウテツドウバトル",
-            "contributor": "中村建治",
-            "contributor_collation_key": "ナカムラケンジ",
+            "isbn": "9784802210546",
+            "title": "鉄道廃止転換バスをゆく",
+            "title_collation_key": "テツドウ ハイシ テンカン バス オ ユク",
+            "contributor": "",
+            "contributor_collation_key": "",
             "imprint": "イカロス出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784344936607",
-            "title": "看板マーケティング戦略",
-            "title_collation_key": "カンバンマーケティングセンリャク",
-            "contributor": "越智 一治",
-            "contributor_collation_key": "オチ カズハル",
-            "imprint": "幻冬舎",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16903019/"
         },
         {
             "isbn": "9784295202103",
@@ -516,7 +941,28 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "エムディエヌコーポレーション",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16874642/"
+        },
+        {
+            "isbn": "9784344936607",
+            "title": "看板マーケティング戦略",
+            "title_collation_key": "カンバンマーケティングセンリャク",
+            "contributor": "越智 一治",
+            "contributor_collation_key": "オチ カズハル",
+            "imprint": "幻冬舎",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16899327/"
+        },
+        {
+            "isbn": "9784802210683",
+            "title": "東京 鉄道バトル",
+            "title_collation_key": "トウキョウテツドウバトル",
+            "contributor": "中村建治",
+            "contributor_collation_key": "ナカムラケンジ",
+            "imprint": "イカロス出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16834703/"
         },
         {
             "isbn": "9784863292321",
@@ -525,7 +971,8 @@
             "contributor": "山城滋",
             "contributor_collation_key": "ヤマシロ シゲル",
             "imprint": "弦書房",
-            "main_cover": "https://cover.openbd.jp/9784863292321.jpg"
+            "main_cover": "https://cover.openbd.jp/9784863292321.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16851113/"
         },
         {
             "isbn": "9784837614081",
@@ -534,16 +981,8 @@
             "contributor": "関 大地",
             "contributor_collation_key": "セキ ダイチ",
             "imprint": "マキノ出版",
-            "main_cover": "https://cover.openbd.jp/9784837614081.jpg"
-        },
-        {
-            "isbn": "9784866921488",
-            "title": "学生募集広報の戦略と実践",
-            "title_collation_key": "ガクセイボシュウコウホウノセンリャクトジッセン",
-            "contributor": "喜村仁詞/永野拓矢",
-            "contributor_collation_key": "キムラ　ヒトシ/ナガノ　タクヤ",
-            "imprint": "大学教育出版",
-            "main_cover": "https://cover.openbd.jp/9784866921488.jpg"
+            "main_cover": "https://cover.openbd.jp/9784837614081.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16829741/"
         },
         {
             "isbn": "9784569849546",
@@ -552,7 +991,18 @@
             "contributor": "阿佐見 綾香",
             "contributor_collation_key": "アサミ アヤカ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569849546.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569849546.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16717947/"
+        },
+        {
+            "isbn": "9784866921488",
+            "title": "学生募集広報の戦略と実践",
+            "title_collation_key": "ガクセイボシュウコウホウノセンリャクトジッセン",
+            "contributor": "喜村仁詞/永野拓矢",
+            "contributor_collation_key": "キムラ　ヒトシ/ナガノ　タクヤ",
+            "imprint": "大学教育出版",
+            "main_cover": "https://cover.openbd.jp/9784866921488.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16829762/"
         },
         {
             "isbn": "9784827213041",
@@ -561,25 +1011,8 @@
             "contributor": "大内一敏",
             "contributor_collation_key": "オオウチカズトシ",
             "imprint": "ぱる出版",
-            "main_cover": "https://cover.openbd.jp/9784827213041.jpg"
-        },
-        {
-            "isbn": "9784422440323",
-            "title": "板目・柾目・木口がわかる木の図鑑",
-            "title_collation_key": "イタメ・マサメ・コグチガワカルキノズカン",
-            "contributor": "西川 栄明/小泉 章夫",
-            "contributor_collation_key": "ニシカワ タカアキ/コイズミ アキオ",
-            "imprint": "創元社",
-            "main_cover": "https://cover.openbd.jp/9784422440323.jpg"
-        },
-        {
-            "isbn": "9784569850498",
-            "title": "一生安心「お金持ち大家さん」",
-            "title_collation_key": "イッショウアンシンオカネモチオオヤサン",
-            "contributor": "高橋 誠一",
-            "contributor_collation_key": "タカハシ セイイチ",
-            "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569850498.jpg"
+            "main_cover": "https://cover.openbd.jp/9784827213041.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16865445/"
         },
         {
             "isbn": "9784839976156",
@@ -588,7 +1021,18 @@
             "contributor": "奥泉 直子/山崎 真湖人",
             "contributor_collation_key": "オクイズミ ナオコ/ヤマサキ マコト",
             "imprint": "マイナビ出版",
-            "main_cover": "https://cover.openbd.jp/9784839976156.jpg"
+            "main_cover": "https://cover.openbd.jp/9784839976156.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16825778/"
+        },
+        {
+            "isbn": "9784569850498",
+            "title": "一生安心「お金持ち大家さん」",
+            "title_collation_key": "イッショウアンシンオカネモチオオヤサン",
+            "contributor": "高橋 誠一",
+            "contributor_collation_key": "タカハシ セイイチ",
+            "imprint": "PHP研究所",
+            "main_cover": "https://cover.openbd.jp/9784569850498.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16814101/"
         },
         {
             "isbn": "9784065250488",
@@ -597,16 +1041,28 @@
             "contributor": "渡瀬 基樹",
             "contributor_collation_key": "ワタセ モトキ",
             "imprint": "星海社",
-            "main_cover": "https://cover.openbd.jp/9784065250488.jpg"
+            "main_cover": "https://cover.openbd.jp/9784065250488.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16865293/"
         },
         {
-            "isbn": "9784883403523",
-            "title": "食と農のつれづれ草",
-            "title_collation_key": "ショクトノウノツレヅレグサ",
-            "contributor": "岸 康彦",
-            "contributor_collation_key": "キシ ヤスヒコ",
-            "imprint": "創森社",
-            "main_cover": "https://cover.openbd.jp/9784883403523.jpg"
+            "isbn": "9784422440323",
+            "title": "板目・柾目・木口がわかる木の図鑑",
+            "title_collation_key": "イタメ・マサメ・コグチガワカルキノズカン",
+            "contributor": "西川 栄明/小泉 章夫",
+            "contributor_collation_key": "ニシカワ タカアキ/コイズミ アキオ",
+            "imprint": "創元社",
+            "main_cover": "https://cover.openbd.jp/9784422440323.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16811058/"
+        },
+        {
+            "isbn": "9784839976156",
+            "title": "ユーザーインタビューのやさしい教科書",
+            "title_collation_key": "ユーザーインタビューノヤサシイキョウカショ",
+            "contributor": "奥泉 直子/山崎 真湖人",
+            "contributor_collation_key": "オクイズミ ナオコ/ヤマサキ マコト",
+            "imprint": "マイナビ出版",
+            "main_cover": "https://cover.openbd.jp/9784839976156.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16825778/"
         },
         {
             "isbn": "9784540211188",
@@ -615,16 +1071,8 @@
             "contributor": "農文協",
             "contributor_collation_key": "ノウブンキョウ",
             "imprint": "農山漁村文化協会",
-            "main_cover": "https://cover.openbd.jp/9784540211188.jpg"
-        },
-        {
-            "isbn": "9784889656619",
-            "title": "「林政ニュース」第661号",
-            "title_collation_key": "リンセイニュースダイロッピャクロクジュウイチゴウ",
-            "contributor": "「林政ニュース」編集部",
-            "contributor_collation_key": "リンセイニュースヘンシュウブ",
-            "imprint": "日本林業調査会",
-            "main_cover": "https://cover.openbd.jp/9784889656619.jpg"
+            "main_cover": "https://cover.openbd.jp/9784540211188.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16852417/"
         },
         {
             "isbn": "9784540211508",
@@ -633,16 +1081,8 @@
             "contributor": "農文協",
             "contributor_collation_key": "",
             "imprint": "農山漁村文化協会",
-            "main_cover": "https://cover.openbd.jp/9784540211508.jpg"
-        },
-        {
-            "isbn": "9784802132862",
-            "title": "新装版　続無肥料栽培を実現する本",
-            "title_collation_key": "シンソウバンゾクムヒリョウサイバイヲジツゲンスルホン",
-            "contributor": "岡本よりたか",
-            "contributor_collation_key": "オカモト ヨリタカ",
-            "imprint": "笑がお書房",
-            "main_cover": "https://cover.openbd.jp/9784802132862.jpg"
+            "main_cover": "https://cover.openbd.jp/9784540211508.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16833889/"
         },
         {
             "isbn": "9784295011729",
@@ -651,7 +1091,28 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "インプレス",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16742445/"
+        },
+        {
+            "isbn": "9784889656619",
+            "title": "「林政ニュース」第661号",
+            "title_collation_key": "リンセイニュースダイロッピャクロクジュウイチゴウ",
+            "contributor": "「林政ニュース」編集部",
+            "contributor_collation_key": "リンセイニュースヘンシュウブ",
+            "imprint": "日本林業調査会",
+            "main_cover": "https://cover.openbd.jp/9784889656619.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16893320/"
+        },
+        {
+            "isbn": "9784802132862",
+            "title": "新装版　続無肥料栽培を実現する本",
+            "title_collation_key": "シンソウバンゾクムヒリョウサイバイヲジツゲンスルホン",
+            "contributor": "岡本よりたか",
+            "contributor_collation_key": "オカモト ヨリタカ",
+            "imprint": "笑がお書房",
+            "main_cover": "https://cover.openbd.jp/9784802132862.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16837936/"
         },
         {
             "isbn": "9784502398919",
@@ -660,7 +1121,8 @@
             "contributor": "小林 浩二/木屋 正樹",
             "contributor_collation_key": "コバヤシ コウジ/キヤ マサキ",
             "imprint": "中央経済社",
-            "main_cover": "https://cover.openbd.jp/9784502398919.jpg"
+            "main_cover": "https://cover.openbd.jp/9784502398919.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16841658/"
         },
         {
             "isbn": "9784569850399",
@@ -669,43 +1131,8 @@
             "contributor": "小西 利行",
             "contributor_collation_key": "コニシ トシユキ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569850399.jpg"
-        },
-        {
-            "isbn": "9784495540937",
-            "title": "営業は武器がすべて",
-            "title_collation_key": "エイギョウハブキガスベテ",
-            "contributor": "福山敦士",
-            "contributor_collation_key": "フクヤマアツシ",
-            "imprint": "同文舘出版（株）",
-            "main_cover": "https://cover.openbd.jp/9784495540937.jpg"
-        },
-        {
-            "isbn": "9784046051790",
-            "title": "スマートフォングラフィ 手軽にドラマを生み出す全撮影術",
-            "title_collation_key": "スマートフォングラフィ テガルニドラマヲウミダスゼンサツエイジュツ",
-            "contributor": "あああつし",
-            "contributor_collation_key": "アアアツシ",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784046051790.jpg"
-        },
-        {
-            "isbn": "9784780425277",
-            "title": "千葉 カフェ日和 ときめくお店案内 改訂版",
-            "title_collation_key": "チバカフェビヨリトキメクオミセアンナイカイテイバン",
-            "contributor": "オフィス・クリオ",
-            "contributor_collation_key": "オフィスクリオ",
-            "imprint": "メイツ出版",
-            "main_cover": "https://cover.openbd.jp/9784780425277.jpg"
-        },
-        {
-            "isbn": "9784046051790",
-            "title": "スマートフォングラフィ 手軽にドラマを生み出す全撮影術",
-            "title_collation_key": "スマートフォングラフィ テガルニドラマヲウミダスゼンサツエイジュツ",
-            "contributor": "あああつし",
-            "contributor_collation_key": "アアアツシ",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784046051790.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569850399.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882858/"
         },
         {
             "isbn": "9784866801452",
@@ -714,7 +1141,18 @@
             "contributor": "赤城　良典",
             "contributor_collation_key": "アカギ　ヨシノリ",
             "imprint": "フォレスト出版",
-            "main_cover": "https://cover.openbd.jp/9784866801452.jpg"
+            "main_cover": "https://cover.openbd.jp/9784866801452.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16836954/"
+        },
+        {
+            "isbn": "9784767828985",
+            "title": "世界で一番やさしい住宅用植栽",
+            "title_collation_key": "セカイデイチバンヤサシイジュウタクヨウショクサイ",
+            "contributor": "山崎 誠子",
+            "contributor_collation_key": "ヤマザキマサコ",
+            "imprint": "エクスナレッジ",
+            "main_cover": "https://cover.openbd.jp/9784767828985.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16842718/"
         },
         {
             "isbn": "9784910288161",
@@ -723,70 +1161,38 @@
             "contributor": "田原拓治",
             "contributor_collation_key": "タハラタクジ",
             "imprint": "プログレス",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16841473/"
         },
         {
-            "isbn": "9784802132855",
-            "title": "国鉄旅客列車の記録　【電車・気動車列車編】",
-            "title_collation_key": "コクテツリョカクレッシャノキロク　デンシャキドウシャレッシャヘン",
-            "contributor": "諸河久/寺本光照",
-            "contributor_collation_key": "モロカワ ヒサシ/テラモト ミツテル",
-            "imprint": "フォト・パブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784802132855.jpg"
+            "isbn": "9784780425277",
+            "title": "千葉 カフェ日和 ときめくお店案内 改訂版",
+            "title_collation_key": "チバカフェビヨリトキメクオミセアンナイカイテイバン",
+            "contributor": "オフィス・クリオ",
+            "contributor_collation_key": "オフィスクリオ",
+            "imprint": "メイツ出版",
+            "main_cover": "https://cover.openbd.jp/9784780425277.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16815248/"
         },
         {
-            "isbn": "9784866365152",
-            "title": "Amazon国内メーカー直取引完全ガイド 増補改訂版",
-            "title_collation_key": "アマゾンコクナイメーカーチョクトリヒキカンゼンガイド　ゾウホカイテイバン",
-            "contributor": "中村裕紀",
-            "contributor_collation_key": "ナカムラヒロノリ",
-            "imprint": "スタンダーズ",
-            "main_cover": "https://cover.openbd.jp/9784866365152.jpg"
+            "isbn": "9784046051790",
+            "title": "スマートフォングラフィ 手軽にドラマを生み出す全撮影術",
+            "title_collation_key": "スマートフォングラフィ テガルニドラマヲウミダスゼンサツエイジュツ",
+            "contributor": "あああつし",
+            "contributor_collation_key": "アアアツシ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784046051790.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16801474/"
         },
         {
-            "isbn": "9784777054800",
-            "title": "RMライブラリー256　筑波鉄道（下）",
-            "title_collation_key": "アールエムライブラリーツクバテツドウ",
-            "contributor": "寺田 裕一",
-            "contributor_collation_key": "テラダ ヒロカズ",
-            "imprint": "ネコ・パブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784777054800.jpg"
-        },
-        {
-            "isbn": "9784866809205",
-            "title": "タクシードライバーぐるぐる日記",
-            "title_collation_key": "タクシードライバーグルグルニッキ",
-            "contributor": "内田　正治",
-            "contributor_collation_key": "ウチダ　ショウジ",
-            "imprint": "三五館シンシャ",
-            "main_cover": "https://cover.openbd.jp/9784866809205.jpg"
-        },
-        {
-            "isbn": "9784800720931",
-            "title": "世界一やさしい Instagramマーケティングの教科書1年生",
-            "title_collation_key": "セカイイチヤサシイ　インスタグラム　マーケティングノキョウカショ　イチネンセイ",
-            "contributor": "金城辰一郎",
-            "contributor_collation_key": "キンジョウシンイチロウ",
-            "imprint": "ソーテック社",
-            "main_cover": "https://cover.openbd.jp/9784800720931.jpg"
-        },
-        {
-            "isbn": "9784794225412",
-            "title": "最新　新幹線事情大研究",
-            "title_collation_key": "サイシン　シンカンセンジジョウダイケンキュウ",
-            "contributor": "川島 令三",
-            "contributor_collation_key": "カワシマ リョウゾウ",
-            "imprint": "草思社",
-            "main_cover": "https://cover.openbd.jp/9784794225412.jpg"
-        },
-        {
-            "isbn": "9784863925298",
-            "title": "ビジネスで1番よく使う 中国語Eメール＆SNS",
-            "title_collation_key": "ビジネスデイチバンヨクツカウ チュウゴクゴイーメールアンドエスエヌエス",
-            "contributor": "CCアカデミー/大羽りん",
-            "contributor_collation_key": "シーシーアカデミー/オオバ リン",
-            "imprint": "Jリサーチ出版",
-            "main_cover": "https://cover.openbd.jp/9784863925298.jpg"
+            "isbn": "9784495540937",
+            "title": "営業は武器がすべて",
+            "title_collation_key": "エイギョウハブキガスベテ",
+            "contributor": "福山敦士",
+            "contributor_collation_key": "フクヤマアツシ",
+            "imprint": "同文舘出版（株）",
+            "main_cover": "https://cover.openbd.jp/9784495540937.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16762951/"
         },
         {
             "isbn": "9784774792415",
@@ -795,25 +1201,78 @@
             "contributor": "佐々木 浩之",
             "contributor_collation_key": "ササキ ヒロユキ",
             "imprint": "コスミック出版",
-            "main_cover": "https://cover.openbd.jp/9784774792415.jpg"
+            "main_cover": "https://cover.openbd.jp/9784774792415.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16868271/"
         },
         {
-            "isbn": "2300000085716",
-            "title": "【POD】パートさんにも読ませたい はじめての「衛生管理」",
-            "title_collation_key": "パートサンニモヨマセタイハジメテノエイセイカンリ",
-            "contributor": "渡邉常和",
-            "contributor_collation_key": "ワタナベツネカズ",
-            "imprint": "アール・アイ・シー",
-            "main_cover": ""
+            "isbn": "9784866365152",
+            "title": "Amazon国内メーカー直取引完全ガイド 増補改訂版",
+            "title_collation_key": "アマゾンコクナイメーカーチョクトリヒキカンゼンガイド　ゾウホカイテイバン",
+            "contributor": "中村裕紀",
+            "contributor_collation_key": "ナカムラヒロノリ",
+            "imprint": "スタンダーズ",
+            "main_cover": "https://cover.openbd.jp/9784866365152.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16858641/"
         },
         {
-            "isbn": "2300000085747",
-            "title": "【POD】売場を科学する",
-            "title_collation_key": "ウリバヲカガクスル",
-            "contributor": "清原和明",
-            "contributor_collation_key": "キヨハラカズアキ",
-            "imprint": "アール・アイ・シー",
-            "main_cover": ""
+            "isbn": "9784863925298",
+            "title": "ビジネスで1番よく使う 中国語Eメール＆SNS",
+            "title_collation_key": "ビジネスデイチバンヨクツカウ チュウゴクゴイーメールアンドエスエヌエス",
+            "contributor": "CCアカデミー/大羽りん",
+            "contributor_collation_key": "シーシーアカデミー/オオバ リン",
+            "imprint": "Jリサーチ出版",
+            "main_cover": "https://cover.openbd.jp/9784863925298.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16845241/"
+        },
+        {
+            "isbn": "9784800720931",
+            "title": "世界一やさしい Instagramマーケティングの教科書1年生",
+            "title_collation_key": "セカイイチヤサシイ　インスタグラム　マーケティングノキョウカショ　イチネンセイ",
+            "contributor": "金城辰一郎",
+            "contributor_collation_key": "キンジョウシンイチロウ",
+            "imprint": "ソーテック社",
+            "main_cover": "https://cover.openbd.jp/9784800720931.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16773716/"
+        },
+        {
+            "isbn": "9784777054800",
+            "title": "RMライブラリー256　筑波鉄道（下）",
+            "title_collation_key": "アールエムライブラリーツクバテツドウ",
+            "contributor": "寺田 裕一",
+            "contributor_collation_key": "テラダ ヒロカズ",
+            "imprint": "ネコ・パブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784777054800.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16885096/"
+        },
+        {
+            "isbn": "9784794225412",
+            "title": "最新　新幹線事情大研究",
+            "title_collation_key": "サイシン　シンカンセンジジョウダイケンキュウ",
+            "contributor": "川島 令三",
+            "contributor_collation_key": "カワシマ リョウゾウ",
+            "imprint": "草思社",
+            "main_cover": "https://cover.openbd.jp/9784794225412.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16861572/"
+        },
+        {
+            "isbn": "9784802132855",
+            "title": "国鉄旅客列車の記録　【電車・気動車列車編】",
+            "title_collation_key": "コクテツリョカクレッシャノキロク　デンシャキドウシャレッシャヘン",
+            "contributor": "諸河久/寺本光照",
+            "contributor_collation_key": "モロカワ ヒサシ/テラモト ミツテル",
+            "imprint": "フォト・パブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784802132855.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16844157/"
+        },
+        {
+            "isbn": "9784866809205",
+            "title": "タクシードライバーぐるぐる日記",
+            "title_collation_key": "タクシードライバーグルグルニッキ",
+            "contributor": "内田　正治",
+            "contributor_collation_key": "ウチダ　ショウジ",
+            "imprint": "三五館シンシャ",
+            "main_cover": "https://cover.openbd.jp/9784866809205.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16842746/"
         },
         {
             "isbn": "9784588377181",
@@ -822,7 +1281,28 @@
             "contributor": "中島 成久",
             "contributor_collation_key": "ナカシマ ナリヒサ",
             "imprint": "法政大学出版局",
-            "main_cover": "https://cover.openbd.jp/9784588377181.jpg"
+            "main_cover": "https://cover.openbd.jp/9784588377181.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16844159/"
+        },
+        {
+            "isbn": "2300000085716",
+            "title": "【POD】パートさんにも読ませたい はじめての「衛生管理」",
+            "title_collation_key": "パートサンニモヨマセタイハジメテノエイセイカンリ",
+            "contributor": "渡邉常和",
+            "contributor_collation_key": "ワタナベツネカズ",
+            "imprint": "アール・アイ・シー",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16906444/"
+        },
+        {
+            "isbn": "2300000085747",
+            "title": "【POD】売場を科学する",
+            "title_collation_key": "ウリバヲカガクスル",
+            "contributor": "清原和明",
+            "contributor_collation_key": "キヨハラカズアキ",
+            "imprint": "アール・アイ・シー",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16906447/"
         },
         {
             "isbn": "2300000085723",
@@ -831,7 +1311,8 @@
             "contributor": "木村博",
             "contributor_collation_key": "キムラヒロシ",
             "imprint": "アール・アイ・シー",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16906445/"
         },
         {
             "isbn": "2300000085730",
@@ -840,25 +1321,8 @@
             "contributor": "鈴木國朗",
             "contributor_collation_key": "スズキクニオ",
             "imprint": "アール・アイ・シー",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784635823401",
-            "title": "東北本線",
-            "title_collation_key": "",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "山と溪谷社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784635823333",
-            "title": "やすこーんの鉄道イロハ",
-            "title_collation_key": "",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "山と溪谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16906446/"
         },
         {
             "isbn": "9784582635256",
@@ -867,16 +1331,28 @@
             "contributor": "ひこね　のりお",
             "contributor_collation_key": "ヒコネ　ノリオ",
             "imprint": "平凡社",
-            "main_cover": "https://cover.openbd.jp/9784582635256.jpg"
+            "main_cover": "https://cover.openbd.jp/9784582635256.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16755590/"
         },
         {
-            "isbn": "9784635172097",
-            "title": "山に生きる",
+            "isbn": "9784635823401",
+            "title": "東北本線",
             "title_collation_key": "",
-            "contributor": "三宅 岳",
-            "contributor_collation_key": "ミヤケガク",
+            "contributor": "",
+            "contributor_collation_key": "",
             "imprint": "山と溪谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16823199/"
+        },
+        {
+            "isbn": "9784635823333",
+            "title": "やすこーんの鉄道イロハ",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "山と溪谷社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16823197/"
         },
         {
             "isbn": "9784761527907",
@@ -885,16 +1361,18 @@
             "contributor": "森口 将之",
             "contributor_collation_key": "モリグチ マサユキ",
             "imprint": "学芸出版社",
-            "main_cover": "https://cover.openbd.jp/9784761527907.jpg"
+            "main_cover": "https://cover.openbd.jp/9784761527907.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16821463/"
         },
         {
-            "isbn": "9784635049214",
-            "title": "山びとの記ーー木の国 果無山脈",
+            "isbn": "9784635172097",
+            "title": "山に生きる",
             "title_collation_key": "",
-            "contributor": "",
-            "contributor_collation_key": "",
+            "contributor": "三宅 岳",
+            "contributor_collation_key": "ミヤケガク",
             "imprint": "山と溪谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16823124/"
         },
         {
             "isbn": "9784635823470",
@@ -903,7 +1381,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と溪谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16823202/"
+        },
+        {
+            "isbn": "9784635049214",
+            "title": "山びとの記ーー木の国 果無山脈",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "山と溪谷社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16822608/"
         },
         {
             "isbn": "9784847071027",
@@ -912,7 +1401,8 @@
             "contributor": "小野瀬 雅生",
             "contributor_collation_key": "オノセ マサオ",
             "imprint": "ワニ・プラス",
-            "main_cover": "https://cover.openbd.jp/9784847071027.jpg"
+            "main_cover": "https://cover.openbd.jp/9784847071027.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16849318/"
         },
         {
             "isbn": "9784635823203",
@@ -921,25 +1411,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と溪谷社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784635823326",
-            "title": "えちごトキめき鉄道の挑戦",
-            "title_collation_key": "",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "山と溪谷社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784334045609",
-            "title": "日本の食と農の未来",
-            "title_collation_key": "ニホンノショクトノウノミライ",
-            "contributor": "小口広太",
-            "contributor_collation_key": "オグチ コウタ",
-            "imprint": "光文社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16823191/"
         },
         {
             "isbn": "9784802613361",
@@ -948,7 +1421,18 @@
             "contributor": "刈屋 大輔",
             "contributor_collation_key": "カリヤ ダイスケ",
             "imprint": "ソシム",
-            "main_cover": "https://cover.openbd.jp/9784802613361.jpg"
+            "main_cover": "https://cover.openbd.jp/9784802613361.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16808498/"
+        },
+        {
+            "isbn": "9784635823326",
+            "title": "えちごトキめき鉄道の挑戦",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "山と溪谷社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16823198/"
         },
         {
             "isbn": "9784295012610",
@@ -957,7 +1441,18 @@
             "contributor": "田口和裕/いしたにまさき",
             "contributor_collation_key": "タグチカズヒロ/イシタニマサキ",
             "imprint": "インプレス",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16827216/"
+        },
+        {
+            "isbn": "9784334045609",
+            "title": "日本の食と農の未来",
+            "title_collation_key": "ニホンノショクトノウノミライ",
+            "contributor": "小口広太",
+            "contributor_collation_key": "オグチ コウタ",
+            "imprint": "光文社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16850743/"
         },
         {
             "isbn": "9784532324254",
@@ -966,25 +1461,8 @@
             "contributor": "竹内 謙礼",
             "contributor_collation_key": "タケウチ ケンレイ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532324254.jpg"
-        },
-        {
-            "isbn": "9784908480034",
-            "title": "覆刻版　樺太へ奥地へ",
-            "title_collation_key": "フッコクバンカラフトヘオクチヘ",
-            "contributor": "石井 孝明/小川 周佑",
-            "contributor_collation_key": "イシイ タカアキ/オガワシュウスケ",
-            "imprint": "石井図書製作",
-            "main_cover": "https://cover.openbd.jp/9784908480034.jpg"
-        },
-        {
-            "isbn": "9784866921464",
-            "title": "エアライン入門",
-            "title_collation_key": "エアラインニュウモン",
-            "contributor": "宮平　望",
-            "contributor_collation_key": "ミヤヒラ　ノゾム",
-            "imprint": "大学教育出版",
-            "main_cover": "https://cover.openbd.jp/9784866921464.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532324254.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16820268/"
         },
         {
             "isbn": "9784532324278",
@@ -993,7 +1471,8 @@
             "contributor": "松本 勝男",
             "contributor_collation_key": "マツモト カツオ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532324278.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532324278.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16820270/"
         },
         {
             "isbn": "9784771035232",
@@ -1002,7 +1481,8 @@
             "contributor": "切通　堅太郎/西藤　真一",
             "contributor_collation_key": "キリトオシケンタロウ/サイトウシンイチ",
             "imprint": "晃洋書房",
-            "main_cover": "https://cover.openbd.jp/9784771035232.jpg"
+            "main_cover": "https://cover.openbd.jp/9784771035232.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16852426/"
         },
         {
             "isbn": "9784768314869",
@@ -1011,7 +1491,8 @@
             "contributor": "信藤 三雄",
             "contributor_collation_key": "シンドウ ミツオ",
             "imprint": "玄光社",
-            "main_cover": "https://cover.openbd.jp/9784768314869.jpg"
+            "main_cover": "https://cover.openbd.jp/9784768314869.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16837808/"
         },
         {
             "isbn": "9784883355273",
@@ -1020,7 +1501,8 @@
             "contributor": "片山義丈",
             "contributor_collation_key": "カタヤマヨシタケ",
             "imprint": "宣伝会議",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16850817/"
         },
         {
             "isbn": "9784780425307",
@@ -1029,16 +1511,8 @@
             "contributor": "アリカ",
             "contributor_collation_key": "アリカ",
             "imprint": "メイツ出版",
-            "main_cover": "https://cover.openbd.jp/9784780425307.jpg"
-        },
-        {
-            "isbn": "9784398295187",
-            "title": "東京ベストカフェ",
-            "title_collation_key": "トウキョウベストカフェ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398295187.jpg"
+            "main_cover": "https://cover.openbd.jp/9784780425307.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16815238/"
         },
         {
             "isbn": "9784760153923",
@@ -1047,16 +1521,18 @@
             "contributor": "僕のマリ",
             "contributor_collation_key": "ボクノマリ",
             "imprint": "柏書房",
-            "main_cover": "https://cover.openbd.jp/9784760153923.jpg"
+            "main_cover": "https://cover.openbd.jp/9784760153923.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16837722/"
         },
         {
-            "isbn": "9784863676923",
-            "title": "繁盛続ける理容室のお客様から愛されるお店づくり",
-            "title_collation_key": "ハンジョウツヅケルリヨウシツノオキャクサマカラアイサレルオミセヅクリ",
-            "contributor": "大平　法正",
-            "contributor_collation_key": "オオダイラ　ノリマサ",
-            "imprint": "セルバ出版",
-            "main_cover": ""
+            "isbn": "9784398295187",
+            "title": "東京ベストカフェ",
+            "title_collation_key": "トウキョウベストカフェ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398295187.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16834622/"
         },
         {
             "isbn": "9784811906058",
@@ -1065,34 +1541,18 @@
             "contributor": "田中 秀樹",
             "contributor_collation_key": "タナカ ヒデキ",
             "imprint": "筑波書房",
-            "main_cover": "https://cover.openbd.jp/9784811906058.jpg"
+            "main_cover": "https://cover.openbd.jp/9784811906058.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16835104/"
         },
         {
-            "isbn": "9784535540156",
-            "title": "需要予測の戦略的活用",
-            "title_collation_key": "ジュヨウヨソクノセンリャクテキカツヨウ",
-            "contributor": "山口雄大",
-            "contributor_collation_key": "ヤマグチ　ユウダイ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535540156.jpg"
-        },
-        {
-            "isbn": "9784022951397",
-            "title": "歴史のダイヤグラム　鉄道で見る日本近現代史",
-            "title_collation_key": "レキシノダイヤグラム テツドウデミルニホンキンゲンダイシ",
-            "contributor": "原武史",
-            "contributor_collation_key": "ハラタケシ",
-            "imprint": "朝日新聞出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784811906072",
-            "title": "園芸生産地域の青果物流通",
-            "title_collation_key": "エンゲイセイサンチイキノセイカブツリュウツウ",
-            "contributor": "木村彰利",
-            "contributor_collation_key": "キムラアキラトシ",
-            "imprint": "筑波書房",
-            "main_cover": "https://cover.openbd.jp/9784811906072.jpg"
+            "isbn": "9784863676923",
+            "title": "繁盛続ける理容室のお客様から愛されるお店づくり",
+            "title_collation_key": "ハンジョウツヅケルリヨウシツノオキャクサマカラアイサレルオミセヅクリ",
+            "contributor": "大平　法正",
+            "contributor_collation_key": "オオダイラ　ノリマサ",
+            "imprint": "セルバ出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16865463/"
         },
         {
             "isbn": "9784569901558",
@@ -1101,7 +1561,38 @@
             "contributor": "稲垣 栄洋",
             "contributor_collation_key": "イナガキ ヒデヒロ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569901558.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569901558.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16789874/"
+        },
+        {
+            "isbn": "9784811906072",
+            "title": "園芸生産地域の青果物流通",
+            "title_collation_key": "エンゲイセイサンチイキノセイカブツリュウツウ",
+            "contributor": "木村彰利",
+            "contributor_collation_key": "キムラアキラトシ",
+            "imprint": "筑波書房",
+            "main_cover": "https://cover.openbd.jp/9784811906072.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16856636/"
+        },
+        {
+            "isbn": "9784535540156",
+            "title": "需要予測の戦略的活用",
+            "title_collation_key": "ジュヨウヨソクノセンリャクテキカツヨウ",
+            "contributor": "山口雄大",
+            "contributor_collation_key": "ヤマグチ　ユウダイ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535540156.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827161/"
+        },
+        {
+            "isbn": "9784022951397",
+            "title": "歴史のダイヤグラム　鉄道で見る日本近現代史",
+            "title_collation_key": "レキシノダイヤグラム テツドウデミルニホンキンゲンダイシ",
+            "contributor": "原武史",
+            "contributor_collation_key": "ハラタケシ",
+            "imprint": "朝日新聞出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16834651/"
         },
         {
             "isbn": "9784561267539",
@@ -1110,7 +1601,8 @@
             "contributor": "税所　哲郎",
             "contributor_collation_key": "サイショ　テツロウ",
             "imprint": "白桃書房",
-            "main_cover": "https://cover.openbd.jp/9784561267539.jpg"
+            "main_cover": "https://cover.openbd.jp/9784561267539.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16852056/"
         },
         {
             "isbn": "9784784073870",
@@ -1119,16 +1611,8 @@
             "contributor": "信濃毎日新聞社",
             "contributor_collation_key": "シナノマイニチシンブンシャ",
             "imprint": "信濃毎日新聞社",
-            "main_cover": "https://cover.openbd.jp/9784784073870.jpg"
-        },
-        {
-            "isbn": "9784907051679",
-            "title": "改革開放と現代中国の農村ーその構造・現状・課題",
-            "title_collation_key": "カイカクハイホウトゲンダイチュウゴクノノウソン",
-            "contributor": "孔祥智/森路未央",
-            "contributor_collation_key": "コウ　ショウチ/モリ　ロミオ",
-            "imprint": "科学出版社東京",
-            "main_cover": "https://cover.openbd.jp/9784907051679.jpg"
+            "main_cover": "https://cover.openbd.jp/9784784073870.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16837743/"
         },
         {
             "isbn": "9784434294280",
@@ -1137,7 +1621,8 @@
             "contributor": "大下伸悦",
             "contributor_collation_key": "オオシタシンエツ",
             "imprint": "ミネムラ",
-            "main_cover": "https://cover.openbd.jp/9784434294280.jpg"
+            "main_cover": "https://cover.openbd.jp/9784434294280.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16826104/"
         },
         {
             "isbn": "9784805112342",
@@ -1146,7 +1631,18 @@
             "contributor": "郷 香野子",
             "contributor_collation_key": "ゴウカノコ",
             "imprint": "千倉書房",
-            "main_cover": "https://cover.openbd.jp/9784805112342.jpg"
+            "main_cover": "https://cover.openbd.jp/9784805112342.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16794129/"
+        },
+        {
+            "isbn": "9784907051679",
+            "title": "改革開放と現代中国の農村ーその構造・現状・課題",
+            "title_collation_key": "カイカクハイホウトゲンダイチュウゴクノノウソン",
+            "contributor": "孔祥智/森路未央",
+            "contributor_collation_key": "コウ　ショウチ/モリ　ロミオ",
+            "imprint": "科学出版社東京",
+            "main_cover": "https://cover.openbd.jp/9784907051679.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16876982/"
         },
         {
             "isbn": "9784827213003",
@@ -1155,7 +1651,8 @@
             "contributor": "サウナーヨモギダ",
             "contributor_collation_key": "サウナーヨモギダ",
             "imprint": "ぱる出版",
-            "main_cover": "https://cover.openbd.jp/9784827213003.jpg"
+            "main_cover": "https://cover.openbd.jp/9784827213003.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16849225/"
         },
         {
             "isbn": "9784889656602",
@@ -1164,7 +1661,8 @@
             "contributor": "「林政ニュース」編集部",
             "contributor_collation_key": "リンセイニュースヘンシュウブ",
             "imprint": "日本林業調査会",
-            "main_cover": "https://cover.openbd.jp/9784889656602.jpg"
+            "main_cover": "https://cover.openbd.jp/9784889656602.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16876565/"
         },
         {
             "isbn": "9784254440317",
@@ -1173,7 +1671,8 @@
             "contributor": "亀山 章/小野 良平",
             "contributor_collation_key": "カメヤマ アキラ/オノ リョウヘイ",
             "imprint": "朝倉書店",
-            "main_cover": "https://cover.openbd.jp/9784254440317.jpg"
+            "main_cover": "https://cover.openbd.jp/9784254440317.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16809693/"
         },
         {
             "isbn": "9784883403516",
@@ -1182,25 +1681,8 @@
             "contributor": "大森 直樹",
             "contributor_collation_key": "オオモリ ナオキ",
             "imprint": "創森社",
-            "main_cover": "https://cover.openbd.jp/9784883403516.jpg"
-        },
-        {
-            "isbn": "9784254129137",
-            "title": "マーケティングデータ分析",
-            "title_collation_key": "マーケティングデータブンセキ",
-            "contributor": "中原 孝信",
-            "contributor_collation_key": "ナカハラ タカノブ",
-            "imprint": "朝倉書店",
-            "main_cover": "https://cover.openbd.jp/9784254129137.jpg"
-        },
-        {
-            "isbn": "9784344929623",
-            "title": "世界一ハッピーな会社のつくりかた",
-            "title_collation_key": "セカイイチハッピーナカイシャノツクリカタ",
-            "contributor": "Sean Sumlin",
-            "contributor_collation_key": "ショーン サムリン",
-            "imprint": "幻冬舎",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784883403516.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16823192/"
         },
         {
             "isbn": "9784635310444",
@@ -1209,7 +1691,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と溪谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16823176/"
         },
         {
             "isbn": "9784309418384",
@@ -1218,7 +1701,28 @@
             "contributor": "恩藏 茂",
             "contributor_collation_key": "オンゾウ　シゲル",
             "imprint": "河出書房新社",
-            "main_cover": "https://cover.openbd.jp/9784309418384.jpg"
+            "main_cover": "https://cover.openbd.jp/9784309418384.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16804844/"
+        },
+        {
+            "isbn": "9784254129137",
+            "title": "マーケティングデータ分析",
+            "title_collation_key": "マーケティングデータブンセキ",
+            "contributor": "中原 孝信",
+            "contributor_collation_key": "ナカハラ タカノブ",
+            "imprint": "朝倉書店",
+            "main_cover": "https://cover.openbd.jp/9784254129137.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16808698/"
+        },
+        {
+            "isbn": "9784344929623",
+            "title": "世界一ハッピーな会社のつくりかた",
+            "title_collation_key": "セカイイチハッピーナカイシャノツクリカタ",
+            "contributor": "Sean Sumlin",
+            "contributor_collation_key": "ショーン サムリン",
+            "imprint": "幻冬舎",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16876488/"
         },
         {
             "isbn": "9784254435559",
@@ -1227,7 +1731,8 @@
             "contributor": "高野 克己/谷口 亜樹子",
             "contributor_collation_key": "タカノ カツミ/タニグチ アキコ",
             "imprint": "朝倉書店",
-            "main_cover": "https://cover.openbd.jp/9784254435559.jpg"
+            "main_cover": "https://cover.openbd.jp/9784254435559.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16808684/"
         },
         {
             "isbn": "9784434292323",
@@ -1236,7 +1741,8 @@
             "contributor": "田中智仁",
             "contributor_collation_key": "タナカトモヒト",
             "imprint": "現代図書",
-            "main_cover": "https://cover.openbd.jp/9784434292323.jpg"
+            "main_cover": "https://cover.openbd.jp/9784434292323.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16861858/"
         },
         {
             "isbn": "9784889652680",
@@ -1245,25 +1751,8 @@
             "contributor": "伊藤勝久/井上憲一",
             "contributor_collation_key": "イトウカツヒサ/イノウエノリカズ",
             "imprint": "日本林業調査会",
-            "main_cover": "https://cover.openbd.jp/9784889652680.jpg"
-        },
-        {
-            "isbn": "9784769916710",
-            "title": "栽培漁業の変遷と技術開発",
-            "title_collation_key": "サイバイギョギョウノヘンセントギジュツカイハツ",
-            "contributor": "有瀧真人/虫明敬一",
-            "contributor_collation_key": "アリタキマサト/ムシアケケイイチ",
-            "imprint": "恒星社厚生閣",
-            "main_cover": "https://cover.openbd.jp/9784769916710.jpg"
-        },
-        {
-            "isbn": "9784761275631",
-            "title": "改訂版　貿易実務完全バイブル",
-            "title_collation_key": "カイテイバン　ボウエキジツムカンゼンバイブル",
-            "contributor": "黒岩　章",
-            "contributor_collation_key": "クロイワ　アキラ",
-            "imprint": "かんき出版",
-            "main_cover": "https://cover.openbd.jp/9784761275631.jpg"
+            "main_cover": "https://cover.openbd.jp/9784889652680.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16870081/"
         },
         {
             "isbn": "9784502394812",
@@ -1272,16 +1761,8 @@
             "contributor": "石川 和男",
             "contributor_collation_key": "イシカワ カズオ",
             "imprint": "中央経済社",
-            "main_cover": "https://cover.openbd.jp/9784502394812.jpg"
-        },
-        {
-            "isbn": "9784866365145",
-            "title": "Amazon海外メーカー直取引完全ガイド",
-            "title_collation_key": "アマゾンカイガイメーカーチョクトリヒキカンゼンガイド",
-            "contributor": "中村 裕紀",
-            "contributor_collation_key": "ナカムラ ヒロノリ",
-            "imprint": "スタンダーズ",
-            "main_cover": "https://cover.openbd.jp/9784866365145.jpg"
+            "main_cover": "https://cover.openbd.jp/9784502394812.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16870497/"
         },
         {
             "isbn": "9784830041433",
@@ -1290,313 +1771,8 @@
             "contributor": "北柴　大泰/西尾　剛",
             "contributor_collation_key": "キタシバ　ヒロヤス/ニシオ　ツヨシ",
             "imprint": "文永堂出版",
-            "main_cover": "https://cover.openbd.jp/9784830041433.jpg"
-        },
-        {
-            "isbn": "9784750352268",
-            "title": "交通・都市計画のQOL主流化",
-            "title_collation_key": "コウツウトシケイカクノキューオーエルシュリュウカ",
-            "contributor": "林　良嗣/森田　紘圭",
-            "contributor_collation_key": "ハヤシ ヨシツグ/モリタ ヒロヨシ",
-            "imprint": "明石書店",
-            "main_cover": "https://cover.openbd.jp/9784750352268.jpg"
-        },
-        {
-            "isbn": "9784408339788",
-            "title": "妙な線路大研究　首都圏篇",
-            "title_collation_key": "ミョウナセンロダイケンキュウシュトケンヘン",
-            "contributor": "竹内 正浩",
-            "contributor_collation_key": "タケウチ マサヒロ",
-            "imprint": "実業之日本社",
-            "main_cover": "https://cover.openbd.jp/9784408339788.jpg"
-        },
-        {
-            "isbn": "9784840660518",
-            "title": "宇治堀家文書",
-            "title_collation_key": "ウジホリケモンジョ",
-            "contributor": "橋本素子/角田朋彦",
-            "contributor_collation_key": "ハシモトモトコ/ツノダトモヒコ",
-            "imprint": "八木書店出版部",
-            "main_cover": "https://cover.openbd.jp/9784840660518.jpg"
-        },
-        {
-            "isbn": "9784806519690",
-            "title": "令和3年度版　現行輸入制度一覧",
-            "title_collation_key": "ゲンコウユニュウセイドイチランレイワサンネンバン",
-            "contributor": "経済産業調査会",
-            "contributor_collation_key": "ケイザイサンギョウチョウサカイ",
-            "imprint": "経済産業調査会",
-            "main_cover": "https://cover.openbd.jp/9784806519690.jpg"
-        },
-        {
-            "isbn": "9784478114223",
-            "title": "業績爆上げコンサルタントのノウハウを全公開 営業の新PDCA大全",
-            "title_collation_key": "スウジバクアゲコンサルタントノホウハウヲゼンコウカイ　エイギョウノシンピーディーシーエータイゼン",
-            "contributor": "藤本篤志",
-            "contributor_collation_key": "フジモトアツシ",
-            "imprint": "ダイヤモンド社",
-            "main_cover": "https://cover.openbd.jp/9784478114223.jpg"
-        },
-        {
-            "isbn": "9784297122959",
-            "title": "Uber Eatsウーバーイーツ　副業で月収10 万円",
-            "title_collation_key": "ウーバーイーツフクギョウデゲッシュウジュウマンエン",
-            "contributor": "近藤寛",
-            "contributor_collation_key": "コンドウヒロシ",
-            "imprint": "技術評論社",
-            "main_cover": "https://cover.openbd.jp/9784297122959.jpg"
-        },
-        {
-            "isbn": "9784529060714",
-            "title": "私の花生活（No．103）",
-            "title_collation_key": "ワタシ ノ ハナ セイカツ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "日本ヴォーグ社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784594088309",
-            "title": "コロナ禍を生き抜くタクシー業界サバイバル",
-            "title_collation_key": "コロナカヲイキヌクタクシーギョウカイサバイバル",
-            "contributor": "栗田シメイ",
-            "contributor_collation_key": "クリタシメイ",
-            "imprint": "扶桑社",
-            "main_cover": "https://cover.openbd.jp/9784594088309.jpg"
-        },
-        {
-            "isbn": "9784897324425",
-            "title": "中国農業経営制度",
-            "title_collation_key": "チュウゴク ノウギョウ ケイエイ セイド",
-            "contributor": "羅必良/徐哲根",
-            "contributor_collation_key": "ラ,ヒツリョウ/ジョ,テッコン",
-            "imprint": "農林統計出版",
-            "main_cover": "https://cover.openbd.jp/9784897324425.jpg"
-        },
-        {
-            "isbn": "9784864341448",
-            "title": "流通・マーケティング基礎理論",
-            "title_collation_key": "リュウツウ マーケティング キソ リロン",
-            "contributor": "伊部泰弘/松井温文",
-            "contributor_collation_key": "イベ,ヤスヒロ/マツイ,アツフミ",
-            "imprint": "五絃舎",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784814368075",
-            "title": "BD＞シーサイドライナーキハ66・67形／YC1系",
-            "title_collation_key": "シーサイド ライナー キハ ロクジュウロク ロクジュウナナケイ ワイシー イチケイ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ビコム",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784541043399",
-            "title": "農政トライアングルの崩壊と官邸主導型農政改革",
-            "title_collation_key": "ノウセイ トライアングル ノ ホウカイ ト カンテイ シュドウガタ ノウセイ カイカ",
-            "contributor": "作山巧",
-            "contributor_collation_key": "サクヤマ,タクミ",
-            "imprint": "農林統計協会",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784809099243",
-            "title": "月刊交通（2021年9月号）",
-            "title_collation_key": "ゲッカン コウツウ",
-            "contributor": "道路交通研究会",
-            "contributor_collation_key": "ドウロ コウツウ ケンキュウカイ",
-            "imprint": "東京法令出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784814338351",
-            "title": "DVD＞大井川鐵道大井川本線",
-            "title_collation_key": "オオイカワ テツドウ オオイカワ ホンセン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ビコム",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784324109434",
-            "title": "交通事故民事裁判例集（第53巻　第4号）",
-            "title_collation_key": "コウツウ ジコ ミンジ サイバンレイシュウ",
-            "contributor": "不法行為法研究会",
-            "contributor_collation_key": "フホウ コウイホウ ケンキュウカイ",
-            "imprint": "ぎょうせい",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784886945112",
-            "title": "森林総合科学用語辞典第四版",
-            "title_collation_key": "シンリン ソウゴウ カガク ヨウゴ ジテン",
-            "contributor": "関岡東生",
-            "contributor_collation_key": "セキオカ,ハルオ",
-            "imprint": "東京農業大学出版会",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784905217947",
-            "title": "季刊電力人事（No．236（2021秋季版））",
-            "title_collation_key": "キカン デンリョク ジンジ",
-            "contributor": "電気新聞メディア事業局",
-            "contributor_collation_key": "デンキ シンブン メディア ジギョウキョク",
-            "imprint": "日本電気協会新聞部",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784541043368",
-            "title": "青果物卸売市場調査報告（令和元年）",
-            "title_collation_key": "セイカブツ オロシウリ シジョウ チョウサ ホウコク",
-            "contributor": "農林水産省大臣官房統計部",
-            "contributor_collation_key": "ノウリン スイサンショウ ダイジン カンボウ トウケイ",
-            "imprint": "農林統計協会",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784814348848",
-            "title": "DVD＞全国縦断！キハ40系と国鉄形気動車（4）",
-            "title_collation_key": "ゼンコク ジュウダン キハ ヨンジュッケイ ト コクテツケイ キドウシャ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ビコム",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784814368068",
-            "title": "BD＞大井川鐵道大井川本線",
-            "title_collation_key": "オオイカワ テツドウ オオイカワ ホンセン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ビコム",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784890222827",
-            "title": "今日、不可能でも明日可能になる。",
-            "title_collation_key": "キョウ フカノウ デモ アス カノウ ニ ナル",
-            "contributor": "木野将徳/鈴木たつお",
-            "contributor_collation_key": "キノ,マサノリ/スズキ,タツオ",
-            "imprint": "日本地域社会研究所",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784330041216",
-            "title": "でんしゃだいすき！こどもカレンダー（2022）",
-            "title_collation_key": "デンシャ ダイスキ コドモ カレンダー",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "交通新聞社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784888941938",
-            "title": "数字でみる観光（2021年度版）",
-            "title_collation_key": "スウジ デ ミル カンコウ",
-            "contributor": "日本観光振興協会",
-            "contributor_collation_key": "ニホン カンコウ シンコウ キョウカイ",
-            "imprint": "日本観光振興協会",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784904890516",
-            "title": "有力企業の広告宣伝費（2021年版）",
-            "title_collation_key": "ユウリョク キギョウ ノ コウコク センデンヒ",
-            "contributor": "日経広告研究所",
-            "contributor_collation_key": "ニッケイ コウコク ケンキュウジョ",
-            "imprint": "日経広告研究所",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784330042213",
-            "title": "新幹線卓上カレンダー（2022）",
-            "title_collation_key": "シンカンセン タクジョウ カレンダー",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "交通新聞社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784046806857",
-            "title": "秘密のバルコニーガーデン 12カ月の愉しみ方・育て方",
-            "title_collation_key": "ヒミツノバルコニーガーデン ジュウニカゲツノタノシミカタソダテカタ",
-            "contributor": "松本　路子",
-            "contributor_collation_key": "マツモト　ミチコ",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784046806857.jpg"
-        },
-        {
-            "isbn": "9784866072029",
-            "title": "365日日本一周鉄道の旅",
-            "title_collation_key": "サンビャクロクジュウゴニチニホンイッシュウテツドウノタビ",
-            "contributor": "蜂谷 あす美",
-            "contributor_collation_key": "ハチヤ アスミ",
-            "imprint": "いろは出版",
-            "main_cover": "https://cover.openbd.jp/9784866072029.jpg"
-        },
-        {
-            "isbn": "9784897324463",
-            "title": "野菜価格安定制度と野菜産地の進展",
-            "title_collation_key": "ヤサイ カカク アンテイ セイド ト ヤサイ サンチ ノ シンテン",
-            "contributor": "農畜産業振興機構",
-            "contributor_collation_key": "ノウチク サンギョウ シンコウ キコウ",
-            "imprint": "農林統計出版",
-            "main_cover": "https://cover.openbd.jp/9784897324463.jpg"
-        },
-        {
-            "isbn": "9784330037219",
-            "title": "新幹線カレンダー（2022）",
-            "title_collation_key": "シンカンセン カレンダー",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "交通新聞社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784908657665",
-            "title": "農業経営者（No．306（2021　9））",
-            "title_collation_key": "ノウギョウ ケイエイシャ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "農業技術通信社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784330040219",
-            "title": "栄光の名列車カレンダー（2022）",
-            "title_collation_key": "エイコウ ノ メイレッシャ カレンダー",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "交通新聞社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784863164222",
-            "title": "W＞日刊自動車新聞縮刷版（2021　8）",
-            "title_collation_key": "ニッカン ジドウシャ シンブン シュクサツバン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "日刊自動車新聞社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784991097751",
-            "title": "生活行動カレンダー（’22）",
-            "title_collation_key": "セイカツ コウドウ カレンダー",
-            "contributor": "クレオ生活行動研究部",
-            "contributor_collation_key": "クレオ セイカツ コウドウ ケンキュウブ",
-            "imprint": "KREO",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784407350319",
-            "title": "全商商業経済検定模擬試験問題集3級ビジネス基礎（令和3年度版）",
-            "title_collation_key": "ゼンショウ ショウギョウ ケイザイ ケンテイ モギ シケン モンダイシュウ サン",
-            "contributor": "実教出版編修部",
-            "contributor_collation_key": "ジッキョウ シュッパン ヘンシュウブ",
-            "imprint": "実教出版",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784830041433.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16859200/"
         }
     ]
 }
