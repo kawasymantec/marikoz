@@ -15,13 +15,84 @@
     ],
     "books": [
         {
+            "isbn": "9784907766450",
+            "title": "あげなどげな（第20号）",
+            "title_collation_key": "アゲナ ドゲナ",
+            "contributor": "あげなどげな編集部",
+            "contributor_collation_key": "アゲナ ドゲナ ヘンシュウブ",
+            "imprint": "中南米マガジン",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16917679/"
+        },
+        {
+            "isbn": "9784533145780",
+            "title": "ココミル長野 小布施 戸隠 湯田中渋温泉郷",
+            "title_collation_key": "ココミルナガノオブセトガクシユダナカシブオンセンキョウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784533145780.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767568/"
+        },
+        {
+            "isbn": "9784533145797",
+            "title": "ココミル 湯布院 別府 阿蘇 黒川温泉",
+            "title_collation_key": "ココミルユフインベップアソクロカワオンセン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784533145797.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767566/"
+        },
+        {
+            "isbn": "9784398295095",
+            "title": "まっぷる 温泉やど 関西",
+            "title_collation_key": "マップル オンセンヤド カンサイ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398295095.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769900/"
+        },
+        {
+            "isbn": "9784864932363",
+            "title": "JEEP　STYLE　BOOK（2021　SUMMER）",
+            "title_collation_key": "ジープ スタイル ブック",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "マガジン大地",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16832577/"
+        },
+        {
+            "isbn": "9784533145940",
+            "title": "るるぶ　ゆるキャン△ SEASON2",
+            "title_collation_key": "ルルブユルキャンシーズンツー",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784533145940.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16782562/"
+        },
+        {
             "isbn": "9784398295040",
             "title": "まっぷる 超詳細！京都さんぽ地図",
             "title_collation_key": "マップル チョウショウサイキョウトサンポチズ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398295040.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398295040.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769897/"
+        },
+        {
+            "isbn": "9784398295101",
+            "title": "まっぷる 温泉やど 九州",
+            "title_collation_key": "マップル オンセンヤド キュウシュウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398295101.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769502/"
         },
         {
             "isbn": "9784398295033",
@@ -30,16 +101,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398295033.jpg"
-        },
-        {
-            "isbn": "9784533145957",
-            "title": "脳内＆リアルに楽しむ！達人が教える鉄道旅",
-            "title_collation_key": "ノウナイアンドリアルニタノシムタツジンタチガオシエルテツドウタビ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145957.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398295033.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16795959/"
         },
         {
             "isbn": "9784022783264",
@@ -48,7 +111,8 @@
             "contributor": "朝日新聞出版",
             "contributor_collation_key": "アサヒシンブンシュッパン",
             "imprint": "朝日新聞出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16777042/"
         },
         {
             "isbn": "9784398295057",
@@ -57,7 +121,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398295057.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398295057.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769896/"
         },
         {
             "isbn": "9784533145933",
@@ -66,7 +131,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145933.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145933.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767593/"
         },
         {
             "isbn": "9784533145766",
@@ -75,7 +141,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145766.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145766.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767567/"
         },
         {
             "isbn": "9784533145964",
@@ -84,25 +151,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145964.jpg"
-        },
-        {
-            "isbn": "9784802210478",
-            "title": "東京で台湾さんぽ",
-            "title_collation_key": "トウキョウデタイワンサンポ",
-            "contributor": "矢巻美穂",
-            "contributor_collation_key": "",
-            "imprint": "イカロス出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784768459027",
-            "title": "ぶらりユーラシア",
-            "title_collation_key": "ブラリユーラシア",
-            "contributor": "大木茂",
-            "contributor_collation_key": "オオキシゲル",
-            "imprint": "現代書館",
-            "main_cover": "https://cover.openbd.jp/9784768459027.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145964.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767585/"
         },
         {
             "isbn": "9784073425519",
@@ -111,7 +161,18 @@
             "contributor": "中國紀行CKRM編集部",
             "contributor_collation_key": "チュウゴクキコウシーケーアールエムヘンシュウブ",
             "imprint": "主婦の友社",
-            "main_cover": "https://cover.openbd.jp/9784073425519.jpg"
+            "main_cover": "https://cover.openbd.jp/9784073425519.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16789853/"
+        },
+        {
+            "isbn": "9784768459027",
+            "title": "ぶらりユーラシア",
+            "title_collation_key": "ブラリユーラシア",
+            "contributor": "大木茂",
+            "contributor_collation_key": "オオキシゲル",
+            "imprint": "現代書館",
+            "main_cover": "https://cover.openbd.jp/9784768459027.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16761357/"
         },
         {
             "isbn": "9784533145971",
@@ -120,7 +181,18 @@
             "contributor": "梅林秀行",
             "contributor_collation_key": "ウメバヤシヒデユキ",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145971.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145971.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767587/"
+        },
+        {
+            "isbn": "9784802210478",
+            "title": "東京で台湾さんぽ",
+            "title_collation_key": "トウキョウデタイワンサンポ",
+            "contributor": "矢巻美穂",
+            "contributor_collation_key": "",
+            "imprint": "イカロス出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16768290/"
         },
         {
             "isbn": "9784865988734",
@@ -129,16 +201,8 @@
             "contributor": "伊原　薫",
             "contributor_collation_key": "イハラ　カオル",
             "imprint": "アルファベータブックス",
-            "main_cover": "https://cover.openbd.jp/9784865988734.jpg"
-        },
-        {
-            "isbn": "9784058016589",
-            "title": "aruco　東京",
-            "title_collation_key": "アルコ　トウキョウ",
-            "contributor": "地球の歩き方編集室",
-            "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
-            "imprint": "地球の歩き方",
-            "main_cover": "https://cover.openbd.jp/9784058016589.jpg"
+            "main_cover": "https://cover.openbd.jp/9784865988734.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16802383/"
         },
         {
             "isbn": "9784058016534",
@@ -147,7 +211,8 @@
             "contributor": "地球の歩き方編集室",
             "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
             "imprint": "地球の歩き方",
-            "main_cover": "https://cover.openbd.jp/9784058016534.jpg"
+            "main_cover": "https://cover.openbd.jp/9784058016534.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16744651/"
         },
         {
             "isbn": "9784058016558",
@@ -156,16 +221,18 @@
             "contributor": "地球の歩き方編集室",
             "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
             "imprint": "地球の歩き方",
-            "main_cover": "https://cover.openbd.jp/9784058016558.jpg"
+            "main_cover": "https://cover.openbd.jp/9784058016558.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16744649/"
         },
         {
-            "isbn": "9784058016565",
-            "title": "aruco　東京で楽しむ韓国",
-            "title_collation_key": "アルコ　トウキョウデタノシムカンコク",
+            "isbn": "9784058016589",
+            "title": "aruco　東京",
+            "title_collation_key": "アルコ　トウキョウ",
             "contributor": "地球の歩き方編集室",
             "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
             "imprint": "地球の歩き方",
-            "main_cover": "https://cover.openbd.jp/9784058016565.jpg"
+            "main_cover": "https://cover.openbd.jp/9784058016589.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16744648/"
         },
         {
             "isbn": "9784058016541",
@@ -174,7 +241,18 @@
             "contributor": "地球の歩き方編集室",
             "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
             "imprint": "地球の歩き方",
-            "main_cover": "https://cover.openbd.jp/9784058016541.jpg"
+            "main_cover": "https://cover.openbd.jp/9784058016541.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16744652/"
+        },
+        {
+            "isbn": "9784058016565",
+            "title": "aruco　東京で楽しむ韓国",
+            "title_collation_key": "アルコ　トウキョウデタノシムカンコク",
+            "contributor": "地球の歩き方編集室",
+            "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
+            "imprint": "地球の歩き方",
+            "main_cover": "https://cover.openbd.jp/9784058016565.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16744650/"
         },
         {
             "isbn": "9784533145582",
@@ -183,7 +261,8 @@
             "contributor": "遠山健太",
             "contributor_collation_key": "トオヤマケンタ",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145582.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145582.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767631/"
         },
         {
             "isbn": "9784058016572",
@@ -192,7 +271,8 @@
             "contributor": "地球の歩き方編集室",
             "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
             "imprint": "地球の歩き方",
-            "main_cover": "https://cover.openbd.jp/9784058016572.jpg"
+            "main_cover": "https://cover.openbd.jp/9784058016572.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16744647/"
         },
         {
             "isbn": "9784837613954",
@@ -201,61 +281,8 @@
             "contributor": "スーツ",
             "contributor_collation_key": "スーツ",
             "imprint": "マキノ出版",
-            "main_cover": "https://cover.openbd.jp/9784837613954.jpg"
-        },
-        {
-            "isbn": "9784908627743",
-            "title": "伝承地でたどる ヤマトタケルの足跡",
-            "title_collation_key": "デンショウチデタドル ヤマトタケルノソクセキ",
-            "contributor": "竹田 繁良",
-            "contributor_collation_key": "タケダ シゲヨシ",
-            "imprint": "人間社",
-            "main_cover": "https://cover.openbd.jp/9784908627743.jpg"
-        },
-        {
-            "isbn": "9784813294542",
-            "title": "おとな旅プレミアム　飛騨高山・白川郷　飛騨古川・下呂温泉　第3版",
-            "title_collation_key": "オトナタビプレミアム ヒダタカヤマ・シラカワゴウ ヒダフルカワ・ゲロオンセン ダイ3ハン",
-            "contributor": "TAC出版編集部",
-            "contributor_collation_key": "TACシュッパンヘンシュウブ",
-            "imprint": "TAC出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784398630629",
-            "title": "県別マップル 福岡県道路地図",
-            "title_collation_key": "ケンベツマップル フクオカケンドウロチズ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398630629.jpg"
-        },
-        {
-            "isbn": "9784398630544",
-            "title": "県別マップル 奈良県道路地図",
-            "title_collation_key": "ケンベツマップル ナラケンドウロチズ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398630544.jpg"
-        },
-        {
-            "isbn": "9784398147608",
-            "title": "北海道・北東北の縄文遺跡群を旅するガイド",
-            "title_collation_key": "ホッカイドウキタトウホクノジョウモンイセキグンヲタビスルガイド",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398147608.jpg"
-        },
-        {
-            "isbn": "9784813294528",
-            "title": "おとな旅プレミアム　上高地・安曇野　黒部・松本　第3版",
-            "title_collation_key": "オトナタビプレミアム カミコウチ・アズミノ クロベ・マツモト ダイ3ハン",
-            "contributor": "TAC出版編集部",
-            "contributor_collation_key": "TACシュッパンヘンシュウブ",
-            "imprint": "TAC出版",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784837613954.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16754770/"
         },
         {
             "isbn": "9784813294412",
@@ -264,25 +291,18 @@
             "contributor": "TAC出版編集部",
             "contributor_collation_key": "TACシュッパンヘンシュウブ",
             "imprint": "TAC出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16770022/"
         },
         {
-            "isbn": "9784813294511",
-            "title": "おとな旅プレミアム　河口湖・山中湖　富士山　第3版",
-            "title_collation_key": "オトナタビプレミアム カワグチコ・ヤマナカコ フジサン ダイ3ハン",
-            "contributor": "TAC出版編集部",
-            "contributor_collation_key": "TACシュッパンヘンシュウブ",
-            "imprint": "TAC出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784398603999",
-            "title": "ライトマップル 静岡県道路地図",
-            "title_collation_key": "ライトマップル シズオカケンドウロチズ",
+            "isbn": "9784398630629",
+            "title": "県別マップル 福岡県道路地図",
+            "title_collation_key": "ケンベツマップル フクオカケンドウロチズ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398603999.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398630629.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769799/"
         },
         {
             "isbn": "9784813294481",
@@ -291,43 +311,78 @@
             "contributor": "TAC出版編集部",
             "contributor_collation_key": "TACシュッパンヘンシュウブ",
             "imprint": "TAC出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16770023/"
         },
         {
-            "isbn": "9784398630490",
-            "title": "県別マップル 静岡県道路地図",
-            "title_collation_key": "ケンベツマップル シズオカケンドウロチズ",
+            "isbn": "9784398147608",
+            "title": "北海道・北東北の縄文遺跡群を旅するガイド",
+            "title_collation_key": "ホッカイドウキタトウホクノジョウモンイセキグンヲタビスルガイド",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398630490.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398147608.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769773/"
         },
         {
-            "isbn": "9784813294429",
-            "title": "おとな旅プレミアム　十和田湖・奥入瀬　盛岡・遠野・角館　第3版",
-            "title_collation_key": "オトナタビプレミアム トワダコ・オイラセ モリオカ・トオノ・カクノダテ ダイ3ハン",
+            "isbn": "9784908627743",
+            "title": "伝承地でたどる ヤマトタケルの足跡",
+            "title_collation_key": "デンショウチデタドル ヤマトタケルノソクセキ",
+            "contributor": "竹田 繁良",
+            "contributor_collation_key": "タケダ シゲヨシ",
+            "imprint": "人間社",
+            "main_cover": "https://cover.openbd.jp/9784908627743.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16759758/"
+        },
+        {
+            "isbn": "9784813294542",
+            "title": "おとな旅プレミアム　飛騨高山・白川郷　飛騨古川・下呂温泉　第3版",
+            "title_collation_key": "オトナタビプレミアム ヒダタカヤマ・シラカワゴウ ヒダフルカワ・ゲロオンセン ダイ3ハン",
             "contributor": "TAC出版編集部",
             "contributor_collation_key": "TACシュッパンヘンシュウブ",
             "imprint": "TAC出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16770019/"
         },
         {
-            "isbn": "9784813294641",
-            "title": "おとな旅プレミアム　萩・津和野　下関・門司　第3版",
-            "title_collation_key": "オトナタビプレミアム ハギ・ツワノ シモノセキ・モジ ダイ3ハン",
+            "isbn": "9784813294511",
+            "title": "おとな旅プレミアム　河口湖・山中湖　富士山　第3版",
+            "title_collation_key": "オトナタビプレミアム カワグチコ・ヤマナカコ フジサン ダイ3ハン",
             "contributor": "TAC出版編集部",
             "contributor_collation_key": "TACシュッパンヘンシュウブ",
             "imprint": "TAC出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16770018/"
         },
         {
-            "isbn": "9784813294467",
-            "title": "おとな旅プレミアム　横浜　第3版",
-            "title_collation_key": "オトナタビプレミアム ヨコハマ ダイ3ハン",
+            "isbn": "9784813294528",
+            "title": "おとな旅プレミアム　上高地・安曇野　黒部・松本　第3版",
+            "title_collation_key": "オトナタビプレミアム カミコウチ・アズミノ クロベ・マツモト ダイ3ハン",
             "contributor": "TAC出版編集部",
             "contributor_collation_key": "TACシュッパンヘンシュウブ",
             "imprint": "TAC出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16770017/"
+        },
+        {
+            "isbn": "9784398630544",
+            "title": "県別マップル 奈良県道路地図",
+            "title_collation_key": "ケンベツマップル ナラケンドウロチズ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398630544.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769513/"
+        },
+        {
+            "isbn": "9784398603999",
+            "title": "ライトマップル 静岡県道路地図",
+            "title_collation_key": "ライトマップル シズオカケンドウロチズ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398603999.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769821/"
         },
         {
             "isbn": "9784398604125",
@@ -336,7 +391,38 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398604125.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398604125.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769777/"
+        },
+        {
+            "isbn": "9784398630490",
+            "title": "県別マップル 静岡県道路地図",
+            "title_collation_key": "ケンベツマップル シズオカケンドウロチズ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398630490.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769774/"
+        },
+        {
+            "isbn": "9784813294641",
+            "title": "おとな旅プレミアム　萩・津和野　下関・門司　第3版",
+            "title_collation_key": "オトナタビプレミアム ハギ・ツワノ シモノセキ・モジ ダイ3ハン",
+            "contributor": "TAC出版編集部",
+            "contributor_collation_key": "TACシュッパンヘンシュウブ",
+            "imprint": "TAC出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16770035/"
+        },
+        {
+            "isbn": "9784813294429",
+            "title": "おとな旅プレミアム　十和田湖・奥入瀬　盛岡・遠野・角館　第3版",
+            "title_collation_key": "オトナタビプレミアム トワダコ・オイラセ モリオカ・トオノ・カクノダテ ダイ3ハン",
+            "contributor": "TAC出版編集部",
+            "contributor_collation_key": "TACシュッパンヘンシュウブ",
+            "imprint": "TAC出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16770027/"
         },
         {
             "isbn": "9784398604040",
@@ -345,7 +431,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398604040.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398604040.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769759/"
+        },
+        {
+            "isbn": "9784813294467",
+            "title": "おとな旅プレミアム　横浜　第3版",
+            "title_collation_key": "オトナタビプレミアム ヨコハマ ダイ3ハン",
+            "contributor": "TAC出版編集部",
+            "contributor_collation_key": "TACシュッパンヘンシュウブ",
+            "imprint": "TAC出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16770024/"
         },
         {
             "isbn": "9784023347083",
@@ -354,7 +451,8 @@
             "contributor": "朝日新聞出版",
             "contributor_collation_key": "アサヒシンブンシュッパン",
             "imprint": "朝日新聞出版",
-            "main_cover": "https://cover.openbd.jp/9784023347083.jpg"
+            "main_cover": "https://cover.openbd.jp/9784023347083.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16774512/"
         },
         {
             "isbn": "9784802132749",
@@ -363,7 +461,8 @@
             "contributor": "三好好三",
             "contributor_collation_key": "ミヨシ　ヨシゾウ",
             "imprint": "フォト・パブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784802132749.jpg"
+            "main_cover": "https://cover.openbd.jp/9784802132749.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16790033/"
         },
         {
             "isbn": "9784908627736",
@@ -372,7 +471,8 @@
             "contributor": "竹田 繁良",
             "contributor_collation_key": "タケダ シゲヨシ",
             "imprint": "人間社",
-            "main_cover": "https://cover.openbd.jp/9784908627736.jpg"
+            "main_cover": "https://cover.openbd.jp/9784908627736.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16759751/"
         },
         {
             "isbn": "9784418215041",
@@ -381,43 +481,8 @@
             "contributor": "櫻井 寛",
             "contributor_collation_key": "サクライ カン",
             "imprint": "株式会社 世界文化社",
-            "main_cover": "https://cover.openbd.jp/9784418215041.jpg"
-        },
-        {
-            "isbn": "9784398765543",
-            "title": "地方図 中部全図",
-            "title_collation_key": "チホウズ チュウブゼンズ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398765543.jpg"
-        },
-        {
-            "isbn": "9784398961501",
-            "title": "都市地図埼玉県 三郷・八潮市",
-            "title_collation_key": "トシチズサイタマケン ミサトヤシオシ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398961501.jpg"
-        },
-        {
-            "isbn": "9784398908810",
-            "title": "都市地図茨城県 笠間・桜川市",
-            "title_collation_key": "トシチズイバラキケン カサマサクラガワシ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398908810.jpg"
-        },
-        {
-            "isbn": "9784408057637",
-            "title": "てくてく歩き22琵琶湖・近江路",
-            "title_collation_key": "テクテクアルキニジュウニビワコオウミジ",
-            "contributor": "ブルーガイド編集部",
-            "contributor_collation_key": "ブルーガイドヘンシュウブ",
-            "imprint": "実業之日本社",
-            "main_cover": "https://cover.openbd.jp/9784408057637.jpg"
+            "main_cover": "https://cover.openbd.jp/9784418215041.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16758558/"
         },
         {
             "isbn": "9784058016510",
@@ -426,43 +491,48 @@
             "contributor": "地球の歩き方編集室",
             "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
             "imprint": "地球の歩き方",
-            "main_cover": "https://cover.openbd.jp/9784058016510.jpg"
+            "main_cover": "https://cover.openbd.jp/9784058016510.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16744640/"
         },
         {
-            "isbn": "9784398765550",
-            "title": "地方図 近畿全図",
-            "title_collation_key": "チホウズ キンキゼンズ",
+            "isbn": "9784408057637",
+            "title": "てくてく歩き22琵琶湖・近江路",
+            "title_collation_key": "テクテクアルキニジュウニビワコオウミジ",
+            "contributor": "ブルーガイド編集部",
+            "contributor_collation_key": "ブルーガイドヘンシュウブ",
+            "imprint": "実業之日本社",
+            "main_cover": "https://cover.openbd.jp/9784408057637.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16717889/"
+        },
+        {
+            "isbn": "9784398961501",
+            "title": "都市地図埼玉県 三郷・八潮市",
+            "title_collation_key": "トシチズサイタマケン ミサトヤシオシ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398765550.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398961501.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769904/"
         },
         {
-            "isbn": "9784398925619",
-            "title": "都市地図滋賀県 守山・野洲市",
-            "title_collation_key": "トシチズシガケン モリヤマヤスシ",
+            "isbn": "9784398908810",
+            "title": "都市地図茨城県 笠間・桜川市",
+            "title_collation_key": "トシチズイバラキケン カサマサクラガワシ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398925619.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398908810.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769497/"
         },
         {
-            "isbn": "9784398924292",
-            "title": "都市地図三重県 鳥羽・志摩市",
-            "title_collation_key": "トシチズミエケン トバシマシ",
+            "isbn": "9784398765543",
+            "title": "地方図 中部全図",
+            "title_collation_key": "チホウズ チュウブゼンズ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398924292.jpg"
-        },
-        {
-            "isbn": "9784398720573",
-            "title": "国旗入り世界全図",
-            "title_collation_key": "コッキイリセカイゼンズ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398720573.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398765543.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769776/"
         },
         {
             "isbn": "9784408057620",
@@ -471,16 +541,48 @@
             "contributor": "ブルーガイド編集部",
             "contributor_collation_key": "ブルーガイドヘンシュウブ",
             "imprint": "実業之日本社",
-            "main_cover": "https://cover.openbd.jp/9784408057620.jpg"
+            "main_cover": "https://cover.openbd.jp/9784408057620.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16717888/"
         },
         {
-            "isbn": "9784398155528",
-            "title": "ことりっぷ 長崎 ハウステンボス・五島列島",
-            "title_collation_key": "コトリップ ナガサキ ハウステンボスゴトウレットウ",
+            "isbn": "9784398720573",
+            "title": "国旗入り世界全図",
+            "title_collation_key": "コッキイリセカイゼンズ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398155528.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398720573.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769751/"
+        },
+        {
+            "isbn": "9784398924292",
+            "title": "都市地図三重県 鳥羽・志摩市",
+            "title_collation_key": "トシチズミエケン トバシマシ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398924292.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769835/"
+        },
+        {
+            "isbn": "9784398925619",
+            "title": "都市地図滋賀県 守山・野洲市",
+            "title_collation_key": "トシチズシガケン モリヤマヤスシ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398925619.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769837/"
+        },
+        {
+            "isbn": "9784398765550",
+            "title": "地方図 近畿全図",
+            "title_collation_key": "チホウズ キンキゼンズ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398765550.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769775/"
         },
         {
             "isbn": "9784398155504",
@@ -489,16 +591,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398155504.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398155504.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769853/"
         },
         {
-            "isbn": "9784398155771",
-            "title": "ことりっぷ 淡路島・鳴門",
-            "title_collation_key": "コトリップ アワジシマナルト",
+            "isbn": "9784398155528",
+            "title": "ことりっぷ 長崎 ハウステンボス・五島列島",
+            "title_collation_key": "コトリップ ナガサキ ハウステンボスゴトウレットウ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398155771.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398155528.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769854/"
         },
         {
             "isbn": "9784398155542",
@@ -507,7 +611,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398155542.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398155542.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769857/"
         },
         {
             "isbn": "9784058016527",
@@ -516,25 +621,18 @@
             "contributor": "地球の歩き方編集室",
             "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
             "imprint": "地球の歩き方",
-            "main_cover": "https://cover.openbd.jp/9784058016527.jpg"
+            "main_cover": "https://cover.openbd.jp/9784058016527.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16744642/"
         },
         {
-            "isbn": "9784874356531",
-            "title": "京阪神から行く 絶景とおいしいドライブ",
-            "title_collation_key": "ケイハンシンカライクゼッケイトオイシイドライブ",
+            "isbn": "9784398155771",
+            "title": "ことりっぷ 淡路島・鳴門",
+            "title_collation_key": "コトリップ アワジシマナルト",
             "contributor": "",
             "contributor_collation_key": "",
-            "imprint": "京阪神エルマガジン社",
-            "main_cover": "https://cover.openbd.jp/9784874356531.jpg"
-        },
-        {
-            "isbn": "9784299019165",
-            "title": "奇跡の瞬間! 空の絶景100選",
-            "title_collation_key": "キセキノシュンカンソラノゼッケイヒャクセン",
-            "contributor": "佐々木 恭子",
-            "contributor_collation_key": "ササキ キョウコ",
-            "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299019165.jpg"
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398155771.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769746/"
         },
         {
             "isbn": "9784533145926",
@@ -543,16 +641,28 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145926.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145926.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767592/"
         },
         {
-            "isbn": "9784065226377",
-            "title": "東京ディズニーリゾート　行くまえに！　知っとくガイド2022",
-            "title_collation_key": "トウキョウディズニーリゾートイクマエニ!シットクガイド2022",
-            "contributor": "講談社",
-            "contributor_collation_key": "コウダンシャ",
-            "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065226377.jpg"
+            "isbn": "9784874356531",
+            "title": "京阪神から行く 絶景とおいしいドライブ",
+            "title_collation_key": "ケイハンシンカライクゼッケイトオイシイドライブ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "京阪神エルマガジン社",
+            "main_cover": "https://cover.openbd.jp/9784874356531.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16776670/"
+        },
+        {
+            "isbn": "9784299019165",
+            "title": "奇跡の瞬間! 空の絶景100選",
+            "title_collation_key": "キセキノシュンカンソラノゼッケイヒャクセン",
+            "contributor": "佐々木 恭子",
+            "contributor_collation_key": "ササキ キョウコ",
+            "imprint": "宝島社",
+            "main_cover": "https://cover.openbd.jp/9784299019165.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16763424/"
         },
         {
             "isbn": "9784533145919",
@@ -561,7 +671,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145919.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145919.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767595/"
+        },
+        {
+            "isbn": "9784065226377",
+            "title": "東京ディズニーリゾート　行くまえに！　知っとくガイド2022",
+            "title_collation_key": "トウキョウディズニーリゾートイクマエニ!シットクガイド2022",
+            "contributor": "講談社",
+            "contributor_collation_key": "コウダンシャ",
+            "imprint": "講談社",
+            "main_cover": "https://cover.openbd.jp/9784065226377.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16751868/"
         },
         {
             "isbn": "9784398295071",
@@ -570,7 +691,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398295071.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398295071.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769902/"
         },
         {
             "isbn": "9784299018823",
@@ -579,7 +701,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299018823.jpg"
+            "main_cover": "https://cover.openbd.jp/9784299018823.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16763422/"
         },
         {
             "isbn": "9784398295088",
@@ -588,7 +711,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398295088.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398295088.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769901/"
         },
         {
             "isbn": "9784398294883",
@@ -597,7 +721,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294883.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398294883.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769801/"
         },
         {
             "isbn": "9784767828909",
@@ -606,7 +731,8 @@
             "contributor": "菅野 裕子/恩田 陸",
             "contributor_collation_key": "スゲノユウコ/オンダリク",
             "imprint": "エクスナレッジ",
-            "main_cover": "https://cover.openbd.jp/9784767828909.jpg"
+            "main_cover": "https://cover.openbd.jp/9784767828909.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16775096/"
         },
         {
             "isbn": "9784866365053",
@@ -615,7 +741,8 @@
             "contributor": "standards",
             "contributor_collation_key": "スタンダーズ",
             "imprint": "スタンダーズ",
-            "main_cover": "https://cover.openbd.jp/9784866365053.jpg"
+            "main_cover": "https://cover.openbd.jp/9784866365053.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16763129/"
         },
         {
             "isbn": "9784533145902",
@@ -624,7 +751,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145902.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145902.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767594/"
         },
         {
             "isbn": "9784398295064",
@@ -633,7 +761,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398295064.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398295064.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769903/"
         },
         {
             "isbn": "9784835647517",
@@ -642,7 +771,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ぴあ",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16804873/"
         },
         {
             "isbn": "9784533145889",
@@ -651,7 +781,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145889.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145889.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767557/"
         },
         {
             "isbn": "9784815609924",
@@ -660,16 +791,8 @@
             "contributor": "小林 克己",
             "contributor_collation_key": "コバヤシカツミ",
             "imprint": "SBクリエイティブ",
-            "main_cover": "https://cover.openbd.jp/9784815609924.jpg"
-        },
-        {
-            "isbn": "9784023347069",
-            "title": "日光・那須",
-            "title_collation_key": "ニッコウ・ナス",
-            "contributor": "朝日新聞出版",
-            "contributor_collation_key": "アサヒシンブンシュッパン",
-            "imprint": "朝日新聞出版",
-            "main_cover": "https://cover.openbd.jp/9784023347069.jpg"
+            "main_cover": "https://cover.openbd.jp/9784815609924.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16659104/"
         },
         {
             "isbn": "9784299019219",
@@ -678,7 +801,18 @@
             "contributor": "後藤 治",
             "contributor_collation_key": "ゴトウ オサム",
             "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299019219.jpg"
+            "main_cover": "https://cover.openbd.jp/9784299019219.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16763426/"
+        },
+        {
+            "isbn": "9784023347069",
+            "title": "日光・那須",
+            "title_collation_key": "ニッコウ・ナス",
+            "contributor": "朝日新聞出版",
+            "contributor_collation_key": "アサヒシンブンシュッパン",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://cover.openbd.jp/9784023347069.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16754442/"
         },
         {
             "isbn": "9784533145896",
@@ -687,7 +821,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145896.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145896.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16767558/"
         },
         {
             "isbn": "9784801400870",
@@ -696,16 +831,8 @@
             "contributor": "みっこ",
             "contributor_collation_key": "ミッコ",
             "imprint": "サンクチュアリ出版",
-            "main_cover": "https://cover.openbd.jp/9784801400870.jpg"
-        },
-        {
-            "isbn": "9784533145711",
-            "title": "るるぶ温泉＆宿　東海　信州　飛騨　北陸",
-            "title_collation_key": "ルルブオンセンヤドトウカイシンシュウヒダホクリク",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145711.jpg"
+            "main_cover": "https://cover.openbd.jp/9784801400870.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16742758/"
         },
         {
             "isbn": "9784533145728",
@@ -714,7 +841,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145728.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145728.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741423/"
+        },
+        {
+            "isbn": "9784533145711",
+            "title": "るるぶ温泉＆宿　東海　信州　飛騨　北陸",
+            "title_collation_key": "ルルブオンセンヤドトウカイシンシュウヒダホクリク",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784533145711.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741427/"
         },
         {
             "isbn": "9784575458824",
@@ -723,7 +861,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "双葉社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16762065/"
         },
         {
             "isbn": "9784487815289",
@@ -732,7 +871,8 @@
             "contributor": "岡部 敬史/山出 高士",
             "contributor_collation_key": "オカベ タカシ/ヤマデ タカシ",
             "imprint": "東京書籍",
-            "main_cover": "https://cover.openbd.jp/9784487815289.jpg"
+            "main_cover": "https://cover.openbd.jp/9784487815289.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16769747/"
         },
         {
             "isbn": "9784533145704",
@@ -741,7 +881,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145704.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145704.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741426/"
         },
         {
             "isbn": "9784533145773",
@@ -750,7 +891,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145773.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145773.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741420/"
         },
         {
             "isbn": "9784802132572",
@@ -759,7 +901,8 @@
             "contributor": "小池 隆介",
             "contributor_collation_key": "コイケ リュウスケ",
             "imprint": "フィッシュレコード",
-            "main_cover": "https://cover.openbd.jp/9784802132572.jpg"
+            "main_cover": "https://cover.openbd.jp/9784802132572.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16742566/"
         },
         {
             "isbn": "9784900247086",
@@ -768,7 +911,8 @@
             "contributor": "信長五朗",
             "contributor_collation_key": "ノブナガ,ゴロウ",
             "imprint": "江ノ電沿線新聞社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16844855/"
         },
         {
             "isbn": "9784058016381",
@@ -777,16 +921,8 @@
             "contributor": "地球の歩き方編集室",
             "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
             "imprint": "地球の歩き方",
-            "main_cover": "https://cover.openbd.jp/9784058016381.jpg"
-        },
-        {
-            "isbn": "9784864932431",
-            "title": "軽＆コンパクトキャンピングカー（2021　夏）",
-            "title_collation_key": "ケイ アンド コンパクト キャンピング カー",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "マガジン大地",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784058016381.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16715171/"
         },
         {
             "isbn": "9784864932448",
@@ -795,25 +931,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "エクスクルーシブ",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16794214/"
         },
         {
-            "isbn": "9784081023271",
-            "title": "今日も世界の果てまでひとりっぷ4〜爆バイイング編〜",
-            "title_collation_key": "キョウモセカイノハテマデヒトリップヨン バクバイイングヘン",
+            "isbn": "9784864932431",
+            "title": "軽＆コンパクトキャンピングカー（2021　夏）",
+            "title_collation_key": "ケイ アンド コンパクト キャンピング カー",
             "contributor": "",
             "contributor_collation_key": "",
-            "imprint": "集英社",
-            "main_cover": "https://cover.openbd.jp/9784081023271.jpg"
-        },
-        {
-            "isbn": "9784865988727",
-            "title": "阪神電気鉄道沿線アルバム",
-            "title_collation_key": "ハンシンデンキテツドウエンセンアルバム",
-            "contributor": "辻　良樹",
-            "contributor_collation_key": "ツジ　ヨシキ",
-            "imprint": "アルファベータブックス",
-            "main_cover": "https://cover.openbd.jp/9784865988727.jpg"
+            "imprint": "マガジン大地",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16794173/"
         },
         {
             "isbn": "9784867142387",
@@ -822,25 +951,28 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "メディアソフト",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16793384/"
         },
         {
-            "isbn": "9784398293664",
-            "title": "おとなの温泉宿ベストセレクション100　東海・北陸・信州",
-            "title_collation_key": "オトナノオンセンヤドベストセレクションヒャク トウカイホクリクシンシュウ",
+            "isbn": "9784081023271",
+            "title": "今日も世界の果てまでひとりっぷ4〜爆バイイング編〜",
+            "title_collation_key": "キョウモセカイノハテマデヒトリップヨン バクバイイングヘン",
             "contributor": "",
             "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398293664.jpg"
+            "imprint": "集英社",
+            "main_cover": "https://cover.openbd.jp/9784081023271.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16789237/"
         },
         {
-            "isbn": "9784484145860",
-            "title": "大人の名古屋（vol．55）",
-            "title_collation_key": "オトナ ノ ナゴヤ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "CCCメディアハウス",
-            "main_cover": ""
+            "isbn": "9784865988727",
+            "title": "阪神電気鉄道沿線アルバム",
+            "title_collation_key": "ハンシンデンキテツドウエンセンアルバム",
+            "contributor": "辻　良樹",
+            "contributor_collation_key": "ツジ　ヨシキ",
+            "imprint": "アルファベータブックス",
+            "main_cover": "https://cover.openbd.jp/9784865988727.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16758435/"
         },
         {
             "isbn": "9784398294708",
@@ -849,16 +981,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294708.jpg"
-        },
-        {
-            "isbn": "9784533145742",
-            "title": "るるぶドライブ中国四国ベストコース　’22",
-            "title_collation_key": "ルルブドライブチュウゴクシコクベストコースニジュウニ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145742.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398294708.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16763310/"
         },
         {
             "isbn": "9784835648279",
@@ -867,7 +991,38 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ぴあ",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16783411/"
+        },
+        {
+            "isbn": "9784484145860",
+            "title": "大人の名古屋（vol．55）",
+            "title_collation_key": "オトナ ノ ナゴヤ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "CCCメディアハウス",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16786438/"
+        },
+        {
+            "isbn": "9784533145742",
+            "title": "るるぶドライブ中国四国ベストコース　’22",
+            "title_collation_key": "ルルブドライブチュウゴクシコクベストコースニジュウニ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784533145742.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741425/"
+        },
+        {
+            "isbn": "9784398293664",
+            "title": "おとなの温泉宿ベストセレクション100　東海・北陸・信州",
+            "title_collation_key": "オトナノオンセンヤドベストセレクションヒャク トウカイホクリクシンシュウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398293664.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732518/"
         },
         {
             "isbn": "9784398144195",
@@ -876,25 +1031,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398144195.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398144195.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16763325/"
         },
         {
-            "isbn": "9784802132541",
-            "title": "北海道の国鉄アルバム　中巻　室蘭本線、日高本線、千歳線、石勝線",
-            "title_collation_key": "ホッカイドウノコクテツアルバム　チュウカン　ムロランホンセンヒダカホンセンチトセセンセキショウセン",
-            "contributor": "辻　良樹/安田就視",
-            "contributor_collation_key": "ツジ ヨシキ/ヤスダ ナルミ",
-            "imprint": "フォト・パブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784802132541.jpg"
-        },
-        {
-            "isbn": "9784398144201",
-            "title": "かき氷本 大阪・京都・奈良",
-            "title_collation_key": "カキゴオリボン オオサカキョウトナラ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398144201.jpg"
+            "isbn": "9784861751165",
+            "title": "新版　富山の百山",
+            "title_collation_key": "シンパン　トヤマノヒャクザン",
+            "contributor": "富山県山岳連盟",
+            "contributor_collation_key": "トヤマケンサンガクレンメイ",
+            "imprint": "北日本新聞社",
+            "main_cover": "https://cover.openbd.jp/9784861751165.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16752899/"
         },
         {
             "isbn": "9784299017789",
@@ -903,16 +1051,28 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299017789.jpg"
+            "main_cover": "https://cover.openbd.jp/9784299017789.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16729646/"
         },
         {
-            "isbn": "9784398630353",
-            "title": "県別マップル 新潟県道路地図",
-            "title_collation_key": "ケンベツマップル ニイガタケンドウロチズ",
+            "isbn": "9784398144201",
+            "title": "かき氷本 大阪・京都・奈良",
+            "title_collation_key": "カキゴオリボン オオサカキョウトナラ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398630353.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398144201.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16763332/"
+        },
+        {
+            "isbn": "9784802132541",
+            "title": "北海道の国鉄アルバム　中巻　室蘭本線、日高本線、千歳線、石勝線",
+            "title_collation_key": "ホッカイドウノコクテツアルバム　チュウカン　ムロランホンセンヒダカホンセンチトセセンセキショウセン",
+            "contributor": "辻　良樹/安田就視",
+            "contributor_collation_key": "ツジ ヨシキ/ヤスダ ナルミ",
+            "imprint": "フォト・パブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784802132541.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16750631/"
         },
         {
             "isbn": "9784398630346",
@@ -921,7 +1081,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398630346.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398630346.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732287/"
+        },
+        {
+            "isbn": "9784398630353",
+            "title": "県別マップル 新潟県道路地図",
+            "title_collation_key": "ケンベツマップル ニイガタケンドウロチズ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398630353.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732286/"
         },
         {
             "isbn": "9784398155757",
@@ -930,16 +1101,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398155757.jpg"
-        },
-        {
-            "isbn": "9784398155764",
-            "title": "ことりっぷ 富山 立山黒部・五箇山",
-            "title_collation_key": "コトリップ トヤマ タテヤマクロベゴカヤマ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398155764.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398155757.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732346/"
         },
         {
             "isbn": "9784398155573",
@@ -948,7 +1111,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398155573.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398155573.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732343/"
+        },
+        {
+            "isbn": "9784398155764",
+            "title": "ことりっぷ 富山 立山黒部・五箇山",
+            "title_collation_key": "コトリップ トヤマ タテヤマクロベゴカヤマ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398155764.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732347/"
         },
         {
             "isbn": "9784398155740",
@@ -957,7 +1131,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398155740.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398155740.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732345/"
         },
         {
             "isbn": "9784789773232",
@@ -966,7 +1141,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "エムオン・エンタテインメント",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16762089/"
         },
         {
             "isbn": "9784533145650",
@@ -975,7 +1151,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145650.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145650.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741446/"
         },
         {
             "isbn": "9784398147578",
@@ -984,16 +1161,8 @@
             "contributor": "町田俊之",
             "contributor_collation_key": "マチダトシユキ",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398147578.jpg"
-        },
-        {
-            "isbn": "9784533145629",
-            "title": "るるぶ群馬　草津　伊香保　みなかみ　’22",
-            "title_collation_key": "ルルブグンマクサツイカホミナカミニジュウニ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145629.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398147578.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16763311/"
         },
         {
             "isbn": "9784802132671",
@@ -1002,16 +1171,18 @@
             "contributor": "山田亮/生田誠",
             "contributor_collation_key": "ヤマダ アキラ/イクタ マコト",
             "imprint": "フォト・パブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784802132671.jpg"
+            "main_cover": "https://cover.openbd.jp/9784802132671.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16755424/"
         },
         {
-            "isbn": "9784065239186",
-            "title": "TRANSIT　52号　小さな京都の物語を旅して",
-            "title_collation_key": "トランジット52ゴウ チイサナキョウトノモノガタリヲタビシテ",
-            "contributor": "ユーフォリアファクトリー",
-            "contributor_collation_key": "ユーフォリアファクトリー",
-            "imprint": "ユーフォリアファクトリー",
-            "main_cover": "https://cover.openbd.jp/9784065239186.jpg"
+            "isbn": "9784533145629",
+            "title": "るるぶ群馬　草津　伊香保　みなかみ　’22",
+            "title_collation_key": "ルルブグンマクサツイカホミナカミニジュウニ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784533145629.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741447/"
         },
         {
             "isbn": "9784422250915",
@@ -1020,16 +1191,18 @@
             "contributor": "橋爪 紳也/創元社編集部",
             "contributor_collation_key": "ハシヅメ シンヤ/ソウゲンシャヘンシュウブ",
             "imprint": "創元社",
-            "main_cover": "https://cover.openbd.jp/9784422250915.jpg"
+            "main_cover": "https://cover.openbd.jp/9784422250915.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16303609/"
         },
         {
-            "isbn": "9784023347052",
-            "title": "東京発、日帰りさんぽ旅",
-            "title_collation_key": "トウキョウハツ、ヒガエリサンポタビ",
-            "contributor": "朝日新聞出版",
-            "contributor_collation_key": "アサヒシンブンシュッパン",
-            "imprint": "朝日新聞出版",
-            "main_cover": "https://cover.openbd.jp/9784023347052.jpg"
+            "isbn": "9784065239186",
+            "title": "TRANSIT　52号　小さな京都の物語を旅して",
+            "title_collation_key": "トランジット52ゴウ チイサナキョウトノモノガタリヲタビシテ",
+            "contributor": "ユーフォリアファクトリー",
+            "contributor_collation_key": "ユーフォリアファクトリー",
+            "imprint": "ユーフォリアファクトリー",
+            "main_cover": "https://cover.openbd.jp/9784065239186.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16750722/"
         },
         {
             "isbn": "9784398924261",
@@ -1038,25 +1211,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398924261.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398924261.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732339/"
         },
         {
-            "isbn": "9784434286506",
-            "title": "サッカーのまち清水　2021年版",
-            "title_collation_key": "サッカーノマチシミズニセンニジュウイチネンバン",
-            "contributor": "風岡範哉/JERRY",
-            "contributor_collation_key": "カザオカノリチカ/ジェリー",
-            "imprint": "パレード",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784398765604",
-            "title": "卓上版 世界全図",
-            "title_collation_key": "タクジョウバン セカイゼンズ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398765604.jpg"
+            "isbn": "9784023347052",
+            "title": "東京発、日帰りさんぽ旅",
+            "title_collation_key": "トウキョウハツ、ヒガエリサンポタビ",
+            "contributor": "朝日新聞出版",
+            "contributor_collation_key": "アサヒシンブンシュッパン",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://cover.openbd.jp/9784023347052.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16737142/"
         },
         {
             "isbn": "9784398765536",
@@ -1065,7 +1231,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398765536.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398765536.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732284/"
         },
         {
             "isbn": "9784023347038",
@@ -1074,7 +1241,28 @@
             "contributor": "朝日新聞出版",
             "contributor_collation_key": "アサヒシンブンシュッパン",
             "imprint": "朝日新聞出版",
-            "main_cover": "https://cover.openbd.jp/9784023347038.jpg"
+            "main_cover": "https://cover.openbd.jp/9784023347038.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16737144/"
+        },
+        {
+            "isbn": "9784434286506",
+            "title": "サッカーのまち清水　2021年版",
+            "title_collation_key": "サッカーノマチシミズニセンニジュウイチネンバン",
+            "contributor": "風岡範哉/JERRY",
+            "contributor_collation_key": "カザオカノリチカ/ジェリー",
+            "imprint": "パレード",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16720629/"
+        },
+        {
+            "isbn": "9784398765604",
+            "title": "卓上版 世界全図",
+            "title_collation_key": "タクジョウバン セカイゼンズ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398765604.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732285/"
         },
         {
             "isbn": "9784023347021",
@@ -1083,16 +1271,8 @@
             "contributor": "朝日新聞出版",
             "contributor_collation_key": "アサヒシンブンシュッパン",
             "imprint": "朝日新聞出版",
-            "main_cover": "https://cover.openbd.jp/9784023347021.jpg"
-        },
-        {
-            "isbn": "9784398294876",
-            "title": "まっぷる 京阪神・名古屋発 家族でおでかけ 夏休み号",
-            "title_collation_key": "マップル ケイハンシンナゴヤハツ カゾクデオデカケ ナツヤスミゴウ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294876.jpg"
+            "main_cover": "https://cover.openbd.jp/9784023347021.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16737145/"
         },
         {
             "isbn": "9784398294869",
@@ -1101,7 +1281,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294869.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398294869.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732354/"
+        },
+        {
+            "isbn": "9784398294876",
+            "title": "まっぷる 京阪神・名古屋発 家族でおでかけ 夏休み号",
+            "title_collation_key": "マップル ケイハンシンナゴヤハツ カゾクデオデカケ ナツヤスミゴウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398294876.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732313/"
         },
         {
             "isbn": "9784874356524",
@@ -1110,7 +1301,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "京阪神エルマガジン社",
-            "main_cover": "https://cover.openbd.jp/9784874356524.jpg"
+            "main_cover": "https://cover.openbd.jp/9784874356524.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16754263/"
         },
         {
             "isbn": "9784780424942",
@@ -1119,7 +1311,8 @@
             "contributor": "ほり編集事務所",
             "contributor_collation_key": "ホリヘンシュウジムショ",
             "imprint": "メイツ出版",
-            "main_cover": "https://cover.openbd.jp/9784780424942.jpg"
+            "main_cover": "https://cover.openbd.jp/9784780424942.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16710872/"
         },
         {
             "isbn": "9784299017727",
@@ -1128,34 +1321,8 @@
             "contributor": "千田 嘉博",
             "contributor_collation_key": "センダ ヨシヒロ",
             "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299017727.jpg"
-        },
-        {
-            "isbn": "9784863113015",
-            "title": "死を喰う犬",
-            "title_collation_key": "シヲクウイヌ",
-            "contributor": "小林 みちたか",
-            "contributor_collation_key": "コバヤシ ミチタカ",
-            "imprint": "産業編集センター",
-            "main_cover": "https://cover.openbd.jp/9784863113015.jpg"
-        },
-        {
-            "isbn": "9784398294821",
-            "title": "まっぷる 伊豆・箱根'22",
-            "title_collation_key": "マップル イズハコネ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294821.jpg"
-        },
-        {
-            "isbn": "9784863113022",
-            "title": "インドの奥のヒマラヤへ　ラダックを旅した十年間",
-            "title_collation_key": "インドノオクノヒマラヤヘ　ラダックヲタビシタジュウネンカン",
-            "contributor": "山本 高樹",
-            "contributor_collation_key": "ヤマモト タカキ",
-            "imprint": "産業編集センター",
-            "main_cover": "https://cover.openbd.jp/9784863113022.jpg"
+            "main_cover": "https://cover.openbd.jp/9784299017727.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16729644/"
         },
         {
             "isbn": "9784398293305",
@@ -1164,16 +1331,38 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398293305.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398293305.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16763297/"
         },
         {
-            "isbn": "9784398294814",
-            "title": "まっぷる 東京観光mini'22",
-            "title_collation_key": "マップル トウキョウカンコウミニ",
+            "isbn": "9784398294821",
+            "title": "まっぷる 伊豆・箱根'22",
+            "title_collation_key": "マップル イズハコネ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294814.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398294821.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732359/"
+        },
+        {
+            "isbn": "9784863113015",
+            "title": "死を喰う犬",
+            "title_collation_key": "シヲクウイヌ",
+            "contributor": "小林 みちたか",
+            "contributor_collation_key": "コバヤシ ミチタカ",
+            "imprint": "産業編集センター",
+            "main_cover": "https://cover.openbd.jp/9784863113015.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16724494/"
+        },
+        {
+            "isbn": "9784863113022",
+            "title": "インドの奥のヒマラヤへ　ラダックを旅した十年間",
+            "title_collation_key": "インドノオクノヒマラヤヘ　ラダックヲタビシタジュウネンカン",
+            "contributor": "山本 高樹",
+            "contributor_collation_key": "ヤマモト タカキ",
+            "imprint": "産業編集センター",
+            "main_cover": "https://cover.openbd.jp/9784863113022.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16723739/"
         },
         {
             "isbn": "9784398294838",
@@ -1182,7 +1371,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294838.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398294838.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732358/"
+        },
+        {
+            "isbn": "9784398294814",
+            "title": "まっぷる 東京観光mini'22",
+            "title_collation_key": "マップル トウキョウカンコウミニ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398294814.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732360/"
         },
         {
             "isbn": "9784398294845",
@@ -1191,7 +1391,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294845.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398294845.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732356/"
         },
         {
             "isbn": "9784398294807",
@@ -1200,34 +1401,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294807.jpg"
-        },
-        {
-            "isbn": "9784533145735",
-            "title": "るるぶドライブ関西ベストコース　’22",
-            "title_collation_key": "ルルブドライブカンサイベストコースニジュウニ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145735.jpg"
-        },
-        {
-            "isbn": "9784533145612",
-            "title": "るるぶ函館　五稜郭　’22　超ちいサイズ",
-            "title_collation_key": "ルルブハコダテゴリョウカクニジュウニチョウチイサイズ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145612.jpg"
-        },
-        {
-            "isbn": "9784835643069",
-            "title": "夏ぴあ首都圏版",
-            "title_collation_key": "ナツ ピア シュトケンバン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ぴあ",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784398294807.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732361/"
         },
         {
             "isbn": "9784533145605",
@@ -1236,7 +1411,38 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145605.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145605.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741450/"
+        },
+        {
+            "isbn": "9784533145612",
+            "title": "るるぶ函館　五稜郭　’22　超ちいサイズ",
+            "title_collation_key": "ルルブハコダテゴリョウカクニジュウニチョウチイサイズ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784533145612.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741451/"
+        },
+        {
+            "isbn": "9784835643069",
+            "title": "夏ぴあ首都圏版",
+            "title_collation_key": "ナツ ピア シュトケンバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ぴあ",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16768586/"
+        },
+        {
+            "isbn": "9784533145735",
+            "title": "るるぶドライブ関西ベストコース　’22",
+            "title_collation_key": "ルルブドライブカンサイベストコースニジュウニ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784533145735.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741424/"
         },
         {
             "isbn": "9784533145667",
@@ -1245,7 +1451,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145667.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145667.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741443/"
         },
         {
             "isbn": "9784533145643",
@@ -1254,7 +1461,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145643.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145643.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741449/"
         },
         {
             "isbn": "9784058016275",
@@ -1263,7 +1471,8 @@
             "contributor": "地球の歩き方編集室",
             "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
             "imprint": "地球の歩き方",
-            "main_cover": "https://cover.openbd.jp/9784058016275.jpg"
+            "main_cover": "https://cover.openbd.jp/9784058016275.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16677826/"
         },
         {
             "isbn": "9784847066573",
@@ -1272,52 +1481,8 @@
             "contributor": "吉田 友和",
             "contributor_collation_key": "ヨシダ トモカズ",
             "imprint": "ワニブックス",
-            "main_cover": "https://cover.openbd.jp/9784847066573.jpg"
-        },
-        {
-            "isbn": "9784398295026",
-            "title": "ご当地絶景 中国四国",
-            "title_collation_key": "ゴトウリゼッケイ チュウゴクシコク",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398295026.jpg"
-        },
-        {
-            "isbn": "9784533145698",
-            "title": "るるぶハウステンボス",
-            "title_collation_key": "ルルブハウステンボス",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145698.jpg"
-        },
-        {
-            "isbn": "9784398294982",
-            "title": "ご当地絶景 東北",
-            "title_collation_key": "ゴトウチゼッケイ トウホク",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294982.jpg"
-        },
-        {
-            "isbn": "9784398295002",
-            "title": "ご当地絶景 中部東海北陸",
-            "title_collation_key": "ゴトウチゼッケイ チュウブトウカイホクリク",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398295002.jpg"
-        },
-        {
-            "isbn": "9784533145759",
-            "title": "地図で歩く鎌倉　江の島",
-            "title_collation_key": "チズデアルクカマクラエノシマ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "JTBパブリッシング",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784847066573.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16733220/"
         },
         {
             "isbn": "9784533145674",
@@ -1326,16 +1491,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145674.jpg"
-        },
-        {
-            "isbn": "9784794225238",
-            "title": "パッケージツアーの文化誌",
-            "title_collation_key": "パッケージツアーノブンカシ",
-            "contributor": "吉田 春生",
-            "contributor_collation_key": "ヨシダ　ハルオ",
-            "imprint": "草思社",
-            "main_cover": "https://cover.openbd.jp/9784794225238.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145674.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741444/"
         },
         {
             "isbn": "9784398294852",
@@ -1344,7 +1501,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294852.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398294852.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732355/"
         },
         {
             "isbn": "9784398294791",
@@ -1353,7 +1511,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294791.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398294791.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732312/"
         },
         {
             "isbn": "9784398294227",
@@ -1362,7 +1521,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294227.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398294227.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732281/"
         },
         {
             "isbn": "9784398295019",
@@ -1371,16 +1531,68 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398295019.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398295019.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732349/"
         },
         {
-            "isbn": "9784023347014",
-            "title": "北海道",
-            "title_collation_key": "ホッカイドウ",
-            "contributor": "朝日新聞出版",
-            "contributor_collation_key": "アサヒシンブンシュッパン",
-            "imprint": "朝日新聞出版",
-            "main_cover": "https://cover.openbd.jp/9784023347014.jpg"
+            "isbn": "9784398295002",
+            "title": "ご当地絶景 中部東海北陸",
+            "title_collation_key": "ゴトウチゼッケイ チュウブトウカイホクリク",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398295002.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732350/"
+        },
+        {
+            "isbn": "9784794225238",
+            "title": "パッケージツアーの文化誌",
+            "title_collation_key": "パッケージツアーノブンカシ",
+            "contributor": "吉田 春生",
+            "contributor_collation_key": "ヨシダ　ハルオ",
+            "imprint": "草思社",
+            "main_cover": "https://cover.openbd.jp/9784794225238.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741145/"
+        },
+        {
+            "isbn": "9784398294982",
+            "title": "ご当地絶景 東北",
+            "title_collation_key": "ゴトウチゼッケイ トウホク",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398294982.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732307/"
+        },
+        {
+            "isbn": "9784533145759",
+            "title": "地図で歩く鎌倉　江の島",
+            "title_collation_key": "チズデアルクカマクラエノシマ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16741422/"
+        },
+        {
+            "isbn": "9784398295026",
+            "title": "ご当地絶景 中国四国",
+            "title_collation_key": "ゴトウリゼッケイ チュウゴクシコク",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "昭文社",
+            "main_cover": "https://cover.openbd.jp/9784398295026.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732348/"
+        },
+        {
+            "isbn": "9784533145698",
+            "title": "るるぶハウステンボス",
+            "title_collation_key": "ルルブハウステンボス",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784533145698.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741442/"
         },
         {
             "isbn": "9784398294999",
@@ -1389,16 +1601,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294999.jpg"
-        },
-        {
-            "isbn": "9784533145681",
-            "title": "るるぶこどもと行く沖縄　超ちいサイズ",
-            "title_collation_key": "ルルブコドモトイクオキナワチョウチイサイズ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145681.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398294999.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732306/"
         },
         {
             "isbn": "9784533145636",
@@ -1407,7 +1611,28 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145636.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145636.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741448/"
+        },
+        {
+            "isbn": "9784533145681",
+            "title": "るるぶこどもと行く沖縄　超ちいサイズ",
+            "title_collation_key": "ルルブコドモトイクオキナワチョウチイサイズ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "JTBパブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784533145681.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741445/"
+        },
+        {
+            "isbn": "9784023347014",
+            "title": "北海道",
+            "title_collation_key": "ホッカイドウ",
+            "contributor": "朝日新聞出版",
+            "contributor_collation_key": "アサヒシンブンシュッパン",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://cover.openbd.jp/9784023347014.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16723753/"
         },
         {
             "isbn": "9784398294975",
@@ -1416,7 +1641,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398294975.jpg"
+            "main_cover": "https://cover.openbd.jp/9784398294975.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16732308/"
         },
         {
             "isbn": "9784812220160",
@@ -1425,7 +1651,8 @@
             "contributor": "鎌田　真弓",
             "contributor_collation_key": "カマダ　マユミ",
             "imprint": "昭和堂",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16715109/"
         },
         {
             "isbn": "9784434288142",
@@ -1434,7 +1661,8 @@
             "contributor": "谷口礼子/鈴木文彦",
             "contributor_collation_key": "タニグチレイコ/スズキフミヒコ",
             "imprint": "BJエディターズ",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16745475/"
         },
         {
             "isbn": "9784874356517",
@@ -1443,7 +1671,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "京阪神エルマガジン社",
-            "main_cover": "https://cover.openbd.jp/9784874356517.jpg"
+            "main_cover": "https://cover.openbd.jp/9784874356517.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16738139/"
         },
         {
             "isbn": "9784533145025",
@@ -1452,7 +1681,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145025.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145025.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16706289/"
         },
         {
             "isbn": "9784533145032",
@@ -1461,7 +1691,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145032.jpg"
+            "main_cover": "https://cover.openbd.jp/9784533145032.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16706286/"
         },
         {
             "isbn": "9784813294498",
@@ -1470,43 +1701,8 @@
             "contributor": "TAC出版編集部",
             "contributor_collation_key": "TACシュッパンヘンシュウブ",
             "imprint": "TAC出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784813294443",
-            "title": "おとな旅プレミアム　日光　那須・塩原　第3版",
-            "title_collation_key": "オトナタビプレミアム ニッコウ ナス・シオバラ ダイ3ハン",
-            "contributor": "TAC出版編集部",
-            "contributor_collation_key": "TACシュッパンヘンシュウブ",
-            "imprint": "TAC出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784813294603",
-            "title": "おとな旅プレミアム　神戸　第3版",
-            "title_collation_key": "オトナタビプレミアム コウベ ダイ3ハン",
-            "contributor": "TAC出版編集部",
-            "contributor_collation_key": "TACシュッパンヘンシュウブ",
-            "imprint": "TAC出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784813294559",
-            "title": "おとな旅プレミアム　名古屋　第3版",
-            "title_collation_key": "オトナタビプレミアム ナゴヤ ダイ3ハン",
-            "contributor": "TAC出版編集部",
-            "contributor_collation_key": "TACシュッパンヘンシュウブ",
-            "imprint": "TAC出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784813294474",
-            "title": "おとな旅プレミアム　鎌倉　第3版",
-            "title_collation_key": "オトナタビプレミアム カマクラ ダイ3ハン",
-            "contributor": "TAC出版編集部",
-            "contributor_collation_key": "TACシュッパンヘンシュウブ",
-            "imprint": "TAC出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16708430/"
         },
         {
             "isbn": "9784813294689",
@@ -1515,88 +1711,68 @@
             "contributor": "TAC出版編集部",
             "contributor_collation_key": "TACシュッパンヘンシュウブ",
             "imprint": "TAC出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16708454/"
         },
         {
-            "isbn": "9784344923133",
-            "title": "東京の街を歩いてみると",
-            "title_collation_key": "トウキョウノマチヲアルイテミルト",
-            "contributor": "原田 和幸",
-            "contributor_collation_key": "ハラダ カズユキ",
-            "imprint": "幻冬舎",
-            "main_cover": ""
+            "isbn": "9784813294559",
+            "title": "おとな旅プレミアム　名古屋　第3版",
+            "title_collation_key": "オトナタビプレミアム ナゴヤ ダイ3ハン",
+            "contributor": "TAC出版編集部",
+            "contributor_collation_key": "TACシュッパンヘンシュウブ",
+            "imprint": "TAC出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16708426/"
         },
         {
-            "isbn": "9784432511785",
-            "title": "藤沢市1（南部）（202106）",
-            "title_collation_key": "フジサワシ 1 ナンブ",
+            "isbn": "9784813294474",
+            "title": "おとな旅プレミアム　鎌倉　第3版",
+            "title_collation_key": "オトナタビプレミアム カマクラ ダイ3ハン",
+            "contributor": "TAC出版編集部",
+            "contributor_collation_key": "TACシュッパンヘンシュウブ",
+            "imprint": "TAC出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16708431/"
+        },
+        {
+            "isbn": "9784813294603",
+            "title": "おとな旅プレミアム　神戸　第3版",
+            "title_collation_key": "オトナタビプレミアム コウベ ダイ3ハン",
+            "contributor": "TAC出版編集部",
+            "contributor_collation_key": "TACシュッパンヘンシュウブ",
+            "imprint": "TAC出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16708448/"
+        },
+        {
+            "isbn": "9784813294443",
+            "title": "おとな旅プレミアム　日光　那須・塩原　第3版",
+            "title_collation_key": "オトナタビプレミアム ニッコウ ナス・シオバラ ダイ3ハン",
+            "contributor": "TAC出版編集部",
+            "contributor_collation_key": "TACシュッパンヘンシュウブ",
+            "imprint": "TAC出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16708433/"
+        },
+        {
+            "isbn": "9784802210324",
+            "title": "遊んで、食べて、癒されて タイ・プーケットへ",
+            "title_collation_key": "アソンデタベテイヤサレテタイプーケットヘ",
+            "contributor": "鈴木さくらこ",
+            "contributor_collation_key": "スズキサクラコ",
+            "imprint": "イカロス出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16721166/"
+        },
+        {
+            "isbn": "9784432511082",
+            "title": "鶴岡市2（藤島）・三川町（202106）",
+            "title_collation_key": "ツルオカシ 2 フジシマ ミカワマチ",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ゼンリン",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784938643966",
-            "title": "ホントに歩く中山道（第11集）",
-            "title_collation_key": "ホント ニ アルク ナカセンドウ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "風人社（狛江）",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784432511099",
-            "title": "鶴岡市4（温海）（202106）",
-            "title_collation_key": "ツルオカシ 4 アツミ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ゼンリン",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784763807489",
-            "title": "舞妓さんの京都花街検定",
-            "title_collation_key": "マイコサン ノ キョウト カガイ ケンテイ",
-            "contributor": "相原恭子",
-            "contributor_collation_key": "アイハラ,キョウコ",
-            "imprint": "京都新聞出版センター",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784807296675",
-            "title": "おとなの箱根旅（2021）",
-            "title_collation_key": "オトナ ノ ハコネタビ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "舵社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784533145018",
-            "title": "るるぶ茨城　水戸　大洗　笠間　’22",
-            "title_collation_key": "ルルブイバラキミトオオアライカサマニジュウニ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "JTBパブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784533145018.jpg"
-        },
-        {
-            "isbn": "9784864932417",
-            "title": "ジムニーチューニング（2021　Vol．7）",
-            "title_collation_key": "ジムニー チューニング",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "グラフィス（港区）",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784398293152",
-            "title": "まっぷる 超詳細！東京さんぽ地図mini",
-            "title_collation_key": "マップル チョウショウサイトウキョウサンポチズミニ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398293152.jpg"
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16777701/"
         }
     ]
 }

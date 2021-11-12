@@ -115,6 +115,12 @@ def getBookInfo():
                                     main_cover = res[0]["onix"]["CollateralDetail"]["SupportingResource"][0]["ResourceVersion"][0]["ResourceLink"]
                                 except :
                                     main_cover = ""
+
+                        # 販売ページ
+                        try:
+                            item_url = response.json()["Items"][count]["Item"]["itemUrl"]
+                        except:
+                            item_url = ""
                         
                         # 背表紙画像に表示するタイトル、作者が3行を超えないもののみリストに追加
                         if len(title) <= 32 and len(contributor) <= 12:
@@ -126,7 +132,8 @@ def getBookInfo():
                                 "contributor"               :contributor,
                                 "contributor_collation_key" :contributor_collation_key,
                                 "imprint"                   :imprint,
-                                "main_cover"                :main_cover
+                                "main_cover"                :main_cover,
+                                "item_url"                  :item_url
                             }
 
                             books.append(books_obj)

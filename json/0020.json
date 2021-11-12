@@ -15,13 +15,74 @@
     ],
     "books": [
         {
+            "isbn": "9784569851419",
+            "title": "【新書版】孫社長にたたきこまれた「数値化」仕事術",
+            "title_collation_key": "シンショバンソンチャチョウニタタキコマレタスウチカシゴトジュツ",
+            "contributor": "三木 雄信",
+            "contributor_collation_key": "ミキ タケノブ",
+            "imprint": "PHP研究所",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16959591/"
+        },
+        {
+            "isbn": "9784121026750",
+            "title": "江戸ー平安時代から家康の建設へ",
+            "title_collation_key": "エドーヘイアンジダイカライエヤスノケンセツヘ",
+            "contributor": "齋藤 慎一",
+            "contributor_collation_key": "サイトウシンイチ",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16952805/"
+        },
+        {
+            "isbn": "9784121026781",
+            "title": "北条義時",
+            "title_collation_key": "ホウジョウヨシトキ",
+            "contributor": "岩田 慎平",
+            "contributor_collation_key": "イワタシンペイ",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16952803/"
+        },
+        {
+            "isbn": "9784121026774",
+            "title": "エビはすごい カニもすごい",
+            "title_collation_key": "エビハスゴイ カニモスゴイ",
+            "contributor": "矢野 勲",
+            "contributor_collation_key": "ヤノイサオ",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16952801/"
+        },
+        {
+            "isbn": "9784121026743",
+            "title": "ジョン・ロールズ",
+            "title_collation_key": "ジョン・ロールズ",
+            "contributor": "齋藤 純一/田中 将人",
+            "contributor_collation_key": "サイトウジュンイチ/タナカマサト",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16952806/"
+        },
+        {
+            "isbn": "9784121026767",
+            "title": "地球外生命",
+            "title_collation_key": "チキュウガイセイメイ",
+            "contributor": "小林 憲正",
+            "contributor_collation_key": "コバヤシケンセイ",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16952802/"
+        },
+        {
             "isbn": "9784569850986",
-            "title": "「決算書ナゾトキ」トレーニング(仮）",
+            "title": "決算書ナゾトキトレーニング",
             "title_collation_key": "ケッサンショナゾトキトレーニング",
             "contributor": "村上 茂久",
             "contributor_collation_key": "ムラカミ シゲヒサ",
             "imprint": "PHP研究所",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16907572/"
         },
         {
             "isbn": "9784569851051",
@@ -30,7 +91,8 @@
             "contributor": "神田 昌典",
             "contributor_collation_key": "カンダ マサノリ",
             "imprint": "PHP研究所",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16907615/"
         },
         {
             "isbn": "9784532114466",
@@ -39,7 +101,8 @@
             "contributor": "黒沼 悦郎",
             "contributor_collation_key": "クロヌマ エツロウ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16933733/"
         },
         {
             "isbn": "9784828207285",
@@ -48,16 +111,48 @@
             "contributor": "杉林　堅次",
             "contributor_collation_key": "スギバヤシ　ケンジ",
             "imprint": "評言社",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784828207285.in03.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16951050/"
         },
         {
             "isbn": "9784299023834",
-            "title": "国民を見殺しにしたコロナ対策の戦犯たち(仮)",
-            "title_collation_key": "コクミンヲミゴロシニシタコロナタイサクノセンパンタチ",
+            "title": "誰も書けない「コロナ対策」のA級戦犯",
+            "title_collation_key": "ダレモカケナイコロナタイサクノエーキュウセンパン",
             "contributor": "木村 盛世",
             "contributor_collation_key": "キムラ モリヨ",
             "imprint": "宝島社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16942675/"
+        },
+        {
+            "isbn": "9784121507471",
+            "title": "辛酸なめ子の独断！　流行大全",
+            "title_collation_key": "シンサンナメコノドクダン！ リュウコウタイゼン",
+            "contributor": "辛酸 なめ子",
+            "contributor_collation_key": "シンサンナメコ",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16952809/"
+        },
+        {
+            "isbn": "9784121507488",
+            "title": "中国「コロナ封じ」の虚実",
+            "title_collation_key": "チュウゴクコロナフウジノキョジツ",
+            "contributor": "高口 康太",
+            "contributor_collation_key": "タカグチコウタ",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16952807/"
+        },
+        {
+            "isbn": "9784121507495",
+            "title": "「命」の相談室",
+            "title_collation_key": "イノチノソウダンシツ",
+            "contributor": "ゴルゴ 松本",
+            "contributor_collation_key": "ゴルゴマツモト",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16952808/"
         },
         {
             "isbn": "9784532114435",
@@ -66,7 +161,8 @@
             "contributor": "須藤 奈応",
             "contributor_collation_key": "スドウ ナオ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784532114435.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16857461/"
         },
         {
             "isbn": "9784828207278",
@@ -75,16 +171,8 @@
             "contributor": "遠藤　邦夫",
             "contributor_collation_key": "エンドウ　クニオ",
             "imprint": "評言社",
-            "main_cover": "https://cover.openbd.jp/9784828207278.jpg"
-        },
-        {
-            "isbn": "9784569850771",
-            "title": "戦略的思考トレーニング",
-            "title_collation_key": "センリャクテキシコウトレーニング",
-            "contributor": "三坂 健",
-            "contributor_collation_key": "ミサカ ケン",
-            "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569850771.jpg"
+            "main_cover": "https://cover.openbd.jp/9784828207278.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16917719/"
         },
         {
             "isbn": "9784569850559",
@@ -93,7 +181,18 @@
             "contributor": "前川 孝雄",
             "contributor_collation_key": "マエカワ タカオ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569850559.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569850559.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16869816/"
+        },
+        {
+            "isbn": "9784569850771",
+            "title": "戦略的思考トレーニング",
+            "title_collation_key": "センリャクテキシコウトレーニング",
+            "contributor": "三坂 健",
+            "contributor_collation_key": "ミサカ ケン",
+            "imprint": "PHP研究所",
+            "main_cover": "https://cover.openbd.jp/9784569850771.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16869801/"
         },
         {
             "isbn": "9784532264680",
@@ -102,25 +201,8 @@
             "contributor": "前田 昌孝",
             "contributor_collation_key": "マエダ マサタカ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264680.jpg"
-        },
-        {
-            "isbn": "9784121026712",
-            "title": "親孝行の日本史",
-            "title_collation_key": "オヤコウコウノニホンシ",
-            "contributor": "勝又 基",
-            "contributor_collation_key": "カツマタモトイ",
-            "imprint": "中央公論新社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784121026729",
-            "title": "南極の氷に何が起きているか",
-            "title_collation_key": "ナンキョクノコオリニナニガオキテイルカ",
-            "contributor": "杉山 慎",
-            "contributor_collation_key": "スギヤマシン",
-            "imprint": "中央公論新社",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784532264680.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16934639/"
         },
         {
             "isbn": "9784121026699",
@@ -129,7 +211,28 @@
             "contributor": "柿沼 陽平",
             "contributor_collation_key": "カキヌマヨウヘイ",
             "imprint": "中央公論新社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16919958/"
+        },
+        {
+            "isbn": "9784121026729",
+            "title": "南極の氷に何が起きているか",
+            "title_collation_key": "ナンキョクノコオリニナニガオキテイルカ",
+            "contributor": "杉山 慎",
+            "contributor_collation_key": "スギヤマシン",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16919968/"
+        },
+        {
+            "isbn": "9784121026712",
+            "title": "親孝行の日本史",
+            "title_collation_key": "オヤコウコウノニホンシ",
+            "contributor": "勝又 基",
+            "contributor_collation_key": "カツマタモトイ",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16919965/"
         },
         {
             "isbn": "9784121026705",
@@ -138,7 +241,8 @@
             "contributor": "高尾 賢一郎",
             "contributor_collation_key": "タカオケンイチロウ",
             "imprint": "中央公論新社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16919966/"
         },
         {
             "isbn": "9784121026736",
@@ -147,7 +251,8 @@
             "contributor": "篠川 賢",
             "contributor_collation_key": "シノカワケン",
             "imprint": "中央公論新社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16919967/"
         },
         {
             "isbn": "9784866960265",
@@ -156,7 +261,8 @@
             "contributor": "西原　祐治",
             "contributor_collation_key": "ニシハラ　ユウジ",
             "imprint": "本願寺出版社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16924946/"
         },
         {
             "isbn": "9784299022578",
@@ -165,7 +271,8 @@
             "contributor": "鳥集 徹",
             "contributor_collation_key": "トリダマリ トオル",
             "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299022578.jpg"
+            "main_cover": "https://cover.openbd.jp/9784299022578.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16910447/"
         },
         {
             "isbn": "9784532264673",
@@ -174,7 +281,8 @@
             "contributor": "金田 章裕",
             "contributor_collation_key": "キンダ アキヒロ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264673.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532264673.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16892651/"
         },
         {
             "isbn": "9784299015488",
@@ -183,16 +291,8 @@
             "contributor": "NHKスペシャル取材班",
             "contributor_collation_key": "エヌエイチケースペシャルシュザイハン",
             "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299015488.jpg"
-        },
-        {
-            "isbn": "9784121507457",
-            "title": "パンツを脱いじゃう子どもたち",
-            "title_collation_key": "パンツヲヌイジャウコドモタチ",
-            "contributor": "坂爪 真吾",
-            "contributor_collation_key": "サカツメシンゴ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507457.jpg"
+            "main_cover": "https://cover.openbd.jp/9784299015488.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16910436/"
         },
         {
             "isbn": "9784121507464",
@@ -201,7 +301,18 @@
             "contributor": "大谷 弘至",
             "contributor_collation_key": "オオタニヒロシ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507464.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507464.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16919970/"
+        },
+        {
+            "isbn": "9784121507457",
+            "title": "パンツを脱いじゃう子どもたち",
+            "title_collation_key": "パンツヲヌイジャウコドモタチ",
+            "contributor": "坂爪 真吾",
+            "contributor_collation_key": "サカツメシンゴ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121507457.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16919969/"
         },
         {
             "isbn": "9784797281101",
@@ -210,7 +321,8 @@
             "contributor": "芹田 健太郎",
             "contributor_collation_key": "セリタ ケンタロウ",
             "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797281101.jpg"
+            "main_cover": "https://cover.openbd.jp/9784797281101.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16940041/"
         },
         {
             "isbn": "9784569850610",
@@ -219,7 +331,8 @@
             "contributor": "山口 周",
             "contributor_collation_key": "ヤマグチ シュウ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569850610.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569850610.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16833893/"
         },
         {
             "isbn": "9784532114442",
@@ -228,7 +341,8 @@
             "contributor": "村山 宏",
             "contributor_collation_key": "ムラヤマ ヒロシ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114442.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532114442.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16857480/"
         },
         {
             "isbn": "9784121026682",
@@ -237,7 +351,8 @@
             "contributor": "中村 圭志",
             "contributor_collation_key": "ナカムラケイシ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026682.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026682.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882780/"
         },
         {
             "isbn": "9784121026651",
@@ -246,16 +361,8 @@
             "contributor": "天野 忠幸",
             "contributor_collation_key": "アマノタダユキ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026651.jpg"
-        },
-        {
-            "isbn": "9784121026644",
-            "title": "歴史修正主義",
-            "title_collation_key": "レキシシュウセイシュギ",
-            "contributor": "武井 彩佳",
-            "contributor_collation_key": "タケイアヤカ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026644.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026651.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882774/"
         },
         {
             "isbn": "9784121026668",
@@ -264,7 +371,8 @@
             "contributor": "今野 元",
             "contributor_collation_key": "コンノハジメ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026668.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026668.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882778/"
         },
         {
             "isbn": "9784121026675",
@@ -273,7 +381,18 @@
             "contributor": "会田 大輔",
             "contributor_collation_key": "アイダダイスケ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026675.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026675.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882776/"
+        },
+        {
+            "isbn": "9784121026644",
+            "title": "歴史修正主義",
+            "title_collation_key": "レキシシュウセイシュギ",
+            "contributor": "武井 彩佳",
+            "contributor_collation_key": "タケイアヤカ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121026644.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882775/"
         },
         {
             "isbn": "9784389441432",
@@ -282,7 +401,8 @@
             "contributor": "芳賀　登",
             "contributor_collation_key": "ハガノボル",
             "imprint": "清水書院",
-            "main_cover": "https://cover.openbd.jp/9784389441432.jpg"
+            "main_cover": "https://cover.openbd.jp/9784389441432.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879105/"
         },
         {
             "isbn": "9784299021311",
@@ -291,7 +411,8 @@
             "contributor": "石破 茂/村上 誠一郎",
             "contributor_collation_key": "イシバ シゲル/ムラカミ セイイチロウ",
             "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299021311.jpg"
+            "main_cover": "https://cover.openbd.jp/9784299021311.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16876137/"
         },
         {
             "isbn": "9784121507440",
@@ -300,7 +421,8 @@
             "contributor": "長谷川 朋子",
             "contributor_collation_key": "ハセガワトモコ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507440.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507440.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882788/"
         },
         {
             "isbn": "9784121507426",
@@ -309,7 +431,8 @@
             "contributor": "坪子 理美/石井 健一",
             "contributor_collation_key": "ツボコサトミ/イシイケンイチ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507426.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507426.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882777/"
         },
         {
             "isbn": "9784121507433",
@@ -318,7 +441,8 @@
             "contributor": "大藪 謙介/間野 まりえ",
             "contributor_collation_key": "オオヤブケンスケ/マノマリエ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507433.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507433.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882779/"
         },
         {
             "isbn": "9784910131214",
@@ -327,7 +451,8 @@
             "contributor": "村瀬永育",
             "contributor_collation_key": "ムラセ,エイスケ",
             "imprint": "文化科学高等研究院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16938389/"
         },
         {
             "isbn": "9784905217954",
@@ -336,7 +461,8 @@
             "contributor": "西村陽/戸田直樹",
             "contributor_collation_key": "ニシムラ,キヨシ/トダ,ナオキ",
             "imprint": "日本電気協会新聞部",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16931105/"
         },
         {
             "isbn": "9784121026613",
@@ -345,7 +471,8 @@
             "contributor": "阿部 拓児",
             "contributor_collation_key": "アベタクジ",
             "imprint": "中央公論新社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16842548/"
         },
         {
             "isbn": "9784121026620",
@@ -354,7 +481,8 @@
             "contributor": "伊藤 俊一",
             "contributor_collation_key": "イトウトシカズ",
             "imprint": "中央公論新社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16842551/"
         },
         {
             "isbn": "9784121026606",
@@ -363,25 +491,8 @@
             "contributor": "清水 唯一朗",
             "contributor_collation_key": "シミズユイチロウ",
             "imprint": "中央公論新社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784121026590",
-            "title": "経済社会の学び方",
-            "title_collation_key": "ケイザイシャカイノマナビカタ",
-            "contributor": "猪木 武徳",
-            "contributor_collation_key": "イノキタケノリ",
-            "imprint": "中央公論新社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784121026637",
-            "title": "物語　イスタンブールの歴史",
-            "title_collation_key": "モノガタリ イスタンブールノレキシ",
-            "contributor": "宮下 遼",
-            "contributor_collation_key": "ミヤシタリョウ",
-            "imprint": "中央公論新社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16842549/"
         },
         {
             "isbn": "9784569850429",
@@ -390,7 +501,28 @@
             "contributor": "小宮 一慶",
             "contributor_collation_key": "コミヤ カズヨシ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569850429.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569850429.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16825782/"
+        },
+        {
+            "isbn": "9784121026637",
+            "title": "物語　イスタンブールの歴史",
+            "title_collation_key": "モノガタリ イスタンブールノレキシ",
+            "contributor": "宮下 遼",
+            "contributor_collation_key": "ミヤシタリョウ",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16842550/"
+        },
+        {
+            "isbn": "9784121026590",
+            "title": "経済社会の学び方",
+            "title_collation_key": "ケイザイシャカイノマナビカタ",
+            "contributor": "猪木 武徳",
+            "contributor_collation_key": "イノキタケノリ",
+            "imprint": "中央公論新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16842541/"
         },
         {
             "isbn": "9784635510639",
@@ -399,7 +531,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と溪谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16786308/"
         },
         {
             "isbn": "9784532264642",
@@ -408,25 +541,8 @@
             "contributor": "梅屋 真一郎",
             "contributor_collation_key": "ウメヤ シンイチロウ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264642.jpg"
-        },
-        {
-            "isbn": "9784532264598",
-            "title": "世論調査の真実",
-            "title_collation_key": "ヨロンチョウサノシンジツ",
-            "contributor": "鈴木 督久",
-            "contributor_collation_key": "スズキ トクヒサ",
-            "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264598.jpg"
-        },
-        {
-            "isbn": "9784532264659",
-            "title": "イギリス解体の危機",
-            "title_collation_key": "イギリスカイタイノキキ",
-            "contributor": "中島 裕介",
-            "contributor_collation_key": "ナカジマ ユウスケ",
-            "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264659.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532264642.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16820281/"
         },
         {
             "isbn": "9784532264666",
@@ -435,7 +551,28 @@
             "contributor": "北原 康行",
             "contributor_collation_key": "キタハラ ヤスユキ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264666.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532264666.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16820287/"
+        },
+        {
+            "isbn": "9784532264666",
+            "title": "日本酒テイスティング　カップ酒の逆襲編",
+            "title_collation_key": "ニホンシュテイスティング カップザケノギャクシュウヘン",
+            "contributor": "北原 康行",
+            "contributor_collation_key": "キタハラ ヤスユキ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://cover.openbd.jp/9784532264666.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16820287/"
+        },
+        {
+            "isbn": "9784532264659",
+            "title": "イギリス解体の危機",
+            "title_collation_key": "イギリスカイタイノキキ",
+            "contributor": "中島 裕介",
+            "contributor_collation_key": "ナカジマ ユウスケ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://cover.openbd.jp/9784532264659.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16820282/"
         },
         {
             "isbn": "9784121507402",
@@ -444,7 +581,8 @@
             "contributor": "松岡 亮二",
             "contributor_collation_key": "マツオカリョウジ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507402.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507402.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16842546/"
         },
         {
             "isbn": "9784121507419",
@@ -453,7 +591,8 @@
             "contributor": "橋本 健二",
             "contributor_collation_key": "ハシモトケンジ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507419.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507419.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16842547/"
         },
         {
             "isbn": "9784121507396",
@@ -462,7 +601,8 @@
             "contributor": "荻原 博子",
             "contributor_collation_key": "オギワラヒロコ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507396.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507396.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16842553/"
         },
         {
             "isbn": "9784910131191",
@@ -471,7 +611,8 @@
             "contributor": "坂井秀夫",
             "contributor_collation_key": "サカイ,ヒデオ",
             "imprint": "文化科学高等研究院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16905625/"
         },
         {
             "isbn": "9784569850030",
@@ -480,7 +621,8 @@
             "contributor": "山本 康正",
             "contributor_collation_key": "ヤマモト ヤスマサ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569850030.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569850030.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16763015/"
         },
         {
             "isbn": "9784569849829",
@@ -489,25 +631,8 @@
             "contributor": "辰井 裕紀",
             "contributor_collation_key": "タツイ ユウキ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569849829.jpg"
-        },
-        {
-            "isbn": "9784121026583",
-            "title": "物語 パリの歴史",
-            "title_collation_key": "モノガタリ パリノレキシ",
-            "contributor": "福井 憲彦",
-            "contributor_collation_key": "フクイノリヒコ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026583.jpg"
-        },
-        {
-            "isbn": "9784121026545",
-            "title": "日本の先史時代",
-            "title_collation_key": "ニホンノセンシジダイ",
-            "contributor": "藤尾 慎一郎",
-            "contributor_collation_key": "フジオシンイチロウ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026545.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569849829.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16835058/"
         },
         {
             "isbn": "9784121026576",
@@ -516,7 +641,28 @@
             "contributor": "萩原 淳",
             "contributor_collation_key": "ハギハラアツシ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026576.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026576.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16812401/"
+        },
+        {
+            "isbn": "9784121026545",
+            "title": "日本の先史時代",
+            "title_collation_key": "ニホンノセンシジダイ",
+            "contributor": "藤尾 慎一郎",
+            "contributor_collation_key": "フジオシンイチロウ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121026545.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16812400/"
+        },
+        {
+            "isbn": "9784121026583",
+            "title": "物語 パリの歴史",
+            "title_collation_key": "モノガタリ パリノレキシ",
+            "contributor": "福井 憲彦",
+            "contributor_collation_key": "フクイノリヒコ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121026583.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16812405/"
         },
         {
             "isbn": "9784121026569",
@@ -525,7 +671,8 @@
             "contributor": "小原 嘉明",
             "contributor_collation_key": "オバラヨシアキ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026569.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026569.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16812404/"
         },
         {
             "isbn": "9784121026552",
@@ -534,7 +681,8 @@
             "contributor": "関 幸彦",
             "contributor_collation_key": "セキユキヒコ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026552.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026552.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16812399/"
         },
         {
             "isbn": "9784121507365",
@@ -543,7 +691,8 @@
             "contributor": "川部 紀子",
             "contributor_collation_key": "カワベノリコ",
             "imprint": "中央公論新社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16812413/"
         },
         {
             "isbn": "9784121507372",
@@ -552,7 +701,8 @@
             "contributor": "赤上 裕幸",
             "contributor_collation_key": "アカガミヒロユキ",
             "imprint": "中央公論新社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16812414/"
         },
         {
             "isbn": "9784121507389",
@@ -561,7 +711,8 @@
             "contributor": "池上 彰/上田 紀行",
             "contributor_collation_key": "イケガミアキラ/ウエダノリユキ",
             "imprint": "中央公論新社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16812415/"
         },
         {
             "isbn": "9784910131177",
@@ -570,7 +721,8 @@
             "contributor": "土屋慶一郎",
             "contributor_collation_key": "ツチヤ,ケイイチロウ",
             "imprint": "文化科学高等研究院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16868911/"
         },
         {
             "isbn": "9784910131184",
@@ -579,7 +731,8 @@
             "contributor": "山本哲士",
             "contributor_collation_key": "ヤマモト,テツジ",
             "imprint": "文化科学高等研究院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16868912/"
         },
         {
             "isbn": "9784908128301",
@@ -588,7 +741,8 @@
             "contributor": "佐古一洌",
             "contributor_collation_key": "サコ,イチレツ",
             "imprint": "神社新報社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16861060/"
         },
         {
             "isbn": "9784121026507",
@@ -597,7 +751,8 @@
             "contributor": "佐橋 亮",
             "contributor_collation_key": "サハシリョウ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026507.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026507.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16770121/"
         },
         {
             "isbn": "9784121026538",
@@ -606,16 +761,8 @@
             "contributor": "鈴木 由美",
             "contributor_collation_key": "スズキユミ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026538.jpg"
-        },
-        {
-            "isbn": "9784267022951",
-            "title": "対決！日本史　幕末から維新篇",
-            "title_collation_key": "タイケツニホンシバクマツカライシンヘン",
-            "contributor": "安部龍太郎/佐藤優",
-            "contributor_collation_key": "アベリュウタロウ/サトウマサル",
-            "imprint": "潮出版社",
-            "main_cover": "https://cover.openbd.jp/9784267022951.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026538.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16770117/"
         },
         {
             "isbn": "9784121026514",
@@ -624,7 +771,8 @@
             "contributor": "山本 健太郎",
             "contributor_collation_key": "ヤマモトケンタロウ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026514.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026514.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16770120/"
         },
         {
             "isbn": "9784121026521",
@@ -633,7 +781,18 @@
             "contributor": "千々和 泰明",
             "contributor_collation_key": "チヂワヤスアキ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026521.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026521.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16770118/"
+        },
+        {
+            "isbn": "9784267022951",
+            "title": "対決！日本史　幕末から維新篇",
+            "title_collation_key": "タイケツニホンシバクマツカライシンヘン",
+            "contributor": "安部龍太郎/佐藤優",
+            "contributor_collation_key": "アベリュウタロウ/サトウマサル",
+            "imprint": "潮出版社",
+            "main_cover": "https://cover.openbd.jp/9784267022951.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16728303/"
         },
         {
             "isbn": "9784532114251",
@@ -642,7 +801,8 @@
             "contributor": "岡村 久道",
             "contributor_collation_key": "オカムラ ヒサミチ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114251.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532114251.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16758469/"
         },
         {
             "isbn": "9784389441425",
@@ -651,7 +811,8 @@
             "contributor": "川添 昭二",
             "contributor_collation_key": "カワゾエショウジ",
             "imprint": "清水書院",
-            "main_cover": "https://cover.openbd.jp/9784389441425.jpg"
+            "main_cover": "https://cover.openbd.jp/9784389441425.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16786227/"
         },
         {
             "isbn": "9784532264581",
@@ -660,7 +821,8 @@
             "contributor": "石戸 奈々子",
             "contributor_collation_key": "イシド ナナコ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264581.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532264581.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16749348/"
         },
         {
             "isbn": "9784532264635",
@@ -669,25 +831,8 @@
             "contributor": "大江 英樹",
             "contributor_collation_key": "オオエ ヒデキ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264635.jpg"
-        },
-        {
-            "isbn": "9784121507303",
-            "title": "カラー版 やってみよう！ 車中泊",
-            "title_collation_key": "カラーバン ヤッテミヨウ！ シャチュウハク",
-            "contributor": "大橋 保之",
-            "contributor_collation_key": "オオハシヤスユキ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507303.jpg"
-        },
-        {
-            "isbn": "9784121507334",
-            "title": "潜入・ゴミ屋敷",
-            "title_collation_key": "センニュウ・ゴミヤシキ",
-            "contributor": "笹井 恵里子",
-            "contributor_collation_key": "ササイエリコ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507334.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532264635.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16749344/"
         },
         {
             "isbn": "9784121507341",
@@ -696,7 +841,28 @@
             "contributor": "川村 稲造",
             "contributor_collation_key": "カワムライナゾウ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507341.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507341.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16770132/"
+        },
+        {
+            "isbn": "9784121507303",
+            "title": "カラー版 やってみよう！ 車中泊",
+            "title_collation_key": "カラーバン ヤッテミヨウ！ シャチュウハク",
+            "contributor": "大橋 保之",
+            "contributor_collation_key": "オオハシヤスユキ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121507303.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16770141/"
+        },
+        {
+            "isbn": "9784121507334",
+            "title": "潜入・ゴミ屋敷",
+            "title_collation_key": "センニュウ・ゴミヤシキ",
+            "contributor": "笹井 恵里子",
+            "contributor_collation_key": "ササイエリコ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121507334.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16770131/"
         },
         {
             "isbn": "9784121507358",
@@ -705,7 +871,8 @@
             "contributor": "小澤 匡行",
             "contributor_collation_key": "オザワマサユキ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507358.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507358.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16770133/"
         },
         {
             "isbn": "9784569848518",
@@ -714,7 +881,8 @@
             "contributor": "冨山 和彦/望月 愛子",
             "contributor_collation_key": "トヤマ カズヒコ/モチヅキ アイコ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569848518.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569848518.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16533362/"
         },
         {
             "isbn": "9784910131160",
@@ -723,7 +891,8 @@
             "contributor": "河北秀也",
             "contributor_collation_key": "カワキタ,ヒデヤ",
             "imprint": "文化科学高等研究院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16834176/"
         },
         {
             "isbn": "9784797281071",
@@ -732,7 +901,8 @@
             "contributor": "井上 典之",
             "contributor_collation_key": "イノウエ ノリユキ",
             "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797281071.jpg"
+            "main_cover": "https://cover.openbd.jp/9784797281071.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16779371/"
         },
         {
             "isbn": "9784797281064",
@@ -741,7 +911,8 @@
             "contributor": "井上 典之",
             "contributor_collation_key": "イノウエ ノリユキ",
             "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797281064.jpg"
+            "main_cover": "https://cover.openbd.jp/9784797281064.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16779370/"
         },
         {
             "isbn": "9784532114411",
@@ -750,7 +921,8 @@
             "contributor": "中島 茂",
             "contributor_collation_key": "ナカジマ シゲル",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114411.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532114411.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16674924/"
         },
         {
             "isbn": "9784121026484",
@@ -759,16 +931,18 @@
             "contributor": "仁藤 敦史",
             "contributor_collation_key": "ニトウアツシ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026484.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026484.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16736139/"
         },
         {
-            "isbn": "9784121026484",
-            "title": "藤原仲麻呂",
-            "title_collation_key": "フジワラノナカマロ",
-            "contributor": "仁藤 敦史",
-            "contributor_collation_key": "ニトウアツシ",
+            "isbn": "9784121026477",
+            "title": "高地文明ー「もう一つの四大文明」の発見",
+            "title_collation_key": "コウチブンメイーモウヒトツノヨンダイブンメイノハッケン",
+            "contributor": "山本 紀夫",
+            "contributor_collation_key": "ヤマモトノリオ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026484.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026477.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16736130/"
         },
         {
             "isbn": "9784121026460",
@@ -777,7 +951,8 @@
             "contributor": "村上 靖彦",
             "contributor_collation_key": "ムラカミヤスヒコ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026460.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026460.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16736133/"
         },
         {
             "isbn": "9784121026491",
@@ -786,16 +961,8 @@
             "contributor": "吉見 俊哉",
             "contributor_collation_key": "ヨシミシュンヤ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026491.jpg"
-        },
-        {
-            "isbn": "9784434291456",
-            "title": "口腔ケアと酸素ルームで100歳まで健康に生きる",
-            "title_collation_key": "コウクウケアトサンソルームデ100サイマデケンコウニイキル",
-            "contributor": "野本恵子",
-            "contributor_collation_key": "ノモトケイコ",
-            "imprint": "国際学園",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784121026491.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16736138/"
         },
         {
             "isbn": "9784569849638",
@@ -804,7 +971,18 @@
             "contributor": "木村 尚敬",
             "contributor_collation_key": "キムラ ナオノリ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569849638.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569849638.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16714416/"
+        },
+        {
+            "isbn": "9784434291456",
+            "title": "口腔ケアと酸素ルームで100歳まで健康に生きる",
+            "title_collation_key": "コウクウケアトサンソルームデ100サイマデケンコウニイキル",
+            "contributor": "野本恵子",
+            "contributor_collation_key": "ノモトケイコ",
+            "imprint": "国際学園",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16761810/"
         },
         {
             "isbn": "9784635490566",
@@ -813,7 +991,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と溪谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16692346/"
         },
         {
             "isbn": "9784121507327",
@@ -822,7 +1001,8 @@
             "contributor": "若江 雅子",
             "contributor_collation_key": "ワカエマサコ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507327.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507327.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16736144/"
         },
         {
             "isbn": "9784121507310",
@@ -831,7 +1011,8 @@
             "contributor": "中邑 賢龍",
             "contributor_collation_key": "ナカムラケンリュウ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507310.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507310.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16736146/"
         },
         {
             "isbn": "9784905217916",
@@ -840,16 +1021,8 @@
             "contributor": "市村拓斗",
             "contributor_collation_key": "イチムラ,タクト",
             "imprint": "日本電気協会新聞部",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784910131146",
-            "title": "道徳判断のしかた",
-            "title_collation_key": "ドウトク ハンダン ノ シカタ",
-            "contributor": "リュック・ボルタンスキー",
-            "contributor_collation_key": "ボルタンスキー,リュック",
-            "imprint": "文化科学高等研究院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16802847/"
         },
         {
             "isbn": "9784828207247",
@@ -858,7 +1031,8 @@
             "contributor": "橋本　薫",
             "contributor_collation_key": "ハシモト　カオル",
             "imprint": "評言社",
-            "main_cover": "https://cover.openbd.jp/9784828207247.jpg"
+            "main_cover": "https://cover.openbd.jp/9784828207247.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16716176/"
         },
         {
             "isbn": "9784532114398",
@@ -867,25 +1041,8 @@
             "contributor": "飛田 雅則",
             "contributor_collation_key": "トビタ マサノリ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114398.jpg"
-        },
-        {
-            "isbn": "9784344986213",
-            "title": "中国経済の属国ニッポン",
-            "title_collation_key": "チュウゴクケイザイノゾッコクニッポン",
-            "contributor": "加谷 珪一",
-            "contributor_collation_key": "カヤ ケイイチ",
-            "imprint": "幻冬舎",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784344986237",
-            "title": "女たちのポリティクス",
-            "title_collation_key": "オンナタチノポリティクス",
-            "contributor": "ブレイディ みかこ",
-            "contributor_collation_key": "ブレイディ ミカコ",
-            "imprint": "幻冬舎",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784532114398.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16674926/"
         },
         {
             "isbn": "9784344986220",
@@ -894,16 +1051,28 @@
             "contributor": "倉垣 弘志",
             "contributor_collation_key": "クラガキ コウジ",
             "imprint": "幻冬舎",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16733438/"
         },
         {
-            "isbn": "9784121026446",
-            "title": "植物のいのち",
-            "title_collation_key": "ショクブツノイノチ",
-            "contributor": "田中 修",
-            "contributor_collation_key": "タナカオサム",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026446.jpg"
+            "isbn": "9784344986237",
+            "title": "女たちのポリティクス",
+            "title_collation_key": "オンナタチノポリティクス",
+            "contributor": "ブレイディ みかこ",
+            "contributor_collation_key": "ブレイディ ミカコ",
+            "imprint": "幻冬舎",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16733439/"
+        },
+        {
+            "isbn": "9784344986213",
+            "title": "中国経済の属国ニッポン",
+            "title_collation_key": "チュウゴクケイザイノゾッコクニッポン",
+            "contributor": "加谷 珪一",
+            "contributor_collation_key": "カヤ ケイイチ",
+            "imprint": "幻冬舎",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16733437/"
         },
         {
             "isbn": "9784121026422",
@@ -912,7 +1081,8 @@
             "contributor": "藤原 聖子",
             "contributor_collation_key": "フジワラサトコ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026422.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026422.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16707012/"
         },
         {
             "isbn": "9784121026453",
@@ -921,16 +1091,18 @@
             "contributor": "和田 裕弘",
             "contributor_collation_key": "ワダヤスヒロ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026453.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026453.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16707013/"
         },
         {
-            "isbn": "9784569849508",
-            "title": "指導力",
-            "title_collation_key": "シドウリョク",
-            "contributor": "仁志 敏久",
-            "contributor_collation_key": "ニシ トシヒサ",
-            "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569849508.jpg"
+            "isbn": "9784121026446",
+            "title": "植物のいのち",
+            "title_collation_key": "ショクブツノイノチ",
+            "contributor": "田中 修",
+            "contributor_collation_key": "タナカオサム",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121026446.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16707054/"
         },
         {
             "isbn": "9784121026439",
@@ -939,7 +1111,18 @@
             "contributor": "小関 隆",
             "contributor_collation_key": "コセキタカシ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026439.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026439.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16707011/"
+        },
+        {
+            "isbn": "9784569849508",
+            "title": "指導力",
+            "title_collation_key": "シドウリョク",
+            "contributor": "仁志 敏久",
+            "contributor_collation_key": "ニシ トシヒサ",
+            "imprint": "PHP研究所",
+            "main_cover": "https://cover.openbd.jp/9784569849508.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16667059/"
         },
         {
             "isbn": "9784389441401",
@@ -948,25 +1131,8 @@
             "contributor": "千葉乗隆",
             "contributor_collation_key": "チバジョウリュウ",
             "imprint": "清水書院",
-            "main_cover": "https://cover.openbd.jp/9784389441401.jpg"
-        },
-        {
-            "isbn": "9784532264604",
-            "title": "コロナ倒産の真相",
-            "title_collation_key": "コロナトウサンノシンソウ",
-            "contributor": "帝国データバンク情報部",
-            "contributor_collation_key": "テイコクデータバンクジョウホウブ",
-            "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264604.jpg"
-        },
-        {
-            "isbn": "9784532264611",
-            "title": "ジョークで読む世界ウラ事情",
-            "title_collation_key": "ジョークデヨムセカイウラジジョウ",
-            "contributor": "名越 健郎",
-            "contributor_collation_key": "ナゴシ ケンロウ",
-            "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264611.jpg"
+            "main_cover": "https://cover.openbd.jp/9784389441401.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16716772/"
         },
         {
             "isbn": "9784532264543",
@@ -975,7 +1141,28 @@
             "contributor": "榎木 英介",
             "contributor_collation_key": "エノキ エイスケ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264543.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532264543.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16675070/"
+        },
+        {
+            "isbn": "9784532264604",
+            "title": "コロナ倒産の真相",
+            "title_collation_key": "コロナトウサンノシンソウ",
+            "contributor": "帝国データバンク情報部",
+            "contributor_collation_key": "テイコクデータバンクジョウホウブ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://cover.openbd.jp/9784532264604.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16675062/"
+        },
+        {
+            "isbn": "9784532264611",
+            "title": "ジョークで読む世界ウラ事情",
+            "title_collation_key": "ジョークデヨムセカイウラジジョウ",
+            "contributor": "名越 健郎",
+            "contributor_collation_key": "ナゴシ ケンロウ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://cover.openbd.jp/9784532264611.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16675061/"
         },
         {
             "isbn": "9784532264628",
@@ -984,7 +1171,8 @@
             "contributor": "榎本 博明",
             "contributor_collation_key": "エノモト ヒロアキ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264628.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532264628.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16675060/"
         },
         {
             "isbn": "9784121507280",
@@ -993,7 +1181,8 @@
             "contributor": "櫻田 大造",
             "contributor_collation_key": "サクラダダイゾウ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507280.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507280.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16707069/"
         },
         {
             "isbn": "9784121507297",
@@ -1002,7 +1191,8 @@
             "contributor": "佐藤 信弥",
             "contributor_collation_key": "サトウシンヤ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507297.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507297.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16707071/"
         },
         {
             "isbn": "9784121507273",
@@ -1011,7 +1201,8 @@
             "contributor": "野口 悠紀雄",
             "contributor_collation_key": "ノグチユキオ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507273.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507273.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16707072/"
         },
         {
             "isbn": "9784828207223",
@@ -1020,7 +1211,8 @@
             "contributor": "藤田　道男",
             "contributor_collation_key": "フジタ　ミチオ",
             "imprint": "評言社",
-            "main_cover": "https://cover.openbd.jp/9784828207223.jpg"
+            "main_cover": "https://cover.openbd.jp/9784828207223.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16675286/"
         },
         {
             "isbn": "9784828207230",
@@ -1029,7 +1221,8 @@
             "contributor": "杉本　豊志",
             "contributor_collation_key": "スギモト　トヨシ",
             "imprint": "評言社",
-            "main_cover": "https://cover.openbd.jp/9784828207230.jpg"
+            "main_cover": "https://cover.openbd.jp/9784828207230.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16675287/"
         },
         {
             "isbn": "9784910131122",
@@ -1038,7 +1231,8 @@
             "contributor": "浅利誠",
             "contributor_collation_key": "アサリ,マコト",
             "imprint": "文化科学高等研究院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16759009/"
         },
         {
             "isbn": "9784532114374",
@@ -1047,7 +1241,8 @@
             "contributor": "マーサージャパン",
             "contributor_collation_key": "マーサージャパン",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114374.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532114374.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16649891/"
         },
         {
             "isbn": "9784799327296",
@@ -1056,7 +1251,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ディスカヴァー・トゥエンティワン",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16672900/"
         },
         {
             "isbn": "9784121026392",
@@ -1065,34 +1261,8 @@
             "contributor": "岡本 亮輔",
             "contributor_collation_key": "オカモトリョウスケ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026392.jpg"
-        },
-        {
-            "isbn": "9784121026415",
-            "title": "小説読解入門",
-            "title_collation_key": "ショウセツドッカイニュウモン",
-            "contributor": "廣野 由美子",
-            "contributor_collation_key": "ヒロノユミコ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026415.jpg"
-        },
-        {
-            "isbn": "9784121026385",
-            "title": "幣原喜重郎",
-            "title_collation_key": "シデハラキジュウロウ",
-            "contributor": "熊本 史雄",
-            "contributor_collation_key": "クマモトフミオ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026385.jpg"
-        },
-        {
-            "isbn": "9784532114404",
-            "title": "医療と介護　3つのベクトル",
-            "title_collation_key": "イリョウトカイゴミッツノベクトル",
-            "contributor": "池上 直己",
-            "contributor_collation_key": "イケガミ ナオキ",
-            "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114404.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026392.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16669062/"
         },
         {
             "isbn": "9784121918673",
@@ -1101,7 +1271,28 @@
             "contributor": "美川 圭",
             "contributor_collation_key": "ミカワケイ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121918673.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121918673.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16668982/"
+        },
+        {
+            "isbn": "9784121026415",
+            "title": "小説読解入門",
+            "title_collation_key": "ショウセツドッカイニュウモン",
+            "contributor": "廣野 由美子",
+            "contributor_collation_key": "ヒロノユミコ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121026415.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16669060/"
+        },
+        {
+            "isbn": "9784532114404",
+            "title": "医療と介護　3つのベクトル",
+            "title_collation_key": "イリョウトカイゴミッツノベクトル",
+            "contributor": "池上 直己",
+            "contributor_collation_key": "イケガミ ナオキ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://cover.openbd.jp/9784532114404.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16674925/"
         },
         {
             "isbn": "9784121026408",
@@ -1110,16 +1301,18 @@
             "contributor": "佐藤 信之",
             "contributor_collation_key": "サトウノブユキ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026408.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026408.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16669061/"
         },
         {
-            "isbn": "9784532119430",
-            "title": "ビジュアル　ビジネスモデルがわかる",
-            "title_collation_key": "ビジュアルビジネスモデルガワカル",
-            "contributor": "井上 達彦",
-            "contributor_collation_key": "イノウエ タツヒコ",
-            "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532119430.jpg"
+            "isbn": "9784121026385",
+            "title": "幣原喜重郎",
+            "title_collation_key": "シデハラキジュウロウ",
+            "contributor": "熊本 史雄",
+            "contributor_collation_key": "クマモトフミオ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121026385.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16669063/"
         },
         {
             "isbn": "9784532114367",
@@ -1128,7 +1321,18 @@
             "contributor": "藤井 彰夫",
             "contributor_collation_key": "フジイ アキオ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114367.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532114367.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16649892/"
+        },
+        {
+            "isbn": "9784532119430",
+            "title": "ビジュアル　ビジネスモデルがわかる",
+            "title_collation_key": "ビジュアルビジネスモデルガワカル",
+            "contributor": "井上 達彦",
+            "contributor_collation_key": "イノウエ タツヒコ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://cover.openbd.jp/9784532119430.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16476361/"
         },
         {
             "isbn": "9784121507259",
@@ -1137,7 +1341,8 @@
             "contributor": "池上 彰;佐藤 優",
             "contributor_collation_key": "イケガミアキラ サトウマサル",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507259.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507259.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16668996/"
         },
         {
             "isbn": "9784121507266",
@@ -1146,7 +1351,8 @@
             "contributor": "澤田 晃宏",
             "contributor_collation_key": "サワダアキヒロ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507266.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507266.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16668997/"
         },
         {
             "isbn": "9784771034884",
@@ -1155,7 +1361,8 @@
             "contributor": "伊藤　良高/大津　尚志",
             "contributor_collation_key": "イトウヨシタカ/オオツタカシ",
             "imprint": "晃洋書房",
-            "main_cover": "https://cover.openbd.jp/9784771034884.jpg"
+            "main_cover": "https://cover.openbd.jp/9784771034884.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16676096/"
         },
         {
             "isbn": "9784910131115",
@@ -1164,7 +1371,8 @@
             "contributor": "吉本隆明",
             "contributor_collation_key": "ヨシモト,タカアキ",
             "imprint": "文化科学高等研究院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16729918/"
         },
         {
             "isbn": "9784908128295",
@@ -1173,7 +1381,8 @@
             "contributor": "松井嘉和",
             "contributor_collation_key": "マツイ,ヨシカズ",
             "imprint": "神社新報社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16723063/"
         },
         {
             "isbn": "9784839106003",
@@ -1182,7 +1391,8 @@
             "contributor": "石谷建志",
             "contributor_collation_key": "イシタニ,タケシ",
             "imprint": "明文書房",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16728751/"
         },
         {
             "isbn": "9784344986183",
@@ -1191,7 +1401,8 @@
             "contributor": "丹羽 宇一郎",
             "contributor_collation_key": "ニワ ウイチロウ",
             "imprint": "幻冬舎",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16667998/"
         },
         {
             "isbn": "9784344986152",
@@ -1200,16 +1411,8 @@
             "contributor": "河合 敦",
             "contributor_collation_key": "カワイ アツシ",
             "imprint": "幻冬舎",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784121507242",
-            "title": "鳥取力",
-            "title_collation_key": "トットリリョク",
-            "contributor": "平井 伸治",
-            "contributor_collation_key": "ヒライシンジ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507242.jpg"
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16667995/"
         },
         {
             "isbn": "9784121026354",
@@ -1218,16 +1421,18 @@
             "contributor": "青木 栄一",
             "contributor_collation_key": "アオキエイイチ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026354.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026354.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16638053/"
         },
         {
-            "isbn": "9784121026361",
-            "title": "古代日本の官僚",
-            "title_collation_key": "コダイニホンノカンリョウ",
-            "contributor": "虎尾 達哉",
-            "contributor_collation_key": "トラオタツヤ",
+            "isbn": "9784121507242",
+            "title": "鳥取力",
+            "title_collation_key": "トットリリョク",
+            "contributor": "平井 伸治",
+            "contributor_collation_key": "ヒライシンジ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026361.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507242.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16638035/"
         },
         {
             "isbn": "9784121916174",
@@ -1236,7 +1441,18 @@
             "contributor": "笠原 英彦",
             "contributor_collation_key": "カサハラヒデヒコ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121916174.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121916174.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16637949/"
+        },
+        {
+            "isbn": "9784121026361",
+            "title": "古代日本の官僚",
+            "title_collation_key": "コダイニホンノカンリョウ",
+            "contributor": "虎尾 達哉",
+            "contributor_collation_key": "トラオタツヤ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121026361.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16637996/"
         },
         {
             "isbn": "9784121026378",
@@ -1245,7 +1461,8 @@
             "contributor": "北村 一真",
             "contributor_collation_key": "キタムラカズマ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026378.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026378.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16637995/"
         },
         {
             "isbn": "9784569849225",
@@ -1254,7 +1471,8 @@
             "contributor": "喜瀬 雅則",
             "contributor_collation_key": "キセ マサノリ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569849225.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569849225.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16628318/"
         },
         {
             "isbn": "9784479393603",
@@ -1263,7 +1481,8 @@
             "contributor": "スエヒロ",
             "contributor_collation_key": "スエヒロ",
             "imprint": "大和書房",
-            "main_cover": "https://cover.openbd.jp/9784479393603.jpg"
+            "main_cover": "https://cover.openbd.jp/9784479393603.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16654969/"
         },
         {
             "isbn": "9784828207193",
@@ -1272,7 +1491,8 @@
             "contributor": "小原　道子",
             "contributor_collation_key": "オバラ　ミチコ",
             "imprint": "評言社",
-            "main_cover": "https://cover.openbd.jp/9784828207193.jpg"
+            "main_cover": "https://cover.openbd.jp/9784828207193.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16625851/"
         },
         {
             "isbn": "9784828207209",
@@ -1281,16 +1501,8 @@
             "contributor": "都築　稔",
             "contributor_collation_key": "ツヅキ　ミノル",
             "imprint": "評言社",
-            "main_cover": "https://cover.openbd.jp/9784828207209.jpg"
-        },
-        {
-            "isbn": "9784532114343",
-            "title": "実践！1on1ミーティング",
-            "title_collation_key": "ジッセンワンオンワンミーティング",
-            "contributor": "本田 賢広",
-            "contributor_collation_key": "ホンダ タカヒロ",
-            "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114343.jpg"
+            "main_cover": "https://cover.openbd.jp/9784828207209.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16625874/"
         },
         {
             "isbn": "9784532114350",
@@ -1299,16 +1511,18 @@
             "contributor": "小早川 鳳明",
             "contributor_collation_key": "コバヤカワ ホウメイ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114350.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532114350.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16621143/"
         },
         {
-            "isbn": "9784532264550",
-            "title": "お殿様の定年後",
-            "title_collation_key": "オトノサマノテイネンゴ",
-            "contributor": "安藤 優一郎",
-            "contributor_collation_key": "アンドウ ユウイチロウ",
+            "isbn": "9784532114343",
+            "title": "実践！1on1ミーティング",
+            "title_collation_key": "ジッセンワンオンワンミーティング",
+            "contributor": "本田 賢広",
+            "contributor_collation_key": "ホンダ タカヒロ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264550.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532114343.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16621144/"
         },
         {
             "isbn": "9784532264567",
@@ -1317,7 +1531,18 @@
             "contributor": "前田 昌孝",
             "contributor_collation_key": "マエダ マサタカ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264567.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532264567.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16621110/"
+        },
+        {
+            "isbn": "9784532264550",
+            "title": "お殿様の定年後",
+            "title_collation_key": "オトノサマノテイネンゴ",
+            "contributor": "安藤 優一郎",
+            "contributor_collation_key": "アンドウ ユウイチロウ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://cover.openbd.jp/9784532264550.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16621108/"
         },
         {
             "isbn": "9784532264536",
@@ -1326,7 +1551,8 @@
             "contributor": "中藤 玲",
             "contributor_collation_key": "ナカフジ レイ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264536.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532264536.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16621106/"
         },
         {
             "isbn": "9784532264574",
@@ -1335,16 +1561,8 @@
             "contributor": "磯 達雄/宮沢 洋",
             "contributor_collation_key": "イソ タツオ/ミヤザワ ヒロシ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532264574.jpg"
-        },
-        {
-            "isbn": "9784121507198",
-            "title": "「失敗」の日本史",
-            "title_collation_key": "シッパイノニホンシ",
-            "contributor": "本郷 和人",
-            "contributor_collation_key": "ホンゴウカズト",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507198.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532264574.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16621111/"
         },
         {
             "isbn": "9784121507228",
@@ -1353,7 +1571,18 @@
             "contributor": "中原 淳",
             "contributor_collation_key": "ナカハラジュン",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507228.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507228.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16638039/"
+        },
+        {
+            "isbn": "9784121507198",
+            "title": "「失敗」の日本史",
+            "title_collation_key": "シッパイノニホンシ",
+            "contributor": "本郷 和人",
+            "contributor_collation_key": "ホンゴウカズト",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121507198.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16638023/"
         },
         {
             "isbn": "9784121507235",
@@ -1362,16 +1591,8 @@
             "contributor": "小林 雅一",
             "contributor_collation_key": "コバヤシマサカズ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507235.jpg"
-        },
-        {
-            "isbn": "9784121507211",
-            "title": "増補版　わが人生記",
-            "title_collation_key": "ゾウホバン ワガジンセイキ",
-            "contributor": "渡邉 恒雄",
-            "contributor_collation_key": "ワタナベツネオ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507211.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507235.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16638040/"
         },
         {
             "isbn": "9784121507204",
@@ -1380,7 +1601,18 @@
             "contributor": "早坂 隆",
             "contributor_collation_key": "ハヤサカタカシ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507204.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507204.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16638036/"
+        },
+        {
+            "isbn": "9784121507211",
+            "title": "増補版　わが人生記",
+            "title_collation_key": "ゾウホバン ワガジンセイキ",
+            "contributor": "渡邉 恒雄",
+            "contributor_collation_key": "ワタナベツネオ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121507211.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16638037/"
         },
         {
             "isbn": "9784569848662",
@@ -1389,16 +1621,8 @@
             "contributor": "小阪 裕司",
             "contributor_collation_key": "コサカ ユウジ",
             "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569848662.jpg"
-        },
-        {
-            "isbn": "9784121026316",
-            "title": "現代民主主義",
-            "title_collation_key": "ゲンダイミンシュシュギ",
-            "contributor": "山本 圭",
-            "contributor_collation_key": "ヤマモトケイ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026316.jpg"
+            "main_cover": "https://cover.openbd.jp/9784569848662.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16585687/"
         },
         {
             "isbn": "9784121026330",
@@ -1407,7 +1631,18 @@
             "contributor": "光井 渉",
             "contributor_collation_key": "ミツイワタル",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026330.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026330.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16607856/"
+        },
+        {
+            "isbn": "9784121026316",
+            "title": "現代民主主義",
+            "title_collation_key": "ゲンダイミンシュシュギ",
+            "contributor": "山本 圭",
+            "contributor_collation_key": "ヤマモトケイ",
+            "imprint": "中央公論新社",
+            "main_cover": "https://cover.openbd.jp/9784121026316.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16607855/"
         },
         {
             "isbn": "9784121026347",
@@ -1416,7 +1651,8 @@
             "contributor": "小島 庸平",
             "contributor_collation_key": "コジマヨウヘイ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026347.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026347.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16607858/"
         },
         {
             "isbn": "9784121026323",
@@ -1425,7 +1661,8 @@
             "contributor": "津止 正敏",
             "contributor_collation_key": "ツドメマサトシ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026323.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121026323.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16607857/"
         },
         {
             "isbn": "9784532114336",
@@ -1434,7 +1671,8 @@
             "contributor": "堀 龍兒/淵邊 善彦",
             "contributor_collation_key": "ホリ リュウジ/フチベ ヨシヒコ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114336.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532114336.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16586561/"
         },
         {
             "isbn": "9784532114329",
@@ -1443,7 +1681,8 @@
             "contributor": "小平 龍四郎",
             "contributor_collation_key": "コダイラ リュウシロウ",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114329.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532114329.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16586560/"
         },
         {
             "isbn": "9784820728733",
@@ -1452,7 +1691,8 @@
             "contributor": "片山 立志",
             "contributor_collation_key": "カタヤマタツシ",
             "imprint": "日本能率協会マネジメントセンター",
-            "main_cover": "https://cover.openbd.jp/9784820728733.jpg"
+            "main_cover": "https://cover.openbd.jp/9784820728733.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16596872/"
         },
         {
             "isbn": "9784121507174",
@@ -1461,7 +1701,8 @@
             "contributor": "三森 ゆりか",
             "contributor_collation_key": "サンモリユリカ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507174.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507174.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16607833/"
         },
         {
             "isbn": "9784121507167",
@@ -1470,7 +1711,8 @@
             "contributor": "安田 峰俊",
             "contributor_collation_key": "ヤスダミネトシ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507167.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507167.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16607832/"
         },
         {
             "isbn": "9784121507181",
@@ -1479,7 +1721,8 @@
             "contributor": "森村 誠一",
             "contributor_collation_key": "モリムラセイイチ",
             "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121507181.jpg"
+            "main_cover": "https://cover.openbd.jp/9784121507181.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16607834/"
         },
         {
             "isbn": "9784434274701",
@@ -1488,7 +1731,8 @@
             "contributor": "外山　徹",
             "contributor_collation_key": "トヤマトオル",
             "imprint": "ふこく出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16290290/"
         },
         {
             "isbn": "9784910131092",
@@ -1497,7 +1741,8 @@
             "contributor": "山本哲士",
             "contributor_collation_key": "ヤマモト,テツジ",
             "imprint": "文化科学高等研究院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16667443/"
         },
         {
             "isbn": "9784910131078",
@@ -1506,7 +1751,8 @@
             "contributor": "松下和雄",
             "contributor_collation_key": "マツシタ,カズオ",
             "imprint": "文化科学高等研究院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16668528/"
         },
         {
             "isbn": "9784910131061",
@@ -1515,7 +1761,8 @@
             "contributor": "矢野雅文",
             "contributor_collation_key": "ヤノ,マサフミ",
             "imprint": "文化科学高等研究院",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16668527/"
         },
         {
             "isbn": "9784344986107",
@@ -1524,79 +1771,8 @@
             "contributor": "下重 暁子",
             "contributor_collation_key": "シモジュウ アキコ",
             "imprint": "幻冬舎",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784121026279",
-            "title": "戦後民主主義",
-            "title_collation_key": "センゴミンシュシュギ",
-            "contributor": "山本 昭宏",
-            "contributor_collation_key": "ヤマモトアキヒロ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026279.jpg"
-        },
-        {
-            "isbn": "9784121026293",
-            "title": "ロヒンギャ危機ー「民族浄化」の真相",
-            "title_collation_key": "ロヒンギャキキー「ミンゾクジョウカ」ノシンソウ",
-            "contributor": "中西 嘉宏",
-            "contributor_collation_key": "ナカニシヨシヒロ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026293.jpg"
-        },
-        {
-            "isbn": "9784532114312",
-            "title": "ビジネス新・教養講座　企業経営の教科書",
-            "title_collation_key": "ビジネスシン キョウヨウコウザ キギョウケイエイノキョウカショ",
-            "contributor": "遠藤 功",
-            "contributor_collation_key": "エンドウ イサオ",
-            "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532114312.jpg"
-        },
-        {
-            "isbn": "9784121026309",
-            "title": "現代音楽史",
-            "title_collation_key": "ゲンダイオンガクシ",
-            "contributor": "沼野 雄司",
-            "contributor_collation_key": "ヌマノユウジ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026309.jpg"
-        },
-        {
-            "isbn": "9784121921956",
-            "title": "入門 人間の安全保障　増補版",
-            "title_collation_key": "ニュウモン ニンゲンノアンゼンホショウ ゾウホバン",
-            "contributor": "長 有紀枝",
-            "contributor_collation_key": "オサユキエ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121921956.jpg"
-        },
-        {
-            "isbn": "9784121026262",
-            "title": "フランクリン・ローズヴェルト",
-            "title_collation_key": "フランクリン・ローズヴェルト",
-            "contributor": "佐藤 千登勢",
-            "contributor_collation_key": "サトウチトセ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026262.jpg"
-        },
-        {
-            "isbn": "9784532119447",
-            "title": "ビジュアル　図でわかる会社法＜第2版＞",
-            "title_collation_key": "ビジュアル ズデワカルカイシャホウ ダイニバン",
-            "contributor": "柴田 和史",
-            "contributor_collation_key": "シバタ カズフミ",
-            "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532119447.jpg"
-        },
-        {
-            "isbn": "9784121026286",
-            "title": "英文法再入門",
-            "title_collation_key": "エイブンポウサイニュウモン",
-            "contributor": "澤井 康佑",
-            "contributor_collation_key": "サワイコウスケ",
-            "imprint": "中央公論新社",
-            "main_cover": "https://cover.openbd.jp/9784121026286.jpg"
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16596715/"
         }
     ]
 }
