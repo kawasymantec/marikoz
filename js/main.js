@@ -25,7 +25,7 @@
 
     var base = document.createElement("a-entity");
     base.setAttribute("id","bookdetailview");
-    base.setAttribute("position","0 0 -0.28");
+    base.setAttribute("position","0 0 -0.38");
 
     var backpanel = document.createElement("a-plane");
     backpanel.setAttribute("height",0.2);
