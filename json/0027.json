@@ -15,13 +15,34 @@
     ],
     "books": [
         {
+            "isbn": "9784799328118",
+            "title": "最高のコーチは、教えない。",
+            "title_collation_key": "サイコウノコーチハ オシエナイ",
+            "contributor": "吉井 理人",
+            "contributor_collation_key": "ヨシイマサト",
+            "imprint": "ディスカヴァー・トゥエンティワン",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16959722/"
+        },
+        {
+            "isbn": "9784023319929",
+            "title": "第103回全国高等学校野球選手権大会　公式記録集",
+            "title_collation_key": "ダイ103カイゼンコクコウトウガッコウヤキュウセンシュケンタイカイ コウシキキロクシュウ",
+            "contributor": "朝日新聞社",
+            "contributor_collation_key": "アサヒシンブンシャ",
+            "imprint": "朝日新聞出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16916574/"
+        },
+        {
             "isbn": "9784635044271",
             "title": "バックカントリースキー＆-スノーボード",
             "title_collation_key": "",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と溪谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16918701/"
         },
         {
             "isbn": "9784408064109",
@@ -30,7 +51,8 @@
             "contributor": "実業之日本社",
             "contributor_collation_key": "ジツギョウノニホンシャ",
             "imprint": "実業之日本社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16857394/"
         },
         {
             "isbn": "9784835643540",
@@ -39,7 +61,8 @@
             "contributor": "EKIDEN NEWS",
             "contributor_collation_key": "エキデンニュース",
             "imprint": "ぴあ",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16933489/"
         },
         {
             "isbn": "9784828423487",
@@ -48,7 +71,28 @@
             "contributor": "塩田芳久",
             "contributor_collation_key": "シオタヨシヒサ",
             "imprint": "ビジネス社",
-            "main_cover": "https://cover.openbd.jp/9784828423487.jpg"
+            "main_cover": "https://cover.openbd.jp/9784828423487.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16920444/"
+        },
+        {
+            "isbn": "9784434296192",
+            "title": "常勝のワンチームを作る8つのステップ",
+            "title_collation_key": "ジョウショウノワンチームヲツクルヤッツノステップ",
+            "contributor": "林敏之",
+            "contributor_collation_key": "ハヤシトシユキ",
+            "imprint": "白秋社",
+            "main_cover": "https://cover.openbd.jp/9784434296192.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16891614/"
+        },
+        {
+            "isbn": "9784807296750",
+            "title": "プレミアム・ボーティング（Vol．09）",
+            "title_collation_key": "プレミアム ボーティング",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "舵社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16958799/"
         },
         {
             "isbn": "9784575458947",
@@ -57,7 +101,38 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "双葉社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16876092/"
+        },
+        {
+            "isbn": "9784583114279",
+            "title": "それはパンデミックから始まった",
+            "title_collation_key": "ソレハパンデミックカラハジマッタ",
+            "contributor": "佐山和夫",
+            "contributor_collation_key": "サヤマカズオ",
+            "imprint": "ベースボール・マガジン社",
+            "main_cover": "https://cover.openbd.jp/9784583114279.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16916465/"
+        },
+        {
+            "isbn": "9784845117284",
+            "title": "「スポーツ根性論」の誕生と変容",
+            "title_collation_key": "スポーツコンジョウロンノタンジョウトヘンヨウ",
+            "contributor": "岡部 祐介",
+            "contributor_collation_key": "オカベユウスケ",
+            "imprint": "旬報社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16901815/"
+        },
+        {
+            "isbn": "9784041118573",
+            "title": "東京2020オリンピック公式記録集",
+            "title_collation_key": "トウキョウニーゼロニーゼロ　オリンピックコウシキキロクシュウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041118573.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16802440/"
         },
         {
             "isbn": "9784163914640",
@@ -66,7 +141,8 @@
             "contributor": "山際 康之",
             "contributor_collation_key": "ヤマギワ ヤスユキ",
             "imprint": "文藝春秋",
-            "main_cover": "https://cover.openbd.jp/9784163914640.jpg"
+            "main_cover": "https://cover.openbd.jp/9784163914640.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16910075/"
         },
         {
             "isbn": "9784594617868",
@@ -75,16 +151,8 @@
             "contributor": "自衛隊体育学校",
             "contributor_collation_key": "ジエエイタイタイイクガッコウ",
             "imprint": "扶桑社",
-            "main_cover": "https://cover.openbd.jp/9784594617868.jpg"
-        },
-        {
-            "isbn": "9784073430070",
-            "title": "バレーボールNEXt　Vol．10",
-            "title_collation_key": "バレーボールネクストボリュームテン",
-            "contributor": "ブランニュー",
-            "contributor_collation_key": "ブランニュー",
-            "imprint": "主婦の友社",
-            "main_cover": "https://cover.openbd.jp/9784073430070.jpg"
+            "main_cover": "https://cover.openbd.jp/9784594617868.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16924747/"
         },
         {
             "isbn": "9784583113715",
@@ -93,16 +161,18 @@
             "contributor": "小岩健一",
             "contributor_collation_key": "コイワケンイチ",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583113715.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583113715.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16935982/"
         },
         {
-            "isbn": "9784774519258",
-            "title": "子どものスポーツパフォーマンスを高めるトレーニングの基本",
-            "title_collation_key": "コドモノスポーツパフォーマンスヲタカメルトレーニングノキホン",
-            "contributor": "比嘉　進",
-            "contributor_collation_key": "ヒガ　ススム",
-            "imprint": "現代書林",
-            "main_cover": "https://cover.openbd.jp/9784774519258.jpg"
+            "isbn": "9784073430070",
+            "title": "バレーボールNEXt　Vol．10",
+            "title_collation_key": "バレーボールネクストボリュームテン",
+            "contributor": "ブランニュー",
+            "contributor_collation_key": "ブランニュー",
+            "imprint": "主婦の友社",
+            "main_cover": "https://cover.openbd.jp/9784073430070.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16923639/"
         },
         {
             "isbn": "9784833480765",
@@ -111,16 +181,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "グローバルゴルフメディアグループ株式会社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784833480772",
-            "title": "最新人気レッスン8連発！",
-            "title_collation_key": "サイシンニンキレッスンハチレンパツ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "グローバルゴルフメディアグループ株式会社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16892601/"
         },
         {
             "isbn": "9784575458930",
@@ -129,7 +191,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "双葉社",
-            "main_cover": "https://cover.openbd.jp/9784575458930.jpg"
+            "main_cover": "https://cover.openbd.jp/9784575458930.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16876091/"
+        },
+        {
+            "isbn": "9784833480772",
+            "title": "最新人気レッスン8連発！",
+            "title_collation_key": "サイシンニンキレッスンハチレンパツ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "グローバルゴルフメディアグループ株式会社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16906159/"
         },
         {
             "isbn": "9784087816907",
@@ -138,7 +211,18 @@
             "contributor": "寺野 典子",
             "contributor_collation_key": "テラノ ノリコ",
             "imprint": "集英社",
-            "main_cover": "https://cover.openbd.jp/9784087816907.jpg"
+            "main_cover": "https://cover.openbd.jp/9784087816907.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16892487/"
+        },
+        {
+            "isbn": "9784774519258",
+            "title": "子どものスポーツパフォーマンスを高めるトレーニングの基本",
+            "title_collation_key": "コドモノスポーツパフォーマンスヲタカメルトレーニングノキホン",
+            "contributor": "比嘉　進",
+            "contributor_collation_key": "ヒガ　ススム",
+            "imprint": "現代書林",
+            "main_cover": "https://cover.openbd.jp/9784774519258.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16900062/"
         },
         {
             "isbn": "9784635907514",
@@ -147,7 +231,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と渓谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16931455/"
+        },
+        {
+            "isbn": "9784774740416",
+            "title": "スワローズ優勝！プロ野球2021シーズン総括BOOK",
+            "title_collation_key": "スワローズユウショウ　プロヤキュウニセンニジュウイチシーズンソウカツブック",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "コスミック出版",
+            "main_cover": "https://cover.openbd.jp/9784774740416.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16940269/"
         },
         {
             "isbn": "9784788915008",
@@ -156,7 +251,8 @@
             "contributor": "吉田　洋一郎",
             "contributor_collation_key": "ヨシダ　ヒロイチロウ",
             "imprint": "実務教育出版",
-            "main_cover": "https://cover.openbd.jp/9784788915008.jpg"
+            "main_cover": "https://cover.openbd.jp/9784788915008.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16886274/"
         },
         {
             "isbn": "9784771035201",
@@ -165,7 +261,8 @@
             "contributor": "相原　正道/前田　和範",
             "contributor_collation_key": "アイハラマサミチ/マエダカズノリ",
             "imprint": "晃洋書房",
-            "main_cover": "https://cover.openbd.jp/9784771035201.jpg"
+            "main_cover": "https://cover.openbd.jp/9784771035201.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16915070/"
         },
         {
             "isbn": "9784394195047",
@@ -174,7 +271,8 @@
             "contributor": "田嶋リサ",
             "contributor_collation_key": "タジマリサ",
             "imprint": "春陽堂書店",
-            "main_cover": "https://cover.openbd.jp/9784394195047.jpg"
+            "main_cover": "https://cover.openbd.jp/9784394195047.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16906465/"
         },
         {
             "isbn": "9784594088088",
@@ -183,7 +281,8 @@
             "contributor": "田中充/森田景史",
             "contributor_collation_key": "タナカミツル/モリタケイジ",
             "imprint": "扶桑社",
-            "main_cover": "https://cover.openbd.jp/9784594088088.jpg"
+            "main_cover": "https://cover.openbd.jp/9784594088088.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16923608/"
         },
         {
             "isbn": "9784419068325",
@@ -192,7 +291,8 @@
             "contributor": "西崎　信男",
             "contributor_collation_key": "ニシザキ　ノブオ",
             "imprint": "税務経理協会",
-            "main_cover": "https://cover.openbd.jp/9784419068325.jpg"
+            "main_cover": "https://cover.openbd.jp/9784419068325.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16938544/"
         },
         {
             "isbn": "9784780425413",
@@ -201,16 +301,8 @@
             "contributor": "藤本 剛士",
             "contributor_collation_key": "フジモトツヨシ",
             "imprint": "メイツ出版",
-            "main_cover": "https://cover.openbd.jp/9784780425413.jpg"
-        },
-        {
-            "isbn": "9784865652123",
-            "title": "プロ野球「ドラフト」総検証",
-            "title_collation_key": "プロヤキュウドラフトソウケンショウ",
-            "contributor": "出野 哲也",
-            "contributor_collation_key": "イデノ デツヤ",
-            "imprint": "言視舎",
-            "main_cover": "https://cover.openbd.jp/9784865652123.jpg"
+            "main_cover": "https://cover.openbd.jp/9784780425413.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16841231/"
         },
         {
             "isbn": "9784867013380",
@@ -219,7 +311,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "東京ニュース通信社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16923645/"
+        },
+        {
+            "isbn": "9784865652123",
+            "title": "プロ野球「ドラフト」総検証",
+            "title_collation_key": "プロヤキュウドラフトソウケンショウ",
+            "contributor": "出野 哲也",
+            "contributor_collation_key": "イデノ デツヤ",
+            "imprint": "言視舎",
+            "main_cover": "https://cover.openbd.jp/9784865652123.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16911759/"
         },
         {
             "isbn": "9784838793471",
@@ -228,7 +331,8 @@
             "contributor": "日之出出版",
             "contributor_collation_key": "ヒノデシュッパン",
             "imprint": "マガジンハウス",
-            "main_cover": "https://cover.openbd.jp/9784838793471.jpg"
+            "main_cover": "https://cover.openbd.jp/9784838793471.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16917730/"
         },
         {
             "isbn": "9784801928510",
@@ -237,7 +341,8 @@
             "contributor": "葛原 美峰",
             "contributor_collation_key": "クズハラ ヨシタカ",
             "imprint": "竹書房",
-            "main_cover": "https://cover.openbd.jp/9784801928510.jpg"
+            "main_cover": "https://cover.openbd.jp/9784801928510.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16814120/"
         },
         {
             "isbn": "9784537123906",
@@ -246,25 +351,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "日本文芸社",
-            "main_cover": "https://cover.openbd.jp/9784537123906.jpg"
-        },
-        {
-            "isbn": "9784861446191",
-            "title": "情熱のロードレース（Vol．2）",
-            "title_collation_key": "ジョウネツ ノ ロード レース",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "八重洲出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784867172445",
-            "title": "スポーツ記者が見た大谷翔平栄光の軌跡",
-            "title_collation_key": "スポーツ キシャ ガ ミタ オオタニ ショウヘイ エイコウ ノ キセキ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ジーウォーク",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784537123906.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16877696/"
         },
         {
             "isbn": "9784583626864",
@@ -273,7 +361,28 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16939761/"
+        },
+        {
+            "isbn": "9784867172445",
+            "title": "スポーツ記者が見た大谷翔平栄光の軌跡",
+            "title_collation_key": "スポーツ キシャ ガ ミタ オオタニ ショウヘイ エイコウ ノ キセキ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ジーウォーク",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16939749/"
+        },
+        {
+            "isbn": "9784861446191",
+            "title": "情熱のロードレース（Vol．2）",
+            "title_collation_key": "ジョウネツ ノ ロード レース",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "八重洲出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16939770/"
         },
         {
             "isbn": "9784780425383",
@@ -282,7 +391,8 @@
             "contributor": "岩野 華奈",
             "contributor_collation_key": "イワノカナ",
             "imprint": "メイツ出版",
-            "main_cover": "https://cover.openbd.jp/9784780425383.jpg"
+            "main_cover": "https://cover.openbd.jp/9784780425383.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16841422/"
         },
         {
             "isbn": "9784583626857",
@@ -291,7 +401,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16939760/"
         },
         {
             "isbn": "9784779644795",
@@ -300,7 +411,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "三栄書房",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16885472/"
         },
         {
             "isbn": "9784160082571",
@@ -309,7 +421,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "文藝春秋",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16935807/"
         },
         {
             "isbn": "9784788717923",
@@ -318,7 +431,8 @@
             "contributor": "時事通信社",
             "contributor_collation_key": "ジジツウシンシャ",
             "imprint": "時事通信出版局",
-            "main_cover": "https://cover.openbd.jp/9784788717923.jpg"
+            "main_cover": "https://cover.openbd.jp/9784788717923.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16911127/"
         },
         {
             "isbn": "9784087900576",
@@ -327,16 +441,8 @@
             "contributor": "羽生 結弦/折山 淑美",
             "contributor_collation_key": "ハニュウ ユヅル/オリヤマ トシミ",
             "imprint": "集英社",
-            "main_cover": "https://cover.openbd.jp/9784087900576.jpg"
-        },
-        {
-            "isbn": "9784434295560",
-            "title": "雲と風",
-            "title_collation_key": "クモトカゼ",
-            "contributor": "日口 裕二",
-            "contributor_collation_key": "ヒグチ　ユウジ",
-            "imprint": "風詠社",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784087900576.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16887034/"
         },
         {
             "isbn": "9784833480666",
@@ -345,7 +451,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "グローバルゴルフメディアグループ株式会社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16845454/"
+        },
+        {
+            "isbn": "9784434295560",
+            "title": "雲と風",
+            "title_collation_key": "クモトカゼ",
+            "contributor": "日口 裕二",
+            "contributor_collation_key": "ヒグチ　ユウジ",
+            "imprint": "風詠社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16895069/"
         },
         {
             "isbn": "9784299022035",
@@ -354,16 +471,8 @@
             "contributor": "福島 良一",
             "contributor_collation_key": "フクシマ ヨシカズ",
             "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299022035.jpg"
-        },
-        {
-            "isbn": "9784331523469",
-            "title": "証言　昭和平成プロ野球",
-            "title_collation_key": "ショウゲンショウワヘイセイプロヤキュウ",
-            "contributor": "二宮清純",
-            "contributor_collation_key": "ニノミヤセイジュン",
-            "imprint": "廣済堂出版",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784299022035.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16877288/"
         },
         {
             "isbn": "9784583114088",
@@ -372,16 +481,18 @@
             "contributor": "菊地高弘",
             "contributor_collation_key": "キクチタカヒロ",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583114088.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583114088.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16923894/"
         },
         {
-            "isbn": "9784779644863",
-            "title": "DIGGIN’　MAGAZINE（ISSUE　16）",
-            "title_collation_key": "ディギン マガジン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "三栄",
-            "main_cover": ""
+            "isbn": "9784331523469",
+            "title": "証言　昭和平成プロ野球",
+            "title_collation_key": "ショウゲンショウワヘイセイプロヤキュウ",
+            "contributor": "二宮清純",
+            "contributor_collation_key": "ニノミヤセイジュン",
+            "imprint": "廣済堂出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16874581/"
         },
         {
             "isbn": "9784309922331",
@@ -390,7 +501,18 @@
             "contributor": "西村 國彦",
             "contributor_collation_key": "ニシムラ　クニヒコ",
             "imprint": "河出書房新社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16850944/"
+        },
+        {
+            "isbn": "9784779644863",
+            "title": "DIGGIN’　MAGAZINE（ISSUE　16）",
+            "title_collation_key": "ディギン マガジン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "三栄",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16933051/"
         },
         {
             "isbn": "9784866801490",
@@ -399,7 +521,8 @@
             "contributor": "浦　大輔",
             "contributor_collation_key": "ウラ　ダイスケ",
             "imprint": "フォレスト出版",
-            "main_cover": "https://cover.openbd.jp/9784866801490.jpg"
+            "main_cover": "https://cover.openbd.jp/9784866801490.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16883083/"
         },
         {
             "isbn": "9784635460323",
@@ -408,16 +531,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と溪谷社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784262166551",
-            "title": "サッカーいい選手の考え方 個とチームを強くする30の方法",
-            "title_collation_key": "サッカーイイセンシュノカンガエカタコトチームヲツヨクスルサンジュウノホウホウ",
-            "contributor": "鬼木 祐輔",
-            "contributor_collation_key": "オニキ ユウスケ",
-            "imprint": "池田書店",
-            "main_cover": "https://cover.openbd.jp/9784262166551.jpg"
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16860475/"
         },
         {
             "isbn": "9784635460316",
@@ -426,7 +541,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と溪谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16860474/"
+        },
+        {
+            "isbn": "9784262166551",
+            "title": "サッカーいい選手の考え方 個とチームを強くする30の方法",
+            "title_collation_key": "サッカーイイセンシュノカンガエカタコトチームヲツヨクスルサンジュウノホウホウ",
+            "contributor": "鬼木 祐輔",
+            "contributor_collation_key": "オニキ ユウスケ",
+            "imprint": "池田書店",
+            "main_cover": "https://cover.openbd.jp/9784262166551.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16840793/"
         },
         {
             "isbn": "9784774792422",
@@ -435,7 +561,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "コスミック出版",
-            "main_cover": "https://cover.openbd.jp/9784774792422.jpg"
+            "main_cover": "https://cover.openbd.jp/9784774792422.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16038792/"
         },
         {
             "isbn": "9784862556189",
@@ -444,7 +571,8 @@
             "contributor": "柴村直弥",
             "contributor_collation_key": "シバムラナオヤ",
             "imprint": "カンゼン",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16869188/"
         },
         {
             "isbn": "9784909979230",
@@ -453,7 +581,8 @@
             "contributor": "江本孟紀",
             "contributor_collation_key": "エモトタケノリ",
             "imprint": "清談社Publico",
-            "main_cover": "https://cover.openbd.jp/9784909979230.jpg"
+            "main_cover": "https://cover.openbd.jp/9784909979230.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16840758/"
         },
         {
             "isbn": "9784862556172",
@@ -462,7 +591,8 @@
             "contributor": "小幡真一郎",
             "contributor_collation_key": "オバタシンイチロウ",
             "imprint": "カンゼン",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16869189/"
         },
         {
             "isbn": "9784779644726",
@@ -471,7 +601,8 @@
             "contributor": "ヘイキ・クルタ/五十嵐淳",
             "contributor_collation_key": "ヘイキクルタ/イガラシジュン",
             "imprint": "三栄",
-            "main_cover": "https://cover.openbd.jp/9784779644726.jpg"
+            "main_cover": "https://cover.openbd.jp/9784779644726.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16885084/"
         },
         {
             "isbn": "9784865138542",
@@ -480,7 +611,8 @@
             "contributor": "清水 忍",
             "contributor_collation_key": "シミズ シノブ",
             "imprint": "株式会社法研",
-            "main_cover": "https://cover.openbd.jp/9784865138542.jpg"
+            "main_cover": "https://cover.openbd.jp/9784865138542.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16896674/"
         },
         {
             "isbn": "9784635907446",
@@ -489,7 +621,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と渓谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16885236/"
         },
         {
             "isbn": "9784779644825",
@@ -498,7 +631,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "三栄",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16924264/"
         },
         {
             "isbn": "9784575458909",
@@ -507,7 +641,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "双葉社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16836499/"
         },
         {
             "isbn": "9784583114248",
@@ -516,16 +651,8 @@
             "contributor": "ジミー・バーンズ/宮川毅",
             "contributor_collation_key": "ジミーバンズ/ミヤカワツヨシ",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583114248.jpg"
-        },
-        {
-            "isbn": "9784309289243",
-            "title": "軽く振ってきれいに飛ばす！！　飛距離アップの正解",
-            "title_collation_key": "カルクフッテキレイニトバスヒキョリアップノセイカイ",
-            "contributor": "大西 翔太",
-            "contributor_collation_key": "オオニシ　ショウタ",
-            "imprint": "河出書房新社",
-            "main_cover": "https://cover.openbd.jp/9784309289243.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583114248.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16886256/"
         },
         {
             "isbn": "9784163914480",
@@ -534,16 +661,18 @@
             "contributor": "小西 慶三",
             "contributor_collation_key": "コニシ ケイゾウ",
             "imprint": "文藝春秋",
-            "main_cover": "https://cover.openbd.jp/9784163914480.jpg"
+            "main_cover": "https://cover.openbd.jp/9784163914480.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16868163/"
         },
         {
-            "isbn": "9784641165854",
-            "title": "経済学者が語るスポーツの力",
-            "title_collation_key": "ケイザイガクシャガカタルスポーツノチカラ",
-            "contributor": "佐々木 勝",
-            "contributor_collation_key": "ササキマサル",
-            "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641165854.jpg"
+            "isbn": "9784309289243",
+            "title": "軽く振ってきれいに飛ばす！！　飛距離アップの正解",
+            "title_collation_key": "カルクフッテキレイニトバスヒキョリアップノセイカイ",
+            "contributor": "大西 翔太",
+            "contributor_collation_key": "オオニシ　ショウタ",
+            "imprint": "河出書房新社",
+            "main_cover": "https://cover.openbd.jp/9784309289243.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16851013/"
         },
         {
             "isbn": "9784620327051",
@@ -552,7 +681,8 @@
             "contributor": "毎日新聞運動部",
             "contributor_collation_key": "マイニチシンブンウンドウブ",
             "imprint": "毎日新聞出版",
-            "main_cover": "https://cover.openbd.jp/9784620327051.jpg"
+            "main_cover": "https://cover.openbd.jp/9784620327051.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16829722/"
         },
         {
             "isbn": "9784833480642",
@@ -561,7 +691,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "グローバルゴルフメディアグループ株式会社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16845456/"
+        },
+        {
+            "isbn": "9784641165854",
+            "title": "経済学者が語るスポーツの力",
+            "title_collation_key": "ケイザイガクシャガカタルスポーツノチカラ",
+            "contributor": "佐々木 勝",
+            "contributor_collation_key": "ササキマサル",
+            "imprint": "有斐閣",
+            "main_cover": "https://cover.openbd.jp/9784641165854.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879447/"
         },
         {
             "isbn": "9784065260548",
@@ -570,16 +711,8 @@
             "contributor": "LUCKMAN",
             "contributor_collation_key": "ラックマン",
             "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065260548.jpg"
-        },
-        {
-            "isbn": "9784521749013",
-            "title": "整形外科医のためのスポーツ医学概論（第1巻）",
-            "title_collation_key": "セイケイゲカイノタメノスポーツイガクガイロン",
-            "contributor": "松本秀男",
-            "contributor_collation_key": "マツモトヒデオ",
-            "imprint": "中山書店",
-            "main_cover": "https://cover.openbd.jp/9784521749013.jpg"
+            "main_cover": "https://cover.openbd.jp/9784065260548.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16849259/"
         },
         {
             "isbn": "9784040823973",
@@ -588,16 +721,18 @@
             "contributor": "澤宮　優",
             "contributor_collation_key": "サワミヤ　ユウ",
             "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784040823973.jpg"
+            "main_cover": "https://cover.openbd.jp/9784040823973.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16857415/"
         },
         {
-            "isbn": "9784583626871",
-            "title": "近鉄バファローズ1989",
-            "title_collation_key": "キンテツ バファローズ センキュウヒャクハチジュウキュウ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ベースボール・マガジン社",
-            "main_cover": ""
+            "isbn": "9784521749013",
+            "title": "整形外科医のためのスポーツ医学概論（第1巻）",
+            "title_collation_key": "セイケイゲカイノタメノスポーツイガクガイロン",
+            "contributor": "松本秀男",
+            "contributor_collation_key": "マツモトヒデオ",
+            "imprint": "中山書店",
+            "main_cover": "https://cover.openbd.jp/9784521749013.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16890271/"
         },
         {
             "isbn": "9784591171073",
@@ -606,16 +741,18 @@
             "contributor": "西部　謙司/emi",
             "contributor_collation_key": "ニシベケンジ/エミ",
             "imprint": "ポプラ社",
-            "main_cover": "https://cover.openbd.jp/9784591171073.jpg"
+            "main_cover": "https://cover.openbd.jp/9784591171073.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16877708/"
         },
         {
-            "isbn": "9784833480659",
-            "title": "下半身で打つ！",
-            "title_collation_key": "カハンシンデウツ",
+            "isbn": "9784583626871",
+            "title": "近鉄バファローズ1989",
+            "title_collation_key": "キンテツ バファローズ センキュウヒャクハチジュウキュウ",
             "contributor": "",
             "contributor_collation_key": "",
-            "imprint": "グローバルゴルフメディアグループ株式会社",
-            "main_cover": ""
+            "imprint": "ベースボール・マガジン社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16911282/"
         },
         {
             "isbn": "9784594617691",
@@ -624,16 +761,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "扶桑社",
-            "main_cover": "https://cover.openbd.jp/9784594617691.jpg"
+            "main_cover": "https://cover.openbd.jp/9784594617691.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16896349/"
         },
         {
-            "isbn": "9784801928107",
-            "title": "選手主体の時短練習で花園へ　静岡聖光学院ラグビー部の部活改革",
-            "title_collation_key": "センシュシュタイノジタンレンシュウデハナゾノヘ　シズオカセイコウガクインラグビーブノブカツカイカク",
-            "contributor": "佐々木 陽平",
-            "contributor_collation_key": "ササキ ヨウヘイ",
-            "imprint": "竹書房",
-            "main_cover": "https://cover.openbd.jp/9784801928107.jpg"
+            "isbn": "9784833480659",
+            "title": "下半身で打つ！",
+            "title_collation_key": "カハンシンデウツ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "グローバルゴルフメディアグループ株式会社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16845455/"
         },
         {
             "isbn": "9784583626840",
@@ -642,7 +781,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16909305/"
+        },
+        {
+            "isbn": "9784801928107",
+            "title": "選手主体の時短練習で花園へ　静岡聖光学院ラグビー部の部活改革",
+            "title_collation_key": "センシュシュタイノジタンレンシュウデハナゾノヘ　シズオカセイコウガクインラグビーブノブカツカイカク",
+            "contributor": "佐々木 陽平",
+            "contributor_collation_key": "ササキ ヨウヘイ",
+            "imprint": "竹書房",
+            "main_cover": "https://cover.openbd.jp/9784801928107.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16765609/"
         },
         {
             "isbn": "9784903553849",
@@ -651,16 +801,8 @@
             "contributor": "日本スポーツ歯科医学会",
             "contributor_collation_key": "ニホン スポーツ シカ イガクカイ",
             "imprint": "医学情報社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784779644801",
-            "title": "Racing　on（515）",
-            "title_collation_key": "レーシング オン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "三栄",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16934169/"
         },
         {
             "isbn": "9784780425192",
@@ -669,7 +811,18 @@
             "contributor": "神谷 勝則",
             "contributor_collation_key": "カミヤカツノリ",
             "imprint": "メイツ出版",
-            "main_cover": "https://cover.openbd.jp/9784780425192.jpg"
+            "main_cover": "https://cover.openbd.jp/9784780425192.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16815258/"
+        },
+        {
+            "isbn": "9784779644801",
+            "title": "Racing　on（515）",
+            "title_collation_key": "レーシング オン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "三栄",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16908110/"
         },
         {
             "isbn": "9784583112152",
@@ -678,7 +831,8 @@
             "contributor": "辻正人",
             "contributor_collation_key": "ツジマサト",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583112152.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583112152.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/15861549/"
         },
         {
             "isbn": "9784772614740",
@@ -687,16 +841,8 @@
             "contributor": "土井香苗/杉山翔一",
             "contributor_collation_key": "ドイカナエ/スギヤマショウイチ",
             "imprint": "合同出版",
-            "main_cover": "https://cover.openbd.jp/9784772614740.jpg"
-        },
-        {
-            "isbn": "9784814204212",
-            "title": "四股鍛錬で作る達人",
-            "title_collation_key": "シコタンレンデツクルタツジン",
-            "contributor": "松田哲博/元・一ノ矢",
-            "contributor_collation_key": "マツダテツヒロ/モトイチノヤ",
-            "imprint": "BABジャパン",
-            "main_cover": "https://cover.openbd.jp/9784814204212.jpg"
+            "main_cover": "https://cover.openbd.jp/9784772614740.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16801659/"
         },
         {
             "isbn": "9784777828241",
@@ -705,7 +851,8 @@
             "contributor": "安齋竜三/小谷 究",
             "contributor_collation_key": "アンザイリュウゾウ/コタニキワム",
             "imprint": "辰巳出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16849338/"
         },
         {
             "isbn": "9784534058751",
@@ -714,7 +861,18 @@
             "contributor": "中川 右介",
             "contributor_collation_key": "ナカガワ ユウスケ",
             "imprint": "日本実業出版社",
-            "main_cover": "https://cover.openbd.jp/9784534058751.jpg"
+            "main_cover": "https://cover.openbd.jp/9784534058751.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16823459/"
+        },
+        {
+            "isbn": "9784814204212",
+            "title": "四股鍛錬で作る達人",
+            "title_collation_key": "シコタンレンデツクルタツジン",
+            "contributor": "松田哲博/元・一ノ矢",
+            "contributor_collation_key": "マツダテツヒロ/モトイチノヤ",
+            "imprint": "BABジャパン",
+            "main_cover": "https://cover.openbd.jp/9784814204212.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16850878/"
         },
         {
             "isbn": "9784583626833",
@@ -723,7 +881,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16905645/"
         },
         {
             "isbn": "9784777026432",
@@ -732,7 +891,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ネコ・パブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784777026432.jpg"
+            "main_cover": "https://cover.openbd.jp/9784777026432.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16905638/"
         },
         {
             "isbn": "9784635907460",
@@ -741,7 +901,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と渓谷社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16874601/"
         },
         {
             "isbn": "9784833480581",
@@ -750,7 +911,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "グローバルゴルフメディアグループ株式会社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16820236/"
         },
         {
             "isbn": "9784801928251",
@@ -759,7 +921,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "竹書房",
-            "main_cover": "https://cover.openbd.jp/9784801928251.jpg"
+            "main_cover": "https://cover.openbd.jp/9784801928251.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16850613/"
         },
         {
             "isbn": "9784583114149",
@@ -768,7 +931,8 @@
             "contributor": "NEXTFIT Kent",
             "contributor_collation_key": "ネクストフィットケント",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583114149.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583114149.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16874477/"
         },
         {
             "isbn": "9784779644641",
@@ -777,7 +941,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "三栄",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16899446/"
         },
         {
             "isbn": "9784163914411",
@@ -786,7 +951,8 @@
             "contributor": "鈴木 忠平",
             "contributor_collation_key": "スズキ タダヒラ",
             "imprint": "文藝春秋",
-            "main_cover": "https://cover.openbd.jp/9784163914411.jpg"
+            "main_cover": "https://cover.openbd.jp/9784163914411.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16858643/"
         },
         {
             "isbn": "9784048971096",
@@ -795,7 +961,8 @@
             "contributor": "平野　歩夢",
             "contributor_collation_key": "ヒラノ　アユム",
             "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784048971096.jpg"
+            "main_cover": "https://cover.openbd.jp/9784048971096.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16812416/"
         },
         {
             "isbn": "9784065261323",
@@ -804,7 +971,8 @@
             "contributor": "水谷 隼",
             "contributor_collation_key": "ミズタニ ジュン",
             "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065261323.jpg"
+            "main_cover": "https://cover.openbd.jp/9784065261323.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16868180/"
         },
         {
             "isbn": "9784908804762",
@@ -813,7 +981,8 @@
             "contributor": "小谷 究/東野 智弥",
             "contributor_collation_key": "コタニ　キワム/ヒガシノ　トモヤ",
             "imprint": "エクシア出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16836644/"
         },
         {
             "isbn": "9784022517531",
@@ -822,7 +991,8 @@
             "contributor": "長谷川晶一",
             "contributor_collation_key": "ハセガワショウイチ",
             "imprint": "朝日新聞出版",
-            "main_cover": "https://cover.openbd.jp/9784022517531.jpg"
+            "main_cover": "https://cover.openbd.jp/9784022517531.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16837737/"
         },
         {
             "isbn": "9784087443011",
@@ -831,7 +1001,8 @@
             "contributor": "中村 計",
             "contributor_collation_key": "ナカムラ ケイ",
             "imprint": "集英社",
-            "main_cover": "https://cover.openbd.jp/9784087443011.jpg"
+            "main_cover": "https://cover.openbd.jp/9784087443011.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16856592/"
         },
         {
             "isbn": "9784537219326",
@@ -840,7 +1011,8 @@
             "contributor": "浦 大輔",
             "contributor_collation_key": "ウラ ダイスケ",
             "imprint": "日本文芸社",
-            "main_cover": "https://cover.openbd.jp/9784537219326.jpg"
+            "main_cover": "https://cover.openbd.jp/9784537219326.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16819485/"
         },
         {
             "isbn": "9784779644610",
@@ -849,7 +1021,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "エス・アイ・ジェイ",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16890944/"
         },
         {
             "isbn": "9784583114125",
@@ -858,7 +1031,8 @@
             "contributor": "小宮山悟",
             "contributor_collation_key": "コミヤマサトル",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583114125.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583114125.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16859299/"
         },
         {
             "isbn": "9784160082557",
@@ -867,7 +1041,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "文藝春秋",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16885822/"
         },
         {
             "isbn": "9784299021045",
@@ -876,7 +1051,8 @@
             "contributor": "小宮 拓郎",
             "contributor_collation_key": "コミヤ タクロウ",
             "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299021045.jpg"
+            "main_cover": "https://cover.openbd.jp/9784299021045.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16829884/"
         },
         {
             "isbn": "9784163914121",
@@ -885,7 +1061,8 @@
             "contributor": "後藤 逸郎",
             "contributor_collation_key": "ゴトウ イツロウ",
             "imprint": "文藝春秋",
-            "main_cover": "https://cover.openbd.jp/9784163914121.jpg"
+            "main_cover": "https://cover.openbd.jp/9784163914121.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16834610/"
         },
         {
             "isbn": "9784262166568",
@@ -894,7 +1071,18 @@
             "contributor": "菅原 大地",
             "contributor_collation_key": "スガワラ ダイチ",
             "imprint": "池田書店",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16779350/"
+        },
+        {
+            "isbn": "9784764107281",
+            "title": "特別報道写真集 東京パラリンピック2020",
+            "title_collation_key": "トクベツホウドウシャシンシュウトウキョウパラリンピックニーマルニーマル",
+            "contributor": "共同通信社",
+            "contributor_collation_key": "キョウドウツウシンシャ",
+            "imprint": "共同通信社",
+            "main_cover": "https://cover.openbd.jp/9784764107281.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16852016/"
         },
         {
             "isbn": "9784779644597",
@@ -903,7 +1091,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "三栄",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16882397/"
         },
         {
             "isbn": "9784779644580",
@@ -912,7 +1101,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "三栄",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16882396/"
         },
         {
             "isbn": "9784583626826",
@@ -921,7 +1111,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16877844/"
         },
         {
             "isbn": "9784833480574",
@@ -930,7 +1121,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "グローバルゴルフメディアグループ株式会社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16820237/"
         },
         {
             "isbn": "9784833480567",
@@ -939,7 +1131,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "グローバルゴルフメディアグループ株式会社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16820238/"
         },
         {
             "isbn": "9784635906326",
@@ -948,16 +1141,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "山と渓谷社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784583114132",
-            "title": "エース育成の新常識",
-            "title_collation_key": "エースイクセイノシンジョウシキ",
-            "contributor": "辻 孟彦",
-            "contributor_collation_key": "ツジタケヒコ",
-            "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583114132.jpg"
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16850182/"
         },
         {
             "isbn": "9784583114064",
@@ -966,7 +1151,18 @@
             "contributor": "楊順行",
             "contributor_collation_key": "ヨウノブユキ",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583114064.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583114064.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16809619/"
+        },
+        {
+            "isbn": "9784583114132",
+            "title": "エース育成の新常識",
+            "title_collation_key": "エースイクセイノシンジョウシキ",
+            "contributor": "辻 孟彦",
+            "contributor_collation_key": "ツジタケヒコ",
+            "imprint": "ベースボール・マガジン社",
+            "main_cover": "https://cover.openbd.jp/9784583114132.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16845173/"
         },
         {
             "isbn": "9784583112466",
@@ -975,7 +1171,8 @@
             "contributor": "佐藤裕務",
             "contributor_collation_key": "サトウヒロム",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583112466.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583112466.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16809537/"
         },
         {
             "isbn": "9784583114057",
@@ -984,7 +1181,8 @@
             "contributor": "馬場遼",
             "contributor_collation_key": "バンバリョウ",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583114057.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583114057.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16809620/"
         },
         {
             "isbn": "9784947553904",
@@ -993,7 +1191,8 @@
             "contributor": "小谷 究/三倉 茜",
             "contributor_collation_key": "コタニ キワム/ミクラ アカネ",
             "imprint": "流通経済大学出版会",
-            "main_cover": "https://cover.openbd.jp/9784947553904.jpg"
+            "main_cover": "https://cover.openbd.jp/9784947553904.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16833690/"
         },
         {
             "isbn": "9784309289182",
@@ -1002,7 +1201,8 @@
             "contributor": "吉本 巧",
             "contributor_collation_key": "ヨシモト　タクミ",
             "imprint": "河出書房新社",
-            "main_cover": "https://cover.openbd.jp/9784309289182.jpg"
+            "main_cover": "https://cover.openbd.jp/9784309289182.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16804785/"
         },
         {
             "isbn": "9784594088514",
@@ -1011,34 +1211,8 @@
             "contributor": "山本義徳",
             "contributor_collation_key": "ヤマモトヨシノリ",
             "imprint": "扶桑社",
-            "main_cover": "https://cover.openbd.jp/9784594088514.jpg"
-        },
-        {
-            "isbn": "9784575458879",
-            "title": "Fall　Line　2022（1）",
-            "title_collation_key": "フォールライン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "双葉社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784772841931",
-            "title": "目澤 MAGIC 〜あなたのゴルフが変わる 新世代レッスン〜",
-            "title_collation_key": "メザワマジツク　アナタノゴルフガカワルシンセダイレッスン",
-            "contributor": "目澤秀憲",
-            "contributor_collation_key": "メザワヒデノリ",
-            "imprint": "ゴルフダイジェスト社",
-            "main_cover": "https://cover.openbd.jp/9784772841931.jpg"
-        },
-        {
-            "isbn": "9784772841948",
-            "title": "マスターズを巡る物語",
-            "title_collation_key": "マスターズヲメグルモノガタリ",
-            "contributor": "岩田禎夫、他",
-            "contributor_collation_key": "イワタサダオホカ",
-            "imprint": "ゴルフダイジェスト社",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784594088514.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16850146/"
         },
         {
             "isbn": "9784537219210",
@@ -1047,7 +1221,38 @@
             "contributor": "樋越 勉",
             "contributor_collation_key": "ヒゴシ ツトム",
             "imprint": "日本文芸社",
-            "main_cover": "https://cover.openbd.jp/9784537219210.jpg"
+            "main_cover": "https://cover.openbd.jp/9784537219210.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16762931/"
+        },
+        {
+            "isbn": "9784772841931",
+            "title": "目澤 MAGIC 〜あなたのゴルフが変わる 新世代レッスン〜",
+            "title_collation_key": "メザワマジツク　アナタノゴルフガカワルシンセダイレッスン",
+            "contributor": "目澤秀憲",
+            "contributor_collation_key": "メザワヒデノリ",
+            "imprint": "ゴルフダイジェスト社",
+            "main_cover": "https://cover.openbd.jp/9784772841931.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16802401/"
+        },
+        {
+            "isbn": "9784772841948",
+            "title": "マスターズを巡る物語",
+            "title_collation_key": "マスターズヲメグルモノガタリ",
+            "contributor": "岩田禎夫、他",
+            "contributor_collation_key": "イワタサダオホカ",
+            "imprint": "ゴルフダイジェスト社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16837764/"
+        },
+        {
+            "isbn": "9784575458879",
+            "title": "Fall　Line　2022（1）",
+            "title_collation_key": "フォールライン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "双葉社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16804971/"
         },
         {
             "isbn": "9784910319308",
@@ -1056,7 +1261,8 @@
             "contributor": "スポーツニッポン新聞社",
             "contributor_collation_key": "スポーツ ニッポン シンブンシャ",
             "imprint": "スポーツニッポン新聞社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16877100/"
         },
         {
             "isbn": "9784130403030",
@@ -1065,7 +1271,8 @@
             "contributor": "水野　誠/稲水　伸行",
             "contributor_collation_key": "ミズノ　マコト/イナミズ　ノブユキ",
             "imprint": "東京大学出版会",
-            "main_cover": "https://cover.openbd.jp/9784130403030.jpg"
+            "main_cover": "https://cover.openbd.jp/9784130403030.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16784595/"
         },
         {
             "isbn": "9784167917562",
@@ -1074,7 +1281,8 @@
             "contributor": "益子 浩一",
             "contributor_collation_key": "マシコ コウイチ",
             "imprint": "文藝春秋",
-            "main_cover": "https://cover.openbd.jp/9784167917562.jpg"
+            "main_cover": "https://cover.openbd.jp/9784167917562.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16803965/"
         },
         {
             "isbn": "9784491045559",
@@ -1083,25 +1291,8 @@
             "contributor": "中村武彦/上西　淳二",
             "contributor_collation_key": "ナカムラタケヒコ/ウエニシジュンジ",
             "imprint": "東洋館出版社",
-            "main_cover": "https://cover.openbd.jp/9784491045559.jpg"
-        },
-        {
-            "isbn": "9784583626819",
-            "title": "NFL　2021カラー写真名鑑",
-            "title_collation_key": "エヌエフエル ニセンニジュウイチ カラー シャシン メイカン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ベースボール・マガジン社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784908804793",
-            "title": "最新科学が教える！キャッチャーの技術",
-            "title_collation_key": "サイシンカガクガオシエルキャッチャーノギジュツ",
-            "contributor": "川村 卓",
-            "contributor_collation_key": "カワムラ　タカシ",
-            "imprint": "エクシア出版",
-            "main_cover": "https://cover.openbd.jp/9784908804793.jpg"
+            "main_cover": "https://cover.openbd.jp/9784491045559.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16840452/"
         },
         {
             "isbn": "9784779644351",
@@ -1110,7 +1301,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "三栄書房",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16811126/"
         },
         {
             "isbn": "9784537123883",
@@ -1119,7 +1311,28 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "日本文芸社",
-            "main_cover": "https://cover.openbd.jp/9784537123883.jpg"
+            "main_cover": "https://cover.openbd.jp/9784537123883.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16801685/"
+        },
+        {
+            "isbn": "9784908804793",
+            "title": "最新科学が教える！キャッチャーの技術",
+            "title_collation_key": "サイシンカガクガオシエルキャッチャーノギジュツ",
+            "contributor": "川村 卓",
+            "contributor_collation_key": "カワムラ　タカシ",
+            "imprint": "エクシア出版",
+            "main_cover": "https://cover.openbd.jp/9784908804793.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16789091/"
+        },
+        {
+            "isbn": "9784583626819",
+            "title": "NFL　2021カラー写真名鑑",
+            "title_collation_key": "エヌエフエル ニセンニジュウイチ カラー シャシン メイカン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ベースボール・マガジン社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16868932/"
         },
         {
             "isbn": "9784408339894",
@@ -1128,7 +1341,8 @@
             "contributor": "高橋 礼華",
             "contributor_collation_key": "タカハシ アヤカ",
             "imprint": "実業之日本社",
-            "main_cover": "https://cover.openbd.jp/9784408339894.jpg"
+            "main_cover": "https://cover.openbd.jp/9784408339894.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16742616/"
         },
         {
             "isbn": "9784801927827",
@@ -1137,7 +1351,8 @@
             "contributor": "森本 崚太",
             "contributor_collation_key": "モリモト リョウタ",
             "imprint": "竹書房",
-            "main_cover": "https://cover.openbd.jp/9784801927827.jpg"
+            "main_cover": "https://cover.openbd.jp/9784801927827.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16741825/"
         },
         {
             "isbn": "9784537219180",
@@ -1146,7 +1361,8 @@
             "contributor": "高島 誠",
             "contributor_collation_key": "タカシマ マコト",
             "imprint": "日本文芸社",
-            "main_cover": "https://cover.openbd.jp/9784537219180.jpg"
+            "main_cover": "https://cover.openbd.jp/9784537219180.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16762926/"
         },
         {
             "isbn": "9784537219173",
@@ -1155,16 +1371,8 @@
             "contributor": "江藤 省三",
             "contributor_collation_key": "エトウ ショウゾウ",
             "imprint": "日本文芸社",
-            "main_cover": "https://cover.openbd.jp/9784537219173.jpg"
-        },
-        {
-            "isbn": "9784272612420",
-            "title": "白球の「物語」を巡る旅",
-            "title_collation_key": "ハッキュウノモノガタリヲメグルタビ",
-            "contributor": "増淵　敏之",
-            "contributor_collation_key": "マスブチ　トシユキ",
-            "imprint": "大月書店",
-            "main_cover": "https://cover.openbd.jp/9784272612420.jpg"
+            "main_cover": "https://cover.openbd.jp/9784537219173.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16762942/"
         },
         {
             "isbn": "9784046053084",
@@ -1173,7 +1381,18 @@
             "contributor": "菅原　大地",
             "contributor_collation_key": "スガワラ　ダイチ",
             "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784046053084.jpg"
+            "main_cover": "https://cover.openbd.jp/9784046053084.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16815295/"
+        },
+        {
+            "isbn": "9784272612420",
+            "title": "白球の「物語」を巡る旅",
+            "title_collation_key": "ハッキュウノモノガタリヲメグルタビ",
+            "contributor": "増淵　敏之",
+            "contributor_collation_key": "マスブチ　トシユキ",
+            "imprint": "大月書店",
+            "main_cover": "https://cover.openbd.jp/9784272612420.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16784560/"
         },
         {
             "isbn": "9784847066603",
@@ -1182,7 +1401,8 @@
             "contributor": "江夏 豊",
             "contributor_collation_key": "エナツ ユタカ",
             "imprint": "ワニブックス",
-            "main_cover": "https://cover.openbd.jp/9784847066603.jpg"
+            "main_cover": "https://cover.openbd.jp/9784847066603.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16811008/"
         },
         {
             "isbn": "9784774792361",
@@ -1191,7 +1411,8 @@
             "contributor": "高畑 好秀",
             "contributor_collation_key": "タカハタ ヨシヒデ",
             "imprint": "コスミック出版",
-            "main_cover": "https://cover.openbd.jp/9784774792361.jpg"
+            "main_cover": "https://cover.openbd.jp/9784774792361.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16836945/"
         },
         {
             "isbn": "9784779644382",
@@ -1200,7 +1421,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "エス・アイ・ジェイ",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16858446/"
         },
         {
             "isbn": "9784583626802",
@@ -1209,7 +1431,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16858453/"
         },
         {
             "isbn": "9784160082540",
@@ -1218,16 +1441,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "文藝春秋",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784344935884",
-            "title": "この走りを見よ！熟年鈍足ランナーの47都道府県マラソン大会参戦記",
-            "title_collation_key": "コノハシリヲミヨジュクネンドンソクランナーノヨンジュウナナトドウフケンマラソンタイカイサンセンキ",
-            "contributor": "原田 剛",
-            "contributor_collation_key": "ハラダ ツヨシ",
-            "imprint": "幻冬舎",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16858450/"
         },
         {
             "isbn": "9784808310646",
@@ -1236,16 +1451,18 @@
             "contributor": "大島康徳",
             "contributor_collation_key": "オオシマヤスノリ",
             "imprint": "東京新聞出版（中日新聞東京本社）",
-            "main_cover": "https://cover.openbd.jp/9784808310646.jpg"
+            "main_cover": "https://cover.openbd.jp/9784808310646.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16803875/"
         },
         {
-            "isbn": "9784081023332",
-            "title": "Sportiva　TOKYO　2020オリンピック総集編",
-            "title_collation_key": "スポーティバ トウキョウ ニゼロニゼロ オリンピック ソウシュウヘン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "集英社",
-            "main_cover": ""
+            "isbn": "9784344935884",
+            "title": "この走りを見よ！熟年鈍足ランナーの47都道府県マラソン大会参戦記",
+            "title_collation_key": "コノハシリヲミヨジュクネンドンソクランナーノヨンジュウナナトドウフケンマラソンタイカイサンセンキ",
+            "contributor": "原田 剛",
+            "contributor_collation_key": "ハラダ ツヨシ",
+            "imprint": "幻冬舎",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16855988/"
         },
         {
             "isbn": "9784469269178",
@@ -1254,25 +1471,8 @@
             "contributor": "内田若希",
             "contributor_collation_key": "ウチダワカキ",
             "imprint": "大修館書店",
-            "main_cover": "https://cover.openbd.jp/9784469269178.jpg"
-        },
-        {
-            "isbn": "9784774740317",
-            "title": "プロ野球2021阪神タイガース激闘録",
-            "title_collation_key": "プロヤキュウニセンニジュウイチハンシンタイガースゲキトウロク",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "コスミック出版",
-            "main_cover": "https://cover.openbd.jp/9784774740317.jpg"
-        },
-        {
-            "isbn": "9784779642982",
-            "title": "THE　LEGEND　内田篤人　2006-2020",
-            "title_collation_key": "ザ レジェンド ウチダ アツト ニセンロク ニセンニジュウ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "エス・アイ・ジェイ",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784469269178.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16808591/"
         },
         {
             "isbn": "9784833480499",
@@ -1281,7 +1481,38 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "グローバルゴルフメディアグループ株式会社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16783357/"
+        },
+        {
+            "isbn": "9784779642982",
+            "title": "THE　LEGEND　内田篤人　2006-2020",
+            "title_collation_key": "ザ レジェンド ウチダ アツト ニセンロク ニセンニジュウ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "エス・アイ・ジェイ",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16856988/"
+        },
+        {
+            "isbn": "9784081023332",
+            "title": "Sportiva　TOKYO　2020オリンピック総集編",
+            "title_collation_key": "スポーティバ トウキョウ ニゼロニゼロ オリンピック ソウシュウヘン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "集英社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16856994/"
+        },
+        {
+            "isbn": "9784774740317",
+            "title": "プロ野球2021阪神タイガース激闘録",
+            "title_collation_key": "プロヤキュウニセンニジュウイチハンシンタイガースゲキトウロク",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "コスミック出版",
+            "main_cover": "https://cover.openbd.jp/9784774740317.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16829396/"
         },
         {
             "isbn": "9784198653392",
@@ -1290,7 +1521,8 @@
             "contributor": "松山英樹",
             "contributor_collation_key": "マツヤマヒデキ",
             "imprint": "徳間書店",
-            "main_cover": "https://cover.openbd.jp/9784198653392.jpg"
+            "main_cover": "https://cover.openbd.jp/9784198653392.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16765458/"
         },
         {
             "isbn": "9784863113084",
@@ -1299,7 +1531,8 @@
             "contributor": "高山 樹里",
             "contributor_collation_key": "タカヤマ ジュリ",
             "imprint": "産業編集センター",
-            "main_cover": "https://cover.openbd.jp/9784863113084.jpg"
+            "main_cover": "https://cover.openbd.jp/9784863113084.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16789258/"
         },
         {
             "isbn": "9784867012994",
@@ -1308,7 +1541,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "東京ニュース通信社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16842698/"
         },
         {
             "isbn": "9784418211371",
@@ -1317,7 +1551,8 @@
             "contributor": "世界文化社",
             "contributor_collation_key": "セカイブンカシャ",
             "imprint": "株式会社 世界文化社",
-            "main_cover": "https://cover.openbd.jp/9784418211371.jpg"
+            "main_cover": "https://cover.openbd.jp/9784418211371.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16843910/"
         },
         {
             "isbn": "9784106109201",
@@ -1326,7 +1561,8 @@
             "contributor": "氏原 英明",
             "contributor_collation_key": "ウジハラ ヒデアキ",
             "imprint": "新潮社",
-            "main_cover": "https://cover.openbd.jp/9784106109201.jpg"
+            "main_cover": "https://cover.openbd.jp/9784106109201.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16810922/"
         },
         {
             "isbn": "9784416521649",
@@ -1335,7 +1571,8 @@
             "contributor": "伊藤 条太/掛丸 翔",
             "contributor_collation_key": "イトウ ジョウタ/カケマル カケル",
             "imprint": "誠文堂新光社",
-            "main_cover": "https://cover.openbd.jp/9784416521649.jpg"
+            "main_cover": "https://cover.openbd.jp/9784416521649.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16778099/"
         },
         {
             "isbn": "9784583113739",
@@ -1344,7 +1581,8 @@
             "contributor": "高岡英夫",
             "contributor_collation_key": "タカオカヒデオ",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583113739.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583113739.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16809536/"
         },
         {
             "isbn": "9784861446016",
@@ -1353,7 +1591,18 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "八重洲出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16848562/"
+        },
+        {
+            "isbn": "9784315524390",
+            "title": "Newton別冊　筋肉の科学知識 体づくり編",
+            "title_collation_key": "ニュートンベッサツ　キンニクノカガクチシキカラダヅクリヘン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "ニュートンプレス",
+            "main_cover": "https://cover.openbd.jp/9784315524390.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16828597/"
         },
         {
             "isbn": "9784872018370",
@@ -1362,7 +1611,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "岩手日報社",
-            "main_cover": "https://cover.openbd.jp/9784872018370.jpg"
+            "main_cover": "https://cover.openbd.jp/9784872018370.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16833751/"
         },
         {
             "isbn": "9784469269161",
@@ -1371,7 +1621,8 @@
             "contributor": "八田秀雄",
             "contributor_collation_key": "ハッタヒデオ",
             "imprint": "大修館書店",
-            "main_cover": "https://cover.openbd.jp/9784469269161.jpg"
+            "main_cover": "https://cover.openbd.jp/9784469269161.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16800517/"
         },
         {
             "isbn": "9784777828128",
@@ -1380,7 +1631,8 @@
             "contributor": "安永聡太郎",
             "contributor_collation_key": "ヤズナガソウタロウ",
             "imprint": "辰巳出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16774668/"
         },
         {
             "isbn": "9784583113845",
@@ -1389,7 +1641,8 @@
             "contributor": "ベースボール・マガジン社",
             "contributor_collation_key": "ベースボールマガジンシャ",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583113845.jpg"
+            "main_cover": "https://cover.openbd.jp/9784583113845.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16809532/"
         },
         {
             "isbn": "9784862507181",
@@ -1398,7 +1651,8 @@
             "contributor": "中国新聞社",
             "contributor_collation_key": "チュウゴクシンブンシャ",
             "imprint": "ザメディアジョン",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16762044/"
         },
         {
             "isbn": "9784847070976",
@@ -1407,25 +1661,8 @@
             "contributor": "吉見 一起",
             "contributor_collation_key": "ヨシミ カズキ",
             "imprint": "ワニブックス",
-            "main_cover": "https://cover.openbd.jp/9784847070976.jpg"
-        },
-        {
-            "isbn": "9784784073863",
-            "title": "報道グラフ　信州球児 夏2021",
-            "title_collation_key": "ホウドウグラフシンシュウキュウジナツニセンニジュウイチ",
-            "contributor": "信濃毎日新聞社",
-            "contributor_collation_key": "シナノマイニチシンブンシャ",
-            "imprint": "信濃毎日新聞社",
-            "main_cover": "https://cover.openbd.jp/9784784073863.jpg"
-        },
-        {
-            "isbn": "9784847070846",
-            "title": "永遠の野球少年トクサン",
-            "title_collation_key": "エイエンノヤキュウショウネントクサン",
-            "contributor": "トクサン",
-            "contributor_collation_key": "トクサン",
-            "imprint": "ワニブックス",
-            "main_cover": "https://cover.openbd.jp/9784847070846.jpg"
+            "main_cover": "https://cover.openbd.jp/9784847070976.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16803618/"
         },
         {
             "isbn": "9784882867975",
@@ -1434,7 +1671,28 @@
             "contributor": "下野新聞社",
             "contributor_collation_key": "シモツケシンブンシャ",
             "imprint": "下野新聞社",
-            "main_cover": "https://cover.openbd.jp/9784882867975.jpg"
+            "main_cover": "https://cover.openbd.jp/9784882867975.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16833752/"
+        },
+        {
+            "isbn": "9784847070846",
+            "title": "永遠の野球少年トクサン",
+            "title_collation_key": "エイエンノヤキュウショウネントクサン",
+            "contributor": "トクサン",
+            "contributor_collation_key": "トクサン",
+            "imprint": "ワニブックス",
+            "main_cover": "https://cover.openbd.jp/9784847070846.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16808584/"
+        },
+        {
+            "isbn": "9784784073863",
+            "title": "報道グラフ　信州球児 夏2021",
+            "title_collation_key": "ホウドウグラフシンシュウキュウジナツニセンニジュウイチ",
+            "contributor": "信濃毎日新聞社",
+            "contributor_collation_key": "シナノマイニチシンブンシャ",
+            "imprint": "信濃毎日新聞社",
+            "main_cover": "https://cover.openbd.jp/9784784073863.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16829765/"
         },
         {
             "isbn": "9784833480475",
@@ -1443,7 +1701,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "グローバルゴルフメディアグループ株式会社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16783359/"
         },
         {
             "isbn": "9784344037885",
@@ -1452,7 +1711,8 @@
             "contributor": "内田 篤人",
             "contributor_collation_key": "ウチダ アツト",
             "imprint": "幻冬舎",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16802474/"
         },
         {
             "isbn": "9784583113982",
@@ -1461,34 +1721,8 @@
             "contributor": "齋藤亘",
             "contributor_collation_key": "サイトウワタル",
             "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583113982.jpg"
-        },
-        {
-            "isbn": "9784782905340",
-            "title": "進化系舟券で高配当を獲る",
-            "title_collation_key": "シンカケイフナケンデコウハイトウヲトル",
-            "contributor": "桧村賢一",
-            "contributor_collation_key": "ヒムラケンイチ",
-            "imprint": "三恵書房",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784583113685",
-            "title": "スクワットの深さは人間性の深さ",
-            "title_collation_key": "スクワットノフカサハニンゲンセイノフカサ",
-            "contributor": "千葉久義/山田崇太郎",
-            "contributor_collation_key": "チバヒサヨシ/ヤマダソウタロウ",
-            "imprint": "ベースボール・マガジン社",
-            "main_cover": "https://cover.openbd.jp/9784583113685.jpg"
-        },
-        {
-            "isbn": "9784583626789",
-            "title": "太平洋クラブライオンズ",
-            "title_collation_key": "タイヘイヨウ クラブ ライオンズ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ベースボール・マガジン社",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784583113982.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16777041/"
         },
         {
             "isbn": "9784758320337",
@@ -1497,16 +1731,18 @@
             "contributor": "青木 隆明",
             "contributor_collation_key": "アオキ タカアキ",
             "imprint": "メジカルビュー社",
-            "main_cover": "https://cover.openbd.jp/9784758320337.jpg"
+            "main_cover": "https://cover.openbd.jp/9784758320337.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16820289/"
         },
         {
-            "isbn": "9784833480482",
-            "title": "インから下ろすスイング",
-            "title_collation_key": "インカラオロススイング",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "グローバルゴルフメディアグループ株式会社",
-            "main_cover": ""
+            "isbn": "9784583113685",
+            "title": "スクワットの深さは人間性の深さ",
+            "title_collation_key": "スクワットノフカサハニンゲンセイノフカサ",
+            "contributor": "千葉久義/山田崇太郎",
+            "contributor_collation_key": "チバヒサヨシ/ヤマダソウタロウ",
+            "imprint": "ベースボール・マガジン社",
+            "main_cover": "https://cover.openbd.jp/9784583113685.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16778135/"
         },
         {
             "isbn": "9784594089399",
@@ -1515,88 +1751,28 @@
             "contributor": "呉 真由美",
             "contributor_collation_key": "クレマユミ",
             "imprint": "扶桑社",
-            "main_cover": "https://cover.openbd.jp/9784594089399.jpg"
+            "main_cover": "https://cover.openbd.jp/9784594089399.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827534/"
         },
         {
-            "isbn": "9784867012901",
-            "title": "グランパスBros．（2021）",
-            "title_collation_key": "グランパス ブロス",
+            "isbn": "9784833480482",
+            "title": "インから下ろすスイング",
+            "title_collation_key": "インカラオロススイング",
             "contributor": "",
             "contributor_collation_key": "",
-            "imprint": "東京ニュース通信社",
-            "main_cover": ""
+            "imprint": "グローバルゴルフメディアグループ株式会社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16783358/"
         },
         {
-            "isbn": "9784767829036",
-            "title": "蹴日本紀行ー47都道府県 フットボールのある風景ー",
-            "title_collation_key": "シュウニホンキコウ ヨンジュウナナトドウフケンフットボールノアルフウケイ",
-            "contributor": "宇都宮 徹壱",
-            "contributor_collation_key": "ウツノミヤテツイチ",
-            "imprint": "エクスナレッジ",
-            "main_cover": "https://cover.openbd.jp/9784767829036.jpg"
-        },
-        {
-            "isbn": "9784537219081",
-            "title": "マンガでわかる！ ゴルフは直線運動で上手くなる！",
-            "title_collation_key": "マンガデワカル！ ゴルフハチョクセンスイングデウマクナル！",
-            "contributor": "三觜 喜一",
-            "contributor_collation_key": "ミツハシ ヨシカズ",
-            "imprint": "日本文芸社",
-            "main_cover": "https://cover.openbd.jp/9784537219081.jpg"
-        },
-        {
-            "isbn": "9784905349587",
-            "title": "シン・フォーメーション論",
-            "title_collation_key": "シンフォーメーションロン",
-            "contributor": "山口遼",
-            "contributor_collation_key": "ヤマグチリョウ",
-            "imprint": "ソル・メディア",
-            "main_cover": "https://cover.openbd.jp/9784905349587.jpg"
-        },
-        {
-            "isbn": "9784905349594",
-            "title": "2050年W杯 日本代表優勝プラン",
-            "title_collation_key": "ニセンゴジュウネンワールドカップニホンダイヒョウユウショウプラン",
-            "contributor": "川端暁彦/浅野賀一",
-            "contributor_collation_key": "カワバタアキヒコ/アサノガイチ",
-            "imprint": "ソル・メディア",
-            "main_cover": "https://cover.openbd.jp/9784905349594.jpg"
-        },
-        {
-            "isbn": "9784907333225",
-            "title": "闇を泳ぐ",
-            "title_collation_key": "ヤミ オ オヨグ",
-            "contributor": "木村敬一",
-            "contributor_collation_key": "キムラ,ケイイチ",
-            "imprint": "ミライカナイ",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784872018356",
-            "title": "東京2020オリンピック聖火リレーいわて報道記録集　復興の火",
-            "title_collation_key": "トウキョウニーゼロニーゼロオリンピックセイカリレーイワテホウドウキロクシュウ　フッコウノヒ",
+            "isbn": "9784833480482",
+            "title": "インから下ろすスイング",
+            "title_collation_key": "インカラオロススイング",
             "contributor": "",
             "contributor_collation_key": "",
-            "imprint": "岩手日報社",
-            "main_cover": "https://cover.openbd.jp/9784872018356.jpg"
-        },
-        {
-            "isbn": "9784621306277",
-            "title": "47都道府県・高校野球百科",
-            "title_collation_key": "ヨンジュウナナトドウフケン　コウコウヤキュウヒャッカ",
-            "contributor": "森岡　浩",
-            "contributor_collation_key": "モリオカ　ヒロシ",
-            "imprint": "丸善出版",
-            "main_cover": "https://cover.openbd.jp/9784621306277.jpg"
-        },
-        {
-            "isbn": "9784779644276",
-            "title": "Racing　on（514）",
-            "title_collation_key": "レーシング オン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "三栄",
-            "main_cover": ""
+            "imprint": "グローバルゴルフメディアグループ株式会社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16783358/"
         }
     ]
 }

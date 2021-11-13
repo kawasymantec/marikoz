@@ -21,7 +21,8 @@
             "contributor": "市町村自治研究会",
             "contributor_collation_key": "シチョウソンジチケンキュウカイ",
             "imprint": "日本加除出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16933854/"
         },
         {
             "isbn": "9784534058928",
@@ -30,7 +31,8 @@
             "contributor": "ジーベック国際特許事務所",
             "contributor_collation_key": "ジーベックコクサイトッキョジムショ",
             "imprint": "日本実業出版社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16934928/"
         },
         {
             "isbn": "9784801493773",
@@ -39,7 +41,8 @@
             "contributor": "アガルートアカデミー",
             "contributor_collation_key": "アガルートアカデミー",
             "imprint": "アガルート・パブリッシング",
-            "main_cover": "https://cover.openbd.jp/9784801493773.jpg"
+            "main_cover": "https://cover.openbd.jp/9784801493773.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16935473/"
         },
         {
             "isbn": "9784817847669",
@@ -48,7 +51,8 @@
             "contributor": "不動産登記実務研究会",
             "contributor_collation_key": "フドウサントウキジツムケンキュウカイ",
             "imprint": "日本加除出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16923895/"
         },
         {
             "isbn": "9784817847645",
@@ -57,7 +61,18 @@
             "contributor": "出入国管理法令研究会",
             "contributor_collation_key": "シュツニュウコクカンリホウレイケンキュウカイ",
             "imprint": "日本加除出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16892348/"
+        },
+        {
+            "isbn": "9784589041852",
+            "title": "新ハイブリッド民法5　家族法",
+            "title_collation_key": "シンハイブリッドミンポウゴカゾクホウ",
+            "contributor": "青竹 美佳/渡邉 泰彦",
+            "contributor_collation_key": "アオタケ ミカ/ワタナベ ヤスヒコ",
+            "imprint": "法律文化社",
+            "main_cover": "https://cover.openbd.jp/9784589041852.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16915148/"
         },
         {
             "isbn": "9784863548749",
@@ -66,7 +81,88 @@
             "contributor": "南部義典",
             "contributor_collation_key": "ナンブヨシノリ",
             "imprint": "シーアンドアール研究所",
-            "main_cover": "https://cover.openbd.jp/9784863548749.jpg"
+            "main_cover": "https://cover.openbd.jp/9784863548749.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16932681/"
+        },
+        {
+            "isbn": "9784589041821",
+            "title": "株主平等原則と株主権の動態",
+            "title_collation_key": "カブヌシビョウドウゲンソクトカブヌシケンノドウタイ",
+            "contributor": "村田 敏一",
+            "contributor_collation_key": "ムラタ トシカズ",
+            "imprint": "法律文化社",
+            "main_cover": "https://cover.openbd.jp/9784589041821.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16915145/"
+        },
+        {
+            "isbn": "9784847144622",
+            "title": "司法書士　スタンダード合格テキスト　7　商業登記法　第3版",
+            "title_collation_key": "シホウショシ スタンダードゴウカクテキスト 7 ショウギョウトウキホウ ダイ3ハン",
+            "contributor": "Wセミナー／司法書士講座",
+            "contributor_collation_key": "Wセミナー／シホウショシコウザ",
+            "imprint": "早稲田経営出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16884983/"
+        },
+        {
+            "isbn": "9784641115569",
+            "title": "国際私法判例百選〔第3版〕",
+            "title_collation_key": "コクサイシホウハンレイヒャクセンダイサンパン",
+            "contributor": "道垣内 正人/中西 康",
+            "contributor_collation_key": "ドウガウチマサト/ナカニシヤスシ",
+            "imprint": "有斐閣",
+            "main_cover": "https://cover.openbd.jp/9784641115569.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16918285/"
+        },
+        {
+            "isbn": "9784641228115",
+            "title": "憲法判例コレクション",
+            "title_collation_key": "ケンポウハンレイコレクション",
+            "contributor": "小泉 良幸/松本 哲治",
+            "contributor_collation_key": "コイズミヨシユキ/マツモトテツジ",
+            "imprint": "有斐閣",
+            "main_cover": "https://cover.openbd.jp/9784641228115.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879514/"
+        },
+        {
+            "isbn": "9784830951404",
+            "title": "現代国際取引法",
+            "title_collation_key": "ゲンダイコクサイトリヒキホウ",
+            "contributor": "藤川 信夫",
+            "contributor_collation_key": "フジカワ ノブオ",
+            "imprint": "文眞堂",
+            "main_cover": "https://cover.openbd.jp/9784830951404.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16910324/"
+        },
+        {
+            "isbn": "9784326451265",
+            "title": "神と自然と憲法と",
+            "title_collation_key": "カミトシゼントケンポウト",
+            "contributor": "長谷部　恭男",
+            "contributor_collation_key": "ハセベ　ヤスオ",
+            "imprint": "勁草書房",
+            "main_cover": "https://cover.openbd.jp/9784326451265.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16915072/"
+        },
+        {
+            "isbn": "9784480510853",
+            "title": "〈権利〉の選択",
+            "title_collation_key": "ケンリノセンタク",
+            "contributor": "笹澤　豊",
+            "contributor_collation_key": "ササザワ　ユタカ",
+            "imprint": "筑摩書房",
+            "main_cover": "https://cover.openbd.jp/9784480510853.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16902821/"
+        },
+        {
+            "isbn": "9784641150867",
+            "title": "民法3　担保物権",
+            "title_collation_key": "ミンポウサンタンポブッケン",
+            "contributor": "山本 敬三/鳥山 泰志",
+            "contributor_collation_key": "ヤマモトケイゾウ/トリヤマヤスシ",
+            "imprint": "有斐閣",
+            "main_cover": "https://cover.openbd.jp/9784641150867.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879475/"
         },
         {
             "isbn": "9784785729073",
@@ -75,7 +171,8 @@
             "contributor": "橋本 円",
             "contributor_collation_key": "ハシモト マドカ",
             "imprint": "商事法務",
-            "main_cover": "https://cover.openbd.jp/9784785729073.jpg"
+            "main_cover": "https://cover.openbd.jp/9784785729073.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16906470/"
         },
         {
             "isbn": "9784591171165",
@@ -84,7 +181,18 @@
             "contributor": "青野　慶久",
             "contributor_collation_key": "アオノヨシヒサ",
             "imprint": "ポプラ社",
-            "main_cover": "https://cover.openbd.jp/9784591171165.jpg"
+            "main_cover": "https://cover.openbd.jp/9784591171165.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16918726/"
+        },
+        {
+            "isbn": "9784417018247",
+            "title": "不動産訴訟の実務から見た改正民法（債権法・相続法）POINT50",
+            "title_collation_key": "フドウサンソショウノジツムカラミタカイセイミンポウ サイケンホウ ソウゾクホウ",
+            "contributor": "澤野　順彦",
+            "contributor_collation_key": "サワノ　ユキヒコ",
+            "imprint": "青林書院",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16925735/"
         },
         {
             "isbn": "9784641213371",
@@ -93,7 +201,28 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641213371.jpg"
+            "main_cover": "https://cover.openbd.jp/9784641213371.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16918787/"
+        },
+        {
+            "isbn": "9784502412516",
+            "title": "よくわかる自己株式の実務処理Q＆A",
+            "title_collation_key": "ヨクワカルジコカブシキノジツムショリキューアンドエー",
+            "contributor": "有田 賢臣/金子 登志雄",
+            "contributor_collation_key": "アリタ マサオミ/カネコ トシオ",
+            "imprint": "中央経済社",
+            "main_cover": "https://cover.openbd.jp/9784502412516.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16947773/"
+        },
+        {
+            "isbn": "9784535525672",
+            "title": "アメリカ合衆国における妊娠中絶の法と政治",
+            "title_collation_key": "アメリカガッシュウコクニオケルニンシンチュウゼツノホウトセイジ",
+            "contributor": "小竹　聡",
+            "contributor_collation_key": "コタケ　サトシ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535525672.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16801415/"
         },
         {
             "isbn": "9784817847621",
@@ -102,7 +231,8 @@
             "contributor": "高須順一",
             "contributor_collation_key": "タカスジュンイチ",
             "imprint": "日本加除出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16920838/"
         },
         {
             "isbn": "9784589041791",
@@ -111,16 +241,8 @@
             "contributor": "横田 洋三/富田 麻里",
             "contributor_collation_key": "ヨコタ ヨウゾウ/トミタ マリ",
             "imprint": "法律文化社",
-            "main_cover": "https://cover.openbd.jp/9784589041791.jpg"
-        },
-        {
-            "isbn": "9784641126329",
-            "title": "危機と法哲学",
-            "title_collation_key": "キキトホウテツガク",
-            "contributor": "日本法哲学会",
-            "contributor_collation_key": "ニホンホウテツガッカイ",
-            "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641126329.jpg"
+            "main_cover": "https://cover.openbd.jp/9784589041791.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16874583/"
         },
         {
             "isbn": "9784562071159",
@@ -129,7 +251,18 @@
             "contributor": "印刷庁",
             "contributor_collation_key": "インサツチョウ",
             "imprint": "原書房",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16900380/"
+        },
+        {
+            "isbn": "9784641126329",
+            "title": "危機と法哲学",
+            "title_collation_key": "キキトホウテツガク",
+            "contributor": "日本法哲学会",
+            "contributor_collation_key": "ニホンホウテツガッカイ",
+            "imprint": "有斐閣",
+            "main_cover": "https://cover.openbd.jp/9784641126329.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879452/"
         },
         {
             "isbn": "9784562071142",
@@ -138,7 +271,8 @@
             "contributor": "印刷庁",
             "contributor_collation_key": "インサツチョウ",
             "imprint": "原書房",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16900384/"
         },
         {
             "isbn": "9784805708255",
@@ -147,7 +281,8 @@
             "contributor": "山内 惟介",
             "contributor_collation_key": "ヤマウチ コレスケ",
             "imprint": "中央大学出版部",
-            "main_cover": "https://cover.openbd.jp/9784805708255.jpg"
+            "main_cover": "https://cover.openbd.jp/9784805708255.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16911077/"
         },
         {
             "isbn": "9784313815292",
@@ -156,7 +291,8 @@
             "contributor": "福島　達也",
             "contributor_collation_key": "フクシマタツヤ",
             "imprint": "学陽書房",
-            "main_cover": "https://cover.openbd.jp/9784313815292.jpg"
+            "main_cover": "https://cover.openbd.jp/9784313815292.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16908547/"
         },
         {
             "isbn": "9784496055584",
@@ -165,7 +301,8 @@
             "contributor": "臼井雅子",
             "contributor_collation_key": "ウスイマサコ",
             "imprint": "同友館",
-            "main_cover": "https://cover.openbd.jp/9784496055584.jpg"
+            "main_cover": "https://cover.openbd.jp/9784496055584.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16900341/"
         },
         {
             "isbn": "9784502394416",
@@ -174,7 +311,8 @@
             "contributor": "野田 博/大杉 謙一",
             "contributor_collation_key": "ノダ ヒロシ/オオスギ ケンイチ",
             "imprint": "中央経済社",
-            "main_cover": "https://cover.openbd.jp/9784502394416.jpg"
+            "main_cover": "https://cover.openbd.jp/9784502394416.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16892599/"
         },
         {
             "isbn": "9784817847508",
@@ -183,7 +321,8 @@
             "contributor": "出入国管理法令研究会",
             "contributor_collation_key": "シュツニュウコクカンリホウレイケンキュウカイ",
             "imprint": "日本加除出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16859211/"
         },
         {
             "isbn": "9784817847485",
@@ -192,7 +331,8 @@
             "contributor": "片岡　武",
             "contributor_collation_key": "カタオカ　タケシ",
             "imprint": "日本加除出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16885525/"
         },
         {
             "isbn": "9784883843367",
@@ -201,7 +341,18 @@
             "contributor": "潮見　佳男",
             "contributor_collation_key": "シオミ　ヨシオ",
             "imprint": "新世社",
-            "main_cover": "https://cover.openbd.jp/9784883843367.jpg"
+            "main_cover": "https://cover.openbd.jp/9784883843367.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16920643/"
+        },
+        {
+            "isbn": "9784535526112",
+            "title": "司法書士一問一答　合格の肢6　2022年版",
+            "title_collation_key": "シホウショシイチモンイットウ　ゴウカクノアシロク　ニセンンジュウニネンバン",
+            "contributor": "竹下貴浩",
+            "contributor_collation_key": "タケシタ　タカヒロ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535526112.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866867/"
         },
         {
             "isbn": "9784419067571",
@@ -210,34 +361,28 @@
             "contributor": "滝口　大志",
             "contributor_collation_key": "タキグチ　タイシ",
             "imprint": "税務経理協会",
-            "main_cover": "https://cover.openbd.jp/9784419067571.jpg"
+            "main_cover": "https://cover.openbd.jp/9784419067571.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16939000/"
         },
         {
-            "isbn": "9784535526112",
-            "title": "司法書士一問一答　合格の肢6　2022年版",
-            "title_collation_key": "シホウショシイチモンイットウ　ゴウカクノアシロク　ニセンンジュウニネンバン",
-            "contributor": "竹下貴浩",
-            "contributor_collation_key": "タケシタ　タカヒロ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535526112.jpg"
+            "isbn": "9784803726237",
+            "title": "新版証書の作成と文例　遺言編三訂版",
+            "title_collation_key": "シンパン ショウショ ノ サクセイ ト ブンレイ ユイゴンヘン",
+            "contributor": "日本公証人連合会",
+            "contributor_collation_key": "ニホン コウショウニン レンゴウカイ",
+            "imprint": "立花書房",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16942221/"
         },
         {
-            "isbn": "9784535526112",
-            "title": "司法書士一問一答　合格の肢6　2022年版",
-            "title_collation_key": "シホウショシイチモンイットウ　ゴウカクノアシロク　ニセンンジュウニネンバン",
-            "contributor": "竹下貴浩",
-            "contributor_collation_key": "タケシタ　タカヒロ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535526112.jpg"
-        },
-        {
-            "isbn": "9784535526105",
-            "title": "司法書士一問一答　合格の肢5　2022年版",
-            "title_collation_key": "シホウショシイチモンイットウ　ゴウカクノアシゴ　ニセンニジュウニネンバン",
-            "contributor": "竹下貴浩",
-            "contributor_collation_key": "タケシタ　タカヒロ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535526105.jpg"
+            "isbn": "9784385159942",
+            "title": "司法書士合格六法　2022",
+            "title_collation_key": "シホウショシゴウカクロッポウニセンニジュウニ",
+            "contributor": "森山 和正/三省堂編修所",
+            "contributor_collation_key": "モリヤマカズマサ/サンセイドウヘンシュウジョ",
+            "imprint": "三省堂",
+            "main_cover": "https://cover.openbd.jp/9784385159942.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866882/"
         },
         {
             "isbn": "9784641228245",
@@ -246,7 +391,18 @@
             "contributor": "大橋 洋一",
             "contributor_collation_key": "オオハシヨウイチ",
             "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641228245.jpg"
+            "main_cover": "https://cover.openbd.jp/9784641228245.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879486/"
+        },
+        {
+            "isbn": "9784535526105",
+            "title": "司法書士一問一答　合格の肢5　2022年版",
+            "title_collation_key": "シホウショシイチモンイットウ　ゴウカクノアシゴ　ニセンニジュウニネンバン",
+            "contributor": "竹下貴浩",
+            "contributor_collation_key": "タケシタ　タカヒロ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535526105.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866866/"
         },
         {
             "isbn": "9784798062662",
@@ -255,7 +411,8 @@
             "contributor": "三木邦裕",
             "contributor_collation_key": "ミキクニヒロ",
             "imprint": "秀和システム",
-            "main_cover": "https://cover.openbd.jp/9784798062662.jpg"
+            "main_cover": "https://cover.openbd.jp/9784798062662.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16865334/"
         },
         {
             "isbn": "9784254180619",
@@ -264,7 +421,18 @@
             "contributor": "北脇 秀敏/金子 彰",
             "contributor_collation_key": "キタワキ ヒデトシ/カネコ アキラ",
             "imprint": "朝倉書店",
-            "main_cover": "https://cover.openbd.jp/9784254180619.jpg"
+            "main_cover": "https://cover.openbd.jp/9784254180619.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16837992/"
+        },
+        {
+            "isbn": "9784797274691",
+            "title": "𦾔制對照改正官制全書",
+            "title_collation_key": "キュウセイタイショウカイセイカンセイゼンショ",
+            "contributor": "博文館編輯局",
+            "contributor_collation_key": "ハクブンカンヘンシュウキョク",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797274691.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16925637/"
         },
         {
             "isbn": "9784797277340",
@@ -273,16 +441,8 @@
             "contributor": "山崎 佐",
             "contributor_collation_key": "ヤマザキ タスク",
             "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797277340.jpg"
-        },
-        {
-            "isbn": "9784385154435",
-            "title": "三省堂基本六法2022　令和4年版",
-            "title_collation_key": "サンセイドウキホンロッポウニセンニジュウニレイワヨネンバン",
-            "contributor": "三省堂編修所",
-            "contributor_collation_key": "サンセイドウヘンシュウジョ",
-            "imprint": "三省堂",
-            "main_cover": "https://cover.openbd.jp/9784385154435.jpg"
+            "main_cover": "https://cover.openbd.jp/9784797277340.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16925736/"
         },
         {
             "isbn": "9784762942389",
@@ -291,7 +451,48 @@
             "contributor": "小林　宏",
             "contributor_collation_key": "コバヤシヒロシ",
             "imprint": "汲古書院",
-            "main_cover": "https://cover.openbd.jp/9784762942389.jpg"
+            "main_cover": "https://cover.openbd.jp/9784762942389.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16934560/"
+        },
+        {
+            "isbn": "9784797274684",
+            "title": "非訟事件手續法",
+            "title_collation_key": "ヒショウジケンテツヅキホウ",
+            "contributor": "横田 五郎/三宅 徳業",
+            "contributor_collation_key": "ヨコタ ゴロウ/ミヤケ トクナリ",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797274684.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16925636/"
+        },
+        {
+            "isbn": "9784797274677",
+            "title": "改正強制執行法要義",
+            "title_collation_key": "カイセイキョウセイシッコウホウヨウギ",
+            "contributor": "早川 彌三郎",
+            "contributor_collation_key": "ハヤカワ ヤサブロウ",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797274677.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16925635/"
+        },
+        {
+            "isbn": "9784797241426",
+            "title": "情報公開法制定資料（12）〔平成11年〕",
+            "title_collation_key": "ジョウホウコウカイホウセイテイシリョウ ジュウニ ヘイセイジュウイチネン",
+            "contributor": "塩野 宏/小早川 光郎",
+            "contributor_collation_key": "シオノ ヒロシ/コバヤカワ ミツオ",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797241426.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16925650/"
+        },
+        {
+            "isbn": "9784385154435",
+            "title": "三省堂基本六法2022　令和4年版",
+            "title_collation_key": "サンセイドウキホンロッポウニセンニジュウニレイワヨネンバン",
+            "contributor": "三省堂編修所",
+            "contributor_collation_key": "サンセイドウヘンシュウジョ",
+            "imprint": "三省堂",
+            "main_cover": "https://cover.openbd.jp/9784385154435.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866749/"
         },
         {
             "isbn": "9784065259115",
@@ -300,7 +501,18 @@
             "contributor": "大鹿 靖明",
             "contributor_collation_key": "オオシカ ヤスアキ",
             "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065259115.jpg"
+            "main_cover": "https://cover.openbd.jp/9784065259115.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16920403/"
+        },
+        {
+            "isbn": "9784797275254",
+            "title": "入門経済刑法",
+            "title_collation_key": "ニュウモンケイザイケイホウ",
+            "contributor": "穴沢 大輔/長井 長信",
+            "contributor_collation_key": "アナザワ ダイスケ/ナガイ チョウシン",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797275254.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16934541/"
         },
         {
             "isbn": "9784833111409",
@@ -309,70 +521,8 @@
             "contributor": "眞野明美/関口威人",
             "contributor_collation_key": "マノアケミ/セキグチタケト",
             "imprint": "風媒社",
-            "main_cover": "https://cover.openbd.jp/9784833111409.jpg"
-        },
-        {
-            "isbn": "9784641138704",
-            "title": "契約法〔新版〕",
-            "title_collation_key": "ケイヤクホウシンパン",
-            "contributor": "中田 裕康",
-            "contributor_collation_key": "ナカタヒロヤス",
-            "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641138704.jpg"
-        },
-        {
-            "isbn": "9784385324999",
-            "title": "ケータイ行政書士　ミニマム六法　2022",
-            "title_collation_key": "ケータイギョウセイショシミニマムロッポウニセンニジュウニ",
-            "contributor": "植松 和宏",
-            "contributor_collation_key": "ウエマツカズヒロ",
-            "imprint": "三省堂",
-            "main_cover": "https://cover.openbd.jp/9784385324999.jpg"
-        },
-        {
-            "isbn": "9784847148323",
-            "title": "2022年版　司法試験・予備試験　スタンダード100　2　民法",
-            "title_collation_key": "2022ネンバン シホウシケン・ヨビシケン スタンダード100 2 ミンポウ",
-            "contributor": "早稲田経営出版編集部",
-            "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
-            "imprint": "早稲田経営出版",
-            "main_cover": "https://cover.openbd.jp/9784847148323.jpg"
-        },
-        {
-            "isbn": "9784847148330",
-            "title": "2022年版　司法試験・予備試験　スタンダード100　3　刑法",
-            "title_collation_key": "2022ネンバン シホウシケン・ヨビシケン スタンダード100 3 ケイホウ",
-            "contributor": "早稲田経営出版編集部",
-            "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
-            "imprint": "早稲田経営出版",
-            "main_cover": "https://cover.openbd.jp/9784847148330.jpg"
-        },
-        {
-            "isbn": "9784847148316",
-            "title": "2022年版　司法試験・予備試験　スタンダード100　1　憲法",
-            "title_collation_key": "2022ネンバン シホウシケン・ヨビシケン スタンダード100 1 ケンポウ",
-            "contributor": "早稲田経営出版編集部",
-            "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
-            "imprint": "早稲田経営出版",
-            "main_cover": "https://cover.openbd.jp/9784847148316.jpg"
-        },
-        {
-            "isbn": "9784385324975",
-            "title": "ケータイ司法書士6　2022",
-            "title_collation_key": "ケータイシホウショシロクニセンニジュウニ",
-            "contributor": "森山 和正",
-            "contributor_collation_key": "モリヤマカズマサ",
-            "imprint": "三省堂",
-            "main_cover": "https://cover.openbd.jp/9784385324975.jpg"
-        },
-        {
-            "isbn": "9784385324951",
-            "title": "ケータイ司法書士4　2022",
-            "title_collation_key": "ケータイシホウショシヨンニセンニジュウニ",
-            "contributor": "森山 和正",
-            "contributor_collation_key": "モリヤマカズマサ",
-            "imprint": "三省堂",
-            "main_cover": "https://cover.openbd.jp/9784385324951.jpg"
+            "main_cover": "https://cover.openbd.jp/9784833111409.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16925746/"
         },
         {
             "isbn": "9784847148347",
@@ -381,16 +531,38 @@
             "contributor": "早稲田経営出版編集部",
             "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
             "imprint": "早稲田経営出版",
-            "main_cover": "https://cover.openbd.jp/9784847148347.jpg"
+            "main_cover": "https://cover.openbd.jp/9784847148347.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16845423/"
         },
         {
-            "isbn": "9784847148354",
-            "title": "2022年版　司法試験・予備試験　スタンダード100　5　商法",
-            "title_collation_key": "2022ネンバン シホウシケン・ヨビシケン スタンダード100 5 ショウホウ",
+            "isbn": "9784385324951",
+            "title": "ケータイ司法書士4　2022",
+            "title_collation_key": "ケータイシホウショシヨンニセンニジュウニ",
+            "contributor": "森山 和正",
+            "contributor_collation_key": "モリヤマカズマサ",
+            "imprint": "三省堂",
+            "main_cover": "https://cover.openbd.jp/9784385324951.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866933/"
+        },
+        {
+            "isbn": "9784847148330",
+            "title": "2022年版　司法試験・予備試験　スタンダード100　3　刑法",
+            "title_collation_key": "2022ネンバン シホウシケン・ヨビシケン スタンダード100 3 ケイホウ",
             "contributor": "早稲田経営出版編集部",
             "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
             "imprint": "早稲田経営出版",
-            "main_cover": "https://cover.openbd.jp/9784847148354.jpg"
+            "main_cover": "https://cover.openbd.jp/9784847148330.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16845422/"
+        },
+        {
+            "isbn": "9784847148323",
+            "title": "2022年版　司法試験・予備試験　スタンダード100　2　民法",
+            "title_collation_key": "2022ネンバン シホウシケン・ヨビシケン スタンダード100 2 ミンポウ",
+            "contributor": "早稲田経営出版編集部",
+            "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
+            "imprint": "早稲田経営出版",
+            "main_cover": "https://cover.openbd.jp/9784847148323.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16845421/"
         },
         {
             "isbn": "9784817847584",
@@ -399,16 +571,8 @@
             "contributor": "第一東京弁護士会全期会",
             "contributor_collation_key": "ダイイチトウキョウベンゴシカイゼンキカイ",
             "imprint": "日本加除出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784385324920",
-            "title": "ケータイ司法書士1　2022",
-            "title_collation_key": "ケータイシホウショシイチニセンニジュウニ",
-            "contributor": "森山 和正",
-            "contributor_collation_key": "モリヤマカズマサ",
-            "imprint": "三省堂",
-            "main_cover": "https://cover.openbd.jp/9784385324920.jpg"
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16891267/"
         },
         {
             "isbn": "9784385324968",
@@ -417,16 +581,8 @@
             "contributor": "森山 和正",
             "contributor_collation_key": "モリヤマカズマサ",
             "imprint": "三省堂",
-            "main_cover": "https://cover.openbd.jp/9784385324968.jpg"
-        },
-        {
-            "isbn": "9784385324944",
-            "title": "ケータイ司法書士3　2022",
-            "title_collation_key": "ケータイシホウショシサンニセンニジュウニ",
-            "contributor": "森山 和正",
-            "contributor_collation_key": "モリヤマカズマサ",
-            "imprint": "三省堂",
-            "main_cover": "https://cover.openbd.jp/9784385324944.jpg"
+            "main_cover": "https://cover.openbd.jp/9784385324968.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866932/"
         },
         {
             "isbn": "9784385324937",
@@ -435,7 +591,78 @@
             "contributor": "森山 和正",
             "contributor_collation_key": "モリヤマカズマサ",
             "imprint": "三省堂",
-            "main_cover": "https://cover.openbd.jp/9784385324937.jpg"
+            "main_cover": "https://cover.openbd.jp/9784385324937.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866931/"
+        },
+        {
+            "isbn": "9784847148354",
+            "title": "2022年版　司法試験・予備試験　スタンダード100　5　商法",
+            "title_collation_key": "2022ネンバン シホウシケン・ヨビシケン スタンダード100 5 ショウホウ",
+            "contributor": "早稲田経営出版編集部",
+            "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
+            "imprint": "早稲田経営出版",
+            "main_cover": "https://cover.openbd.jp/9784847148354.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16845424/"
+        },
+        {
+            "isbn": "9784385324944",
+            "title": "ケータイ司法書士3　2022",
+            "title_collation_key": "ケータイシホウショシサンニセンニジュウニ",
+            "contributor": "森山 和正",
+            "contributor_collation_key": "モリヤマカズマサ",
+            "imprint": "三省堂",
+            "main_cover": "https://cover.openbd.jp/9784385324944.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866930/"
+        },
+        {
+            "isbn": "9784847148316",
+            "title": "2022年版　司法試験・予備試験　スタンダード100　1　憲法",
+            "title_collation_key": "2022ネンバン シホウシケン・ヨビシケン スタンダード100 1 ケンポウ",
+            "contributor": "早稲田経営出版編集部",
+            "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
+            "imprint": "早稲田経営出版",
+            "main_cover": "https://cover.openbd.jp/9784847148316.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16845420/"
+        },
+        {
+            "isbn": "9784385324975",
+            "title": "ケータイ司法書士6　2022",
+            "title_collation_key": "ケータイシホウショシロクニセンニジュウニ",
+            "contributor": "森山 和正",
+            "contributor_collation_key": "モリヤマカズマサ",
+            "imprint": "三省堂",
+            "main_cover": "https://cover.openbd.jp/9784385324975.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866756/"
+        },
+        {
+            "isbn": "9784385324999",
+            "title": "ケータイ行政書士　ミニマム六法　2022",
+            "title_collation_key": "ケータイギョウセイショシミニマムロッポウニセンニジュウニ",
+            "contributor": "植松 和宏",
+            "contributor_collation_key": "ウエマツカズヒロ",
+            "imprint": "三省堂",
+            "main_cover": "https://cover.openbd.jp/9784385324999.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866757/"
+        },
+        {
+            "isbn": "9784385324920",
+            "title": "ケータイ司法書士1　2022",
+            "title_collation_key": "ケータイシホウショシイチニセンニジュウニ",
+            "contributor": "森山 和正",
+            "contributor_collation_key": "モリヤマカズマサ",
+            "imprint": "三省堂",
+            "main_cover": "https://cover.openbd.jp/9784385324920.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866934/"
+        },
+        {
+            "isbn": "9784641138704",
+            "title": "契約法〔新版〕",
+            "title_collation_key": "ケイヤクホウシンパン",
+            "contributor": "中田 裕康",
+            "contributor_collation_key": "ナカタヒロヤス",
+            "imprint": "有斐閣",
+            "main_cover": "https://cover.openbd.jp/9784641138704.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879465/"
         },
         {
             "isbn": "9784785729066",
@@ -444,61 +671,8 @@
             "contributor": "中村 直人",
             "contributor_collation_key": "ナカムラ ナオト",
             "imprint": "商事法務",
-            "main_cover": "https://cover.openbd.jp/9784785729066.jpg"
-        },
-        {
-            "isbn": "9784847148750",
-            "title": "山本浩司のオートマシステム　3　民法3　＜第10版＞",
-            "title_collation_key": "ヤマモトコウジノオートマシステム 3 ミンポウ3 ＜ダイ10バン＞",
-            "contributor": "山本　浩司",
-            "contributor_collation_key": "ヤマモト コウジ",
-            "imprint": "早稲田経営出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784847148743",
-            "title": "山本浩司のオートマシステム　2　民法2　＜第10版＞",
-            "title_collation_key": "ヤマモトコウジノオートマシステム 2 ミンポウ2 ＜ダイ10バン＞",
-            "contributor": "山本　浩司",
-            "contributor_collation_key": "ヤマモト コウジ",
-            "imprint": "早稲田経営出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784480251152",
-            "title": "法は君のためにある",
-            "title_collation_key": "ホウハキミノタメニアル",
-            "contributor": "小貫　篤",
-            "contributor_collation_key": "オヌキ　アツシ",
-            "imprint": "筑摩書房",
-            "main_cover": "https://cover.openbd.jp/9784480251152.jpg"
-        },
-        {
-            "isbn": "9784847148101",
-            "title": "2022年度版　合格革命　行政書士　スタートダッシュ",
-            "title_collation_key": "2022ネンドバン ゴウカクカクメイ ギョウセイショシ スタートダッシュ",
-            "contributor": "行政書士試験研究会",
-            "contributor_collation_key": "ギョウセイショシシケンケンキュウカイ",
-            "imprint": "早稲田経営出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784797228052",
-            "title": "国際人権・刑事法概論〔第2版〕",
-            "title_collation_key": "コクサイジンケン ケイジホウガイロン ダイニハン",
-            "contributor": "尾崎 久仁子",
-            "contributor_collation_key": "オザキ クニコ",
-            "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797228052.jpg"
-        },
-        {
-            "isbn": "9784847148781",
-            "title": "2022年版　山本浩司のオートマシステム　総集編　短期合格のツボ",
-            "title_collation_key": "2022ネンバン ヤマモトコウジノオートマシステム ソウシュウヘン タンキゴウカクノツボ",
-            "contributor": "山本　浩司",
-            "contributor_collation_key": "ヤマモト コウジ",
-            "imprint": "早稲田経営出版",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784785729066.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16891265/"
         },
         {
             "isbn": "9784847148736",
@@ -507,7 +681,8 @@
             "contributor": "山本　浩司",
             "contributor_collation_key": "ヤマモト コウジ",
             "imprint": "早稲田経営出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16845398/"
         },
         {
             "isbn": "9784532415624",
@@ -516,16 +691,68 @@
             "contributor": "平林 勉/伊藤塾",
             "contributor_collation_key": "ヒラバヤシ ツトム/イトウジュク",
             "imprint": "日経BP 日本経済新聞出版本部",
-            "main_cover": "https://cover.openbd.jp/9784532415624.jpg"
+            "main_cover": "https://cover.openbd.jp/9784532415624.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16857479/"
         },
         {
-            "isbn": "9784589041777",
-            "title": "会社法の基礎〔第2版〕",
-            "title_collation_key": "カイシャホウノキソダイニハン",
-            "contributor": "加藤 徹/笹川 敏彦",
-            "contributor_collation_key": "カトウ トオル/ササガワ トシヒコ",
-            "imprint": "法律文化社",
-            "main_cover": "https://cover.openbd.jp/9784589041777.jpg"
+            "isbn": "9784847148750",
+            "title": "山本浩司のオートマシステム　3　民法3　＜第10版＞",
+            "title_collation_key": "ヤマモトコウジノオートマシステム 3 ミンポウ3 ＜ダイ10バン＞",
+            "contributor": "山本　浩司",
+            "contributor_collation_key": "ヤマモト コウジ",
+            "imprint": "早稲田経営出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16845400/"
+        },
+        {
+            "isbn": "9784847148781",
+            "title": "2022年版　山本浩司のオートマシステム　総集編　短期合格のツボ",
+            "title_collation_key": "2022ネンバン ヤマモトコウジノオートマシステム ソウシュウヘン タンキゴウカクノツボ",
+            "contributor": "山本　浩司",
+            "contributor_collation_key": "ヤマモト コウジ",
+            "imprint": "早稲田経営出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16845402/"
+        },
+        {
+            "isbn": "9784847148743",
+            "title": "山本浩司のオートマシステム　2　民法2　＜第10版＞",
+            "title_collation_key": "ヤマモトコウジノオートマシステム 2 ミンポウ2 ＜ダイ10バン＞",
+            "contributor": "山本　浩司",
+            "contributor_collation_key": "ヤマモト コウジ",
+            "imprint": "早稲田経営出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16845399/"
+        },
+        {
+            "isbn": "9784797228052",
+            "title": "国際人権・刑事法概論〔第2版〕",
+            "title_collation_key": "コクサイジンケン ケイジホウガイロン ダイニハン",
+            "contributor": "尾崎 久仁子",
+            "contributor_collation_key": "オザキ クニコ",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797228052.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16920642/"
+        },
+        {
+            "isbn": "9784847148101",
+            "title": "2022年度版　合格革命　行政書士　スタートダッシュ",
+            "title_collation_key": "2022ネンドバン ゴウカクカクメイ ギョウセイショシ スタートダッシュ",
+            "contributor": "行政書士試験研究会",
+            "contributor_collation_key": "ギョウセイショシシケンケンキュウカイ",
+            "imprint": "早稲田経営出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16845475/"
+        },
+        {
+            "isbn": "9784480251152",
+            "title": "法は君のためにある",
+            "title_collation_key": "ホウハキミノタメニアル",
+            "contributor": "小貫　篤",
+            "contributor_collation_key": "オヌキ　アツシ",
+            "imprint": "筑摩書房",
+            "main_cover": "https://cover.openbd.jp/9784480251152.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16865354/"
         },
         {
             "isbn": "9784087443127",
@@ -534,7 +761,8 @@
             "contributor": "伊勢崎 賢治/布施 祐仁",
             "contributor_collation_key": "イセザキ ケンジ/フセ ユウジン",
             "imprint": "集英社",
-            "main_cover": "https://cover.openbd.jp/9784087443127.jpg"
+            "main_cover": "https://cover.openbd.jp/9784087443127.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16892622/"
         },
         {
             "isbn": "9784762831713",
@@ -543,7 +771,8 @@
             "contributor": "西田 英一",
             "contributor_collation_key": "ニシダ ヒデカズ",
             "imprint": "北大路書房",
-            "main_cover": "https://cover.openbd.jp/9784762831713.jpg"
+            "main_cover": "https://cover.openbd.jp/9784762831713.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16871311/"
         },
         {
             "isbn": "9784762031038",
@@ -552,7 +781,8 @@
             "contributor": "黒崎 岳大",
             "contributor_collation_key": "クロサキ タケヒロ",
             "imprint": "学文社",
-            "main_cover": "https://cover.openbd.jp/9784762031038.jpg"
+            "main_cover": "https://cover.openbd.jp/9784762031038.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16876983/"
         },
         {
             "isbn": "9784847148880",
@@ -561,7 +791,8 @@
             "contributor": "山本　浩司",
             "contributor_collation_key": "ヤマモト コウジ",
             "imprint": "早稲田経営出版",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16845406/"
         },
         {
             "isbn": "9784535526082",
@@ -570,25 +801,8 @@
             "contributor": "竹下貴浩",
             "contributor_collation_key": "タケシタ　タカヒロ",
             "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535526082.jpg"
-        },
-        {
-            "isbn": "9784535526099",
-            "title": "司法書士一問一答　合格の肢4　2022年版",
-            "title_collation_key": "シホウショシイチモンイットウ　ゴウカクノアシヨン　ニセンニジュウニネンバン",
-            "contributor": "竹下貴浩",
-            "contributor_collation_key": "タケシタ　タカヒロ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535526099.jpg"
-        },
-        {
-            "isbn": "9784535526068",
-            "title": "司法書士一問一答　合格の肢1　2022年版",
-            "title_collation_key": "シホウショシイチモンイットウ　ゴウカクノアシイチ　ニセンニジュウニネンバン",
-            "contributor": "竹下貴浩",
-            "contributor_collation_key": "タケシタ　タカヒロ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535526068.jpg"
+            "main_cover": "https://cover.openbd.jp/9784535526082.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866887/"
         },
         {
             "isbn": "9784535526075",
@@ -597,7 +811,18 @@
             "contributor": "竹下貴浩",
             "contributor_collation_key": "タケシタ　タカヒロ",
             "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535526075.jpg"
+            "main_cover": "https://cover.openbd.jp/9784535526075.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866886/"
+        },
+        {
+            "isbn": "9784535526099",
+            "title": "司法書士一問一答　合格の肢4　2022年版",
+            "title_collation_key": "シホウショシイチモンイットウ　ゴウカクノアシヨン　ニセンニジュウニネンバン",
+            "contributor": "竹下貴浩",
+            "contributor_collation_key": "タケシタ　タカヒロ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535526099.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866888/"
         },
         {
             "isbn": "9784863543652",
@@ -606,16 +831,18 @@
             "contributor": "南部義典",
             "contributor_collation_key": "ナンブヨシノリ",
             "imprint": "シーアンドアール研究所",
-            "main_cover": "https://cover.openbd.jp/9784863543652.jpg"
+            "main_cover": "https://cover.openbd.jp/9784863543652.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16849258/"
         },
         {
-            "isbn": "9784831515971",
-            "title": "弁護士になるには",
-            "title_collation_key": "ベンゴシニナルニハ",
-            "contributor": "飯島 一孝",
-            "contributor_collation_key": "イイジマ カズタカ",
-            "imprint": "ぺりかん社",
-            "main_cover": "https://cover.openbd.jp/9784831515971.jpg"
+            "isbn": "9784535526068",
+            "title": "司法書士一問一答　合格の肢1　2022年版",
+            "title_collation_key": "シホウショシイチモンイットウ　ゴウカクノアシイチ　ニセンニジュウニネンバン",
+            "contributor": "竹下貴浩",
+            "contributor_collation_key": "タケシタ　タカヒロ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535526068.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866885/"
         },
         {
             "isbn": "9784474075856",
@@ -624,7 +851,8 @@
             "contributor": "大江　忠",
             "contributor_collation_key": "オオエタダシ",
             "imprint": "第一法規",
-            "main_cover": "https://cover.openbd.jp/9784474075856.jpg"
+            "main_cover": "https://cover.openbd.jp/9784474075856.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16893354/"
         },
         {
             "isbn": "9784474075863",
@@ -633,7 +861,18 @@
             "contributor": "大江　忠",
             "contributor_collation_key": "オオエタダシ",
             "imprint": "第一法規",
-            "main_cover": "https://cover.openbd.jp/9784474075863.jpg"
+            "main_cover": "https://cover.openbd.jp/9784474075863.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16893333/"
+        },
+        {
+            "isbn": "9784831515971",
+            "title": "弁護士になるには",
+            "title_collation_key": "ベンゴシニナルニハ",
+            "contributor": "飯島 一孝",
+            "contributor_collation_key": "イイジマ カズタカ",
+            "imprint": "ぺりかん社",
+            "main_cover": "https://cover.openbd.jp/9784831515971.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16903231/"
         },
         {
             "isbn": "9784641138735",
@@ -642,7 +881,8 @@
             "contributor": "岡成 玄太",
             "contributor_collation_key": "オカナリゲンタ",
             "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641138735.jpg"
+            "main_cover": "https://cover.openbd.jp/9784641138735.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879466/"
         },
         {
             "isbn": "9784589041722",
@@ -651,7 +891,8 @@
             "contributor": "竹濱 修/泉 裕章",
             "contributor_collation_key": "タケハマ オサム/イズミ ヒロアキ",
             "imprint": "法律文化社",
-            "main_cover": "https://cover.openbd.jp/9784589041722.jpg"
+            "main_cover": "https://cover.openbd.jp/9784589041722.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16874590/"
         },
         {
             "isbn": "9784313314214",
@@ -660,7 +901,8 @@
             "contributor": "深澤 諭史",
             "contributor_collation_key": "フカザワサトシ",
             "imprint": "学陽書房",
-            "main_cover": "https://cover.openbd.jp/9784313314214.jpg"
+            "main_cover": "https://cover.openbd.jp/9784313314214.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16867127/"
         },
         {
             "isbn": "9784641003422",
@@ -669,43 +911,8 @@
             "contributor": "長谷部 恭男/佐伯 仁志",
             "contributor_collation_key": "ハセベヤスオ/サエキヒトシ",
             "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641003422.jpg"
-        },
-        {
-            "isbn": "9784426127169",
-            "title": "国家試験受験のためのよくわかる会社法(第8版)",
-            "title_collation_key": "コッカシケンジュケンノタメノヨクワカルカイシャホウ ダイハチハン",
-            "contributor": "神余 博史",
-            "contributor_collation_key": "カナマル ヒロフミ",
-            "imprint": "自由国民社",
-            "main_cover": "https://cover.openbd.jp/9784426127169.jpg"
-        },
-        {
-            "isbn": "9784417018223",
-            "title": "コンメンタール家事事件手続法1",
-            "title_collation_key": "コンメンタールカジジケンテツヅキホウ イチ",
-            "contributor": "秋武　憲一/片岡　武",
-            "contributor_collation_key": "アキタケ/カタオカ　タケシ",
-            "imprint": "青林書院",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784417018230",
-            "title": "コンメンタール家事事件手続法2",
-            "title_collation_key": "コンメンタールカジジケンテツヅキホウ　ニ",
-            "contributor": "秋武　憲一/片岡　武",
-            "contributor_collation_key": "アキタケ　ケンイチ/カタオカ　タケシ",
-            "imprint": "青林書院",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784863677036",
-            "title": "改訂新版 Q＆A外国人・留学生支援「よろず相談」ハンドブック",
-            "title_collation_key": "カイテイシンパン キューアンドエーガイコクジン リュウガクセイシエン ヨロズソウダン ハンドブック",
-            "contributor": "永井　弘行",
-            "contributor_collation_key": "ナガイ　ヒロユキ",
-            "imprint": "セルバ出版",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784641003422.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16877672/"
         },
         {
             "isbn": "9784535525870",
@@ -714,16 +921,48 @@
             "contributor": "木谷　明",
             "contributor_collation_key": "キタニ アキラ",
             "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535525870.jpg"
+            "main_cover": "https://cover.openbd.jp/9784535525870.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827146/"
         },
         {
-            "isbn": "9784623091676",
-            "title": "高校の教科書で学ぶ　法学入門",
-            "title_collation_key": "コウコウノキョウカショデマナブホウガクニュウモン",
-            "contributor": "宮川　基",
-            "contributor_collation_key": "ミヤガワ　モトイ",
-            "imprint": "ミネルヴァ書房",
-            "main_cover": "https://cover.openbd.jp/9784623091676.jpg"
+            "isbn": "9784417018223",
+            "title": "コンメンタール家事事件手続法1",
+            "title_collation_key": "コンメンタールカジジケンテツヅキホウ イチ",
+            "contributor": "秋武　憲一/片岡　武",
+            "contributor_collation_key": "アキタケ/カタオカ　タケシ",
+            "imprint": "青林書院",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16891663/"
+        },
+        {
+            "isbn": "9784863677036",
+            "title": "改訂新版 Q＆A外国人・留学生支援「よろず相談」ハンドブック",
+            "title_collation_key": "カイテイシンパン キューアンドエーガイコクジン リュウガクセイシエン ヨロズソウダン ハンドブック",
+            "contributor": "永井　弘行",
+            "contributor_collation_key": "ナガイ　ヒロユキ",
+            "imprint": "セルバ出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16909832/"
+        },
+        {
+            "isbn": "9784426127169",
+            "title": "国家試験受験のためのよくわかる会社法(第8版)",
+            "title_collation_key": "コッカシケンジュケンノタメノヨクワカルカイシャホウ ダイハチハン",
+            "contributor": "神余 博史",
+            "contributor_collation_key": "カナマル ヒロフミ",
+            "imprint": "自由国民社",
+            "main_cover": "https://cover.openbd.jp/9784426127169.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16900368/"
+        },
+        {
+            "isbn": "9784417018230",
+            "title": "コンメンタール家事事件手続法2",
+            "title_collation_key": "コンメンタールカジジケンテツヅキホウ　ニ",
+            "contributor": "秋武　憲一/片岡　武",
+            "contributor_collation_key": "アキタケ　ケンイチ/カタオカ　タケシ",
+            "imprint": "青林書院",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16891662/"
         },
         {
             "isbn": "9784785729004",
@@ -732,7 +971,18 @@
             "contributor": "日弁連法務研究財団",
             "contributor_collation_key": "ニチベンレンホウムケンキュウザイダン",
             "imprint": "商事法務",
-            "main_cover": "https://cover.openbd.jp/9784785729004.jpg"
+            "main_cover": "https://cover.openbd.jp/9784785729004.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16874887/"
+        },
+        {
+            "isbn": "9784623091676",
+            "title": "高校の教科書で学ぶ　法学入門",
+            "title_collation_key": "コウコウノキョウカショデマナブホウガクニュウモン",
+            "contributor": "宮川　基",
+            "contributor_collation_key": "ミヤガワ　モトイ",
+            "imprint": "ミネルヴァ書房",
+            "main_cover": "https://cover.openbd.jp/9784623091676.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16870816/"
         },
         {
             "isbn": "9784322139723",
@@ -741,7 +991,8 @@
             "contributor": "山野目　章夫/筧　康生",
             "contributor_collation_key": "ヤマノメ アキオ/カケイ ヤスオ",
             "imprint": "一般社団法人金融財政事情研究会",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16865687/"
         },
         {
             "isbn": "9784426127381",
@@ -750,7 +1001,8 @@
             "contributor": "石原 豊昭/國部 徹",
             "contributor_collation_key": "イシハラ トヨアキ/クニベ トオル",
             "imprint": "自由国民社",
-            "main_cover": "https://cover.openbd.jp/9784426127381.jpg"
+            "main_cover": "https://cover.openbd.jp/9784426127381.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16892390/"
         },
         {
             "isbn": "9784862808202",
@@ -759,34 +1011,8 @@
             "contributor": "石倉　英樹",
             "contributor_collation_key": "イシク　ラヒデキ",
             "imprint": "総合法令出版",
-            "main_cover": "https://cover.openbd.jp/9784862808202.jpg"
-        },
-        {
-            "isbn": "9784562071135",
-            "title": "昭和年間法令全書　第29巻ノ13　昭和三十年",
-            "title_collation_key": "ショウワネンカンホウレイゼンショダイニジュウキュウカンノジュウサンショウワサンジュウネン",
-            "contributor": "印刷庁",
-            "contributor_collation_key": "インサツチョウ",
-            "imprint": "原書房",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784562071128",
-            "title": "昭和年間法令全書　第29巻ノ12　昭和三十年",
-            "title_collation_key": "ショウワネンカンホウレイゼンショダイニジュウキュウカンノジュウニショウワサンジュウネン",
-            "contributor": "印刷庁",
-            "contributor_collation_key": "インサツチョウ",
-            "imprint": "原書房",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784873547398",
-            "title": "法的思考のススメ",
-            "title_collation_key": "ホウテキシコウノススメ",
-            "contributor": "尾島 史賢",
-            "contributor_collation_key": "オジマ フミタカ",
-            "imprint": "関西大学出版部",
-            "main_cover": "https://cover.openbd.jp/9784873547398.jpg"
+            "main_cover": "https://cover.openbd.jp/9784862808202.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16896669/"
         },
         {
             "isbn": "9784335358807",
@@ -795,43 +1021,38 @@
             "contributor": "古積　健三郎",
             "contributor_collation_key": "コヅミ　ケンザブロウ",
             "imprint": "弘文堂",
-            "main_cover": "https://cover.openbd.jp/9784335358807.jpg"
+            "main_cover": "https://cover.openbd.jp/9784335358807.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16892414/"
         },
         {
-            "isbn": "9784535525658",
-            "title": "刑事司法改革の現段階",
-            "title_collation_key": "ケイジシホウカイカクノゲンダンカイ",
-            "contributor": "川崎英明/後藤 昭",
-            "contributor_collation_key": "カワサキ　ヒデアキ/ゴトウ　アキラ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535525658.jpg"
+            "isbn": "9784873547398",
+            "title": "法的思考のススメ",
+            "title_collation_key": "ホウテキシコウノススメ",
+            "contributor": "尾島 史賢",
+            "contributor_collation_key": "オジマ フミタカ",
+            "imprint": "関西大学出版部",
+            "main_cover": "https://cover.openbd.jp/9784873547398.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16884024/"
         },
         {
-            "isbn": "9784535526051",
-            "title": "伊藤真の行政法入門　第3版",
-            "title_collation_key": "イトウマコトノギョウセイホウニュウモン　ダイサンハン",
-            "contributor": "伊藤　真",
-            "contributor_collation_key": "イトウ　マコト",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535526051.jpg"
+            "isbn": "9784562071128",
+            "title": "昭和年間法令全書　第29巻ノ12　昭和三十年",
+            "title_collation_key": "ショウワネンカンホウレイゼンショダイニジュウキュウカンノジュウニショウワサンジュウネン",
+            "contributor": "印刷庁",
+            "contributor_collation_key": "インサツチョウ",
+            "imprint": "原書房",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16860472/"
         },
         {
-            "isbn": "9784863676978",
-            "title": "改訂版　必ず取れる日本永住権！　外国人の永住権許可申請ガイド",
-            "title_collation_key": "カイテイバン　カナラズトレルニホンエイジュウケン　ガイコクジンノエイジュウケンキョカシンセイガイド",
-            "contributor": "河原木　惇",
-            "contributor_collation_key": "カワラギ　アツシ",
-            "imprint": "セルバ出版",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784167917708",
-            "title": "創意に生きる 中京財界史",
-            "title_collation_key": "ソウイニイキル チュウキョウザイカイシ",
-            "contributor": "城山 三郎",
-            "contributor_collation_key": "シロヤマ サブロウ",
-            "imprint": "文藝春秋",
-            "main_cover": "https://cover.openbd.jp/9784167917708.jpg"
+            "isbn": "9784562071135",
+            "title": "昭和年間法令全書　第29巻ノ13　昭和三十年",
+            "title_collation_key": "ショウワネンカンホウレイゼンショダイニジュウキュウカンノジュウサンショウワサンジュウネン",
+            "contributor": "印刷庁",
+            "contributor_collation_key": "インサツチョウ",
+            "imprint": "原書房",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16860471/"
         },
         {
             "isbn": "9784785729028",
@@ -840,52 +1061,48 @@
             "contributor": "田高 寛貴",
             "contributor_collation_key": "タダカ ヒロタカ",
             "imprint": "商事法務",
-            "main_cover": "https://cover.openbd.jp/9784785729028.jpg"
+            "main_cover": "https://cover.openbd.jp/9784785729028.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879025/"
         },
         {
-            "isbn": "9784474074941",
-            "title": "債権法改正にみる要件事実～攻撃防御構造上の位置づけと論証例～",
-            "title_collation_key": "サイケンホウカイセイニミルヨウケンジジツコウゲキボウギョコウゾウジョウノイチヅケトロンショウレイ",
-            "contributor": "東京弁護士会法友会至誠会",
-            "contributor_collation_key": "トウキョウベンゴシカイホウユウカイシセイカイ",
-            "imprint": "第一法規",
-            "main_cover": "https://cover.openbd.jp/9784474074941.jpg"
+            "isbn": "9784535526051",
+            "title": "伊藤真の行政法入門　第3版",
+            "title_collation_key": "イトウマコトノギョウセイホウニュウモン　ダイサンハン",
+            "contributor": "伊藤　真",
+            "contributor_collation_key": "イトウ　マコト",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535526051.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16845210/"
         },
         {
-            "isbn": "9784322139686",
-            "title": "民事保全の実務〔第4版〕（下）",
-            "title_collation_key": "ミンジホゼンノジツム ダイヨンハン ゲ",
-            "contributor": "江原　健志/品川　英基",
-            "contributor_collation_key": "エバラ　タケシ/シナガワ　ヒデキ",
-            "imprint": "一般社団法人金融財政事情研究会",
-            "main_cover": ""
+            "isbn": "9784167917708",
+            "title": "創意に生きる 中京財界史",
+            "title_collation_key": "ソウイニイキル チュウキョウザイカイシ",
+            "contributor": "城山 三郎",
+            "contributor_collation_key": "シロヤマ サブロウ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://cover.openbd.jp/9784167917708.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16840585/"
         },
         {
-            "isbn": "9784866161303",
-            "title": "海外で国際協力をしたい人のための活動ハンドブック",
-            "title_collation_key": "カイガイデコクサイキョウリョクヲシタイヒトノタメノカツドウハンドブック",
-            "contributor": "岡本美代子",
-            "contributor_collation_key": "オカモトミヨコ",
-            "imprint": "遠見書房",
-            "main_cover": "https://cover.openbd.jp/9784866161303.jpg"
+            "isbn": "9784535525658",
+            "title": "刑事司法改革の現段階",
+            "title_collation_key": "ケイジシホウカイカクノゲンダンカイ",
+            "contributor": "川崎英明/後藤 昭",
+            "contributor_collation_key": "カワサキ　ヒデアキ/ゴトウ　アキラ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535525658.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827156/"
         },
         {
-            "isbn": "9784299021281",
-            "title": "家族が亡くなった後の手続きガイド 新装改訂版",
-            "title_collation_key": "カゾクガナクナッタアトノテツヅキガイドシンソウカイテイバン",
-            "contributor": "三浦 美樹",
-            "contributor_collation_key": "ミウラ ミキ",
-            "imprint": "宝島社",
-            "main_cover": "https://cover.openbd.jp/9784299021281.jpg"
-        },
-        {
-            "isbn": "9784797286298",
-            "title": "嫌いにならない法学入門",
-            "title_collation_key": "キライニナラナイホウガクニュウモン",
-            "contributor": "村中 洋介/川島 翔",
-            "contributor_collation_key": "ムラナカ ヨウスケ/カワシマ ショウ",
-            "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797286298.jpg"
+            "isbn": "9784863676978",
+            "title": "改訂版　必ず取れる日本永住権！　外国人の永住権許可申請ガイド",
+            "title_collation_key": "カイテイバン　カナラズトレルニホンエイジュウケン　ガイコクジンノエイジュウケンキョカシンセイガイド",
+            "contributor": "河原木　惇",
+            "contributor_collation_key": "カワラギ　アツシ",
+            "imprint": "セルバ出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16879148/"
         },
         {
             "isbn": "9784794225429",
@@ -894,7 +1111,18 @@
             "contributor": "氏家 幹人",
             "contributor_collation_key": "ウジイエ　ミキト",
             "imprint": "草思社",
-            "main_cover": "https://cover.openbd.jp/9784794225429.jpg"
+            "main_cover": "https://cover.openbd.jp/9784794225429.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16883755/"
+        },
+        {
+            "isbn": "9784797286298",
+            "title": "嫌いにならない法学入門",
+            "title_collation_key": "キライニナラナイホウガクニュウモン",
+            "contributor": "村中 洋介/川島 翔",
+            "contributor_collation_key": "ムラナカ ヨウスケ/カワシマ ショウ",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797286298.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16901308/"
         },
         {
             "isbn": "9784792327729",
@@ -903,7 +1131,38 @@
             "contributor": "原田 剛",
             "contributor_collation_key": "ハラダ ツヨシ",
             "imprint": "成文堂",
-            "main_cover": "https://cover.openbd.jp/9784792327729.jpg"
+            "main_cover": "https://cover.openbd.jp/9784792327729.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16887446/"
+        },
+        {
+            "isbn": "9784474074941",
+            "title": "債権法改正にみる要件事実～攻撃防御構造上の位置づけと論証例～",
+            "title_collation_key": "サイケンホウカイセイニミルヨウケンジジツコウゲキボウギョコウゾウジョウノイチヅケトロンショウレイ",
+            "contributor": "東京弁護士会法友会至誠会",
+            "contributor_collation_key": "トウキョウベンゴシカイホウユウカイシセイカイ",
+            "imprint": "第一法規",
+            "main_cover": "https://cover.openbd.jp/9784474074941.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16841416/"
+        },
+        {
+            "isbn": "9784866161303",
+            "title": "海外で国際協力をしたい人のための活動ハンドブック",
+            "title_collation_key": "カイガイデコクサイキョウリョクヲシタイヒトノタメノカツドウハンドブック",
+            "contributor": "岡本美代子",
+            "contributor_collation_key": "オカモトミヨコ",
+            "imprint": "遠見書房",
+            "main_cover": "https://cover.openbd.jp/9784866161303.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16867140/"
+        },
+        {
+            "isbn": "9784299021281",
+            "title": "家族が亡くなった後の手続きガイド 新装改訂版",
+            "title_collation_key": "カゾクガナクナッタアトノテツヅキガイドシンソウカイテイバン",
+            "contributor": "三浦 美樹",
+            "contributor_collation_key": "ミウラ ミキ",
+            "imprint": "宝島社",
+            "main_cover": "https://cover.openbd.jp/9784299021281.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16874713/"
         },
         {
             "isbn": "9784322139679",
@@ -912,7 +1171,18 @@
             "contributor": "江原　健志/品川　英基",
             "contributor_collation_key": "エバラ　タケシ/シナガワ　ヒデキ",
             "imprint": "一般社団法人金融財政事情研究会",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16877980/"
+        },
+        {
+            "isbn": "9784322139686",
+            "title": "民事保全の実務〔第4版〕（下）",
+            "title_collation_key": "ミンジホゼンノジツム ダイヨンハン ゲ",
+            "contributor": "江原　健志/品川　英基",
+            "contributor_collation_key": "エバラ　タケシ/シナガワ　ヒデキ",
+            "imprint": "一般社団法人金融財政事情研究会",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16877978/"
         },
         {
             "isbn": "9784426127374",
@@ -921,7 +1191,8 @@
             "contributor": "神田 将",
             "contributor_collation_key": "カンダ ススム",
             "imprint": "自由国民社",
-            "main_cover": "https://cover.openbd.jp/9784426127374.jpg"
+            "main_cover": "https://cover.openbd.jp/9784426127374.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16869254/"
         },
         {
             "isbn": "9784750352718",
@@ -930,34 +1201,8 @@
             "contributor": "岡村　逸郎",
             "contributor_collation_key": "オカムラ イツロウ",
             "imprint": "明石書店",
-            "main_cover": "https://cover.openbd.jp/9784750352718.jpg"
-        },
-        {
-            "isbn": "9784324110485",
-            "title": "用地補償実務六法（令和4年版）",
-            "title_collation_key": "ヨウチ ホショウ ジツム ロッポウ",
-            "contributor": "補償実務研究会",
-            "contributor_collation_key": "ホショウ ジツム ケンキュウカイ",
-            "imprint": "ぎょうせい",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784803724967",
-            "title": "判例講座刑事訴訟法　捜査・証拠篇第2版",
-            "title_collation_key": "ハンレイ コウザ ケイジ ソショウホウ ソウサ ショウコヘン",
-            "contributor": "川出敏裕",
-            "contributor_collation_key": "カワイデ,トシヒロ",
-            "imprint": "立花書房",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784286229300",
-            "title": "笑顔が報酬",
-            "title_collation_key": "エガオ ガ ホウシュウ",
-            "contributor": "小崎佳奈子",
-            "contributor_collation_key": "コサキ,カナコ",
-            "imprint": "文芸社",
-            "main_cover": ""
+            "main_cover": "https://cover.openbd.jp/9784750352718.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16901353/"
         },
         {
             "isbn": "9784324110010",
@@ -966,7 +1211,8 @@
             "contributor": "東京弁護士会法曹同志会",
             "contributor_collation_key": "トウキョウ ベンゴシカイ ホウソウ ドウシカイ",
             "imprint": "ぎょうせい",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16918206/"
         },
         {
             "isbn": "9784641228238",
@@ -975,16 +1221,28 @@
             "contributor": "片桐 直人/井上 武史",
             "contributor_collation_key": "カタギリナオト/イノウエタケシ",
             "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641228238.jpg"
+            "main_cover": "https://cover.openbd.jp/9784641228238.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16844197/"
         },
         {
-            "isbn": "9784587222871",
-            "title": "伊藤真が選んだ短答式一問一答形式1000民事訴訟法第3版",
-            "title_collation_key": "イトウ マコト ガ エランダ タントウシキ イチモン イットウ セン ミンジ ソショ",
-            "contributor": "伊藤真（法律）",
-            "contributor_collation_key": "イトウ,マコト",
-            "imprint": "法学書院",
-            "main_cover": ""
+            "isbn": "9784324110256",
+            "title": "クロスレファレンス民事実務講義第3版",
+            "title_collation_key": "クロス レファレンス ミンジ ジツム コウギ",
+            "contributor": "京野哲也",
+            "contributor_collation_key": "キョウノ,テツヤ",
+            "imprint": "ぎょうせい",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16940755/"
+        },
+        {
+            "isbn": "9784324110669",
+            "title": "司法福祉・実践と展望",
+            "title_collation_key": "シホウ フクシ ジッセン ト テンボウ",
+            "contributor": "伊藤冨士江",
+            "contributor_collation_key": "イトウ,フジエ",
+            "imprint": "ぎょうせい",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16934065/"
         },
         {
             "isbn": "9784755403132",
@@ -993,34 +1251,48 @@
             "contributor": "年報・死刑廃止編集委員会",
             "contributor_collation_key": "ネンポウ シケイ ハイシ ヘンシュウ イインカイ",
             "imprint": "インパクト出版会",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16917274/"
         },
         {
-            "isbn": "9784797281248",
-            "title": "国際法秩序とグローバル経済",
-            "title_collation_key": "コクサイホウチツジョトグローバルケイザイ",
-            "contributor": "柳原 正治/森川 幸一",
-            "contributor_collation_key": "ヤナギハラ マサハル/モリカワ コウイチ",
-            "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797281248.jpg"
+            "isbn": "9784803724967",
+            "title": "判例講座刑事訴訟法　捜査・証拠篇第2版",
+            "title_collation_key": "ハンレイ コウザ ケイジ ソショウホウ ソウサ ショウコヘン",
+            "contributor": "川出敏裕",
+            "contributor_collation_key": "カワイデ,トシヒロ",
+            "imprint": "立花書房",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16917662/"
         },
         {
-            "isbn": "9784641115552",
-            "title": "国際法判例百選〔第3版〕",
-            "title_collation_key": "コクサイホウハンレイヒャクセンダイサンパン",
-            "contributor": "森川 幸一/兼原 敦子",
-            "contributor_collation_key": "モリカワコウイチ/カネハラアツコ",
-            "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641115552.jpg"
+            "isbn": "9784755403132",
+            "title": "アメリカは死刑廃止に向かうか",
+            "title_collation_key": "アメリカ ワ シケイ ハイシ ニ ムカウカ",
+            "contributor": "年報・死刑廃止編集委員会",
+            "contributor_collation_key": "ネンポウ シケイ ハイシ ヘンシュウ イインカイ",
+            "imprint": "インパクト出版会",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16917274/"
         },
         {
-            "isbn": "9784335358517",
-            "title": "Before／After 民法改正",
-            "title_collation_key": "ビフォーアフターミンポウカイセイ",
-            "contributor": "潮見　佳男/北居　功",
-            "contributor_collation_key": "シオミ　ヨシオ/キタイ　イサオ",
-            "imprint": "弘文堂",
-            "main_cover": "https://cover.openbd.jp/9784335358517.jpg"
+            "isbn": "9784324110485",
+            "title": "用地補償実務六法（令和4年版）",
+            "title_collation_key": "ヨウチ ホショウ ジツム ロッポウ",
+            "contributor": "補償実務研究会",
+            "contributor_collation_key": "ホショウ ジツム ケンキュウカイ",
+            "imprint": "ぎょうせい",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16914425/"
+        },
+        {
+            "isbn": "9784286229300",
+            "title": "笑顔が報酬",
+            "title_collation_key": "エガオ ガ ホウシュウ",
+            "contributor": "小崎佳奈子",
+            "contributor_collation_key": "コサキ,カナコ",
+            "imprint": "文芸社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16882278/"
         },
         {
             "isbn": "9784594617776",
@@ -1029,43 +1301,38 @@
             "contributor": "曽根恵子",
             "contributor_collation_key": "ソネケイコ",
             "imprint": "扶桑社",
-            "main_cover": "https://cover.openbd.jp/9784594617776.jpg"
+            "main_cover": "https://cover.openbd.jp/9784594617776.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16900107/"
         },
         {
-            "isbn": "9784797274646",
-            "title": "改正民事訴訟法要義 全〔第一分冊〕",
-            "title_collation_key": "カイセイミンジソショウホウヨウギ ゼン ダイイチブンサツ",
-            "contributor": "早川 彌三郎",
-            "contributor_collation_key": "ハヤカワ ヤサブロウ",
+            "isbn": "9784335358517",
+            "title": "Before／After 民法改正",
+            "title_collation_key": "ビフォーアフターミンポウカイセイ",
+            "contributor": "潮見　佳男/北居　功",
+            "contributor_collation_key": "シオミ　ヨシオ/キタイ　イサオ",
+            "imprint": "弘文堂",
+            "main_cover": "https://cover.openbd.jp/9784335358517.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879099/"
+        },
+        {
+            "isbn": "9784797281248",
+            "title": "国際法秩序とグローバル経済",
+            "title_collation_key": "コクサイホウチツジョトグローバルケイザイ",
+            "contributor": "柳原 正治/森川 幸一",
+            "contributor_collation_key": "ヤナギハラ マサハル/モリカワ コウイチ",
             "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797274646.jpg"
+            "main_cover": "https://cover.openbd.jp/9784797281248.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16884930/"
         },
         {
-            "isbn": "9784535525801",
-            "title": "契約侵害による不法行為",
-            "title_collation_key": "ケイヤクノソンチョウトダイサンシャノハンイ",
-            "contributor": "大久保紀彦",
-            "contributor_collation_key": "オオクボ　ノリヒコ",
-            "imprint": "日本評論社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784797274653",
-            "title": "改正民事訴訟法要義 全〔第二分冊〕",
-            "title_collation_key": "カイセイミンジソショウホウヨウギ ゼン ダイニブンサツ",
-            "contributor": "早川 彌三郎",
-            "contributor_collation_key": "ハヤカワ ヤサブロウ",
-            "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797274653.jpg"
-        },
-        {
-            "isbn": "9784502399411",
-            "title": "スタートアップ！司法書士超速習テキスト",
-            "title_collation_key": "スタートアップシホウショシチョウソクシュウテキスト",
-            "contributor": "山田 巨樹/スタディング",
-            "contributor_collation_key": "ヤマダ ナオキ/スタディング",
-            "imprint": "中央経済社",
-            "main_cover": "https://cover.openbd.jp/9784502399411.jpg"
+            "isbn": "9784641115552",
+            "title": "国際法判例百選〔第3版〕",
+            "title_collation_key": "コクサイホウハンレイヒャクセンダイサンパン",
+            "contributor": "森川 幸一/兼原 敦子",
+            "contributor_collation_key": "モリカワコウイチ/カネハラアツコ",
+            "imprint": "有斐閣",
+            "main_cover": "https://cover.openbd.jp/9784641115552.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16844155/"
         },
         {
             "isbn": "9784797277333",
@@ -1074,16 +1341,8 @@
             "contributor": "湯澤 睦雄",
             "contributor_collation_key": "ユザワ ムツオ",
             "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797277333.jpg"
-        },
-        {
-            "isbn": "9784797274639",
-            "title": "現行不動産登記法要義",
-            "title_collation_key": "ゲンコウフドウサントウキホウヨウギ",
-            "contributor": "松本 修平",
-            "contributor_collation_key": "マツモト シュウヘイ",
-            "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797274639.jpg"
+            "main_cover": "https://cover.openbd.jp/9784797277333.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16890270/"
         },
         {
             "isbn": "9784535408388",
@@ -1092,7 +1351,8 @@
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "日本評論社",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16905646/"
         },
         {
             "isbn": "9784759825046",
@@ -1101,7 +1361,58 @@
             "contributor": "越智 啓太",
             "contributor_collation_key": "オチ ケイタ",
             "imprint": "化学同人",
-            "main_cover": "https://cover.openbd.jp/9784759825046.jpg"
+            "main_cover": "https://cover.openbd.jp/9784759825046.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16850151/"
+        },
+        {
+            "isbn": "9784535525801",
+            "title": "契約侵害による不法行為",
+            "title_collation_key": "ケイヤクノソンチョウトダイサンシャノハンイ",
+            "contributor": "大久保紀彦",
+            "contributor_collation_key": "オオクボ　ノリヒコ",
+            "imprint": "日本評論社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16827142/"
+        },
+        {
+            "isbn": "9784797274639",
+            "title": "現行不動産登記法要義",
+            "title_collation_key": "ゲンコウフドウサントウキホウヨウギ",
+            "contributor": "松本 修平",
+            "contributor_collation_key": "マツモト シュウヘイ",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797274639.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16890249/"
+        },
+        {
+            "isbn": "9784797274646",
+            "title": "改正民事訴訟法要義 全〔第一分冊〕",
+            "title_collation_key": "カイセイミンジソショウホウヨウギ ゼン ダイイチブンサツ",
+            "contributor": "早川 彌三郎",
+            "contributor_collation_key": "ハヤカワ ヤサブロウ",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797274646.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16890250/"
+        },
+        {
+            "isbn": "9784797274653",
+            "title": "改正民事訴訟法要義 全〔第二分冊〕",
+            "title_collation_key": "カイセイミンジソショウホウヨウギ ゼン ダイニブンサツ",
+            "contributor": "早川 彌三郎",
+            "contributor_collation_key": "ハヤカワ ヤサブロウ",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797274653.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16890251/"
+        },
+        {
+            "isbn": "9784502399411",
+            "title": "スタートアップ！司法書士超速習テキスト",
+            "title_collation_key": "スタートアップシホウショシチョウソクシュウテキスト",
+            "contributor": "山田 巨樹/スタディング",
+            "contributor_collation_key": "ヤマダ ナオキ/スタディング",
+            "imprint": "中央経済社",
+            "main_cover": "https://cover.openbd.jp/9784502399411.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16900758/"
         },
         {
             "isbn": "9784502398117",
@@ -1110,7 +1421,8 @@
             "contributor": "田島 圭祐",
             "contributor_collation_key": "タジマ ケイスケ",
             "imprint": "中央経済社",
-            "main_cover": "https://cover.openbd.jp/9784502398117.jpg"
+            "main_cover": "https://cover.openbd.jp/9784502398117.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16899334/"
         },
         {
             "isbn": "9784864943482",
@@ -1119,7 +1431,8 @@
             "contributor": "紺野 貴子/小林 美咲",
             "contributor_collation_key": "コンノタカコ/コバヤシミサ",
             "imprint": "白夜書房",
-            "main_cover": "https://cover.openbd.jp/9784864943482.jpg"
+            "main_cover": "https://cover.openbd.jp/9784864943482.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16854928/"
         },
         {
             "isbn": "9784335356629",
@@ -1128,7 +1441,8 @@
             "contributor": "和田　吉弘",
             "contributor_collation_key": "ワダ　ヨシヒロ",
             "imprint": "弘文堂",
-            "main_cover": "https://cover.openbd.jp/9784335356629.jpg"
+            "main_cover": "https://cover.openbd.jp/9784335356629.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16876937/"
         },
         {
             "isbn": "9784641138612",
@@ -1137,7 +1451,8 @@
             "contributor": "岡本 裕樹/沖野 眞已",
             "contributor_collation_key": "オカモトヒロキ/オキノマサミ",
             "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641138612.jpg"
+            "main_cover": "https://cover.openbd.jp/9784641138612.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16844164/"
         },
         {
             "isbn": "9784385159829",
@@ -1146,7 +1461,8 @@
             "contributor": "大石 眞（編修代表）",
             "contributor_collation_key": "オオイシマコト",
             "imprint": "三省堂",
-            "main_cover": "https://cover.openbd.jp/9784385159829.jpg"
+            "main_cover": "https://cover.openbd.jp/9784385159829.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16842516/"
         },
         {
             "isbn": "9784792327705",
@@ -1155,7 +1471,8 @@
             "contributor": "高岸 直樹",
             "contributor_collation_key": "タカギシ ナオキ",
             "imprint": "成文堂",
-            "main_cover": "https://cover.openbd.jp/9784792327705.jpg"
+            "main_cover": "https://cover.openbd.jp/9784792327705.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16874886/"
         },
         {
             "isbn": "9784641228207",
@@ -1164,34 +1481,8 @@
             "contributor": "大橋 洋一",
             "contributor_collation_key": "オオハシヨウイチ",
             "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641228207.jpg"
-        },
-        {
-            "isbn": "9784535525696",
-            "title": "法廷から見た人と社会",
-            "title_collation_key": "ホウテイカラミタヒトトシャカイ",
-            "contributor": "小森田秋夫",
-            "contributor_collation_key": "コモリダ アキオ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535525696.jpg"
-        },
-        {
-            "isbn": "9784535525771",
-            "title": "債権法改正と判例の行方",
-            "title_collation_key": "サイケンホウカイセイトハンレイノユクエ",
-            "contributor": "秋山靖浩/伊藤栄寿",
-            "contributor_collation_key": "アキヤマ　ヤスヒロ/イトウ　ヒデトシ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535525771.jpg"
-        },
-        {
-            "isbn": "9784535526037",
-            "title": "刑務所の生活水準と行刑理論",
-            "title_collation_key": "ケイムショノセイカツスイジュントギョウケイリロン",
-            "contributor": "大谷彬矩",
-            "contributor_collation_key": "オオタニ アキノリ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535526037.jpg"
+            "main_cover": "https://cover.openbd.jp/9784641228207.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16844214/"
         },
         {
             "isbn": "9784535524361",
@@ -1200,7 +1491,38 @@
             "contributor": "川嶋四郎",
             "contributor_collation_key": "カワシマシロウ",
             "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535524361.jpg"
+            "main_cover": "https://cover.openbd.jp/9784535524361.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827128/"
+        },
+        {
+            "isbn": "9784535526037",
+            "title": "刑務所の生活水準と行刑理論",
+            "title_collation_key": "ケイムショノセイカツスイジュントギョウケイリロン",
+            "contributor": "大谷彬矩",
+            "contributor_collation_key": "オオタニ アキノリ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535526037.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827185/"
+        },
+        {
+            "isbn": "9784535525696",
+            "title": "法廷から見た人と社会",
+            "title_collation_key": "ホウテイカラミタヒトトシャカイ",
+            "contributor": "小森田秋夫",
+            "contributor_collation_key": "コモリダ アキオ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535525696.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827129/"
+        },
+        {
+            "isbn": "9784535525771",
+            "title": "債権法改正と判例の行方",
+            "title_collation_key": "サイケンホウカイセイトハンレイノユクエ",
+            "contributor": "秋山靖浩/伊藤栄寿",
+            "contributor_collation_key": "アキヤマ　ヤスヒロ/イトウ　ヒデトシ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535525771.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827136/"
         },
         {
             "isbn": "9784883843329",
@@ -1209,16 +1531,8 @@
             "contributor": "平野　裕之",
             "contributor_collation_key": "ヒラノ　ヒロユキ",
             "imprint": "新世社",
-            "main_cover": "https://cover.openbd.jp/9784883843329.jpg"
-        },
-        {
-            "isbn": "9784797241419",
-            "title": "情報公開法制定資料（11）〔平成11年〕",
-            "title_collation_key": "ジョウホウコウカイホウセイテイシリョウ ジュウイチ ヘイセイジュウイチネン",
-            "contributor": "塩野 宏/小早川 光郎",
-            "contributor_collation_key": "シオノ ヒロシ/コバヤカワ ミツオ",
-            "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797241419.jpg"
+            "main_cover": "https://cover.openbd.jp/9784883843329.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16869184/"
         },
         {
             "isbn": "9784763409812",
@@ -1227,7 +1541,8 @@
             "contributor": "伊佐山 芳郎",
             "contributor_collation_key": "イサヤマヨシオ",
             "imprint": "花伝社",
-            "main_cover": "https://cover.openbd.jp/9784763409812.jpg"
+            "main_cover": "https://cover.openbd.jp/9784763409812.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16861636/"
         },
         {
             "isbn": "9784385321936",
@@ -1236,7 +1551,18 @@
             "contributor": "中村 睦男/佐々木 雅寿",
             "contributor_collation_key": "ナカムラムツオ/ササキマサトシ",
             "imprint": "三省堂",
-            "main_cover": "https://cover.openbd.jp/9784385321936.jpg"
+            "main_cover": "https://cover.openbd.jp/9784385321936.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16842450/"
+        },
+        {
+            "isbn": "9784797241419",
+            "title": "情報公開法制定資料（11）〔平成11年〕",
+            "title_collation_key": "ジョウホウコウカイホウセイテイシリョウ ジュウイチ ヘイセイジュウイチネン",
+            "contributor": "塩野 宏/小早川 光郎",
+            "contributor_collation_key": "シオノ ヒロシ/コバヤカワ ミツオ",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797241419.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16890261/"
         },
         {
             "isbn": "9784797236620",
@@ -1245,16 +1571,8 @@
             "contributor": "川口 美貴",
             "contributor_collation_key": "カワグチ ミキ",
             "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797236620.jpg"
-        },
-        {
-            "isbn": "9784847148255",
-            "title": "2022年版　司法試験・予備試験　体系別短答式過去問集　5　商法",
-            "title_collation_key": "2022ネンバン シホウシケン・ヨビシケン タイケイベツタントウシキカコモンシュウ 5 ショウホウ",
-            "contributor": "早稲田経営出版編集部",
-            "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
-            "imprint": "早稲田経営出版",
-            "main_cover": "https://cover.openbd.jp/9784847148255.jpg"
+            "main_cover": "https://cover.openbd.jp/9784797236620.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16885066/"
         },
         {
             "isbn": "9784535525825",
@@ -1263,16 +1581,8 @@
             "contributor": "松宮孝明",
             "contributor_collation_key": "マツミヤ　タカアキ",
             "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535525825.jpg"
-        },
-        {
-            "isbn": "9784535525962",
-            "title": "最新 重要判例解説 民事訴訟法",
-            "title_collation_key": "サイシン　ハンレイカイセツ ミンジソショウホウ",
-            "contributor": "小林秀之/山本浩美",
-            "contributor_collation_key": "コバヤシ ヒデユキ/ヤマモト ヒロミ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535525962.jpg"
+            "main_cover": "https://cover.openbd.jp/9784535525825.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827145/"
         },
         {
             "isbn": "9784641138636",
@@ -1281,7 +1591,28 @@
             "contributor": "名津井 吉裕/鶴田 滋",
             "contributor_collation_key": "ナツイヨシヒロ/ツルタシゲル",
             "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641138636.jpg"
+            "main_cover": "https://cover.openbd.jp/9784641138636.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16844165/"
+        },
+        {
+            "isbn": "9784847148255",
+            "title": "2022年版　司法試験・予備試験　体系別短答式過去問集　5　商法",
+            "title_collation_key": "2022ネンバン シホウシケン・ヨビシケン タイケイベツタントウシキカコモンシュウ 5 ショウホウ",
+            "contributor": "早稲田経営出版編集部",
+            "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
+            "imprint": "早稲田経営出版",
+            "main_cover": "https://cover.openbd.jp/9784847148255.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16821407/"
+        },
+        {
+            "isbn": "9784535525962",
+            "title": "最新 重要判例解説 民事訴訟法",
+            "title_collation_key": "サイシン　ハンレイカイセツ ミンジソショウホウ",
+            "contributor": "小林秀之/山本浩美",
+            "contributor_collation_key": "コバヤシ ヒデユキ/ヤマモト ヒロミ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535525962.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827069/"
         },
         {
             "isbn": "9784487815388",
@@ -1290,7 +1621,8 @@
             "contributor": "宮武久佳/大塚大",
             "contributor_collation_key": "ミヤタケヒサヨシ/オオツカダイ",
             "imprint": "東京書籍",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16906453/"
         },
         {
             "isbn": "9784797257526",
@@ -1299,16 +1631,8 @@
             "contributor": "池田 真朗/宮島 司",
             "contributor_collation_key": "イケダ マサオ/ミヤジマ ツカサ",
             "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797257526.jpg"
-        },
-        {
-            "isbn": "9784535525788",
-            "title": "尊厳死および安楽死を求める権利",
-            "title_collation_key": "ソンゲンシオヨビアンラクシヲモトメルケンリ",
-            "contributor": "松井茂記",
-            "contributor_collation_key": "マツイ　シゲノリ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535525788.jpg"
+            "main_cover": "https://cover.openbd.jp/9784797257526.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16878978/"
         },
         {
             "isbn": "9784847148231",
@@ -1317,7 +1641,18 @@
             "contributor": "早稲田経営出版編集部",
             "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
             "imprint": "早稲田経営出版",
-            "main_cover": "https://cover.openbd.jp/9784847148231.jpg"
+            "main_cover": "https://cover.openbd.jp/9784847148231.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16821405/"
+        },
+        {
+            "isbn": "9784535525788",
+            "title": "尊厳死および安楽死を求める権利",
+            "title_collation_key": "ソンゲンシオヨビアンラクシヲモトメルケンリ",
+            "contributor": "松井茂記",
+            "contributor_collation_key": "マツイ　シゲノリ",
+            "imprint": "日本評論社",
+            "main_cover": "https://cover.openbd.jp/9784535525788.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827137/"
         },
         {
             "isbn": "9784847148200",
@@ -1326,7 +1661,8 @@
             "contributor": "早稲田経営出版編集部",
             "contributor_collation_key": "ワセダケイエイシュッパンヘンシュウブ",
             "imprint": "早稲田経営出版",
-            "main_cover": "https://cover.openbd.jp/9784847148200.jpg"
+            "main_cover": "https://cover.openbd.jp/9784847148200.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16821402/"
         },
         {
             "isbn": "9784785728984",
@@ -1335,7 +1671,8 @@
             "contributor": "孫 彦",
             "contributor_collation_key": "ソン ゲン",
             "imprint": "商事法務",
-            "main_cover": "https://cover.openbd.jp/9784785728984.jpg"
+            "main_cover": "https://cover.openbd.jp/9784785728984.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16844386/"
         },
         {
             "isbn": "9784641009226",
@@ -1344,7 +1681,8 @@
             "contributor": "佐伯 仁志/大村 敦志",
             "contributor_collation_key": "サエキヒトシ/オオムラアツシ",
             "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641009226.jpg"
+            "main_cover": "https://cover.openbd.jp/9784641009226.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16842812/"
         },
         {
             "isbn": "9784792353377",
@@ -1353,7 +1691,8 @@
             "contributor": "松宮 孝明/劉　憲権",
             "contributor_collation_key": "マツミヤ タカアキ/リュウシンチェン",
             "imprint": "成文堂",
-            "main_cover": "https://cover.openbd.jp/9784792353377.jpg"
+            "main_cover": "https://cover.openbd.jp/9784792353377.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16833129/"
         },
         {
             "isbn": "9784641115545",
@@ -1362,61 +1701,8 @@
             "contributor": "神作 裕之/藤田 友敬",
             "contributor_collation_key": "カンサクヒロユキ/フジタトモタカ",
             "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641115545.jpg"
-        },
-        {
-            "isbn": "9784433723118",
-            "title": "これ1冊で大丈夫！　民法改正と新しい相続対策がゼロからわかる本",
-            "title_collation_key": "",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "清文社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784766427721",
-            "title": "ボワソナードとその民法［増補完結版］",
-            "title_collation_key": "ボワソナードトソノミンポウ・ゾウホカンケツバン",
-            "contributor": "池田 真朗",
-            "contributor_collation_key": "イケダ マサオ",
-            "imprint": "慶應義塾大学出版会",
-            "main_cover": "https://cover.openbd.jp/9784766427721.jpg"
-        },
-        {
-            "isbn": "9784535525764",
-            "title": "平和的生存権の展開",
-            "title_collation_key": "ヘイワテキセイゾンケンノテンカイ",
-            "contributor": "小林 武",
-            "contributor_collation_key": "コバヤシ　タケシ",
-            "imprint": "日本評論社",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784797229431",
-            "title": "新ブリッジブック鳥瞰民法(全)",
-            "title_collation_key": "シンブリッジブックチョウカンミンポウ ゼン",
-            "contributor": "河上 正二",
-            "contributor_collation_key": "カワカミ ショウジ",
-            "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797229431.jpg"
-        },
-        {
-            "isbn": "9784816370786",
-            "title": "図解いちばん親切な家族信託の本",
-            "title_collation_key": "ズカイイチバンシンセツナカゾクシンタクノホン",
-            "contributor": "宮田浩志",
-            "contributor_collation_key": "ミヤタヒロシ",
-            "imprint": "ナツメ社",
-            "main_cover": "https://cover.openbd.jp/9784816370786.jpg"
-        },
-        {
-            "isbn": "9784622090373",
-            "title": "刑務所の精神科医",
-            "title_collation_key": "ケイムショノセイシンカイ",
-            "contributor": "野村俊明",
-            "contributor_collation_key": "ノムラトシアキ",
-            "imprint": "みすず書房",
-            "main_cover": "https://cover.openbd.jp/9784622090373.jpg"
+            "main_cover": "https://cover.openbd.jp/9784641115545.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16844156/"
         },
         {
             "isbn": "9784535402638",
@@ -1425,7 +1711,8 @@
             "contributor": "鎌田　薫/松本　恒雄",
             "contributor_collation_key": "カマタ　カオル/マツモト　ツネオ",
             "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535402638.jpg"
+            "main_cover": "https://cover.openbd.jp/9784535402638.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16885826/"
         },
         {
             "isbn": "9784641139497",
@@ -1434,7 +1721,38 @@
             "contributor": "古江 頼隆",
             "contributor_collation_key": "フルエヨリタカ",
             "imprint": "有斐閣",
-            "main_cover": "https://cover.openbd.jp/9784641139497.jpg"
+            "main_cover": "https://cover.openbd.jp/9784641139497.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16736744/"
+        },
+        {
+            "isbn": "9784766427721",
+            "title": "ボワソナードとその民法［増補完結版］",
+            "title_collation_key": "ボワソナードトソノミンポウ・ゾウホカンケツバン",
+            "contributor": "池田 真朗",
+            "contributor_collation_key": "イケダ マサオ",
+            "imprint": "慶應義塾大学出版会",
+            "main_cover": "https://cover.openbd.jp/9784766427721.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16852507/"
+        },
+        {
+            "isbn": "9784641139497",
+            "title": "事例演習刑事訴訟法〔第3版〕",
+            "title_collation_key": "ジレイエンシュウケイジソショウホウダイサンパン",
+            "contributor": "古江 頼隆",
+            "contributor_collation_key": "フルエヨリタカ",
+            "imprint": "有斐閣",
+            "main_cover": "https://cover.openbd.jp/9784641139497.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16736744/"
+        },
+        {
+            "isbn": "9784433723118",
+            "title": "これ1冊で大丈夫！　民法改正と新しい相続対策がゼロからわかる本",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "清文社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16822247/"
         },
         {
             "isbn": "9784623092161",
@@ -1443,160 +1761,18 @@
             "contributor": "王雲海/周劍龍",
             "contributor_collation_key": "オウ　ウンカイ/シュウ　ケンリュウ",
             "imprint": "ミネルヴァ書房",
-            "main_cover": "https://cover.openbd.jp/9784623092161.jpg"
+            "main_cover": "https://cover.openbd.jp/9784623092161.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16840480/"
         },
         {
-            "isbn": "9784335304279",
-            "title": "刑事訴訟法",
-            "title_collation_key": "ケイジソショウホウ",
-            "contributor": "伊藤　真/伊藤塾",
-            "contributor_collation_key": "イトウ　マコト/イトウジュク",
-            "imprint": "弘文堂",
-            "main_cover": "https://cover.openbd.jp/9784335304279.jpg"
-        },
-        {
-            "isbn": "9784297123178",
-            "title": "マンガと図解で今すぐできる　「思い」を届ける 遺言書",
-            "title_collation_key": "マンガトズカイデイマスグデキル オモイヲトドケルユイゴンショ",
-            "contributor": "本田桂子",
-            "contributor_collation_key": "ホンダケイコ",
-            "imprint": "技術評論社",
-            "main_cover": "https://cover.openbd.jp/9784297123178.jpg"
-        },
-        {
-            "isbn": "9784479393696",
-            "title": "マンガでわかる！わたしの味方になる法律の話",
-            "title_collation_key": "マンガデワカルワタシノミカタニナルホウリツノハナシ",
-            "contributor": "遠藤　研一郎",
-            "contributor_collation_key": "エンドウ　ケンイチロウ",
-            "imprint": "大和書房",
-            "main_cover": "https://cover.openbd.jp/9784479393696.jpg"
-        },
-        {
-            "isbn": "9784589041678",
-            "title": "民法入門〔第2版〕",
-            "title_collation_key": "ミンポニュウモンダイニハン",
-            "contributor": "生田 敏康/畑中 久彌",
-            "contributor_collation_key": "イクタ トシヤス/ハタナカ ヒサヤ",
-            "imprint": "法律文化社",
-            "main_cover": "https://cover.openbd.jp/9784589041678.jpg"
-        },
-        {
-            "isbn": "9784562071104",
-            "title": "昭和年間法令全書　第29巻ノ10　昭和三十年",
-            "title_collation_key": "ショウワネンカンホウレイゼンショダイニジュウキュウカンノジュウショウワサンジュウネン",
-            "contributor": "印刷庁",
-            "contributor_collation_key": "インサツチョウ",
-            "imprint": "原書房",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784562071111",
-            "title": "昭和年間法令全書　第29巻ノ11　昭和三十年",
-            "title_collation_key": "ショウワネンカンホウレイゼンショダイニジュウキュウカンノジュウイチショウワサンジュウネン",
-            "contributor": "印刷庁",
-            "contributor_collation_key": "インサツチョウ",
-            "imprint": "原書房",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784785728977",
-            "title": "Law Practice 民事訴訟法〔第4版〕",
-            "title_collation_key": "ロープラクティスミンジソショウホウダイヨンハン",
-            "contributor": "山本 和彦/安西 明子",
-            "contributor_collation_key": "ヤマモト カズヒコ/アンザイ アキコ",
-            "imprint": "商事法務",
-            "main_cover": "https://cover.openbd.jp/9784785728977.jpg"
-        },
-        {
-            "isbn": "9784792353391",
-            "title": "少年法",
-            "title_collation_key": "ショウネンホウ",
-            "contributor": "廣瀬 健二",
-            "contributor_collation_key": "ヒロセ ケンジ",
-            "imprint": "成文堂",
-            "main_cover": "https://cover.openbd.jp/9784792353391.jpg"
-        },
-        {
-            "isbn": "9784335314360",
-            "title": "刑事訴訟法",
-            "title_collation_key": "ケイジソショウホウ",
-            "contributor": "呉　明植",
-            "contributor_collation_key": "ゴウ　アキオ",
-            "imprint": "弘文堂",
-            "main_cover": "https://cover.openbd.jp/9784335314360.jpg"
-        },
-        {
-            "isbn": "9784535525504",
-            "title": "組織内弁護士の実務と研究",
-            "title_collation_key": "ソシキナイベンゴシノジツムトケンキュウ",
-            "contributor": "日本組織内弁護士協会",
-            "contributor_collation_key": "ニホンソシキナイベンゴシキョウカイ",
+            "isbn": "9784535525764",
+            "title": "平和的生存権の展開",
+            "title_collation_key": "ヘイワテキセイゾンケンノテンカイ",
+            "contributor": "小林 武",
+            "contributor_collation_key": "コバヤシ　タケシ",
             "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535525504.jpg"
-        },
-        {
-            "isbn": "9784792353339",
-            "title": "毀棄罪における効用侵害の内実",
-            "title_collation_key": "キキザイニオケルコウヨウシンガイノナイジツ",
-            "contributor": "大塚 雄祐",
-            "contributor_collation_key": "オオツカ ユウスケ",
-            "imprint": "成文堂",
-            "main_cover": "https://cover.openbd.jp/9784792353339.jpg"
-        },
-        {
-            "isbn": "9784830951398",
-            "title": "行政争訟入門【第2版】",
-            "title_collation_key": "ギョウセイソウショウニュウモン",
-            "contributor": "神山 智美",
-            "contributor_collation_key": "コウヤマ サトミ",
-            "imprint": "文眞堂",
-            "main_cover": "https://cover.openbd.jp/9784830951398.jpg"
-        },
-        {
-            "isbn": "9784792353384",
-            "title": "刑事訴訟法",
-            "title_collation_key": "ケイジソショウホウ",
-            "contributor": "辻本 典央",
-            "contributor_collation_key": "ツジモト ノリオ",
-            "imprint": "成文堂",
-            "main_cover": "https://cover.openbd.jp/9784792353384.jpg"
-        },
-        {
-            "isbn": "9784785728953",
-            "title": "Q&A 監査等委員会設置会社の実務〔第2版〕",
-            "title_collation_key": "キューアンドエーカンサトウイインカイセッチガイシャノジツムダイニハン",
-            "contributor": "太子堂 厚子",
-            "contributor_collation_key": "タイシドウ アツコ",
-            "imprint": "商事法務",
-            "main_cover": "https://cover.openbd.jp/9784785728953.jpg"
-        },
-        {
-            "isbn": "9784535525665",
-            "title": "物権的期待権の譲渡担保化",
-            "title_collation_key": "ブッケンテキキタイケンノジョウトタンポカ",
-            "contributor": "松田佳久",
-            "contributor_collation_key": "マツダ　ヨシヒサ",
-            "imprint": "日本評論社",
-            "main_cover": "https://cover.openbd.jp/9784535525665.jpg"
-        },
-        {
-            "isbn": "9784864665179",
-            "title": "肢別本（1　2022年対策）",
-            "title_collation_key": "シベツボン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "辰已法律研究所",
-            "main_cover": ""
-        },
-        {
-            "isbn": "9784803724950",
-            "title": "規範あてはめ刑事訴訟法",
-            "title_collation_key": "キハン アテハメ ケイジ ソショウホウ",
-            "contributor": "粟田知穂",
-            "contributor_collation_key": "アワタ,トモホ",
-            "imprint": "立花書房",
-            "main_cover": ""
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16801420/"
         }
     ]
 }
