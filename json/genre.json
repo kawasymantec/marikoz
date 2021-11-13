@@ -24,12 +24,6 @@
 		"shelf_count": 1
 	},
 	{
-		"genre": "ライトノベル",
-		"sub_genre": "少年",
-		"id": "001017005",
-		"shelf_count": 1
-	},
-	{
 		"genre": "文庫",
 		"sub_genre": "小説・エッセイ",
 		"id": "001019001",
@@ -45,6 +39,30 @@
 		"genre": "新書",
 		"sub_genre": "人文・思想・社会",
 		"id": "001020007",
+		"shelf_count": 1
+	},
+	{
+		"genre": "ライトノベル",
+		"sub_genre": "少年",
+		"id": "001017005",
+		"shelf_count": 1
+	},
+	{
+		"genre": "写真集・タレント",
+		"sub_genre": "グラビアアイドル・タレント写真集",
+		"id": "001013001",
+		"shelf_count": 1
+	},
+	{
+		"genre": "旅行・留学・アウトドア",
+		"sub_genre": "旅行",
+		"id": "001007001",
+		"shelf_count": 3
+	},
+	{
+		"genre": "旅行・留学・アウトドア",
+		"sub_genre": "地図",
+		"id": "001007007",
 		"shelf_count": 1
 	},
 	{
@@ -72,18 +90,6 @@
 		"shelf_count": 1
 	},
 	{
-		"genre": "絵本・児童書・図鑑",
-		"sub_genre": "児童書",
-		"id": "001003001",
-		"shelf_count": 1
-	},
-	{
-		"genre": "絵本・児童書・図鑑",
-		"sub_genre": "絵本",
-		"id": "001003003",
-		"shelf_count": 1
-	},
-	{
 		"genre": "ホビー・スポーツ・美術",
 		"sub_genre": "スポーツ",
 		"id": "001009001",
@@ -96,45 +102,15 @@
 		"shelf_count": 1
 	},
 	{
-		"genre": "旅行・留学・アウトドア",
-		"sub_genre": "旅行",
-		"id": "001007001",
-		"shelf_count": 3
-	},
-	{
-		"genre": "旅行・留学・アウトドア",
-		"sub_genre": "地図",
-		"id": "001007007",
+		"genre": "エンタメ・ゲーム",
+		"sub_genre": "音楽",
+		"id": "001011003",
 		"shelf_count": 1
 	},
 	{
-		"genre": "ビジネス・経済・就職",
-		"sub_genre": "経営",
-		"id": "001006018",
-		"shelf_count": 2
-	},
-	{
-		"genre": "ビジネス・経済・就職",
-		"sub_genre": "経済・財政",
-		"id": "001006001",
-		"shelf_count": 2
-	},
-	{
-		"genre": "ビジネス・経済・就職",
-		"sub_genre": "産業",
-		"id": "001006019",
-		"shelf_count": 2
-	},
-	{
-		"genre": "語学・学習参考書",
-		"sub_genre": "語学学習",
-		"id": "001002001",
-		"shelf_count": 2
-	},
-	{
-		"genre": "語学・学習参考書",
-		"sub_genre": "学習参考書・問題集",
-		"id": "001002006",
+		"genre": "医学・薬学・看護学・歯科学",
+		"sub_genre": "基礎医学",
+		"id": "001028001",
 		"shelf_count": 2
 	},
 	{
@@ -150,24 +126,6 @@
 		"shelf_count": 1
 	},
 	{
-		"genre": "科学・技術",
-		"sub_genre": "工学",
-		"id": "001012010",
-		"shelf_count": 1
-	},
-	{
-		"genre": "科学・技術",
-		"sub_genre": "建築学",
-		"id": "001012011",
-		"shelf_count": 1
-	},
-	{
-		"genre": "医学・薬学・看護学・歯科学",
-		"sub_genre": "基礎医学",
-		"id": "001028001",
-		"shelf_count": 2
-	},
-	{
 		"genre": "パソコン・システム開発",
 		"sub_genre": "ハードウェア",
 		"id": "001005001",
@@ -177,6 +135,18 @@
 		"genre": "パソコン・システム開発",
 		"sub_genre": "インターネット・WEBデザイン",
 		"id": "001005003",
+		"shelf_count": 1
+	},
+	{
+		"genre": "科学・技術",
+		"sub_genre": "工学",
+		"id": "001012010",
+		"shelf_count": 1
+	},
+	{
+		"genre": "科学・技術",
+		"sub_genre": "建築学",
+		"id": "001012011",
 		"shelf_count": 1
 	},
 	{
@@ -216,6 +186,36 @@
 		"shelf_count": 1
 	},
 	{
+		"genre": "ビジネス・経済・就職",
+		"sub_genre": "経営",
+		"id": "001006018",
+		"shelf_count": 2
+	},
+	{
+		"genre": "ビジネス・経済・就職",
+		"sub_genre": "経済・財政",
+		"id": "001006001",
+		"shelf_count": 2
+	},
+	{
+		"genre": "ビジネス・経済・就職",
+		"sub_genre": "産業",
+		"id": "001006019",
+		"shelf_count": 2
+	},
+	{
+		"genre": "語学・学習参考書",
+		"sub_genre": "語学学習",
+		"id": "001002001",
+		"shelf_count": 2
+	},
+	{
+		"genre": "語学・学習参考書",
+		"sub_genre": "学習参考書・問題集",
+		"id": "001002006",
+		"shelf_count": 2
+	},
+	{
 		"genre": "漫画(コミック)",
 		"sub_genre": "青年",
 		"id": "001001003",
@@ -234,15 +234,15 @@
 		"shelf_count": 2
 	},
 	{
-		"genre": "写真集・タレント",
-		"sub_genre": "グラビアアイドル・タレント写真集",
-		"id": "001013001",
+		"genre": "絵本・児童書・図鑑",
+		"sub_genre": "児童書",
+		"id": "001003001",
 		"shelf_count": 1
 	},
 	{
-		"genre": "エンタメ・ゲーム",
-		"sub_genre": "音楽",
-		"id": "001011003",
+		"genre": "絵本・児童書・図鑑",
+		"sub_genre": "絵本",
+		"id": "001003003",
 		"shelf_count": 1
 	}
 ]
