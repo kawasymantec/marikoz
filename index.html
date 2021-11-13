@@ -168,10 +168,9 @@
         <a-entity id="ctlL" raycaster="objects: .collidable; far:0.8;" laser-controls="hand: left" input-listener="hand: left" touch-checker></a-entity>
         <a-entity id="camera" camera position="0 1.6 0" look-controls="pointerLockEnabled: false" >
           <a-entity raycaster="objects: .collidable;far:2;" cursor="rayOrigin:mouse; maxDistance: 30; " mouse-listener=""></a-entity>
-          <a-text id="debug-text" position="0 0 -2" value="no hit" align="center"></a-text>
+          <a-text id="debug-text" position="0 0 -0.3" value="no hit" align="center" font="font/mplus-msdf.json" font-image="font/mplus-msdf.png" negate="false"></a-text>
         </a-entity>
       </a-entity>
-      <a-text position="0 2 -3" value="青木書店" font="font/mplus-msdf.json" font-image="font/mplus-msdf.png" negate="false"></a-text>
       <a-sky color="#5CE5EC"></a-sky>
     </a-scene>
     <script type="text/javascript" src="js/main.js"></script>
