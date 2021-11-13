@@ -654,6 +654,9 @@
       });
       //Trigger Released
       this.el.addEventListener('triggerup',  (event) => {
+        if(this.selectedObj&&this.isTriggerd&&this.selectedObj.getAttribute('isbn')){
+          document.getElementById("rig").dispatchEvent(new CustomEvent("book_select",{detail:{isbn: this.selectedObj.getAttribute('isbn')}}));
+        }
         this.isTriggerd = false;
       });
       this.el.addEventListener('raycaster-intersection', (event) => {
