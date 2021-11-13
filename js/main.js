@@ -663,10 +663,10 @@
         event.detail.els.forEach(item =>{
             if(item.getAttribute("bookface")!=null){
                 console.log("bookface");
-                if(selectedShelf!=null){
+                if(this.selectedShelf!=null){
                     console.log("release!!");
                     {
-                        selectedShelf.dispatchEvent(new Event("shelf_release"));
+                        this.selectedShelf.dispatchEvent(new Event("shelf_release"));
                     }
                 }
                 item.dispatchEvent(new Event("shelf_select"));
