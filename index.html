@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
-    <a-scene >
+    <a-scene renderer="outputEncoding: THREE.sRGBEncoding;">
       <a-assets>
         <img id="wallpaper" src="img/plaster-wall-03.jpg">
         <img id="floor" src="img/floor.jpg">
@@ -15,13 +15,61 @@
         <img id="test" src="img/sample_shelf.png">
         <img id="ceiling" src="img/ceiling.jpg">
         <img id="book_top" src="img/base_top.png">
+        <a-asset-item id="plant" src="/obj/plant.glb"></a-asset-item>
+        <a-asset-item id="door" src="/obj/slidedoor.gltf"></a-asset-item>
+        <a-asset-item id="light" src="/obj/light.glb"></a-asset-item>
+        <a-asset-item id="security_camera" src="/obj/camera.glb"></a-asset-item>
+        <img id="poster01" src="img/poster01.JPG">
+        <img id="poster02" src="img/poster02.JPG">
+        <img id="poster03" src="img/poster03.JPG">
+        <img id="poster_manga" src="img/poster_manga.JPG">
+        <img id="map" src="img/map.png">
       </a-assets>
-      <a-plane position="0 3 0" repeat="50 50" src="#ceiling" rotation="-90 0 0" width="8.4" height="12" side="double"></a-plane>
+      <a-plane position="0 3 0" repeat="50 50" src="#ceiling" rotation="90 0 0" width="8.4" height="12" side="double"></a-plane>
       <a-plane src="#wallpaper" repeat="40 6" class="wall" position="0 1.5 -6" rotation="0 0 0" width="20" height="3" color="white" side="double"></a-plane>
       <a-plane src="#wallpaper" repeat="40 6" class="wall" position="4.2 1.5 0" rotation="0 90 0" width="20" height="3" color="white" side="double"></a-plane>
       <a-plane src="#wallpaper" repeat="40 6" class="wall" position="-4.2 1.5 0" rotation="0 -90 0" width="20" height="3" color="white" side="double"></a-plane>
       <a-plane src="#wallpaper" repeat="40 6" class="wall" position="0 1.5 6" rotation="0 180 0" width="20" height="3" color="white" side="double"></a-plane>
       <a-image src="img/Logo_inVR.png" position="4 2 -2" rotation="0 -90 0" width="1.2" height="0.44"></a-image>
+      <a-entity gltf-model="#door" position="4.1 1.1 -0.5" scale="0.008 0.01 0.01" rotation="-90 90 0"></a-entity>
+      <a-entity gltf-model="#plant" position="4 0 5.8" scale="0.2 0.2 0.2" rotation="0 0 0"></a-entity>
+      <a-entity gltf-model="#plant" position="-4 0 5.8" scale="0.2 0.2 0.2" rotation="0 0 0"></a-entity>
+      <a-entity gltf-model="#plant" position="-4 0 -5.8" scale="0.2 0.2 0.2" rotation="0 0 0"></a-entity>
+      <a-image src="img/map.png" position="-2.1 1.5 -2.41" scale="0.5 0.5 0.5" rotation="0 180 0"></a-image>
+      <a-image src="img/poster03.JPG" position="-4.19 1.5 0.1" scale="0.7 0.7 0.7" rotation="0 90 0"></a-image>
+      <a-image src="img/poster01.JPG" position="4.19 1.5 5" scale="0.7 0.7 0.7" rotation="0 90 0"></a-image>
+      <a-image src="img/poster_manga.JPG" position="-4.19 1.5 -5.2" scale="0.7 0.7 0.7" rotation="0 90 0"></a-image>
+
+      <!-- 監視カメラ -->
+      <a-entity gltf-model="#security_camera" position="-3.7 2.93 -5.8"  scale="0.7 0.7 0.7" rotation="0 30 0"></a-entity>
+      <a-entity gltf-model="#security_camera" position="3.7 2.93 5.8" scale="0.7 0.7 0.7" rotation="0 -120 0"></a-entity>
+      
+      <!-- 蛍光灯 -->
+      <a-entity position="0 2.95 0">
+        <a-entity gltf-model="#light" position="2.2 0 0" scale="0.01 0.01 0.01"></a-entity>
+        <a-entity gltf-model="#light" position="-2.2 0 0" scale="0.01 0.01 0.01"></a-entity>
+        <a-entity gltf-model="#light" position="0 0 0" scale="0.01 0.01 0.01"></a-entity>
+      </a-entity>
+      <a-entity position="0 2.95 2">
+        <a-entity gltf-model="#light" position="2.2 0 0" scale="0.01 0.01 0.01"></a-entity>
+        <a-entity gltf-model="#light" position="-2.2 0 0" scale="0.01 0.01 0.01"></a-entity>
+        <a-entity gltf-model="#light" position="0 0 0" scale="0.01 0.01 0.01"></a-entity>
+      </a-entity>
+      <a-entity position="0 2.95 4">
+        <a-entity gltf-model="#light" position="2.2 0 0" scale="0.01 0.01 0.01"></a-entity>
+        <a-entity gltf-model="#light" position="-2.2 0 0" scale="0.01 0.01 0.01"></a-entity>
+        <a-entity gltf-model="#light" position="0 0 0" scale="0.01 0.01 0.01"></a-entity>
+      </a-entity>
+      <a-entity position="0 2.95 -2">
+        <a-entity gltf-model="#light" position="2.2 0 0" scale="0.01 0.01 0.01"></a-entity>
+        <a-entity gltf-model="#light" position="-2.2 0 0" scale="0.01 0.01 0.01"></a-entity>
+        <a-entity gltf-model="#light" position="0 0 0" scale="0.01 0.01 0.01"></a-entity>
+      </a-entity>
+      <a-entity position="0 2.95 -4">
+        <a-entity gltf-model="#light" position="2.2 0 0" scale="0.01 0.01 0.01"></a-entity>
+        <a-entity gltf-model="#light" position="-2.2 0 0" scale="0.01 0.01 0.01"></a-entity>
+        <a-entity gltf-model="#light" position="0 0 0" scale="0.01 0.01 0.01"></a-entity>
+      </a-entity>
 
       <!-- ラノベ側の壁棚 -->
       <a-entity position="0 0 6" rotation="0 -180 0">
@@ -159,8 +207,9 @@
 
       <a-plane src="#floor" repeat="20 20" position="0 0 0" rotation="-90 0 0" width="8.4" height="12"></a-plane>
       <a-entity id="rig" 
-      position="0 0 0"
+      position="3.7 0 -0.5"
       raycaster="objects: .wall; far: 0.6; direction: 0 0 -1;"
+      rotation="0 90 0"
       player
       game_ctrl
       >
