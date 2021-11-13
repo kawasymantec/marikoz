@@ -8,6 +8,7 @@
   function debugMessage(message){
     document.getElementById("debug-text").setAttribute("value",message);
   }
+
   function zoomUp(){
       console.log("zoomUp");
     document.getElementById("camera").setAttribute("zoom",5);
@@ -16,6 +17,84 @@
     console.log("zoomDown");
     document.getElementById("camera").setAttribute("zoom",1);
   }
+
+  function showBookDetail(bookdetail){
+    if(document.getElementById("bookdetailview")){
+      document.getElementById("bookdetailview").remove();
+    }
+
+    var base = document.createElement("a-entity");
+    base.setAttribute("id","bookdetailview");
+    base.setAttribute("position","0 0 -0.28");
+
+    var backpanel = document.createElement("a-plane");
+    backpanel.setAttribute("height",0.2);
+    backpanel.setAttribute("width", 0.5);
+    base.appendChild(backpanel);
+    var bookimage = document.createElement("a-image");
+    bookimage.setAttribute("height",0.12);
+    bookimage.setAttribute("width", 0.08);
+    if(bookdetail.main_cover.length>0){
+      bookimage.setAttribute("src", bookdetail.main_cover);
+    }
+    bookimage.setAttribute("position","-0.19 0 0.002");
+    base.appendChild(bookimage);
+
+    var titletext = document.createElement("a-text");
+    titletext.setAttribute("font", "font/mplus-msdf.json");
+    titletext.setAttribute("font-image", "font/mplus-msdf.png");
+    titletext.setAttribute("negate", "false");
+    titletext.setAttribute("align", "left");
+    titletext.setAttribute("color", "black");
+    titletext.setAttribute("scale", "0.08 0.08");
+    titletext.setAttribute("value",bookdetail.title.replaceAll(' ','　'));
+    titletext.setAttribute("position","-0.14 0.06 0.002");
+    var authortext = titletext.cloneNode();
+    authortext.setAttribute("scale", "0.08 0.08");
+    authortext.setAttribute("value",bookdetail.contributor.replaceAll(' ','　'));
+    authortext.setAttribute("position","-0.14 0.03 0.002");
+    var imprinttext = titletext.cloneNode();
+    imprinttext.setAttribute("scale", "0.08 0.08");
+    imprinttext.setAttribute("value",bookdetail.imprint.replaceAll(' ','　'));
+    imprinttext.setAttribute("position","-0.14 0 0.002");
+
+    var btnBuyText = titletext.cloneNode();
+    btnBuyText.setAttribute("scale", "0.08 0.08");
+    btnBuyText.setAttribute("value","購入");
+    btnBuyText.setAttribute("position","0 -0.04 0.002");
+    btnBuyText.setAttribute("align", "center");
+    var btnCloseText = btnBuyText.cloneNode();
+    btnCloseText.setAttribute("scale", "0.08 0.08");
+    btnCloseText.setAttribute("value","閉じる");
+    btnCloseText.setAttribute("position","0.2 -0.04 0.002");
+    var btnBuy = document.createElement("a-plane");
+    btnBuy.setAttribute("height",0.02);
+    btnBuy.setAttribute("width", 0.05);
+    btnBuy.setAttribute("position","0 -0.04 0.003");
+    btnBuy.classList.add("collidable");
+    btnBuy.addEventListener('click',(event)=>{
+      window.open(bookdetail.item_url);
+    });
+    var btnClose = document.createElement("a-plane");
+    btnClose.setAttribute("height",0.02);
+    btnClose.setAttribute("width", 0.05);
+    btnClose.setAttribute("position","0.2 -0.04 0.003");
+    btnClose.addEventListener('click',(event)=>{
+      if(document.getElementById("bookdetailview")){
+        document.getElementById("bookdetailview").remove();
+      }
+    });
+    btnClose.classList.add("collidable");
+    base.appendChild(titletext);
+    base.appendChild(authortext);
+    base.appendChild(imprinttext);
+    base.appendChild(btnBuyText);
+    base.appendChild(btnCloseText);
+    base.appendChild(btnBuy);
+    base.appendChild(btnClose);
+    document.getElementById("camera").appendChild(base);
+  }
+
   AFRAME.registerComponent("bookshelf", {
     schema: { 
       no: {type: "string", default: "" }
@@ -164,7 +243,7 @@
           this.el.appendChild(addShelfTitle(blob.shelf_title));
           for(var i=1;i<=4;i++){
             this.el.appendChild(addbookbody(this.data.no+"-"+i,[0,0.41+i*0.3,0.175]));
-            this.el.appendChild(addbooks(this.data.no+"-"+i,blob.back_cover_images[i-1],blob.back_cover_low_images[i-1],[0,0.41+i*0.3,0.251],(i-1)*44,this.data.no));
+            this.el.appendChild(addbooks(this.data.no+"-"+i,blob.back_cover_images[4-i],blob.back_cover_low_images[4-i],[0,0.41+i*0.3,0.251],(4-i)*44,this.data.no));
           }
           {
             var i=0;
@@ -212,7 +291,7 @@
                     book.classList.add("collidable");
                     return book;
                 };
-                this.el.appendChild(addbook(this.data.shelf_id +"-" +i,[i*0.02-0.45,0,0.005],g_ShelfDatas[this.data.shelf_id].books[i-1].isbn));
+                this.el.appendChild(addbook(this.data.shelf_id +"-" +i,[i*0.02-0.45,0,0.005],g_ShelfDatas[this.data.shelf_id].books[parseInt(this.bookOffet)+i-1].isbn));
             }
         });
         this.el.addEventListener('shelf_release',(event) => {
@@ -309,14 +388,25 @@
   AFRAME.registerComponent("game_ctrl",{
     init: function () {
       this.el.addEventListener("game_start", (event) => {
-        //問題の表示
+        //出題
+
       });
       
       this.el.addEventListener("book_select", (event) => {
         //本情報の表示
+        console.log(g_BookDatas[event.detail.isbn]);
+        showBookDetail(g_BookDatas[event.detail.isbn]);
+      });
+
+      this.el.addEventListener("answer", (event) => {
+        //回答
         
       });
       
+      this.el.addEventListener("escape", (event) => {
+        //トイレ
+        
+      });
       
     },
     tick: function (){
@@ -544,8 +634,8 @@
         this.isMouseDown = true;
       });
       this.el.addEventListener('mouseup', (event)=> {
-        if(this.selectedObj&&this.isMouseDown){
-          this.selectedObj.dispatchEvent(new CustomEvent("book_select",{detail:{isbn: this.selectedObj.getAttribute('isbn')}}));
+        if(this.selectedObj&&this.isMouseDown&&this.selectedObj.getAttribute('isbn')){
+          document.getElementById("rig").dispatchEvent(new CustomEvent("book_select",{detail:{isbn: this.selectedObj.getAttribute('isbn')}}));
         }
         this.isMouseDown = false;
       });
@@ -665,29 +755,7 @@
       }); 
 
       let key_ctrl_on = false;
-/*      if(this.data.hand=="left"){
-        document.addEventListener('keydown', (event) => {
-          var keyName = event.key;
-          console.log('keydown:' + keyName);
-          switch (keyName){
-          case 'z':
-          case 'Z':
-            zoomUp();
-            break;
-          }
-        });
-        document.addEventListener('keyup', (event) => {
-          var keyName = event.key;
-          console.log('keyup:' + keyName);
-          switch (keyName){
-          case 'z':
-          case 'Z':
-            zoomDown();
-            break;
-          }
-        });
-      }
-*/
+
              //Grip Released
       this.el.addEventListener('gripup',  (event)=> {
       });
