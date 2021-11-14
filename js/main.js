@@ -5,28 +5,32 @@
   let g_ShelfLoading = {};
   let g_ShelfDatas = {};
   let g_BookDatas = {};
+  let g_selectObject = null;
   var game_state = 0;
+
   function debugMessage(message){
     document.getElementById("debug-text").setAttribute("value",message);
   }
 
   function zoomUp(){
-      console.log("zoomUp");
+    console.log("zoomUp");
     document.getElementById("camera").setAttribute("zoom",5);
   }
+
   function zoomDown(){
     console.log("zoomDown");
     document.getElementById("camera").setAttribute("zoom",1);
   }
 
-  function showBookDetail(bookdetail){
+  function showBookDetail(bookdetail,pos,rotation){
     if(document.getElementById("bookdetailview")){
       document.getElementById("bookdetailview").remove();
     }
 
     var base = document.createElement("a-entity");
     base.setAttribute("id","bookdetailview");
-    base.setAttribute("position","0 1.5 -0.4");
+    base.setAttribute("position","0 0 0.05");
+//    base.setAttribute("rotation",rotation);
 
     var backpanel = document.createElement("a-plane");
     backpanel.setAttribute("height",0.2);
@@ -93,7 +97,10 @@
     base.appendChild(btnCloseText);
     base.appendChild(btnBuy);
     base.appendChild(btnClose);
-    document.getElementById("rig").appendChild(base);
+    if(g_selectObject){
+      g_selectObject.appendChild(base);
+    }
+//    document.getElementById("bookstore").appendChild(base);
   }
 
   AFRAME.registerComponent("bookshelf", {
@@ -178,6 +185,8 @@
       var cover = document.createElement("a-plane");
       cover.setAttribute("id",id);
       cover.setAttribute("isbn",isbn);
+      cover.setAttribute("popup_rotation","-90 0 0");
+      cover.setAttribute("popup_pos",pos[0] + " " + pos[1]+0.2 + " " + pos[2]+0.1);
       cover.setAttribute("height",book_height);
       cover.setAttribute("width", book_width);
       cover.setAttribute("opacity",0);
@@ -257,7 +266,7 @@
               }
               j++;
             }
-  
+
           }
         })
         .catch((reason) => {
@@ -286,6 +295,8 @@
                     var book = document.createElement("a-plane");
                     book.setAttribute("id",id);
                     book.setAttribute("isbn",isbn);
+                    book.setAttribute("popup_rotation","0 0 0");
+                    book.setAttribute("popup_pos",pos[0] + " " + pos[1] + " " + pos[2]+0.1);
                     book.setAttribute("height",0.2);
                     book.setAttribute("width", 0.02);
                     book.setAttribute("position",pos[0] + " " + pos[1] + " " + pos[2]);
@@ -350,44 +361,6 @@
   });
 
 
-  AFRAME.registerComponent("booktest", {
-    init: function () {
-        var addbook = function(title, author, pos){
-            var book = document.createElement("a-text");
-            book.setAttribute("position",pos);
-            var bookbody = document.createElement("a-box");
-            bookbody.setAttribute("height",0.25);
-            bookbody.setAttribute("width", 0.02);
-            bookbody.setAttribute("depth", 0.2);
-            if(Math.random()<0.1){
-                bookbody.setAttribute("color", "lightblue");
-            }else{
-                bookbody.setAttribute("color", "white");
-            }
-            book.appendChild(bookbody);
-            var tate =function(str){
-                return str.split('').reduce(function (accumulator, currentValue, currentIndex, array) {
-                    return accumulator + "\n" + currentValue;
-                });
-            };
-            var backcover = document.createElement("a-text");
-            backcover.setAttribute("value",tate(title) + "\n\n" +tate(author) );
-            backcover.setAttribute("font","font/mplus-msdf.json" );
-            backcover.setAttribute("font-image","font/mplus-msdf.png" );
-            backcover.setAttribute("negate","false" );
-            backcover.setAttribute("baseline","top");
-            backcover.setAttribute("alight","center");
-            backcover.setAttribute("scale","0.06 0.06" );
-            backcover.setAttribute("color", "black");
-            backcover.setAttribute("position", "-0.01 0.12 0.1");
-            book.appendChild(backcover);
-            return book;
-        };
-        for(var i=0;i<44;i++){
-            this.el.appendChild(addbook("ベンガーデルZ","青木まりこ"+i,((i%44)*0.02 - 0.43) + " " + (1.95 - Math.floor(i/44)*0.4) + " 0.2"));
-        }
-    },tick: function(){}
-    });
   AFRAME.registerComponent("game_ctrl",{
     init: function () {
       game_state = 0;
@@ -399,7 +372,7 @@
         console.log("target index:" + index);
         console.log("target isbn:" + keys[index]);
         this.target_book = g_BookDatas[keys[index]];
-        showBookDetail(this.target_book);
+//        showBookDetail(this.target_book,"0 0 0","0 0 0");
         game_state = 1;
 
       });
@@ -407,7 +380,7 @@
       this.el.addEventListener("book_select", (event) => {
         //本情報の表示
         console.log(g_BookDatas[event.detail.isbn]);
-        showBookDetail(g_BookDatas[event.detail.isbn]);
+        showBookDetail(g_BookDatas[event.detail.isbn],event.detail.pos,event.detail.rotation);
       });
 
       this.el.addEventListener("answer", (event) => {
@@ -666,7 +639,11 @@
       });
       this.el.addEventListener('mouseup', (event)=> {
         if(this.selectedObj&&this.isMouseDown&&this.selectedObj.getAttribute('isbn')){
-          document.getElementById("rig").dispatchEvent(new CustomEvent("book_select",{detail:{isbn: this.selectedObj.getAttribute('isbn')}}));
+          g_selectObject = this.selectedObj;
+          let pos = this.selectedObj.object3D.getWorldPosition(new THREE.Vector3());
+          let direction = this.selectedObj.object3D.getWorldDirection(new THREE.Vector3());
+          let popup_pos = direction.clone().multiplyScalar(0.05).add(pos);
+          document.getElementById("rig").dispatchEvent(new CustomEvent("book_select",{detail:{isbn: this.selectedObj.getAttribute('isbn'),pos: popup_pos.x + " " +popup_pos.y +" " + popup_pos.z,rotation: direction.x + " " + direction.y+ " "+ direction.z} }));
         }
         this.isMouseDown = false;
       });
