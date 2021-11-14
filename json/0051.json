@@ -15,17 +15,6 @@
     ],
     "books": [
         {
-            "isbn": "9784635823135",
-            "title": "鉄道旅のトラブル対処術",
-            "title_collation_key": "",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "山と溪谷社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16721590/",
-            "category": "産業"
-        },
-        {
             "isbn": "9784635823395",
             "title": "近畿日本鉄道のすべて",
             "title_collation_key": "",
@@ -34,6 +23,17 @@
             "imprint": "山と溪谷社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16900350/",
+            "category": "産業"
+        },
+        {
+            "isbn": "9784635823135",
+            "title": "鉄道旅のトラブル対処術",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "山と溪谷社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16721590/",
             "category": "産業"
         },
         {
@@ -114,17 +114,6 @@
             "category": "産業"
         },
         {
-            "isbn": "9784635049214",
-            "title": "山びとの記ーー木の国 果無山脈",
-            "title_collation_key": "",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "山と溪谷社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16822608/",
-            "category": "産業"
-        },
-        {
             "isbn": "9784635172097",
             "title": "山に生きる",
             "title_collation_key": "",
@@ -147,6 +136,17 @@
             "category": "産業"
         },
         {
+            "isbn": "9784635049214",
+            "title": "山びとの記ーー木の国 果無山脈",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "山と溪谷社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16822608/",
+            "category": "産業"
+        },
+        {
             "isbn": "9784635823203",
             "title": "全国未成線徹底検証 私鉄編",
             "title_collation_key": "",
@@ -166,6 +166,17 @@
             "imprint": "山と溪谷社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16823198/",
+            "category": "産業"
+        },
+        {
+            "isbn": "9784635310444",
+            "title": "脱炭素革命への挑戦 世界の潮流と日本の課題",
+            "title_collation_key": "",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "山と溪谷社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16823176/",
             "category": "産業"
         },
         {
@@ -331,17 +342,6 @@
             "imprint": "技術評論社",
             "main_cover": "https://cover.openbd.jp/9784297123451.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16861860/",
-            "category": "産業"
-        },
-        {
-            "isbn": "9784814361632",
-            "title": "BD＞ありがとうドレミファインバータ",
-            "title_collation_key": "アリガトウ ドレミ ファイン バータ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "ビコム",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16914430/",
             "category": "産業"
         },
         {
@@ -752,17 +752,6 @@
             "category": "産業"
         },
         {
-            "isbn": "9784309418384",
-            "title": "『FMステーション』とエアチェックの80年代",
-            "title_collation_key": "エフエムステーショントエアチェックノハチジュウネンダイ",
-            "contributor": "恩藏 茂",
-            "contributor_collation_key": "オンゾウ　シゲル",
-            "imprint": "河出書房新社",
-            "main_cover": "https://cover.openbd.jp/9784309418384.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16804844/",
-            "category": "産業"
-        },
-        {
             "isbn": "9784903883564",
             "title": "エロチカ・バンブーのチョットだけよ",
             "title_collation_key": "エロチカバンブーノチョットダケヨ",
@@ -859,6 +848,17 @@
             "imprint": "日本橋出版",
             "main_cover": "https://cover.openbd.jp/9784434294426.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16927293/",
+            "category": "産業"
+        },
+        {
+            "isbn": "9784774792415",
+            "title": "屋外で強く育てる！ メダカの飼い方＆原色図鑑",
+            "title_collation_key": "オクガイデツヨクソダテル メダカノカイカタアンドゲンショクズカン",
+            "contributor": "佐々木 浩之",
+            "contributor_collation_key": "ササキ ヒロユキ",
+            "imprint": "コスミック出版",
+            "main_cover": "https://cover.openbd.jp/9784774792415.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16868271/",
             "category": "産業"
         },
         {
@@ -1057,17 +1057,6 @@
             "imprint": "成山堂書店",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16952231/",
-            "category": "産業"
-        },
-        {
-            "isbn": "9784889638585",
-            "title": "切手でたどる　郵便創業150年の歴史　Vol.2　戦後編",
-            "title_collation_key": "キッテデタドル　ユウビンソウギョウヒャクゴジュウネンノレキシ　ボリュームニ　センゴヘン",
-            "contributor": "内藤陽介",
-            "contributor_collation_key": "ナイトウヨウスケ",
-            "imprint": "日本郵趣出版",
-            "main_cover": "https://cover.openbd.jp/9784889638585.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16949504/",
             "category": "産業"
         },
         {
@@ -1291,28 +1280,6 @@
             "category": "産業"
         },
         {
-            "isbn": "9784897324456",
-            "title": "現代農業簿記会計概論",
-            "title_collation_key": "ゲンダイ ノウギョウ ボキ カイケイ ガイロン",
-            "contributor": "古塚秀夫/高田理",
-            "contributor_collation_key": "フルツカ,ヒデオ/タカダ,オサム",
-            "imprint": "農林統計出版",
-            "main_cover": "https://cover.openbd.jp/9784897324456.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16934166/",
-            "category": "産業"
-        },
-        {
-            "isbn": "9784897324456",
-            "title": "現代農業簿記会計概論",
-            "title_collation_key": "ゲンダイ ノウギョウ ボキ カイケイ ガイロン",
-            "contributor": "古塚秀夫/高田理",
-            "contributor_collation_key": "フルツカ,ヒデオ/タカダ,オサム",
-            "imprint": "農林統計出版",
-            "main_cover": "https://cover.openbd.jp/9784897324456.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16934166/",
-            "category": "産業"
-        },
-        {
             "isbn": "9784425778027",
             "title": "航空安全とパイロットの危機管理改訂増補版",
             "title_collation_key": "コウクウ アンゼン ト パイロット ノ キキ カンリ",
@@ -1533,14 +1500,14 @@
             "category": "産業"
         },
         {
-            "isbn": "9784794225412",
-            "title": "最新　新幹線事情大研究",
-            "title_collation_key": "サイシン　シンカンセンジジョウダイケンキュウ",
-            "contributor": "川島 令三",
-            "contributor_collation_key": "カワシマ リョウゾウ",
-            "imprint": "草思社",
-            "main_cover": "https://cover.openbd.jp/9784794225412.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16861572/",
+            "isbn": "9784805920145",
+            "title": "最新会社と社員を守る新型コロナウイルス対応",
+            "title_collation_key": "サイシン カイシャ ト シャイン オ マモル シンガタ コロナ ウイルス タイオウ",
+            "contributor": "和田耕治",
+            "contributor_collation_key": "ワダ,コウジ",
+            "imprint": "中央労働災害防止協会",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16947780/",
             "category": "産業"
         },
         {
@@ -1775,6 +1742,17 @@
             "category": "産業"
         },
         {
+            "isbn": "9784594617707",
+            "title": "NHK趣味どきっ！ このまま真似るだけスマホアプリ講座",
+            "title_collation_key": "シュミドキコノッママネルダケスマホアプリコウザ",
+            "contributor": "講師　岡嶋裕史",
+            "contributor_collation_key": "オカジマユウシ",
+            "imprint": "扶桑社",
+            "main_cover": "https://cover.openbd.jp/9784594617707.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16911131/",
+            "category": "産業"
+        },
+        {
             "isbn": "9784635907446",
             "title": "狩猟生活（2021　Vol．9）",
             "title_collation_key": "シュリョウ セイカツ",
@@ -1827,17 +1805,6 @@
             "imprint": "創森社",
             "main_cover": "https://cover.openbd.jp/9784883403523.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16861645/",
-            "category": "産業"
-        },
-        {
-            "isbn": "9784897324449",
-            "title": "食農と林業のバリューチェーン",
-            "title_collation_key": "ショクノウ ト リンギョウ ノ バリュー チェーン",
-            "contributor": "斎藤修",
-            "contributor_collation_key": "サイトウ,オサム",
-            "imprint": "農林統計出版",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16924241/",
             "category": "産業"
         },
         {
@@ -1948,6 +1915,39 @@
             "imprint": "イカロス出版",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16932694/",
+            "category": "産業"
+        },
+        {
+            "isbn": "9784502392313",
+            "title": "CFOのためのサブスクリプション・ビジネスの実務",
+            "title_collation_key": "シーエフオーノタメノサブスクリプションビジネスノジツム",
+            "contributor": "吉村 壮司/畑中 孝介",
+            "contributor_collation_key": "ヨシムラ タケシ/ハタナカ タカユキ",
+            "imprint": "中央経済社",
+            "main_cover": "https://cover.openbd.jp/9784502392313.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16834672/",
+            "category": "産業"
+        },
+        {
+            "isbn": "9784330043210",
+            "title": "JRカレンダーグループ版（2022）",
+            "title_collation_key": "ジェイアール カレンダー グループバン",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "交通新聞社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16932980/",
+            "category": "産業"
+        },
+        {
+            "isbn": "9784330065212",
+            "title": "JR電車編成表2022冬",
+            "title_collation_key": "ジェイアールデンシャヘンセイヒョウニセンニジュウニフユ",
+            "contributor": "JRR",
+            "contributor_collation_key": "",
+            "imprint": "交通新聞社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16919923/",
             "category": "産業"
         }
     ]

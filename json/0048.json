@@ -15,17 +15,6 @@
     ],
     "books": [
         {
-            "isbn": "9784793126390",
-            "title": "時間がない！？消費税インボイス導入へのサクセスロード",
-            "title_collation_key": "ジカンガナイショウヒゼイインボイスドウニュウヘノサクセスロード",
-            "contributor": "金子真一",
-            "contributor_collation_key": "カネコシンイチ",
-            "imprint": "税務研究会出版局",
-            "main_cover": "https://cover.openbd.jp/9784793126390.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16908478/",
-            "category": "経営"
-        },
-        {
             "isbn": "9784866935294",
             "title": "事業再構築の教科書",
             "title_collation_key": "ジギョウ サイコウチク ノ キョウカショ",
@@ -56,6 +45,17 @@
             "imprint": "プレジデント社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16876099/",
+            "category": "経営"
+        },
+        {
+            "isbn": "9784883257386",
+            "title": "実証・経営原則「継ぎ・続ける」",
+            "title_collation_key": "ジッショウ ケイエイゲンソク ツナギ ツヅケル",
+            "contributor": "原 清",
+            "contributor_collation_key": "ハラ キヨシ",
+            "imprint": "サンライズ出版",
+            "main_cover": "https://cover.openbd.jp/9784883257386.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16882998/",
             "category": "経営"
         },
         {
@@ -169,6 +169,17 @@
             "category": "経営"
         },
         {
+            "isbn": "9784324110560",
+            "title": "事例から学ぶこれならできる！DX税理士事務所",
+            "title_collation_key": "ジレイ カラ マナブ コレナラ デキル ディーエックス ゼイリシ ジムショ",
+            "contributor": "月刊「税理」編集局",
+            "contributor_collation_key": "ゲッカン ゼイリ ヘンシュウキョク",
+            "imprint": "ぎょうせい",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16918209/",
+            "category": "経営"
+        },
+        {
             "isbn": "9784885922169",
             "title": "人事制度が会社を変える",
             "title_collation_key": "ジンジセイドガカイシャヲカエル",
@@ -199,6 +210,17 @@
             "imprint": "アルファポリス",
             "main_cover": "https://cover.openbd.jp/9784434295225.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16932304/",
+            "category": "経営"
+        },
+        {
+            "isbn": "9784828309163",
+            "title": "SWOT分析による戦国武将の成功と失敗",
+            "title_collation_key": "スウォットブンセキニヨルセンゴクブショウノセイコウトシッパイ",
+            "contributor": "森岡 健司",
+            "contributor_collation_key": "",
+            "imprint": "ビジネス教育出版社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16845543/",
             "category": "経営"
         },
         {
@@ -433,17 +455,6 @@
             "category": "経営"
         },
         {
-            "isbn": "9784600008376",
-            "title": "聖書と起業",
-            "title_collation_key": "セイショ ト キギョウ",
-            "contributor": "前田昌調",
-            "contributor_collation_key": "マエダ,マサチカ",
-            "imprint": "鉱脈社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16939679/",
-            "category": "経営"
-        },
-        {
             "isbn": "9784049110821",
             "title": "世界一かんたん定番年賀状　2022",
             "title_collation_key": "セカイイチカンタンテイバンネンガジョウ ニセンニジュウニ",
@@ -477,6 +488,17 @@
             "category": "経営"
         },
         {
+            "isbn": "9784798065199",
+            "title": "世界一わかりやすいSAPの教科書 入門編",
+            "title_collation_key": "セカイイチワカリヤスイエスエーピーノキョウカショニュウモンヘン",
+            "contributor": "とく",
+            "contributor_collation_key": "トク",
+            "imprint": "秀和システム",
+            "main_cover": "https://cover.openbd.jp/9784798065199.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16849209/",
+            "category": "経営"
+        },
+        {
             "isbn": "9784296000395",
             "title": "世界「失敗」製品図鑑",
             "title_collation_key": "セカイシッパイセイヒンズカン",
@@ -485,17 +507,6 @@
             "imprint": "日経BP",
             "main_cover": "https://cover.openbd.jp/9784296000395.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16911092/",
-            "category": "経営"
-        },
-        {
-            "isbn": "9784863676817",
-            "title": "世界の最難関市場に挑み制した！　 サムライカウボーイ社長記",
-            "title_collation_key": "セカイノサイナンカンシジョウニイドミセイシタ　サムライカウボーイシャチョウキ",
-            "contributor": "マイク大谷",
-            "contributor_collation_key": "マイクオオタニ",
-            "imprint": "セルバ出版",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16841426/",
             "category": "経営"
         },
         {
@@ -606,17 +617,6 @@
             "imprint": "ネットスクール出版",
             "main_cover": "https://cover.openbd.jp/9784781037295.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16792561/",
-            "category": "経営"
-        },
-        {
-            "isbn": "9784781037189",
-            "title": "税理士試験教科書簿記論・財務諸表論2基礎完成編【2022年度版】",
-            "title_collation_key": "ゼイリシシケンキョウカショボキロン ザイムショヒョウロンニキソカンセイヘン ニセンニジュウニネンドバン",
-            "contributor": "ネットスクール株式会社",
-            "contributor_collation_key": "ネットスクールカブシキガイシャ",
-            "imprint": "ネットスクール出版",
-            "main_cover": "https://cover.openbd.jp/9784781037189.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16786372/",
             "category": "経営"
         },
         {
@@ -1016,28 +1016,6 @@
             "category": "経営"
         },
         {
-            "isbn": "9784898275511",
-            "title": "TBC中小企業診断士試験シリーズ速修テキスト（2　2022年版）",
-            "title_collation_key": "ティービーシー チュウショウ キギョウ シンダンシ シケン シリーズ ソクシュウ",
-            "contributor": "山口正浩/遠山直幹",
-            "contributor_collation_key": "ヤマグチ,マサヒロ/トオヤマ,ナオミキ",
-            "imprint": "早稲田出版",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16927652/",
-            "category": "経営"
-        },
-        {
-            "isbn": "9784898275504",
-            "title": "TBC中小企業診断士試験シリーズ速修テキスト（1　2022年版）",
-            "title_collation_key": "ティービーシー チュウショウ キギョウ シンダンシ シケン シリーズ ソクシュウ",
-            "contributor": "山口正浩/木戸晶之",
-            "contributor_collation_key": "ヤマグチ,マサヒロ/キド,アキユキ",
-            "imprint": "早稲田出版",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16923038/",
-            "category": "経営"
-        },
-        {
             "isbn": "9784861401992",
             "title": "テーマ・ジャンルからさがすビジネス支援本（2019）",
             "title_collation_key": "テーマ ジャンル カラ サガス ビジネス シエンボン",
@@ -1423,6 +1401,17 @@
             "category": "経営"
         },
         {
+            "isbn": "9784502392214",
+            "title": "表解IFRS・日本・米国基準の徹底比較",
+            "title_collation_key": "ヒョウカイアイエフアールエスニホンベイコクキジュンノテッテイヒカク",
+            "contributor": "有限責任監査法人トーマツ",
+            "contributor_collation_key": "ユウゲンセキニンカンサホウジントーマツ",
+            "imprint": "中央経済社",
+            "main_cover": "https://cover.openbd.jp/9784502392214.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16866009/",
+            "category": "経営"
+        },
+        {
             "isbn": "9784502399312",
             "title": "ビジネス会計検定試験公式過去問題集3級",
             "title_collation_key": "ビジネスカイケイケンテイシケンコウシキカコモンダイシュウサンキュウ",
@@ -1706,6 +1695,17 @@
             "imprint": "産学社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16910915/",
+            "category": "経営"
+        },
+        {
+            "isbn": "9784492396605",
+            "title": "マッキンゼー　ネクスト・ノーマル",
+            "title_collation_key": "マッキンゼー ネクスト ノーマルマッキンゼーー",
+            "contributor": "小松原 正浩/住川 武人",
+            "contributor_collation_key": "コマツバラ マサヒロ/スミカワ タケヒト",
+            "imprint": "東洋経済新報社",
+            "main_cover": "https://cover.openbd.jp/9784492396605.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16822207/",
             "category": "経営"
         },
         {

@@ -15,6 +15,39 @@
     ],
     "books": [
         {
+            "isbn": "9784253141154",
+            "title": "QP　我妻涼〜Desperado〜 13",
+            "title_collation_key": "キューピーアズマリョウデスペラード",
+            "contributor": "高橋ヒロシ/今村KSK",
+            "contributor_collation_key": "タカハシヒロシ/イマムラケーエスケー",
+            "imprint": "秋田書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16909790/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784107724304",
+            "title": "今日から始める幼なじみ 1",
+            "title_collation_key": "キョウカラハジメルオサナナジミ01",
+            "contributor": "帯屋 ミドリ",
+            "contributor_collation_key": "オビヤ ミドリ",
+            "imprint": "新潮社",
+            "main_cover": "https://cover.openbd.jp/9784107724304.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16871045/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784832273177",
+            "title": "今日の授業は恋愛です！　1",
+            "title_collation_key": "キョウノジュギョウハレンアイデス　イチ",
+            "contributor": "つみきつき",
+            "contributor_collation_key": "ツミキツキ",
+            "imprint": "芳文社",
+            "main_cover": "https://cover.openbd.jp/9784832273177.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16834731/",
+            "category": "青年"
+        },
+        {
             "isbn": "9784253301732",
             "title": "巨蟲山脈 3",
             "title_collation_key": "キョチュウサンミャク",
@@ -111,17 +144,6 @@
             "imprint": "集英社",
             "main_cover": "https://cover.openbd.jp/9784088921136.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16870965/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784098611843",
-            "title": "九条の大罪（4）",
-            "title_collation_key": "クジョウノタイザイ",
-            "contributor": "真鍋 昌平",
-            "contributor_collation_key": "マナベ ショウヘイ",
-            "imprint": "小学館",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16877717/",
             "category": "青年"
         },
         {
@@ -386,17 +408,6 @@
             "imprint": "少年画報社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16923885/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784821128846",
-            "title": "小悪魔な幼なじみに、いただかれました。※ベッドの上で❤（2）",
-            "title_collation_key": "コアクマナオサナナジミニイタダカレマシタベッドノウエデ",
-            "contributor": "ゆめきよ",
-            "contributor_collation_key": "ユメキヨ",
-            "imprint": "ぶんか社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16924724/",
             "category": "青年"
         },
         {
@@ -928,17 +939,6 @@
             "category": "青年"
         },
         {
-            "isbn": "9784253236645",
-            "title": "サエイズム 10",
-            "title_collation_key": "サエイズム",
-            "contributor": "内水融",
-            "contributor_collation_key": "ウチミズトオル",
-            "imprint": "秋田書店",
-            "main_cover": "https://cover.openbd.jp/9784253236645.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16874553/",
-            "category": "青年"
-        },
-        {
             "isbn": "9784757575929",
             "title": "咲ーSaki-（22）",
             "title_collation_key": "サキ",
@@ -980,17 +980,6 @@
             "imprint": "講談社",
             "main_cover": "https://cover.openbd.jp/9784065258552.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16916540/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784098611478",
-            "title": "サターンリターン（6）",
-            "title_collation_key": "サターンリターン",
-            "contributor": "鳥飼 茜",
-            "contributor_collation_key": "トリカイ アカネ",
-            "imprint": "小学館",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16871032/",
             "category": "青年"
         },
         {
@@ -1390,6 +1379,17 @@
             "category": "青年"
         },
         {
+            "isbn": "9784065251744",
+            "title": "新・地獄堂霊界通信（1）",
+            "title_collation_key": "シンジゴクドウレイカイツウシン1",
+            "contributor": "みもり/香月 日輪",
+            "contributor_collation_key": "ミモリ/コウヅキ ヒノワ",
+            "imprint": "講談社",
+            "main_cover": "https://cover.openbd.jp/9784065251744.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16876902/",
+            "category": "青年"
+        },
+        {
             "isbn": "9784537144468",
             "title": "新宿BOX （　1）",
             "title_collation_key": "シンジュクボックス イチ",
@@ -1442,6 +1442,17 @@
             "imprint": "講談社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16925686/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784821128822",
+            "title": "ジェンダー・コード〜男らしさ、女らしさの鎖につながれて〜",
+            "title_collation_key": "ジェンダーコードオトコラシサオンナラシサノクサリニツナガレテ",
+            "contributor": "六花チヨ",
+            "contributor_collation_key": "ロクハナチヨ",
+            "imprint": "ぶんか社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16924715/",
             "category": "青年"
         },
         {
@@ -1530,6 +1541,28 @@
             "imprint": "秋田書店",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16948574/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784253151450",
+            "title": "じゃあ、君の代わりに殺そうか？ 5",
+            "title_collation_key": "ジャアキミノカワリニコロソウカ",
+            "contributor": "蔵人幸明/榊原宗々",
+            "contributor_collation_key": "クランドユキアキ/サカキバラソウソウ",
+            "imprint": "秋田書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16948574/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784088921556",
+            "title": "GIGANTIS-ジャイガンティスー 1",
+            "title_collation_key": "ジャイガンティス",
+            "contributor": "橘 賢一/小森 陽一",
+            "contributor_collation_key": "タチバナ ケンイチ/コモリ ヨウイチ",
+            "imprint": "集英社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16932714/",
             "category": "青年"
         },
         {
@@ -1731,6 +1764,17 @@
             "category": "青年"
         },
         {
+            "isbn": "9784098611874",
+            "title": "スノウボールアース（2）",
+            "title_collation_key": "スノウボールアース",
+            "contributor": "辻次 夕日郎",
+            "contributor_collation_key": "ツジツグ ユウヒロウ",
+            "imprint": "小学館",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16905781/",
+            "category": "青年"
+        },
+        {
             "isbn": "9784832273153",
             "title": "スロウスタート　9",
             "title_collation_key": "スロウスタート　キュウ",
@@ -1904,50 +1948,6 @@
             "imprint": "少年画報社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16957072/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784864954730",
-            "title": "絶倫ドS魔術師アークと私の専属契約書　3",
-            "title_collation_key": "ゼツリンドエスマジュツシアークトワタシノセンゾクケイヤクショサン",
-            "contributor": "ざわっこ",
-            "contributor_collation_key": "ザワッコ",
-            "imprint": "大都社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16850871/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784821128686",
-            "title": "絶倫ヤクザの極上愛撫 逃れられない契約結婚（3）",
-            "title_collation_key": "ゼツリンヤクザノゴクジョウアイブノガレラレナイケイヤクケッコン",
-            "contributor": "真坂",
-            "contributor_collation_key": "マサカ",
-            "imprint": "ぶんか社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16886162/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784107724328",
-            "title": "全裸監督 村西とおる伝 1",
-            "title_collation_key": "ゼンラカントクムラニシトオルデン01",
-            "contributor": "須本 壮一/本橋 信宏",
-            "contributor_collation_key": "スモト ソウイチ/モトハシ ノブヒロ",
-            "imprint": "新潮社",
-            "main_cover": "https://cover.openbd.jp/9784107724328.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16871047/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784065257371",
-            "title": "蒼穹のファフナー（9）",
-            "title_collation_key": "ソウキュウノファフナー9",
-            "contributor": "松下 朋未/XEBEC",
-            "contributor_collation_key": "マツシタ トモミ/ジーベック",
-            "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065257371.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16918022/",
             "category": "青年"
         }
     ]

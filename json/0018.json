@@ -15,6 +15,39 @@
     ],
     "books": [
         {
+            "isbn": "9784575670813",
+            "title": "はぐれ又兵衛例繰控【四】密命にあらず",
+            "title_collation_key": "ハグレマタベエ レイクリビカエ　ミツメイニアラズ",
+            "contributor": "坂岡　真",
+            "contributor_collation_key": "サカオカ　シン",
+            "imprint": "双葉社",
+            "main_cover": "https://cover.openbd.jp/9784575670813.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16886178/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784086804202",
+            "title": "ハケン飯友 僕と猫の、食べて喋って笑う日々",
+            "title_collation_key": "ハケンメシトモ ボクトネコノ タベテシャベッテワラウヒビ",
+            "contributor": "椹野 道流/内田 美奈子",
+            "contributor_collation_key": "フシノ ミチル/ウチダ ミナコ",
+            "imprint": "集英社",
+            "main_cover": "https://cover.openbd.jp/9784086804202.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16928360/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784596019240",
+            "title": "はじめましての元夫から復縁プロポーズされてます!?",
+            "title_collation_key": "ハジメマシテノモトオットカラフクエンプロポーズサレテマス",
+            "contributor": "玉紀　直/芦原モカ",
+            "contributor_collation_key": "タマキナオ/アシハラモカ",
+            "imprint": "ハーパーコリンズ・ジャパン",
+            "main_cover": "https://cover.openbd.jp/9784596019240.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16934576/",
+            "category": "人文・思想・社会"
+        },
+        {
             "isbn": "9784041112397",
             "title": "八号古墳に消えて",
             "title_collation_key": "ハチゴウコフンニキエテ",
@@ -290,6 +323,17 @@
             "category": "人文・思想・社会"
         },
         {
+            "isbn": "9784334792701",
+            "title": "ひまつぶしの殺人　新装版",
+            "title_collation_key": "ヒマツブシノサツジンシンソウバン",
+            "contributor": "赤川次郎",
+            "contributor_collation_key": "アカガワ ジロウ",
+            "imprint": "光文社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16926812/",
+            "category": "人文・思想・社会"
+        },
+        {
             "isbn": "9784596018847",
             "title": "秘密で出産するはずが、極上社長の執着愛に捕まりました",
             "title_collation_key": "ヒミツデシュッサンスルハズガゴクジョウシャチョウノシュウチャクアイニツカマリマシタ",
@@ -378,17 +422,6 @@
             "category": "人文・思想・社会"
         },
         {
-            "isbn": "9784867172391",
-            "title": "美肛リゾート 後ろでイカせて",
-            "title_collation_key": "ビコウリゾートウシロデイカセテ",
-            "contributor": "阿久根道人",
-            "contributor_collation_key": "アクネドウト",
-            "imprint": "ジーウォーク",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16855770/",
-            "category": "人文・思想・社会"
-        },
-        {
             "isbn": "9784122071551",
             "title": "ビショップ氏殺人事件",
             "title_collation_key": "ビショップシサツジンジケン",
@@ -441,6 +474,17 @@
             "imprint": "講談社",
             "main_cover": "https://cover.openbd.jp/9784065261040.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16907583/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784041115220",
+            "title": "ふしぎな話 小池真理子怪奇譚傑作選（1）",
+            "title_collation_key": "フシギナハナシ コイケマリコカイキタンケッサクセン",
+            "contributor": "小池　真理子/東　雅夫",
+            "contributor_collation_key": "コイケ　マリコ/ヒガシ　マサオ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041115220.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16916452/",
             "category": "人文・思想・社会"
         },
         {
@@ -560,7 +604,7 @@
             "contributor": "藤田宜永",
             "contributor_collation_key": "フジタヨシナガ",
             "imprint": "徳間書店",
-            "main_cover": "",
+            "main_cover": "https://cover.openbd.jp/9784198946951.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16910017/",
             "category": "人文・思想・社会"
         },
@@ -730,6 +774,17 @@
             "category": "人文・思想・社会"
         },
         {
+            "isbn": "9784267023187",
+            "title": "北条義時　我、鎌倉にて天運を待つ",
+            "title_collation_key": "ホウジョウヨシトキワレカマクラニテテンウンヲマツ",
+            "contributor": "高橋直樹",
+            "contributor_collation_key": "タカハシナオキ",
+            "imprint": "潮出版社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16917705/",
+            "category": "人文・思想・社会"
+        },
+        {
             "isbn": "9784041091845",
             "title": "星空の16進数",
             "title_collation_key": "ホシゾラノジュウロクシンスウ",
@@ -796,17 +851,6 @@
             "category": "人文・思想・社会"
         },
         {
-            "isbn": "9784837987529",
-            "title": "本当の願いの叶え方",
-            "title_collation_key": "ホントウノネガイノカナエカタ",
-            "contributor": "ワタナベ 薫",
-            "contributor_collation_key": "ワタナベ カオル",
-            "imprint": "三笠書房",
-            "main_cover": "https://cover.openbd.jp/9784837987529.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16923946/",
-            "category": "人文・思想・社会"
-        },
-        {
             "isbn": "9784576212111",
             "title": "本丸 目付部屋10",
             "title_collation_key": "ホンマル メツケベヤ",
@@ -826,17 +870,6 @@
             "imprint": "竹書房",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16915153/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784801928084",
-            "title": "忘却の河　（仮）（上）",
-            "title_collation_key": "ボウキャクノカワ",
-            "contributor": "蔡 駿",
-            "contributor_collation_key": "ツァイ ジュン",
-            "imprint": "竹書房",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16915151/",
             "category": "人文・思想・社会"
         },
         {
@@ -950,6 +983,17 @@
             "category": "人文・思想・社会"
         },
         {
+            "isbn": "9784041117866",
+            "title": "まれびとパレード",
+            "title_collation_key": "マレビトパレード",
+            "contributor": "越谷　オサム",
+            "contributor_collation_key": "コシガヤ　オサム",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041117866.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16870907/",
+            "category": "人文・思想・社会"
+        },
+        {
             "isbn": "9784094070804",
             "title": "漫画ひりひり",
             "title_collation_key": "マンガヒリヒリ",
@@ -1027,17 +1071,6 @@
             "category": "人文・思想・社会"
         },
         {
-            "isbn": "9784167917982",
-            "title": "耳袋秘帖 南町奉行と深泥沼",
-            "title_collation_key": "ミミブクロヒチョウ ミナミマチブギョウトミドロヌマ",
-            "contributor": "風野 真知雄",
-            "contributor_collation_key": "カゼノ マチオ",
-            "imprint": "文藝春秋",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16924684/",
-            "category": "人文・思想・社会"
-        },
-        {
             "isbn": "9784334792763",
             "title": "宮本武蔵の猿",
             "title_collation_key": "ミヤモトムサシノサル",
@@ -1057,6 +1090,17 @@
             "imprint": "KADOKAWA",
             "main_cover": "https://cover.openbd.jp/9784041114247.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16948266/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784094071009",
+            "title": "蟲愛づる姫君 王子は暁に旅立つ",
+            "title_collation_key": "ムシメヅルヒメギミ オウジハアカツキニタビダツ",
+            "contributor": "宮野美嘉/碧 風羽",
+            "contributor_collation_key": "ミヤノミカ/ミドリ フウ",
+            "imprint": "小学館",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16941409/",
             "category": "人文・思想・社会"
         },
         {
@@ -1126,28 +1170,6 @@
             "category": "人文・思想・社会"
         },
         {
-            "isbn": "9784094071016",
-            "title": "桃殿の姫、鬼を婿にすること 暁の巻",
-            "title_collation_key": "モモドノノヒメ、オニヲムコニスルコト アカツキノマキ",
-            "contributor": "深山 くのえ/宵 マチ",
-            "contributor_collation_key": "ミヤマ クノエ/ヨイ マチ",
-            "imprint": "小学館",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16941410/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784065249659",
-            "title": "森には森の風が吹く",
-            "title_collation_key": "モリニハモリノカゼガフク",
-            "contributor": "森 博嗣",
-            "contributor_collation_key": "モリ ヒロシ",
-            "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065249659.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16907650/",
-            "category": "人文・思想・社会"
-        },
-        {
             "isbn": "9784041114285",
             "title": "モンスターと食卓を　3",
             "title_collation_key": "モンスタートショクタクヲ　3",
@@ -1156,6 +1178,17 @@
             "imprint": "KADOKAWA",
             "main_cover": "https://cover.openbd.jp/9784041114285.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16870944/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784167917876",
+            "title": "モンテレッジォ 小さな村の旅する本屋の物語",
+            "title_collation_key": "モンテレッジォ　チイサナムラノタビスルホンヤノモノガタリ",
+            "contributor": "内田 洋子",
+            "contributor_collation_key": "ウチダ ヨウコ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://cover.openbd.jp/9784167917876.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16879128/",
             "category": "人文・思想・社会"
         },
         {
@@ -1231,30 +1264,8 @@
             "contributor": "都筑道夫",
             "contributor_collation_key": "ツヅキミチオ",
             "imprint": "徳間書店",
-            "main_cover": "",
+            "main_cover": "https://cover.openbd.jp/9784198946920.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16910013/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784167918040",
-            "title": "山が見ていた",
-            "title_collation_key": "ヤマガミテイタ",
-            "contributor": "新田 次郎",
-            "contributor_collation_key": "ニッタ ジロウ",
-            "imprint": "文藝春秋",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16924566/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784167918040",
-            "title": "山が見ていた",
-            "title_collation_key": "ヤマガミテイタ",
-            "contributor": "新田 次郎",
-            "contributor_collation_key": "ニッタ ジロウ",
-            "imprint": "文藝春秋",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16924566/",
             "category": "人文・思想・社会"
         },
         {
@@ -1310,17 +1321,6 @@
             "imprint": "スターツ出版",
             "main_cover": "https://cover.openbd.jp/9784813711803.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16910027/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784065260456",
-            "title": "憂国の文学者たちに　60年安保・全共闘論集",
-            "title_collation_key": "ユウコクノブンガクシャタチニ ロクジュウネンアンポ・ゼンキョウトウロンシュウ",
-            "contributor": "吉本 隆明",
-            "contributor_collation_key": "ヨシモト タカアキ",
-            "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065260456.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16927240/",
             "category": "人文・思想・社会"
         },
         {
@@ -1676,17 +1676,6 @@
             "category": "人文・思想・社会"
         },
         {
-            "isbn": "9784813711858",
-            "title": "離婚するので、私たちにはおかまいなく。（仮）",
-            "title_collation_key": "リコンスルノデワタシタチニハオカマイナク",
-            "contributor": "春田モカ",
-            "contributor_collation_key": "ハルタモカ",
-            "imprint": "スターツ出版",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16943700/",
-            "category": "人文・思想・社会"
-        },
-        {
             "isbn": "9784596017192",
             "title": "離婚予定の契約妻ですが、旦那様に独占欲を注がれています",
             "title_collation_key": "リコンヨテイノケイヤクヅマデスガダンナサマニドクセンヨクヲソソガレテイマス",
@@ -1907,14 +1896,14 @@
             "category": "人文・思想・社会"
         },
         {
-            "isbn": "9784022650245",
-            "title": "私が食べた本",
-            "title_collation_key": "ワタシガタベタホン",
-            "contributor": "村田沙耶香",
-            "contributor_collation_key": "ムラタサヤカ",
-            "imprint": "朝日新聞出版",
+            "isbn": "9784591172063",
+            "title": "わたしの美しい庭",
+            "title_collation_key": "ワタシノウツクシイニワ",
+            "contributor": "凪良　ゆう",
+            "contributor_collation_key": "ナギラユウ",
+            "imprint": "ポプラ社",
             "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16949257/",
+            "item_url": "https://books.rakuten.co.jp/rb/16948231/",
             "category": "人文・思想・社会"
         },
         {
@@ -1926,6 +1915,17 @@
             "imprint": "小学館",
             "main_cover": "https://cover.openbd.jp/9784094070828.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16893309/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784813711827",
+            "title": "笑っていたい、君がいるこの世界で",
+            "title_collation_key": "ワラッテイタイキミガイルコノセカイデ",
+            "contributor": "麻沢奏",
+            "contributor_collation_key": "アサザワソウ",
+            "imprint": "スターツ出版",
+            "main_cover": "https://cover.openbd.jp/9784813711827.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16910020/",
             "category": "人文・思想・社会"
         },
         {

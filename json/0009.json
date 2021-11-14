@@ -15,94 +15,6 @@
     ],
     "books": [
         {
-            "isbn": "9784575525076",
-            "title": "彼女が私を惑わせる",
-            "title_collation_key": "カノジョガワタシヲマドワセル",
-            "contributor": "こかじさら",
-            "contributor_collation_key": "コカジサラ",
-            "imprint": "双葉社",
-            "main_cover": "https://cover.openbd.jp/9784575525076.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16845583/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784867161715",
-            "title": "彼女は食べて除霊する",
-            "title_collation_key": "カノジョハタベテジョレイスル",
-            "contributor": "みお/syo5",
-            "contributor_collation_key": "ミオ/ショウゴ",
-            "imprint": "マイクロマガジン社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16782920/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784334792626",
-            "title": "鎌倉殿争乱",
-            "title_collation_key": "カマクラドノソウラン",
-            "contributor": "菊池仁/安西篤子",
-            "contributor_collation_key": "キクチ メグミ/アンザイ アツコ",
-            "imprint": "光文社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16891328/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784569901527",
-            "title": "鎌倉燃ゆ",
-            "title_collation_key": "カマクラモユ",
-            "contributor": "安部 龍太郎/谷津 矢車",
-            "contributor_collation_key": "アベ リュウタロウ/ヤツ ヤグルマ",
-            "imprint": "PHP研究所",
-            "main_cover": "https://cover.openbd.jp/9784569901527.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16789873/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784101802183",
-            "title": "神欺く皇子",
-            "title_collation_key": "カミアザムクミコ",
-            "contributor": "三川 みり",
-            "contributor_collation_key": "ミカワ ミリ",
-            "imprint": "新潮社",
-            "main_cover": "https://cover.openbd.jp/9784101802183.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/15472221/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784087442779",
-            "title": "神遊び",
-            "title_collation_key": "カミアソビ",
-            "contributor": "清水 朔",
-            "contributor_collation_key": "シミズ ハジメ",
-            "imprint": "集英社",
-            "main_cover": "https://cover.openbd.jp/9784087442779.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16782797/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784065245958",
-            "title": "神在月のこども",
-            "title_collation_key": "カミアリヅキノコドモ",
-            "contributor": "四戸 俊成/芹沢 政信",
-            "contributor_collation_key": "シノヘ トシナリ/セリザワ マサノブ",
-            "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065245958.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16786220/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784065258910",
-            "title": "噛みあわない会話と、ある過去について",
-            "title_collation_key": "カミアワナイカイワト、アルカコニツイテ",
-            "contributor": "辻村 深月",
-            "contributor_collation_key": "ツジムラ ミヅキ",
-            "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065258910.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16869847/",
-            "category": "小説・エッセイ"
-        },
-        {
             "isbn": "9784575525021",
             "title": "神様たちのお伊勢参り（10）伝説の竜の罪と罰",
             "title_collation_key": "カミサマタチノオイセマイリ　デンセツノリュウノツミトバツ",
@@ -265,6 +177,17 @@
             "imprint": "光文社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16926809/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784167917531",
+            "title": "狩りの時代",
+            "title_collation_key": "カリノジダイ",
+            "contributor": "津島 佑子",
+            "contributor_collation_key": "ツシマ ユウコ",
+            "imprint": "文藝春秋",
+            "main_cover": "https://cover.openbd.jp/9784167917531.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16800424/",
             "category": "小説・エッセイ"
         },
         {
@@ -496,6 +419,17 @@
             "imprint": "実業之日本社",
             "main_cover": "https://cover.openbd.jp/9784408557076.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16894953/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784408556871",
+            "title": "文庫　北町奉行所前腰掛け茶屋　片時雨",
+            "title_collation_key": "キタマチブギョウショマエコシカケヂャヤカタシグレ",
+            "contributor": "吉田 雄亮",
+            "contributor_collation_key": "ヨシダ ユウスケ",
+            "imprint": "実業之日本社",
+            "main_cover": "https://cover.openbd.jp/9784408556871.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16742628/",
             "category": "小説・エッセイ"
         },
         {
@@ -1016,17 +950,6 @@
             "category": "小説・エッセイ"
         },
         {
-            "isbn": "9784041114407",
-            "title": "金魚の縁 新・大江戸定年組",
-            "title_collation_key": "キンギョノエニシ シン・オオエドテイネングミ",
-            "contributor": "風野　真知雄",
-            "contributor_collation_key": "カゼノ　マチオ",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784041114407.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16850646/",
-            "category": "小説・エッセイ"
-        },
-        {
             "isbn": "9784801930162",
             "title": "禁断の情事　（仮）",
             "title_collation_key": "キンダンノジョウジ",
@@ -1104,14 +1027,14 @@
             "category": "小説・エッセイ"
         },
         {
-            "isbn": "9784041116401",
-            "title": "銀座琥珀屋雑貨店 神様と縁結び（1）",
-            "title_collation_key": "ギンザコハクヤザッカテン カミサマトエンムスビ",
-            "contributor": "佐々木匙",
-            "contributor_collation_key": "ササキサジ",
+            "isbn": "9784041117903",
+            "title": "銀河忍法帖",
+            "title_collation_key": "ギンガニンポウチョウ",
+            "contributor": "山田　風太郎",
+            "contributor_collation_key": "ヤマダ　フウタロウ",
             "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784041116401.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16796095/",
+            "main_cover": "https://cover.openbd.jp/9784041117903.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16915149/",
             "category": "小説・エッセイ"
         },
         {
@@ -1280,14 +1203,14 @@
             "category": "小説・エッセイ"
         },
         {
-            "isbn": "9784094070514",
-            "title": "偶然屋（2）",
-            "title_collation_key": "グウゼンヤ",
-            "contributor": "七尾 与史",
-            "contributor_collation_key": "ナナオ ヨシ",
-            "imprint": "小学館",
-            "main_cover": "https://cover.openbd.jp/9784094070514.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16783397/",
+            "isbn": "9784575525342",
+            "title": "グッバイ、マスターピース",
+            "title_collation_key": "グッバイマスターピース",
+            "contributor": "新馬場新",
+            "contributor_collation_key": "シンバンバアラタ",
+            "imprint": "双葉社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16959644/",
             "category": "小説・エッセイ"
         },
         {
@@ -1308,7 +1231,7 @@
             "contributor": "あさのあつこ",
             "contributor_collation_key": "アサノアツコ",
             "imprint": "徳間書店",
-            "main_cover": "",
+            "main_cover": "https://cover.openbd.jp/9784198946869.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16910005/",
             "category": "小説・エッセイ"
         },
@@ -1374,7 +1297,7 @@
             "contributor": "黒崎視音",
             "contributor_collation_key": "クロサキミオ",
             "imprint": "徳間書店",
-            "main_cover": "",
+            "main_cover": "https://cover.openbd.jp/9784198946890.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16910007/",
             "category": "小説・エッセイ"
         },
@@ -1387,17 +1310,6 @@
             "imprint": "小学館",
             "main_cover": "https://cover.openbd.jp/9784094070415.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16800583/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784575524833",
-            "title": "刑事の慟哭",
-            "title_collation_key": "ケイジノドウコク",
-            "contributor": "下村敦史",
-            "contributor_collation_key": "シモムラ　アツシ",
-            "imprint": "双葉社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16749298/",
             "category": "小説・エッセイ"
         },
         {
@@ -1654,6 +1566,17 @@
             "category": "小説・エッセイ"
         },
         {
+            "isbn": "9784575524840",
+            "title": "後宮の花は偽りを紡ぐ",
+            "title_collation_key": "コウキュウノハナハイツワリヲツムグ",
+            "contributor": "天城智尋",
+            "contributor_collation_key": "アマギチヒロ",
+            "imprint": "双葉社",
+            "main_cover": "https://cover.openbd.jp/9784575524840.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16749296/",
+            "category": "小説・エッセイ"
+        },
+        {
             "isbn": "9784575525090",
             "title": "後宮の百花輪（2）",
             "title_collation_key": "コウキュウノヒャッカリン",
@@ -1662,6 +1585,17 @@
             "imprint": "双葉社",
             "main_cover": "https://cover.openbd.jp/9784575525090.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16845582/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784575524994",
+            "title": "後宮の百花輪（1）",
+            "title_collation_key": "コウキュウノヒャッカリン",
+            "contributor": "瀬那和章",
+            "contributor_collation_key": "セナカズアキ",
+            "imprint": "双葉社",
+            "main_cover": "https://cover.openbd.jp/9784575524994.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16808578/",
             "category": "小説・エッセイ"
         },
         {
@@ -1948,6 +1882,72 @@
             "imprint": "文藝春秋",
             "main_cover": "https://cover.openbd.jp/9784167917630.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16840597/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784041116234",
+            "title": "ことことこーこ",
+            "title_collation_key": "コトコトコーコ",
+            "contributor": "阿川　佐和子",
+            "contributor_collation_key": "アガワ　サワコ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041116234.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16801479/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784479308843",
+            "title": "言葉の園のお菓子番　孤独な月",
+            "title_collation_key": "コトバノソノノオカシバン　コドクナツキ",
+            "contributor": "ほしお　さなえ",
+            "contributor_collation_key": "ホシオ　サナエ",
+            "imprint": "大和書房",
+            "main_cover": "https://cover.openbd.jp/9784479308843.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16892269/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784087442571",
+            "title": "この恋は世界でいちばん美しい雨",
+            "title_collation_key": "コノコイハセカイデイチバンウツクシイアメ",
+            "contributor": "宇山 佳佑",
+            "contributor_collation_key": "ウヤマ ケイスケ",
+            "imprint": "集英社",
+            "main_cover": "https://cover.openbd.jp/9784087442571.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16750696/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784334792268",
+            "title": "この世界で君に逢いたい",
+            "title_collation_key": "コノセカイデキミニアイタイ",
+            "contributor": "藤岡陽子",
+            "contributor_collation_key": "フジオカ ヨウコ",
+            "imprint": "光文社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16833715/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784815575489",
+            "title": "湖畔の未亡人",
+            "title_collation_key": "コハンノミボウジン",
+            "contributor": "葉月奏太",
+            "contributor_collation_key": "ハヅキソウタ",
+            "imprint": "三交社",
+            "main_cover": "https://cover.openbd.jp/9784815575489.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16869850/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784569901695",
+            "title": "駒子さんは出世なんてしたくなかった",
+            "title_collation_key": "コマコサンハシュッセナンテシタクナカッタ",
+            "contributor": "碧野 圭",
+            "contributor_collation_key": "アオノ ケイ",
+            "imprint": "PHP研究所",
+            "main_cover": "https://cover.openbd.jp/9784569901695.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16849199/",
             "category": "小説・エッセイ"
         }
     ]

@@ -15,138 +15,6 @@
     ],
     "books": [
         {
-            "isbn": "9784488592042",
-            "title": "水晶宮の死神",
-            "title_collation_key": "スイショウキュウノシニガミ",
-            "contributor": "田中 芳樹",
-            "contributor_collation_key": "タナカヨシキ",
-            "imprint": "東京創元社",
-            "main_cover": "https://cover.openbd.jp/9784488592042.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16754396/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784334792725",
-            "title": "水神様の舟",
-            "title_collation_key": "スイジンサマノフネ",
-            "contributor": "芳納珪",
-            "contributor_collation_key": "ヨシノ ケイ",
-            "imprint": "光文社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16926808/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784488741112",
-            "title": "彗星狩り 下",
-            "title_collation_key": "スイセイガリ",
-            "contributor": "笹本 祐一",
-            "contributor_collation_key": "ササモトユウイチ",
-            "imprint": "東京創元社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16936147/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784488741105",
-            "title": "彗星狩り 上",
-            "title_collation_key": "スイセイガリ",
-            "contributor": "笹本 祐一",
-            "contributor_collation_key": "ササモトユウイチ",
-            "imprint": "東京創元社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16936146/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784408556741",
-            "title": "文庫　水族館ガール8",
-            "title_collation_key": "スイゾクカンガールハチ",
-            "contributor": "木宮 条太郎",
-            "contributor_collation_key": "モクミヤ ジョウタロウ",
-            "imprint": "実業之日本社",
-            "main_cover": "https://cover.openbd.jp/9784408556741.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16717945/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784041117743",
-            "title": "水曜日の手紙",
-            "title_collation_key": "スイヨウビノテガミ",
-            "contributor": "森沢　明夫",
-            "contributor_collation_key": "モリサワ　アキオ",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784041117743.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16892413/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784065237687",
-            "title": "スイート・マイホーム",
-            "title_collation_key": "スイート・マイホーム",
-            "contributor": "神津 凛子",
-            "contributor_collation_key": "カミヅ リンコ",
-            "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065237687.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16722627/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784065249864",
-            "title": "スカーフェイス4　デストラップ　警視庁特別捜査第三係・淵神律子",
-            "title_collation_key": "スカーフェイス4 デストラップ ケイシチョウトクベツソウサダイサンガカリ・フチガミリツコ",
-            "contributor": "富樫 倫太郎",
-            "contributor_collation_key": "トガシ リンタロウ",
-            "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065249864.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16825945/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784198946913",
-            "title": "スクエア",
-            "title_collation_key": "スクエア",
-            "contributor": "今野敏",
-            "contributor_collation_key": "コンノビン",
-            "imprint": "徳間書店",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16910011/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784198946609",
-            "title": "スクランブル　蒼穹の五輪",
-            "title_collation_key": "スクランブル　ソウキュウノゴリン",
-            "contributor": "夏見正隆",
-            "contributor_collation_key": "ナツミマサタカ",
-            "imprint": "徳間書店",
-            "main_cover": "https://cover.openbd.jp/9784198946609.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16762763/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784065245859",
-            "title": "すぐ死ぬんだから",
-            "title_collation_key": "スグシヌンダカラ",
-            "contributor": "内館 牧子",
-            "contributor_collation_key": "ウチダテ マキコ",
-            "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065245859.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16786218/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784041113301",
-            "title": "スケルトン・キー",
-            "title_collation_key": "スケルトン・キー",
-            "contributor": "道尾　秀介",
-            "contributor_collation_key": "ミチオ　シュウスケ",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784041113301.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16699312/",
-            "category": "小説・エッセイ"
-        },
-        {
             "isbn": "9784569901817",
             "title": "スタンドアップ！",
             "title_collation_key": "スタンドアップ",
@@ -155,6 +23,17 @@
             "imprint": "PHP研究所",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16907671/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784022650061",
+            "title": "ストレイドッグ",
+            "title_collation_key": "ストレイドッグ",
+            "contributor": "鈴峯紅也",
+            "contributor_collation_key": "スズミネコウヤ",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://cover.openbd.jp/9784022650061.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827412/",
             "category": "小説・エッセイ"
         },
         {
@@ -276,6 +155,17 @@
             "imprint": "KADOKAWA",
             "main_cover": "https://cover.openbd.jp/9784041115190.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16891424/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784041119891",
+            "title": "青山に在り",
+            "title_collation_key": "セイザンニアリ",
+            "contributor": "篠　綾子",
+            "contributor_collation_key": "シノ　アヤコ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041119891.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16915168/",
             "category": "小説・エッセイ"
         },
         {
@@ -477,17 +367,6 @@
             "category": "小説・エッセイ"
         },
         {
-            "isbn": "9784488777029",
-            "title": "戦争獣戦争 上",
-            "title_collation_key": "センソウジュウセンソウ",
-            "contributor": "山田 正紀",
-            "contributor_collation_key": "ヤマダマサキ",
-            "imprint": "東京創元社",
-            "main_cover": "https://cover.openbd.jp/9784488777029.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16902802/",
-            "category": "小説・エッセイ"
-        },
-        {
             "isbn": "9784488777036",
             "title": "戦争獣戦争 下",
             "title_collation_key": "センソウジュウセンソウ",
@@ -496,6 +375,17 @@
             "imprint": "東京創元社",
             "main_cover": "https://cover.openbd.jp/9784488777036.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16902803/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784488777029",
+            "title": "戦争獣戦争 上",
+            "title_collation_key": "センソウジュウセンソウ",
+            "contributor": "山田 正紀",
+            "contributor_collation_key": "ヤマダマサキ",
+            "imprint": "東京創元社",
+            "main_cover": "https://cover.openbd.jp/9784488777029.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16902802/",
             "category": "小説・エッセイ"
         },
         {
@@ -686,6 +576,17 @@
             "category": "小説・エッセイ"
         },
         {
+            "isbn": "9784299023421",
+            "title": "総務課の渋澤君のお弁当 ひとくち召し上がれ",
+            "title_collation_key": "ソウムカノシブサワクンノオベントウヒトクチメシアガレ",
+            "contributor": "森崎 緩/くにみつ",
+            "contributor_collation_key": "モリサキ ユルカ/クニミツ",
+            "imprint": "宝島社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16942633/",
+            "category": "小説・エッセイ"
+        },
+        {
             "isbn": "9784774763132",
             "title": "双翼の大機動艦隊【下】日米空母最終決戦へ！",
             "title_collation_key": "ソウヨクノダイキドウカンタイ ゲ ニチベイクウボサイシュウケッセンヘ",
@@ -738,6 +639,17 @@
             "imprint": "早川書房",
             "main_cover": "https://cover.openbd.jp/9784150314996.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16809615/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784041115305",
+            "title": "それでも空は青い",
+            "title_collation_key": "ソレデモソラハアオイ",
+            "contributor": "荻原　浩",
+            "contributor_collation_key": "オギワラ　ヒロシ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041115305.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16916518/",
             "category": "小説・エッセイ"
         },
         {
@@ -829,17 +741,6 @@
             "category": "小説・エッセイ"
         },
         {
-            "isbn": "9784041119730",
-            "title": "大正幽霊アパート鳳銘館の新米管理人2",
-            "title_collation_key": "タイショウユウレイアパートホウメイカンノシンマイカンリニン2",
-            "contributor": "竹村優希",
-            "contributor_collation_key": "タケムラユキ",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784041119730.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16911090/",
-            "category": "小説・エッセイ"
-        },
-        {
             "isbn": "9784813711704",
             "title": "大正ロマン政略婚姻譚",
             "title_collation_key": "タイショウロマンセイリャクコンインタン",
@@ -903,6 +804,17 @@
             "imprint": "集英社",
             "main_cover": "https://cover.openbd.jp/9784087443080.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16892617/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784065243749",
+            "title": "宝島（下）",
+            "title_collation_key": "タカラジマゲ",
+            "contributor": "真藤 順丈",
+            "contributor_collation_key": "シンドウ ジュンジョウ",
+            "imprint": "講談社",
+            "main_cover": "https://cover.openbd.jp/9784065243749.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16749686/",
             "category": "小説・エッセイ"
         },
         {
@@ -1016,6 +928,17 @@
             "category": "小説・エッセイ"
         },
         {
+            "isbn": "9784801928725",
+            "title": "立川談志まくらコレクション　これが最期の“まくら”と“ごたく”",
+            "title_collation_key": "タテカワダンシマクラコレクション　コレガサイゴノマクラトゴタク",
+            "contributor": "立川 談志",
+            "contributor_collation_key": "タテカワ ダンシ",
+            "imprint": "竹書房",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16837797/",
+            "category": "小説・エッセイ"
+        },
+        {
             "isbn": "9784198946630",
             "title": "たとえば風が",
             "title_collation_key": "タトエバカゼガ",
@@ -1024,6 +947,17 @@
             "imprint": "徳間書店",
             "main_cover": "https://cover.openbd.jp/9784198946630.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16801491/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784344431065",
+            "title": "田沼スポーツ包丁部！",
+            "title_collation_key": "タヌマスポーツホウチョウブ",
+            "contributor": "秋川滝美",
+            "contributor_collation_key": "アキカワタキミ",
+            "imprint": "幻冬舎",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16815403/",
             "category": "小説・エッセイ"
         },
         {
@@ -1368,17 +1302,6 @@
             "category": "小説・エッセイ"
         },
         {
-            "isbn": "9784344431294",
-            "title": "血の雫",
-            "title_collation_key": "チノシズク",
-            "contributor": "相場英雄",
-            "contributor_collation_key": "アイバヒデオ",
-            "imprint": "幻冬舎",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16890187/",
-            "category": "小説・エッセイ"
-        },
-        {
             "isbn": "9784801929401",
             "title": "千葉怪談（仮）",
             "title_collation_key": "チバカイダン",
@@ -1409,6 +1332,17 @@
             "imprint": "KADOKAWA",
             "main_cover": "https://cover.openbd.jp/9784044006211.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16796040/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784801928060",
+            "title": "「超」怖い話　鬼窟",
+            "title_collation_key": "チョウコワイハナシ　キクツ",
+            "contributor": "渡部 正和",
+            "contributor_collation_key": "ワタナベ マサカズ",
+            "imprint": "竹書房",
+            "main_cover": "https://cover.openbd.jp/9784801928060.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16763364/",
             "category": "小説・エッセイ"
         },
         {
@@ -1676,6 +1610,17 @@
             "category": "小説・エッセイ"
         },
         {
+            "isbn": "9784575524932",
+            "title": "ツンデレ巨乳妻",
+            "title_collation_key": "ツンデレキョニュウヅマ",
+            "contributor": "睦月影郎",
+            "contributor_collation_key": "ムツキカゲロウ",
+            "imprint": "双葉社",
+            "main_cover": "https://cover.openbd.jp/9784575524932.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16777342/",
+            "category": "小説・エッセイ"
+        },
+        {
             "isbn": "9784829669334",
             "title": "ティアラ文庫溺愛アンソロジー（6）ギャップ萌え！",
             "title_collation_key": "ティアラブンコデキアイアンソロジーロクギャップモエ",
@@ -1728,17 +1673,6 @@
             "imprint": "小学館",
             "main_cover": "https://cover.openbd.jp/9784094070354.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16752895/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784575670912",
-            "title": "照れ降れ長屋風聞帖＜十七＞　曰窓＜新装版＞",
-            "title_collation_key": "テレフレナガヤフウブンチョウ　イワクマド",
-            "contributor": "坂岡 真",
-            "contributor_collation_key": "サカオカ シン",
-            "imprint": "双葉社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16959547/",
             "category": "小説・エッセイ"
         },
         {
@@ -1827,17 +1761,6 @@
             "imprint": "早川書房",
             "main_cover": "https://cover.openbd.jp/9784150315085.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16919904/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784065252864",
-            "title": "天空の鏡　警視庁殺人分析班",
-            "title_collation_key": "テンクウノカガミ ケイシチョウサツジンブンセキハン",
-            "contributor": "麻見 和史",
-            "contributor_collation_key": "アサミ カズシ",
-            "imprint": "講談社",
-            "main_cover": "https://cover.openbd.jp/9784065252864.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16907656/",
             "category": "小説・エッセイ"
         },
         {
@@ -1948,6 +1871,83 @@
             "imprint": "角川春樹事務所",
             "main_cover": "https://cover.openbd.jp/9784758444262.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16778553/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784576212104",
+            "title": "天然流指南　二の丸騒動（仮）",
+            "title_collation_key": "テンネンリュウシナン　ニノマルソウドウ",
+            "contributor": "大久保 智弘",
+            "contributor_collation_key": "オオクボ トモヒロ",
+            "imprint": "二見書房",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16916659/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784022650115",
+            "title": "ディス・イズ・ザ・デイ",
+            "title_collation_key": "ディス・イズ・ザ・デイ",
+            "contributor": "津村記久子",
+            "contributor_collation_key": "ツムラキクコ",
+            "imprint": "朝日新聞出版",
+            "main_cover": "https://cover.openbd.jp/9784022650115.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16865435/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784198946814",
+            "title": "デイ・トリッパー",
+            "title_collation_key": "デイトリッパー",
+            "contributor": "梶尾真治",
+            "contributor_collation_key": "カジオシンジ",
+            "imprint": "徳間書店",
+            "main_cover": "https://cover.openbd.jp/9784198946814.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16874502/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784041113196",
+            "title": "でえれえ、やっちもねえ",
+            "title_collation_key": "デエレエヤッチモネエ",
+            "contributor": "岩井　志麻子",
+            "contributor_collation_key": "イワイ　シマコ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041113196.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16728033/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784334792015",
+            "title": "出絞と花かんざし",
+            "title_collation_key": "デシボトハナカンザシ",
+            "contributor": "佐伯泰英",
+            "contributor_collation_key": "サエキ ヤスヒデ",
+            "imprint": "光文社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16759774/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784041119877",
+            "title": "デジタルリセット",
+            "title_collation_key": "デジタルリセット",
+            "contributor": "秋津　朗",
+            "contributor_collation_key": "アキツ　ロウ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041119877.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16949247/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784087442625",
+            "title": "DEVIL'S DOOR",
+            "title_collation_key": "デビルズ ドア",
+            "contributor": "東山 彰良",
+            "contributor_collation_key": "ヒガシヤマ アキラ",
+            "imprint": "集英社",
+            "main_cover": "https://cover.openbd.jp/9784087442625.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16751840/",
             "category": "小説・エッセイ"
         }
     ]

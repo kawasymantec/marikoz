@@ -15,28 +15,6 @@
     ],
     "books": [
         {
-            "isbn": "9784434287329",
-            "title": "一七世紀の危機とフランス経済史",
-            "title_collation_key": "ジュウナナセイキノキキトフランスケイザイシ",
-            "contributor": "深草正博",
-            "contributor_collation_key": "フカクサマサヒロ",
-            "imprint": "現代図書",
-            "main_cover": "https://cover.openbd.jp/9784434287329.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16755737/",
-            "category": "経済・財政"
-        },
-        {
-            "isbn": "9784324110355",
-            "title": "住民税計算例解（令和3年度版）",
-            "title_collation_key": "ジュウミンゼイ ケイサン レイカイ",
-            "contributor": "市町村税務研究会",
-            "contributor_collation_key": "シチョウソン ゼイム ケンキュウカイ",
-            "imprint": "ぎょうせい",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16808949/",
-            "category": "経済・財政"
-        },
-        {
             "isbn": "9784797243574",
             "title": "重要土地等調査規制法",
             "title_collation_key": "ジュウヨウトチトウチョウサキセイホウ",
@@ -386,6 +364,17 @@
             "imprint": "朝日新聞出版",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16794416/",
+            "category": "経済・財政"
+        },
+        {
+            "isbn": "9784910316093",
+            "title": "税法の基本11訂版",
+            "title_collation_key": "ゼイホウ ノ キホン",
+            "contributor": "藤本清一/林幸一",
+            "contributor_collation_key": "フジモト,セイイチ/ハヤシ,コウイチ",
+            "imprint": "実務出版",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16841219/",
             "category": "経済・財政"
         },
         {
@@ -807,14 +796,14 @@
             "category": "経済・財政"
         },
         {
-            "isbn": "9784864582513",
-            "title": "東京国税局管内財産評価基準書（令和3年分　第四分冊）",
+            "isbn": "9784864582612",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第十四分冊）",
             "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
             "contributor": "東京国税局",
             "contributor_collation_key": "トウキョウ コクゼイキョク",
             "imprint": "全国官報販売協同組合",
             "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16856040/",
+            "item_url": "https://books.rakuten.co.jp/rb/16856049/",
             "category": "経済・財政"
         },
         {
@@ -829,17 +818,6 @@
             "category": "経済・財政"
         },
         {
-            "isbn": "9784864582483",
-            "title": "東京国税局管内財産評価基準書（令和3年分　第一分冊）",
-            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-            "contributor": "東京国税局",
-            "contributor_collation_key": "トウキョウ コクゼイキョク",
-            "imprint": "全国官報販売協同組合",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16856038/",
-            "category": "経済・財政"
-        },
-        {
             "isbn": "9784864582506",
             "title": "東京国税局管内財産評価基準書（令和3年分　第三分冊）",
             "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
@@ -848,61 +826,6 @@
             "imprint": "全国官報販売協同組合",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16856039/",
-            "category": "経済・財政"
-        },
-        {
-            "isbn": "9784864582490",
-            "title": "東京国税局管内財産評価基準書（令和3年分　第二分冊）",
-            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-            "contributor": "東京国税局",
-            "contributor_collation_key": "トウキョウ コクゼイキョク",
-            "imprint": "全国官報販売協同組合",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16855112/",
-            "category": "経済・財政"
-        },
-        {
-            "isbn": "9784864582575",
-            "title": "東京国税局管内財産評価基準書（令和3年分　第十分冊）",
-            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-            "contributor": "東京国税局",
-            "contributor_collation_key": "トウキョウ コクゼイキョク",
-            "imprint": "全国官報販売協同組合",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16856045/",
-            "category": "経済・財政"
-        },
-        {
-            "isbn": "9784864582551",
-            "title": "東京国税局管内財産評価基準書（令和3年分　第八分冊）",
-            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-            "contributor": "東京国税局",
-            "contributor_collation_key": "トウキョウ コクゼイキョク",
-            "imprint": "全国官報販売協同組合",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16856043/",
-            "category": "経済・財政"
-        },
-        {
-            "isbn": "9784864582582",
-            "title": "東京国税局管内財産評価基準書（令和3年分　第十一分冊）",
-            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-            "contributor": "東京国税局",
-            "contributor_collation_key": "トウキョウ コクゼイキョク",
-            "imprint": "全国官報販売協同組合",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16856046/",
-            "category": "経済・財政"
-        },
-        {
-            "isbn": "9784864582605",
-            "title": "東京国税局管内財産評価基準書（令和3年分　第十三分冊）",
-            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
-            "contributor": "東京国税局",
-            "contributor_collation_key": "トウキョウ コクゼイキョク",
-            "imprint": "全国官報販売協同組合",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16856048/",
             "category": "経済・財政"
         },
         {
@@ -917,6 +840,39 @@
             "category": "経済・財政"
         },
         {
+            "isbn": "9784864582605",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第十三分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16856048/",
+            "category": "経済・財政"
+        },
+        {
+            "isbn": "9784864582582",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第十一分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16856046/",
+            "category": "経済・財政"
+        },
+        {
+            "isbn": "9784864582599",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第十二分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16856047/",
+            "category": "経済・財政"
+        },
+        {
             "isbn": "9784864582520",
             "title": "東京国税局管内財産評価基準書（令和3年分　第五分冊）",
             "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
@@ -925,6 +881,50 @@
             "imprint": "全国官報販売協同組合",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16856041/",
+            "category": "経済・財政"
+        },
+        {
+            "isbn": "9784864582575",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第十分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16856045/",
+            "category": "経済・財政"
+        },
+        {
+            "isbn": "9784864582490",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第二分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16855112/",
+            "category": "経済・財政"
+        },
+        {
+            "isbn": "9784864582513",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第四分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16856040/",
+            "category": "経済・財政"
+        },
+        {
+            "isbn": "9784864582551",
+            "title": "東京国税局管内財産評価基準書（令和3年分　第八分冊）",
+            "title_collation_key": "トウキョウ コクゼイキョク カンナイ ザイサン ヒョウカ キジュンショ",
+            "contributor": "東京国税局",
+            "contributor_collation_key": "トウキョウ コクゼイキョク",
+            "imprint": "全国官報販売協同組合",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16856043/",
             "category": "経済・財政"
         },
         {
@@ -1313,6 +1313,17 @@
             "category": "経済・財政"
         },
         {
+            "isbn": "9784532358860",
+            "title": "バブルの経済理論",
+            "title_collation_key": "バブルノケイザイリロン",
+            "contributor": "櫻川 昌哉",
+            "contributor_collation_key": "サクラガワ マサヤ",
+            "imprint": "日経BP 日本経済新聞出版本部",
+            "main_cover": "https://cover.openbd.jp/9784532358860.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16675196/",
+            "category": "経済・財政"
+        },
+        {
             "isbn": "9784406066259",
             "title": "パンデミックと財政の大転換",
             "title_collation_key": "パンデミックトザイセイノダイテンカン",
@@ -1574,17 +1585,6 @@
             "imprint": "ARC国別情勢研究会",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16762402/",
-            "category": "経済・財政"
-        },
-        {
-            "isbn": "9784909585837",
-            "title": "ポーランド（2021／22年版）",
-            "title_collation_key": "ポーランド",
-            "contributor": "ARC国別情勢研究会",
-            "contributor_collation_key": "アーク クニベツ ジョウセイ ケンキュウカイ",
-            "imprint": "ARC国別情勢研究会",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16868908/",
             "category": "経済・財政"
         },
         {
