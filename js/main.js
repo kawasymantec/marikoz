@@ -2,9 +2,10 @@
   var joy_x = null;
   var joy_y = null;
   var g_selectedShelf = null;
+  let g_ShelfLoading = {};
   let g_ShelfDatas = {};
   let g_BookDatas = {};
-
+  var game_state = 0;
   function debugMessage(message){
     document.getElementById("debug-text").setAttribute("value",message);
   }
@@ -25,7 +26,7 @@
 
     var base = document.createElement("a-entity");
     base.setAttribute("id","bookdetailview");
-    base.setAttribute("position","0 0 -0.38");
+    base.setAttribute("position","0 1.5 -0.4");
 
     var backpanel = document.createElement("a-plane");
     backpanel.setAttribute("height",0.2);
@@ -92,7 +93,7 @@
     base.appendChild(btnCloseText);
     base.appendChild(btnBuy);
     base.appendChild(btnClose);
-    document.getElementById("camera").appendChild(base);
+    document.getElementById("rig").appendChild(base);
   }
 
   AFRAME.registerComponent("bookshelf", {
@@ -227,13 +228,14 @@
         //json 読み込み
         fetch('json/' + this.data.no + '.json')
         .then((response) => {
-            if (!response.ok) {
-                throw new Error();
+          if (!response.ok) {
+              throw new Error();
             }
             return response.json(); 
         })
         .then((blob) => {
           console.log("load json! :" + this.data.no);
+          g_ShelfLoading[this.data.no] = "loaded";
           if(!g_ShelfDatas[this.data.no]){
               g_ShelfDatas[this.data.no] = blob;
               blob.books.forEach((item)=>{
@@ -259,7 +261,8 @@
           }
         })
         .catch((reason) => {
-            // エラー
+          g_ShelfLoading[this.data.no] = "error";
+          // エラー
             console.log(reason);
         });
 
@@ -387,8 +390,17 @@
     });
   AFRAME.registerComponent("game_ctrl",{
     init: function () {
+      game_state = 0;
+      this.shelfnum = 66;
       this.el.addEventListener("game_start", (event) => {
         //出題
+        let keys = Object.keys(g_BookDatas);
+        let index = Math.floor(Math.random()*keys.length);
+        console.log("target index:" + index);
+        console.log("target isbn:" + keys[index]);
+        this.target_book = g_BookDatas[keys[index]];
+        showBookDetail(this.target_book);
+        game_state = 1;
 
       });
       
@@ -410,6 +422,25 @@
       
     },
     tick: function (){
+      switch(game_state){
+        case 0: //loading
+          if(Object.keys(g_BookDatas).length>0&&Object.keys(g_ShelfLoading).length==this.shelfnum){
+            console.log("loading finish!");
+            this.el.dispatchEvent(new CustomEvent("game_start"));
+          }
+        break;
+        case 1: //shutudai
+        break;
+        case 2: //ready
+        break;
+        case 3: //
+        break;
+
+        default:
+
+        break;
+      }
+      
 
 
     }
@@ -654,8 +685,13 @@
       });
       //Trigger Released
       this.el.addEventListener('triggerup',  (event) => {
-        if(this.selectedObj&&this.isTriggerd&&this.selectedObj.getAttribute('isbn')){
-          document.getElementById("rig").dispatchEvent(new CustomEvent("book_select",{detail:{isbn: this.selectedObj.getAttribute('isbn')}}));
+        if(this.selectedObj&&this.isTriggerd){
+          if(this.selectedObj.getAttribute('isbn')){
+            document.getElementById("rig").dispatchEvent(new CustomEvent("book_select",{detail:{isbn: this.selectedObj.getAttribute('isbn')}}));
+          }else{
+//            this.selectedObj.dispatchEvent(new Event("click"));
+          }
+
         }
         this.isTriggerd = false;
       });
