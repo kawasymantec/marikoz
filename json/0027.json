@@ -114,17 +114,6 @@
             "category": "料理"
         },
         {
-            "isbn": "9784058016732",
-            "title": "aruco　東京おやつさんぽ",
-            "title_collation_key": "アルコトウキョウオヤツサンポ",
-            "contributor": "地球の歩き方編集室",
-            "contributor_collation_key": "チキュウノアルキカタヘンシュウシツ",
-            "imprint": "地球の歩き方",
-            "main_cover": "https://cover.openbd.jp/9784058016732.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16819097/",
-            "category": "料理"
-        },
-        {
             "isbn": "9784838731855",
             "title": "あんた、食べてみな！　ぼる塾 田辺のスイーツ天国",
             "title_collation_key": "アンタタベテミナ　ボルジュク タナベノスイーツテンゴク",
@@ -648,7 +637,7 @@
             "contributor": "有賀　薫",
             "contributor_collation_key": "アリガ　カオル",
             "imprint": "大和書房",
-            "main_cover": "",
+            "main_cover": "https://cover.openbd.jp/9784479785460.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16958734/",
             "category": "料理"
         },
@@ -1225,6 +1214,17 @@
             "category": "料理"
         },
         {
+            "isbn": "9784594617905",
+            "title": "とろ〜り　やみつき！チーズのベストレシピ",
+            "title_collation_key": "トロリヤミツキチーズノベストレシピ",
+            "contributor": "",
+            "contributor_collation_key": "",
+            "imprint": "扶桑社",
+            "main_cover": "https://cover.openbd.jp/9784594617905.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16939075/",
+            "category": "料理"
+        },
+        {
             "isbn": "9784910215075",
             "title": "道具と料理",
             "title_collation_key": "ドウグトリョウリ",
@@ -1541,17 +1541,6 @@
             "imprint": "KADOKAWA",
             "main_cover": "https://cover.openbd.jp/9784046805263.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16843896/",
-            "category": "料理"
-        },
-        {
-            "isbn": "9784058016435",
-            "title": "ボウルで仕上げるおいしいレシピ",
-            "title_collation_key": "ボウルデシアゲルオイシイレシピ",
-            "contributor": "市瀬悦子",
-            "contributor_collation_key": "イチセエツコ",
-            "imprint": "学研プラス",
-            "main_cover": "https://cover.openbd.jp/9784058016435.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16819105/",
             "category": "料理"
         },
         {
@@ -1882,6 +1871,17 @@
             "imprint": "角川アスキー総合研究所",
             "main_cover": "https://cover.openbd.jp/9784048970914.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16882865/",
+            "category": "料理"
+        },
+        {
+            "isbn": "9784816370946",
+            "title": "理由がわかればもっとおいしい！ カクテルを楽しむ教科書",
+            "title_collation_key": "リユウガワカレバモットオイシイカクテルヲタノシムキョウカショ",
+            "contributor": "渡邉 一也",
+            "contributor_collation_key": "ワタナベカズヤ",
+            "imprint": "ナツメ社",
+            "main_cover": "https://cover.openbd.jp/9784816370946.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16842418/",
             "category": "料理"
         },
         {

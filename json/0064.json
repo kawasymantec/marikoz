@@ -15,28 +15,6 @@
     ],
     "books": [
         {
-            "isbn": "9784041120828",
-            "title": "そうして君に触れるまで　第2巻",
-            "title_collation_key": "ソウシテキミニフレルマデ　ダイ2カン",
-            "contributor": "ときたほのじ",
-            "contributor_collation_key": "トキタホノジ",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784041120828.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16925643/",
-            "category": "少女"
-        },
-        {
-            "isbn": "9784088676401",
-            "title": "総長さま、溺愛中につき。",
-            "title_collation_key": "ソウチョウサマ デキアイチュウニツキ",
-            "contributor": "朝香 のりこ/*あいら*",
-            "contributor_collation_key": "アサカ ノリコ/アイラ",
-            "imprint": "集英社",
-            "main_cover": "https://cover.openbd.jp/9784088676401.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16850333/",
-            "category": "少女"
-        },
-        {
             "isbn": "9784098713882",
             "title": "その先はプライベートです（4）",
             "title_collation_key": "ソノサキハプライベートデス",
@@ -136,17 +114,6 @@
             "category": "少女"
         },
         {
-            "isbn": "9784098714483",
-            "title": "チョコレート・ヴァンパイア（17）",
-            "title_collation_key": "チョコレートヴァンパイア",
-            "contributor": "くまがい 杏子",
-            "contributor_collation_key": "クマガイ キョウコ",
-            "imprint": "小学館",
-            "main_cover": "https://cover.openbd.jp/9784098714483.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16795232/",
-            "category": "少女"
-        },
-        {
             "isbn": "9784065246757",
             "title": "ちょろくてかわいい君が好き（1）",
             "title_collation_key": "チョロクテカワイイキミガスキ1",
@@ -210,17 +177,6 @@
             "imprint": "小学館",
             "main_cover": "https://cover.openbd.jp/9784098715398.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16871016/",
-            "category": "少女"
-        },
-        {
-            "isbn": "9784592228387",
-            "title": "ツーリング・エクスプレス 〜OR編〜",
-            "title_collation_key": "ツーリング エクスプレス オウゴンヘン",
-            "contributor": "河惣 益巳",
-            "contributor_collation_key": "カワソウ マスミ",
-            "imprint": "白泉社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16931634/",
             "category": "少女"
         },
         {
@@ -1016,6 +972,17 @@
             "category": "少女"
         },
         {
+            "isbn": "9784403623288",
+            "title": "ファサード（22）",
+            "title_collation_key": "ファサードニジュウニ",
+            "contributor": "篠原烏童",
+            "contributor_collation_key": "シノハラウドウ",
+            "imprint": "新書館",
+            "main_cover": "https://cover.openbd.jp/9784403623288.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16795341/",
+            "category": "少女"
+        },
+        {
             "isbn": "9784098714827",
             "title": "夫婦別生（3）",
             "title_collation_key": "フウフベッセイ",
@@ -1090,6 +1057,28 @@
             "imprint": "小学館",
             "main_cover": "https://cover.openbd.jp/9784098715411.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16905730/",
+            "category": "少女"
+        },
+        {
+            "isbn": "9784592223610",
+            "title": "フラレガール 11",
+            "title_collation_key": "フラレガール",
+            "contributor": "堤 翔",
+            "contributor_collation_key": "ツツミ カケル",
+            "imprint": "白泉社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16931659/",
+            "category": "少女"
+        },
+        {
+            "isbn": "9784592223610",
+            "title": "フラレガール 11",
+            "title_collation_key": "フラレガール",
+            "contributor": "堤 翔",
+            "contributor_collation_key": "ツツミ カケル",
+            "imprint": "白泉社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16931659/",
             "category": "少女"
         },
         {
@@ -1753,17 +1742,6 @@
             "category": "少女"
         },
         {
-            "isbn": "9784098714803",
-            "title": "主人恋日記（1）",
-            "title_collation_key": "主人恋日記（1）",
-            "contributor": "吉永ゆう",
-            "contributor_collation_key": "",
-            "imprint": "小学館",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16941674/",
-            "category": "少女"
-        },
-        {
             "isbn": "9784088445755",
             "title": "乙女椿は笑わない（7）",
             "title_collation_key": "乙女椿は笑わない（7）",
@@ -1783,6 +1761,17 @@
             "imprint": "小学館",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16941679/",
+            "category": "少女"
+        },
+        {
+            "isbn": "9784088446134",
+            "title": "僕の家においで　Wedding（10）",
+            "title_collation_key": "僕の家においで　Wedding（10）",
+            "contributor": "優木なち",
+            "contributor_collation_key": "",
+            "imprint": "集英社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16941631/",
             "category": "少女"
         },
         {
@@ -1816,17 +1805,6 @@
             "imprint": "小学館",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16905778/",
-            "category": "少女"
-        },
-        {
-            "isbn": "9784098715305",
-            "title": "好きになるまで傷つけて（2）",
-            "title_collation_key": "好きになるまで傷つけて（2）",
-            "contributor": "深海魚",
-            "contributor_collation_key": "",
-            "imprint": "小学館",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16941658/",
             "category": "少女"
         },
         {
@@ -1885,6 +1863,17 @@
             "category": "少女"
         },
         {
+            "isbn": "9784098715589",
+            "title": "溺愛ロワイヤル（4）",
+            "title_collation_key": "溺愛ロワイヤル（4）",
+            "contributor": "八神千歳",
+            "contributor_collation_key": "",
+            "imprint": "小学館",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16941683/",
+            "category": "少女"
+        },
+        {
             "isbn": "9784098715572",
             "title": "片想いミステイク！（5）",
             "title_collation_key": "片想いミステイク！（5）",
@@ -1893,6 +1882,17 @@
             "imprint": "小学館",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16941682/",
+            "category": "少女"
+        },
+        {
+            "isbn": "9784098715312",
+            "title": "独り身ですが何か？（5）",
+            "title_collation_key": "独り身ですが何か？（5）",
+            "contributor": "安タケコ",
+            "contributor_collation_key": "",
+            "imprint": "小学館",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16941659/",
             "category": "少女"
         },
         {

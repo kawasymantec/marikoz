@@ -15,39 +15,6 @@
     ],
     "books": [
         {
-            "isbn": "9784502392313",
-            "title": "CFOのためのサブスクリプション・ビジネスの実務",
-            "title_collation_key": "シーエフオーノタメノサブスクリプションビジネスノジツム",
-            "contributor": "吉村 壮司/畑中 孝介",
-            "contributor_collation_key": "ヨシムラ タケシ/ハタナカ タカユキ",
-            "imprint": "中央経済社",
-            "main_cover": "https://cover.openbd.jp/9784502392313.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16834672/",
-            "category": "産業"
-        },
-        {
-            "isbn": "9784330043210",
-            "title": "JRカレンダーグループ版（2022）",
-            "title_collation_key": "ジェイアール カレンダー グループバン",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "交通新聞社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16932980/",
-            "category": "産業"
-        },
-        {
-            "isbn": "9784330065212",
-            "title": "JR電車編成表2022冬",
-            "title_collation_key": "ジェイアールデンシャヘンセイヒョウニセンニジュウニフユ",
-            "contributor": "JRR",
-            "contributor_collation_key": "",
-            "imprint": "交通新聞社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16919923/",
-            "category": "産業"
-        },
-        {
             "isbn": "9784805920152",
             "title": "事故を起こさない！自転車通勤・業務の安全運転",
             "title_collation_key": "ジコ オ オコサナイ ジテンシャ ツウキン ギョウム ノ アンゼン ウンテン",
@@ -576,17 +543,6 @@
             "category": "産業"
         },
         {
-            "isbn": "9784885481345",
-            "title": "鉄道要覧（令和3年度）",
-            "title_collation_key": "テツドウ ヨウラン",
-            "contributor": "国土交通省鉄道局",
-            "contributor_collation_key": "コクド コウツウショウ テツドウキョク",
-            "imprint": "電気車研究会",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16914442/",
-            "category": "産業"
-        },
-        {
             "isbn": "9784774740379",
             "title": "鉄道クラブ Vol.11",
             "title_collation_key": "テツドウクラブボリュームジュウイチ",
@@ -961,6 +917,17 @@
             "category": "産業"
         },
         {
+            "isbn": "9784905104230",
+            "title": "日本の化粧品総覧（2022）",
+            "title_collation_key": "ニホン ノ ケショウヒン ソウラン",
+            "contributor": "週刊粧業出版局",
+            "contributor_collation_key": "シュウカン ショウギョウ シュッパンキョク",
+            "imprint": "週刊粧業",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16938378/",
+            "category": "産業"
+        },
+        {
             "isbn": "9784589041845",
             "title": "日本国際経済法学会年報第30号",
             "title_collation_key": "ニホンコクサイケイザイホウガッカイネンポウダイサンジュウゴウ",
@@ -969,6 +936,17 @@
             "imprint": "法律文化社",
             "main_cover": "https://cover.openbd.jp/9784589041845.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16915147/",
+            "category": "産業"
+        },
+        {
+            "isbn": "9784642046640",
+            "title": "日本古代の塩生産と流通",
+            "title_collation_key": "ニホンコダイノシオセイサントリュウツウ",
+            "contributor": "岸本　雅敏",
+            "contributor_collation_key": "キシモト　マサトシ",
+            "imprint": "吉川弘文館",
+            "main_cover": "https://cover.openbd.jp/9784642046640.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16827092/",
             "category": "産業"
         },
         {
@@ -1192,6 +1170,17 @@
             "category": "産業"
         },
         {
+            "isbn": "9784495540968",
+            "title": "はじめてのネット広告",
+            "title_collation_key": "ハジメテノネットコウコク",
+            "contributor": "船井総合研究所",
+            "contributor_collation_key": "フナイソウゴウケンキュウジョ",
+            "imprint": "同文舘出版（株）",
+            "main_cover": "https://cover.openbd.jp/9784495540968.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16821898/",
+            "category": "産業"
+        },
+        {
             "isbn": "9784866672953",
             "title": "働きやすい会社の仕組みのつくり方",
             "title_collation_key": "ハタラキヤスイカイシャノシクミノツクリカタ",
@@ -1233,6 +1222,17 @@
             "imprint": "創森社",
             "main_cover": "https://cover.openbd.jp/9784883403530.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16915165/",
+            "category": "産業"
+        },
+        {
+            "isbn": "9784890863303",
+            "title": "パッケージデザイン総覧38",
+            "title_collation_key": "パッケージデザインソウラン",
+            "contributor": "日報ビジネス",
+            "contributor_collation_key": "ニッポウビジネス",
+            "imprint": "クリエイト日報",
+            "main_cover": "https://cover.openbd.jp/9784890863303.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16909885/",
             "category": "産業"
         },
         {
@@ -1445,6 +1445,17 @@
             "category": "産業"
         },
         {
+            "isbn": "9784502400810",
+            "title": "フードサービス経営戦略論",
+            "title_collation_key": "フードサービスケイエイセンリャクロン",
+            "contributor": "阿部川 勝義",
+            "contributor_collation_key": "アベカワ カツヨシ",
+            "imprint": "中央経済社",
+            "main_cover": "https://cover.openbd.jp/9784502400810.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16902500/",
+            "category": "産業"
+        },
+        {
             "isbn": "9784883403516",
             "title": "ブドウの鉢植え栽培",
             "title_collation_key": "ブドウノハチウエサイバイ",
@@ -1563,17 +1574,6 @@
             "imprint": "フォレスト出版",
             "main_cover": "https://cover.openbd.jp/9784866801339.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16883914/",
-            "category": "産業"
-        },
-        {
-            "isbn": "9784254129137",
-            "title": "マーケティングデータ分析",
-            "title_collation_key": "マーケティングデータブンセキ",
-            "contributor": "中原 孝信",
-            "contributor_collation_key": "ナカハラ タカノブ",
-            "imprint": "朝倉書店",
-            "main_cover": "https://cover.openbd.jp/9784254129137.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16808698/",
             "category": "産業"
         },
         {

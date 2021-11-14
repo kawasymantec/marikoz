@@ -15,14 +15,80 @@
     ],
     "books": [
         {
-            "isbn": "9784537144390",
-            "title": "ブラック学校に勤めてしまった先生 （　4）",
-            "title_collation_key": "ブラックガッコウニツトメテシマッタセンセイ ヨン",
-            "contributor": "双龍",
-            "contributor_collation_key": "ソウリュウ",
-            "imprint": "日本文芸社",
-            "main_cover": "https://cover.openbd.jp/9784537144390.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16923901/",
+            "isbn": "9784098611935",
+            "title": "フットボールネーション（16）",
+            "title_collation_key": "フットボールネーション",
+            "contributor": "大武 ユキ",
+            "contributor_collation_key": "オオタケ ユキ",
+            "imprint": "小学館",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16905785/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784575856651",
+            "title": "踏切時間（8）",
+            "title_collation_key": "フミキリジカン",
+            "contributor": "里好",
+            "contributor_collation_key": "サトヨシミ",
+            "imprint": "双葉社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16919934/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784253239608",
+            "title": "フランケン・ふらん　Frantic 5",
+            "title_collation_key": "フランケンフランフランティック",
+            "contributor": "木々津克久",
+            "contributor_collation_key": "キギツカツヒサ",
+            "imprint": "秋田書店",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16909998/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784065263426",
+            "title": "降り積もれ孤独な死よ（1）",
+            "title_collation_key": "フリツモレコドクナシヨ1",
+            "contributor": "井龍 一/伊藤 翔太",
+            "contributor_collation_key": "イノリュウ ハジメ/イトウ ショウタ",
+            "imprint": "講談社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16925690/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784088921532",
+            "title": "不倫食堂 19",
+            "title_collation_key": "フリンショクドウ",
+            "contributor": "山口 譲司",
+            "contributor_collation_key": "ヤマグチ マサカズ",
+            "imprint": "集英社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16905709/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784098612390",
+            "title": "フールナイト（3）",
+            "title_collation_key": "フールナイト",
+            "contributor": "安田 佳澄",
+            "contributor_collation_key": "ヤスダ カスミ",
+            "imprint": "小学館",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16948539/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784757576438",
+            "title": "不器用な先輩。（4）",
+            "title_collation_key": "ブキヨウナセンパイ。",
+            "contributor": "工藤マコト",
+            "contributor_collation_key": "クドウマコト",
+            "imprint": "スクウェア・エニックス",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16923517/",
             "category": "青年"
         },
         {
@@ -89,17 +155,6 @@
             "imprint": "ぶんか社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16924712/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784088921341",
-            "title": "BUNGO-ブンゴー 29",
-            "title_collation_key": "ブンゴ",
-            "contributor": "二宮 裕次",
-            "contributor_collation_key": "ニノミヤ ユウジ",
-            "imprint": "集英社",
-            "main_cover": "https://cover.openbd.jp/9784088921341.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16905699/",
             "category": "青年"
         },
         {
@@ -320,28 +375,6 @@
             "imprint": "講談社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16953948/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784065260326",
-            "title": "ポーション頼みで生き延びます！（9）",
-            "title_collation_key": "ポーションダノミデイキノビマス!9",
-            "contributor": "九重 ヒビキ/FUNA",
-            "contributor_collation_key": "ココノエ ヒビキ/フナ",
-            "imprint": "講談社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16953948/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784537144314",
-            "title": "マイティマザーズ （　1）",
-            "title_collation_key": "マイティマザーズ イチ",
-            "contributor": "烏山 英司",
-            "contributor_collation_key": "カラスヤマ エイジ",
-            "imprint": "日本文芸社",
-            "main_cover": "https://cover.openbd.jp/9784537144314.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16885444/",
             "category": "青年"
         },
         {
@@ -928,17 +961,6 @@
             "category": "青年"
         },
         {
-            "isbn": "9784091516107",
-            "title": "土竜（モグラ）の唄（73）",
-            "title_collation_key": "モグラノウタ",
-            "contributor": "高橋 のぼる",
-            "contributor_collation_key": "タカハシ ノボル",
-            "imprint": "小学館",
-            "main_cover": "https://cover.openbd.jp/9784091516107.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16905746/",
-            "category": "青年"
-        },
-        {
             "isbn": "9784091516121",
             "title": "土竜（モグラ）の唄（74）",
             "title_collation_key": "モグラノウタ",
@@ -947,6 +969,17 @@
             "imprint": "小学館",
             "main_cover": "https://cover.openbd.jp/9784091516121.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16905747/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784091516107",
+            "title": "土竜（モグラ）の唄（73）",
+            "title_collation_key": "モグラノウタ",
+            "contributor": "高橋 のぼる",
+            "contributor_collation_key": "タカハシ ノボル",
+            "imprint": "小学館",
+            "main_cover": "https://cover.openbd.jp/9784091516107.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16905746/",
             "category": "青年"
         },
         {
@@ -1024,6 +1057,17 @@
             "imprint": "小学館",
             "main_cover": "https://cover.openbd.jp/9784098507672.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16858676/",
+            "category": "青年"
+        },
+        {
+            "isbn": "9784098612246",
+            "title": "柳生裸真剣（1）",
+            "title_collation_key": "ヤギュウラシンケン",
+            "contributor": "永井豪とダイナミックプロ",
+            "contributor_collation_key": "ナガイゴウトダイナミックプロ",
+            "imprint": "小学館",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16905795/",
             "category": "青年"
         },
         {
@@ -1467,17 +1511,6 @@
             "category": "青年"
         },
         {
-            "isbn": "9784785970444",
-            "title": "RED ZONE　2",
-            "title_collation_key": "レッドゾーン　ニ",
-            "contributor": "白石 純",
-            "contributor_collation_key": "シライシ ジュン",
-            "imprint": "少年画報社",
-            "main_cover": "https://cover.openbd.jp/9784785970444.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16882741/",
-            "category": "青年"
-        },
-        {
             "isbn": "9784537144437",
             "title": "レッドリスト〜警視庁組対三課PO〜 （　2）",
             "title_collation_key": "レッドリスト ケイシチョウソタイサンカピーオー ニ",
@@ -1489,17 +1522,6 @@
             "category": "青年"
         },
         {
-            "isbn": "9784065260180",
-            "title": "レベル1だけどユニークスキルで最強です（8）",
-            "title_collation_key": "レベルイチダケドユニークスキルデサイキョウデス8",
-            "contributor": "真綿/三木 なずな",
-            "contributor_collation_key": "マワタ/ミキ ナズナ",
-            "imprint": "講談社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16953977/",
-            "category": "青年"
-        },
-        {
             "isbn": "9784065258804",
             "title": "レモンエロウ（2）",
             "title_collation_key": "レモンエロウ2",
@@ -1511,14 +1533,14 @@
             "category": "青年"
         },
         {
-            "isbn": "9784065258804",
-            "title": "レモンエロウ（2）",
-            "title_collation_key": "レモンエロウ2",
-            "contributor": "古町",
-            "contributor_collation_key": "フルマチ",
+            "isbn": "9784065261088",
+            "title": "老後に備えて異世界で8万枚の金貨を貯めます（9）",
+            "title_collation_key": "ロウゴニソナエテイセカイデ8マンマイノキンカヲタメマス9",
+            "contributor": "モトエ 恵介/FUNA",
+            "contributor_collation_key": "モトエ ケイスケ/フナ",
             "imprint": "講談社",
             "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16926944/",
+            "item_url": "https://books.rakuten.co.jp/rb/16953982/",
             "category": "青年"
         },
         {
@@ -1618,17 +1640,6 @@
             "imprint": "ぶんか社",
             "main_cover": "https://cover.openbd.jp/9784821128679.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16886161/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784088921495",
-            "title": "私のHな履歴書みてください 7",
-            "title_collation_key": "ワタシノエッチナリレキショミテクダサイ",
-            "contributor": "春輝",
-            "contributor_collation_key": "ハルキ",
-            "imprint": "集英社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16905707/",
             "category": "青年"
         },
         {
@@ -1750,17 +1761,6 @@
             "imprint": "小学館",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16941646/",
-            "category": "青年"
-        },
-        {
-            "isbn": "9784098612055",
-            "title": "処方箋上のアリア（3）",
-            "title_collation_key": "処方箋上のアリア（3）",
-            "contributor": "三浦えりか",
-            "contributor_collation_key": "",
-            "imprint": "小学館",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16941654/",
             "category": "青年"
         },
         {

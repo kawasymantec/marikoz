@@ -15,17 +15,6 @@
     ],
     "books": [
         {
-            "isbn": "9784167917364",
-            "title": "耳袋秘帖 南町奉行と大凶寺",
-            "title_collation_key": "ミミブクロヒチョウ ミナミマチブギョウトダイキョウジ",
-            "contributor": "風野 真知雄",
-            "contributor_collation_key": "カゼノ マチオ",
-            "imprint": "文藝春秋",
-            "main_cover": "https://cover.openbd.jp/9784167917364.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16770163/",
-            "category": "小説・エッセイ"
-        },
-        {
             "isbn": "9784167917982",
             "title": "耳袋秘帖 南町奉行と深泥沼",
             "title_collation_key": "ミミブクロヒチョウ ミナミマチブギョウトミドロヌマ",
@@ -549,7 +538,7 @@
             "contributor": "都筑道夫",
             "contributor_collation_key": "ツヅキミチオ",
             "imprint": "徳間書店",
-            "main_cover": "",
+            "main_cover": "https://cover.openbd.jp/9784198946920.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16910013/",
             "category": "小説・エッセイ"
         },
@@ -947,6 +936,28 @@
             "imprint": "講談社",
             "main_cover": "https://cover.openbd.jp/9784065238110.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16729418/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784041118818",
+            "title": "要塞都市アルカのキセキ（1）",
+            "title_collation_key": "ヨウサイトシアルカノキセキ",
+            "contributor": "蒼月　海里",
+            "contributor_collation_key": "アオツキ　カイリ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041118818.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16948188/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784041118818",
+            "title": "要塞都市アルカのキセキ（1）",
+            "title_collation_key": "ヨウサイトシアルカノキセキ",
+            "contributor": "蒼月　海里",
+            "contributor_collation_key": "アオツキ　カイリ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041118818.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16948188/",
             "category": "小説・エッセイ"
         },
         {
@@ -1379,17 +1390,6 @@
             "category": "小説・エッセイ"
         },
         {
-            "isbn": "9784758444248",
-            "title": "流星シネマ",
-            "title_collation_key": "リュウセイシネマ",
-            "contributor": "吉田 篤弘",
-            "contributor_collation_key": "ヨシダ アツヒロ",
-            "imprint": "角川春樹事務所",
-            "main_cover": "https://cover.openbd.jp/9784758444248.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16746557/",
-            "category": "小説・エッセイ"
-        },
-        {
             "isbn": "9784041110560",
             "title": "竜とそばかすの姫",
             "title_collation_key": "リュウトソバカスノヒメ",
@@ -1420,17 +1420,6 @@
             "imprint": "アルファポリス",
             "main_cover": "https://cover.openbd.jp/9784434294211.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16900132/",
-            "category": "小説・エッセイ"
-        },
-        {
-            "isbn": "9784408556925",
-            "title": "文庫　臨界　潜入捜査 ＜新装版＞",
-            "title_collation_key": "リンカイセンニュウソウサシンソウバン",
-            "contributor": "今野　敏",
-            "contributor_collation_key": "コンノビン",
-            "imprint": "実業之日本社",
-            "main_cover": "https://cover.openbd.jp/9784408556925.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16820164/",
             "category": "小説・エッセイ"
         },
         {
@@ -1720,17 +1709,6 @@
             "category": "小説・エッセイ"
         },
         {
-            "isbn": "9784575670677",
-            "title": "若さま同心 徳川竜之助【五】　秘剣封印＜新装版＞",
-            "title_collation_key": "ワカサマドウシン　トクガワリュウノスケ　ヒケンフウイン",
-            "contributor": "風野真知雄",
-            "contributor_collation_key": "カゼノマチオ",
-            "imprint": "双葉社",
-            "main_cover": "https://cover.openbd.jp/9784575670677.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16777310/",
-            "category": "小説・エッセイ"
-        },
-        {
             "isbn": "9784575525137",
             "title": "若旦那のひざまくら",
             "title_collation_key": "ワカダンナノヒザマクラ",
@@ -1797,6 +1775,17 @@
             "category": "小説・エッセイ"
         },
         {
+            "isbn": "9784867162071",
+            "title": "わが家は幽世の貸本屋さん　-無二の親子と永遠の約束ー",
+            "title_collation_key": "ワガヤハカクリヨノカシホンヤサンムニノオヤコトエイエンノヤクソク",
+            "contributor": "忍丸/六七質",
+            "contributor_collation_key": "シノブマル/ムナシチ",
+            "imprint": "マイクロマガジン社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16897235/",
+            "category": "小説・エッセイ"
+        },
+        {
             "isbn": "9784041093061",
             "title": "わが家は祇園の拝み屋さん14 渓谷に散る紅葉と陰陽師の憂鬱",
             "title_collation_key": "ワガヤハマチノオガミヤサン14 ケイコクニチルモミジトオンミョウジノユウウツ",
@@ -1838,6 +1827,17 @@
             "imprint": "竹書房",
             "main_cover": "https://cover.openbd.jp/9784801928855.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16838027/",
+            "category": "小説・エッセイ"
+        },
+        {
+            "isbn": "9784309418308",
+            "title": "私という名の変奏曲",
+            "title_collation_key": "ワタシトイウナノヘンソウキョク",
+            "contributor": "連城 三紀彦",
+            "contributor_collation_key": "レンジョウ　ミキヒコ",
+            "imprint": "河出書房新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16772929/",
             "category": "小説・エッセイ"
         },
         {

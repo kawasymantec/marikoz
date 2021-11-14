@@ -15,6 +15,17 @@
     ],
     "books": [
         {
+            "isbn": "9784802132749",
+            "title": "発掘写真で訪ねる都電が走った東京アルバム　第4巻　15～18系統",
+            "title_collation_key": "ハックツシャシンデタズネルトデンガハシッタトウキョウアルバム　ダイヨンカン　ジュウゴカラジュウハチケイトウ",
+            "contributor": "三好好三",
+            "contributor_collation_key": "ミヨシ　ヨシゾウ",
+            "imprint": "フォト・パブリッシング",
+            "main_cover": "https://cover.openbd.jp/9784802132749.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16790033/",
+            "category": "旅行"
+        },
+        {
             "isbn": "9784860696627",
             "title": "晴れの国おかやま検定過去問題集2022版",
             "title_collation_key": "ハレノクニオカヤマケンテイ カコモンダイシュウ ニゼロニニバン",
@@ -148,8 +159,8 @@
         },
         {
             "isbn": "9784835643359",
-            "title": "冬ぴあ 首都圏版 [2021年]",
-            "title_collation_key": "フユピア シュトケン 2021",
+            "title": "冬ぴあ首都圏版",
+            "title_collation_key": "フユ ピア シュトケンバン",
             "contributor": "",
             "contributor_collation_key": "",
             "imprint": "ぴあ",
@@ -353,17 +364,6 @@
             "imprint": "昭文社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16943152/",
-            "category": "旅行"
-        },
-        {
-            "isbn": "9784398295118",
-            "title": "まっぷる 秋 紅葉の京都 2021",
-            "title_collation_key": "マップル アキ コウヨウノキョウト ニセンニジュウイチ",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "昭文社",
-            "main_cover": "https://cover.openbd.jp/9784398295118.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16800454/",
             "category": "旅行"
         },
         {
