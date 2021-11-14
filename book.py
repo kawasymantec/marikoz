@@ -1,10 +1,12 @@
-from typing import Match
+from typing import Container, Match
 import requests
 import time
 import json
 import os
 import math
 import random
+import cv2
+import hashlib
 from PIL import ImageFont, ImageDraw, Image
 
 OPENBD_URL        = "https://api.openbd.jp/v1/get"                                        # OpenBD接続URL
@@ -276,6 +278,7 @@ def draw_text(frame_image, font_size, target_string, draw_start_x, draw_start_y,
 def outputBackCoverImage(books, shelf_num, cover_num, base_img):
     global file_path_tmp
     count = 0
+    index = 0
 
     # ジャンル名フォルダが存在しなければ作成
     path = "back_cover_img/"
@@ -285,8 +288,33 @@ def outputBackCoverImage(books, shelf_num, cover_num, base_img):
     # 背表紙ファイル名、パスを生成
     file_path = path + "/" + shelf_num + "_" + cover_num + ".png"
 
-    # 元画像データを取得
-    image_data    = Image.open("img/base_" + base_img + ".png")
+    # 背表紙画像の元画像を作成
+    img = cv2.imread("img/base_no-color.png")
+
+    for book in books:
+        start_x = 6 + (115 * index)
+        start_y = 210
+        end_x   = 108 + (115 * index)
+        end_y   = 897
+
+        contributor = book["contributor"]
+
+        # カラーJSONを読み込み
+        color_json = json.load(open("json/color.json", "r"))
+
+        # 作者のハッシュ値（SHA256）を取得
+        contributor_hash = hashlib.sha256(contributor.encode()).hexdigest()
+
+        # ハッシュ値の１文字目を10進数に変換し、カラー情報を取得
+        num   = int(contributor_hash[0], 16)
+        color = color_json[num % 4]
+
+        cv2.rectangle(img, (start_x, start_y), (end_x, end_y), (color["b"], color["g"], color["r"]), -1)
+
+        index += 1
+
+    cv2.imwrite("img/base.png",img)
+    image_data = Image.open("img/base.png")
 
     for book in books:
 
@@ -358,6 +386,7 @@ def outputBackCoverImage(books, shelf_num, cover_num, base_img):
 def outputBackCoverLowImage(books, shelf_num, cover_num, base_img):
     global file_path_tmp
     count = 0
+    index = 0
 
     # ジャンル名フォルダが存在しなければ作成
     path = "back_cover_low_img/"
@@ -367,8 +396,33 @@ def outputBackCoverLowImage(books, shelf_num, cover_num, base_img):
     # 背表紙ファイル名、パスを生成
     file_path = path + "/" + shelf_num + "_" + cover_num + "_low.png"
 
-    # 元画像データを取得
-    image_data    = Image.open("img/base_" + base_img + ".png")
+    # 背表紙画像の元画像を作成
+    img = cv2.imread("img/base_no-color.png")
+
+    for book in books:
+        start_x = 6 + (115 * index)
+        start_y = 210
+        end_x   = 108 + (115 * index)
+        end_y   = 897
+
+        contributor = book["contributor"]
+
+        # カラーJSONを読み込み
+        color_json = json.load(open("json/color.json", "r"))
+
+        # 作者のハッシュ値（SHA256）を取得
+        contributor_hash = hashlib.sha256(contributor.encode()).hexdigest()
+
+        # ハッシュ値の１文字目を10進数に変換し、カラー情報を取得
+        num   = int(contributor_hash[0], 16)
+        color = color_json[num % 4]
+
+        cv2.rectangle(img, (start_x, start_y), (end_x, end_y), (color["b"], color["g"], color["r"]), -1)
+
+        index += 1
+
+    cv2.imwrite("img/base.png",img)
+    image_data = Image.open("img/base.png")
 
     for book in books:
 

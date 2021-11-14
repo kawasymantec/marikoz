@@ -15,6 +15,17 @@
     ],
     "books": [
         {
+            "isbn": "9784041117859",
+            "title": "ドクター・ホワイト 心の臨床（1）",
+            "title_collation_key": "ドクター・ホワイト ココロノリンショウ",
+            "contributor": "樹林伸",
+            "contributor_collation_key": "キバヤシシン",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041117859.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16948246/",
+            "category": "日本の小説"
+        },
+        {
             "isbn": "9784575525304",
             "title": "ドライブインまほろば",
             "title_collation_key": "ドライブインマホロバ",
@@ -111,6 +122,17 @@
             "imprint": "河出書房新社",
             "main_cover": "https://cover.openbd.jp/9784309030098.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16884020/",
+            "category": "日本の小説"
+        },
+        {
+            "isbn": "9784562059843",
+            "title": "2022本格ミステリ・ベスト10",
+            "title_collation_key": "ニセンニジュウニホンカクミステリベストテン",
+            "contributor": "探偵小説研究会",
+            "contributor_collation_key": "タンテイショウセツケンキュウカイ",
+            "imprint": "原書房",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16936218/",
             "category": "日本の小説"
         },
         {
@@ -873,28 +895,6 @@
             "category": "日本の小説"
         },
         {
-            "isbn": "9784087443196",
-            "title": "ポンチョに夜明けの風はらませて",
-            "title_collation_key": "ポンチョニヨアケノカゼハラマセテ",
-            "contributor": "早見 和真",
-            "contributor_collation_key": "ハヤミ カズマサ",
-            "imprint": "集英社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16928354/",
-            "category": "日本の小説"
-        },
-        {
-            "isbn": "9784087443196",
-            "title": "ポンチョに夜明けの風はらませて",
-            "title_collation_key": "ポンチョニヨアケノカゼハラマセテ",
-            "contributor": "早見 和真",
-            "contributor_collation_key": "ハヤミ カズマサ",
-            "imprint": "集英社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16928354/",
-            "category": "日本の小説"
-        },
-        {
             "isbn": "9784396210557",
             "title": "魔界都市ブルース　傀儡人の宴",
             "title_collation_key": "マカイトシブルース　カラクリビトノウタゲ",
@@ -969,17 +969,6 @@
             "imprint": "KADOKAWA",
             "main_cover": "https://cover.openbd.jp/9784041119013.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16953702/",
-            "category": "日本の小説"
-        },
-        {
-            "isbn": "9784087754605",
-            "title": "真夜中のマリオネット",
-            "title_collation_key": "マヨナカノマリオネット",
-            "contributor": "知念 実希人",
-            "contributor_collation_key": "チネン ミキト",
-            "imprint": "集英社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16925972/",
             "category": "日本の小説"
         },
         {
@@ -1126,14 +1115,14 @@
             "category": "日本の小説"
         },
         {
-            "isbn": "9784094071009",
-            "title": "蟲愛づる姫君 王子は暁に旅立つ",
-            "title_collation_key": "ムシメヅルヒメギミ オウジハアカツキニタビダツ",
-            "contributor": "宮野美嘉/碧 風羽",
-            "contributor_collation_key": "ミヤノミカ/ミドリ フウ",
-            "imprint": "小学館",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16941409/",
+            "isbn": "9784041114247",
+            "title": "向島・箱屋の新吉 新章（二）忍び寄る危機",
+            "title_collation_key": "ムコウジマ・ハコヤノシンキチ シンショウ　ニ　シノビヨルキキ",
+            "contributor": "小杉　健治",
+            "contributor_collation_key": "コスギ　ケンジ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041114247.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16948266/",
             "category": "日本の小説"
         },
         {
@@ -1145,6 +1134,17 @@
             "imprint": "双葉社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16960434/",
+            "category": "日本の小説"
+        },
+        {
+            "isbn": "9784569851082",
+            "title": "六つの村を越えて髭をなびかせる者",
+            "title_collation_key": "ムツノムラヲコエテヒゲヲナビカセルモノ",
+            "contributor": "西條 奈加",
+            "contributor_collation_key": "サイジョウ ナカ",
+            "imprint": "PHP研究所",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16941797/",
             "category": "日本の小説"
         },
         {
@@ -1233,6 +1233,17 @@
             "imprint": "小学館",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16941410/",
+            "category": "日本の小説"
+        },
+        {
+            "isbn": "9784815608354",
+            "title": "モンスターがあふれる世界になったので、好きに生きたいと思います4",
+            "title_collation_key": "モンスターガアフレルセカイニナッタノデスキニイキタイトオモイマスヨン",
+            "contributor": "よっしゃあっ！/こるせ",
+            "contributor_collation_key": "ヨッシャアッ/コルセ",
+            "imprint": "SBクリエイティブ",
+            "main_cover": "https://cover.openbd.jp/9784815608354.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16941343/",
             "category": "日本の小説"
         },
         {
@@ -1541,17 +1552,6 @@
             "imprint": "柏書房",
             "main_cover": "https://cover.openbd.jp/9784760153893.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16949210/",
-            "category": "日本の小説"
-        },
-        {
-            "isbn": "9784087443226",
-            "title": "義時 運命の輪",
-            "title_collation_key": "ヨシトキ ウンメイノワ",
-            "contributor": "奥山 景布子",
-            "contributor_collation_key": "オクヤマ キヨウコ",
-            "imprint": "集英社",
-            "main_cover": "https://cover.openbd.jp/9784087443226.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16928309/",
             "category": "日本の小説"
         },
         {

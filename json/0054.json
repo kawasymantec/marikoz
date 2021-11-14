@@ -15,6 +15,17 @@
     ],
     "books": [
         {
+            "isbn": "9784254510713",
+            "title": "国語教育総合事典（新装版）",
+            "title_collation_key": "コクゴキョウイクソウゴウジテン",
+            "contributor": "日本国語教育学会",
+            "contributor_collation_key": "ニホンコクゴキョウイクガッカイ",
+            "imprint": "朝倉書店",
+            "main_cover": "https://cover.openbd.jp/9784254510713.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16891598/",
+            "category": "語学学習"
+        },
+        {
             "isbn": "9784522439531",
             "title": "国語小辞典",
             "title_collation_key": "コクゴショウジテン",
@@ -397,17 +408,6 @@
             "imprint": "平凡社",
             "main_cover": "https://cover.openbd.jp/9784582769227.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16827057/",
-            "category": "語学学習"
-        },
-        {
-            "isbn": "9784342353628",
-            "title": "新版完全征服　頻出入試漢字コア2800　改訂版",
-            "title_collation_key": "シンパンカンゼンセイフク　ヒンシュツニュウシカンジコアニセンハッピャク　カイテイバン",
-            "contributor": "桐原書店編集部",
-            "contributor_collation_key": "キリハラショテンヘンシュウブ",
-            "imprint": "桐原書店",
-            "main_cover": "https://cover.openbd.jp/9784342353628.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16868214/",
             "category": "語学学習"
         },
         {

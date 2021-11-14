@@ -15,17 +15,6 @@
     ],
     "books": [
         {
-            "isbn": "9784569901831",
-            "title": "怪談物件マヨイガ（仮）",
-            "title_collation_key": "カイダンブッケンマヨイガ",
-            "contributor": "蒼月 海里",
-            "contributor_collation_key": "アオツキ カイリ",
-            "imprint": "PHP研究所",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16907669/",
-            "category": "人文・思想・社会"
-        },
-        {
             "isbn": "9784831826282",
             "title": "改訂 歴史のなかに見る親鸞",
             "title_collation_key": "カイテイレキノナカニミルシンラン",
@@ -114,6 +103,28 @@
             "category": "人文・思想・社会"
         },
         {
+            "isbn": "9784094070958",
+            "title": "風の向こうへ駆け抜けろ2 蒼のファンファーレ",
+            "title_collation_key": "カゼノムコウヘカケヌケロ2 アオノファンファーレ",
+            "contributor": "古内 一絵",
+            "contributor_collation_key": "フルウチ カズエ",
+            "imprint": "小学館",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16949230/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784829669457",
+            "title": "かつて助けた騎士様が領主になって求婚してきたのですが！？",
+            "title_collation_key": "カツテタスケタキシサマガリョウシュニナッテキュウコンシテキタノデスガ",
+            "contributor": "柚原 テイル/田中 琳",
+            "contributor_collation_key": "ユズハラ テイル/タナカ リン",
+            "imprint": "プランタン出版",
+            "main_cover": "https://cover.openbd.jp/9784829669457.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16924982/",
+            "category": "人文・思想・社会"
+        },
+        {
             "isbn": "9784575525311",
             "title": "彼方のアイドル",
             "title_collation_key": "カナタノアイドル",
@@ -122,6 +133,17 @@
             "imprint": "双葉社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16959645/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784094070934",
+            "title": "彼女が最後に見たものは",
+            "title_collation_key": "カノジョガサイゴニミタモノハ",
+            "contributor": "まさき としか",
+            "contributor_collation_key": "マサキ トシカ",
+            "imprint": "小学館",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16917760/",
             "category": "人文・思想・社会"
         },
         {
@@ -177,6 +199,17 @@
             "imprint": "文藝春秋",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16924567/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784334792718",
+            "title": "狩りの季節",
+            "title_collation_key": "カリノキセツ",
+            "contributor": "井上雅彦",
+            "contributor_collation_key": "イノウエ マサヒコ",
+            "imprint": "光文社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16926809/",
             "category": "人文・思想・社会"
         },
         {
@@ -353,6 +386,17 @@
             "imprint": "二見書房",
             "main_cover": "https://cover.openbd.jp/9784576211718.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16845556/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784094070972",
+            "title": "牙 アフリカゾウの「密猟組織」を追って",
+            "title_collation_key": "キバ アフリカゾウノミツリョウソシキヲオッテ",
+            "contributor": "三浦 英之",
+            "contributor_collation_key": "ミウラ ヒデユキ",
+            "imprint": "小学館",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16950872/",
             "category": "人文・思想・社会"
         },
         {
@@ -576,6 +620,17 @@
             "category": "人文・思想・社会"
         },
         {
+            "isbn": "9784801305649",
+            "title": "禁断の雑学",
+            "title_collation_key": "キンダンノザツガク",
+            "contributor": "黒い雑学研究会",
+            "contributor_collation_key": "クロイザツガクケンキュウカイ",
+            "imprint": "彩図社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16844417/",
+            "category": "人文・思想・社会"
+        },
+        {
             "isbn": "9784801930162",
             "title": "禁断の情事　（仮）",
             "title_collation_key": "キンダンノジョウジ",
@@ -584,17 +639,6 @@
             "imprint": "竹書房",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16951112/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784022650238",
-            "title": "キンモクセイ",
-            "title_collation_key": "キンモクセイ",
-            "contributor": "今野　敏",
-            "contributor_collation_key": "コンノ ビン",
-            "imprint": "朝日新聞出版",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16949252/",
             "category": "人文・思想・社会"
         },
         {
@@ -725,7 +769,7 @@
             "contributor": "あさのあつこ",
             "contributor_collation_key": "アサノアツコ",
             "imprint": "徳間書店",
-            "main_cover": "",
+            "main_cover": "https://cover.openbd.jp/9784198946869.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16910005/",
             "category": "人文・思想・社会"
         },
@@ -758,7 +802,7 @@
             "contributor": "黒崎視音",
             "contributor_collation_key": "クロサキミオ",
             "imprint": "徳間書店",
-            "main_cover": "",
+            "main_cover": "https://cover.openbd.jp/9784198946890.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16910007/",
             "category": "人文・思想・社会"
         },
@@ -793,17 +837,6 @@
             "imprint": "筑摩書房",
             "main_cover": "https://cover.openbd.jp/9784480510853.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16902821/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784094070996",
-            "title": "夏至のウルフ",
-            "title_collation_key": "ゲシノウルフ",
-            "contributor": "柏木 伸介",
-            "contributor_collation_key": "カシワギ シンスケ",
-            "imprint": "小学館",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16940121/",
             "category": "人文・思想・社会"
         },
         {
@@ -983,6 +1016,17 @@
             "category": "人文・思想・社会"
         },
         {
+            "isbn": "9784309418575",
+            "title": "黒衣の聖母",
+            "title_collation_key": "コクイノセイボ",
+            "contributor": "山田 風太郎/日下 三蔵",
+            "contributor_collation_key": "ヤマダ　フウタロウ/クサカ　サンゾウ",
+            "imprint": "河出書房新社",
+            "main_cover": "https://cover.openbd.jp/9784309418575.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16926742/",
+            "category": "人文・思想・社会"
+        },
+        {
             "isbn": "9784837969822",
             "title": "こころのナゾとき！　心理テスト",
             "title_collation_key": "ココロノナゾトキシンリテスト",
@@ -1126,6 +1170,17 @@
             "category": "人文・思想・社会"
         },
         {
+            "isbn": "9784309485775",
+            "title": "こんなにエロい　古事記の神々",
+            "title_collation_key": "コンナニエロイ　コジキノカミガミ",
+            "contributor": "林 義人",
+            "contributor_collation_key": "ハヤシ　ヨシヒト",
+            "imprint": "河出書房新社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16884047/",
+            "category": "人文・思想・社会"
+        },
+        {
             "isbn": "9784434296093",
             "title": "婚約破棄されまして（笑）（2）",
             "title_collation_key": "コンヤクハキサレマシテ",
@@ -1134,6 +1189,17 @@
             "imprint": "アルファポリス",
             "main_cover": "https://cover.openbd.jp/9784434296093.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16949221/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784910215082",
+            "title": "コーヒーと小説 新装版",
+            "title_collation_key": "コーヒートショウセツシンソウバン",
+            "contributor": "庄野 雄治",
+            "contributor_collation_key": "ショウノ ユウジ",
+            "imprint": "mille books",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16890850/",
             "category": "人文・思想・社会"
         },
         {
@@ -1200,6 +1266,28 @@
             "imprint": "竹書房",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16874613/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784334792770",
+            "title": "五番勝負",
+            "title_collation_key": "ゴバンジョウブ",
+            "contributor": "岡本さとる",
+            "contributor_collation_key": "オカモト サトル",
+            "imprint": "光文社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16926815/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784334792770",
+            "title": "五番勝負",
+            "title_collation_key": "ゴバンジョウブ",
+            "contributor": "岡本さとる",
+            "contributor_collation_key": "オカモト サトル",
+            "imprint": "光文社",
+            "main_cover": "",
+            "item_url": "https://books.rakuten.co.jp/rb/16926815/",
             "category": "人文・思想・社会"
         },
         {
@@ -1330,7 +1418,7 @@
             "contributor": "我孫子武丸",
             "contributor_collation_key": "アビコタケマル",
             "imprint": "徳間書店",
-            "main_cover": "",
+            "main_cover": "https://cover.openbd.jp/9784198946876.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16910006/",
             "category": "人文・思想・社会"
         },
@@ -1343,17 +1431,6 @@
             "imprint": "光文社",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16926831/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784044006631",
-            "title": "三十六歌仙 ビギナーズ・クラシックス　日本の古典",
-            "title_collation_key": "サンジュウロッカセン ビギナーズ・クラシックス　ニホンノコテン",
-            "contributor": "吉海　直人",
-            "contributor_collation_key": "ヨシカイ　ナオト",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784044006631.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16906254/",
             "category": "人文・思想・社会"
         },
         {
@@ -1484,7 +1561,7 @@
             "contributor": "小泉喜美子",
             "contributor_collation_key": "コイズミキミコ",
             "imprint": "徳間書店",
-            "main_cover": "",
+            "main_cover": "https://cover.openbd.jp/9784198946906.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16910010/",
             "category": "人文・思想・社会"
         },
@@ -1522,17 +1599,6 @@
             "category": "人文・思想・社会"
         },
         {
-            "isbn": "9784620210384",
-            "title": "島のエアライン（上）",
-            "title_collation_key": "シマノエアライン",
-            "contributor": "黒木 亮",
-            "contributor_collation_key": "クロキリョウ",
-            "imprint": "毎日新聞出版",
-            "main_cover": "https://cover.openbd.jp/9784620210384.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16855784/",
-            "category": "人文・思想・社会"
-        },
-        {
             "isbn": "9784620210391",
             "title": "島のエアライン（下）",
             "title_collation_key": "シマノエアライン",
@@ -1541,6 +1607,17 @@
             "imprint": "毎日新聞出版",
             "main_cover": "https://cover.openbd.jp/9784620210391.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16855783/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784620210384",
+            "title": "島のエアライン（上）",
+            "title_collation_key": "シマノエアライン",
+            "contributor": "黒木 亮",
+            "contributor_collation_key": "クロキリョウ",
+            "imprint": "毎日新聞出版",
+            "main_cover": "https://cover.openbd.jp/9784620210384.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16855784/",
             "category": "人文・思想・社会"
         },
         {
@@ -1574,17 +1651,6 @@
             "imprint": "東京創元社",
             "main_cover": "https://cover.openbd.jp/9784488475055.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16902902/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784003002896",
-            "title": "拾遺和歌集",
-            "title_collation_key": "シュウイワカシュウ",
-            "contributor": "小町谷 照彦/倉田 実",
-            "contributor_collation_key": "コマチヤ テルヒコ/クラタ ミノル",
-            "imprint": "岩波書店",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16957123/",
             "category": "人文・思想・社会"
         },
         {
@@ -1640,6 +1706,17 @@
             "imprint": "竹書房",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16917994/",
+            "category": "人文・思想・社会"
+        },
+        {
+            "isbn": "9784041119938",
+            "title": "逡巡の二十秒と悔恨の二十年",
+            "title_collation_key": "シュンジュンノニジュウビョウトカイコンノニジュウネン",
+            "contributor": "小林　泰三",
+            "contributor_collation_key": "コバヤシ　ヤスミ",
+            "imprint": "KADOKAWA",
+            "main_cover": "https://cover.openbd.jp/9784041119938.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16886330/",
             "category": "人文・思想・社会"
         },
         {
@@ -1871,83 +1948,6 @@
             "imprint": "朝日新聞出版",
             "main_cover": "",
             "item_url": "https://books.rakuten.co.jp/rb/16949265/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784168130960",
-            "title": "新版　頼朝の時代 1180年代内乱史",
-            "title_collation_key": "シンバン ヨリトモノジダイ センヒャクハチジュウネンダイナイランシ",
-            "contributor": "河内 祥輔",
-            "contributor_collation_key": "コウチ ショウスケ",
-            "imprint": "文藝春秋",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16924597/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784344431287",
-            "title": "［新版］日本国紀＜下＞",
-            "title_collation_key": "シンバンニホンコクキゲ",
-            "contributor": "百田 尚樹",
-            "contributor_collation_key": "ヒャクタ ナオキ",
-            "imprint": "幻冬舎",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16928556/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784344431270",
-            "title": "［新版］日本国紀＜上＞",
-            "title_collation_key": "シンバンニホンコクキジョウ",
-            "contributor": "百田 尚樹",
-            "contributor_collation_key": "ヒャクタ ナオキ",
-            "imprint": "幻冬舎",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16928555/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784815535339",
-            "title": "深夜営業くじら亭　午前0時のナポリタン",
-            "title_collation_key": "シンヤエイギョウクジラテイ　ゴゼンレイジノナポリタン",
-            "contributor": "綺月陣/鬼嶋兵伍",
-            "contributor_collation_key": "キヅキジン/キジマヒョウゴ",
-            "imprint": "三交社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16956484/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784575670882",
-            "title": "新・浪人若さま 新見左近【九】タイトル未定",
-            "title_collation_key": "シンロウニンワカサマ ニイミサコン",
-            "contributor": "佐々木裕一",
-            "contributor_collation_key": "ササキユウイチ",
-            "imprint": "双葉社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16959540/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784575670837",
-            "title": "新・浪人若さま 新見左近【八】鬼のお犬様",
-            "title_collation_key": "シンロウニンワカサマ ニイミサコン　オニノオイヌサマ",
-            "contributor": "佐々木裕一",
-            "contributor_collation_key": "ササキユウイチ",
-            "imprint": "双葉社",
-            "main_cover": "https://cover.openbd.jp/9784575670837.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16886176/",
-            "category": "人文・思想・社会"
-        },
-        {
-            "isbn": "9784041113387",
-            "title": "新・入り婿侍商い帖 古米三千俵（二）",
-            "title_collation_key": "シン・イリムコザムライアキナイチョウ コマイサンゼンビョウ（ニ）",
-            "contributor": "千野　隆司",
-            "contributor_collation_key": "チノ　タカシ",
-            "imprint": "KADOKAWA",
-            "main_cover": "https://cover.openbd.jp/9784041113387.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16892434/",
             "category": "人文・思想・社会"
         }
     ]

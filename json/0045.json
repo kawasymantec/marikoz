@@ -15,17 +15,6 @@
     ],
     "books": [
         {
-            "isbn": "9784433723118",
-            "title": "これ1冊で大丈夫！　民法改正と新しい相続対策がゼロからわかる本",
-            "title_collation_key": "",
-            "contributor": "",
-            "contributor_collation_key": "",
-            "imprint": "清文社",
-            "main_cover": "",
-            "item_url": "https://books.rakuten.co.jp/rb/16822247/",
-            "category": "法律"
-        },
-        {
             "isbn": "9784847148101",
             "title": "2022年度版　合格革命　行政書士　スタートダッシュ",
             "title_collation_key": "2022ネンドバン ゴウカクカクメイ ギョウセイショシ スタートダッシュ",
@@ -334,6 +323,17 @@
             "category": "法律"
         },
         {
+            "isbn": "9784797274677",
+            "title": "改正強制執行法要義",
+            "title_collation_key": "カイセイキョウセイシッコウホウヨウギ",
+            "contributor": "早川 彌三郎",
+            "contributor_collation_key": "ハヤカワ ヤサブロウ",
+            "imprint": "信山社出版",
+            "main_cover": "https://cover.openbd.jp/9784797274677.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16925635/",
+            "category": "法律"
+        },
+        {
             "isbn": "9784797274646",
             "title": "改正民事訴訟法要義 全〔第一分冊〕",
             "title_collation_key": "カイセイミンジソショウホウヨウギ ゼン ダイイチブンサツ",
@@ -573,6 +573,17 @@
             "imprint": "日本評論社",
             "main_cover": "https://cover.openbd.jp/9784535526037.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16827185/",
+            "category": "法律"
+        },
+        {
+            "isbn": "9784622090373",
+            "title": "刑務所の精神科医",
+            "title_collation_key": "ケイムショノセイシンカイ",
+            "contributor": "野村俊明",
+            "contributor_collation_key": "ノムラトシアキ",
+            "imprint": "みすず書房",
+            "main_cover": "https://cover.openbd.jp/9784622090373.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16828134/",
             "category": "法律"
         },
         {
@@ -1291,17 +1302,6 @@
             "category": "法律"
         },
         {
-            "isbn": "9784426127374",
-            "title": "図解による民法のしくみ(第10版)",
-            "title_collation_key": "ズカイニヨルミンポウノシクミ ダイジュウハン",
-            "contributor": "神田 将",
-            "contributor_collation_key": "カンダ ススム",
-            "imprint": "自由国民社",
-            "main_cover": "https://cover.openbd.jp/9784426127374.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16869254/",
-            "category": "法律"
-        },
-        {
             "isbn": "9784798062662",
             "title": "図解ポケット 最新債権の法律がよくわかる本",
             "title_collation_key": "ズカイポケットサイシンサイケンノホウリツガヨクワカルホン",
@@ -1555,6 +1555,17 @@
             "category": "法律"
         },
         {
+            "isbn": "9784750352718",
+            "title": "犯罪被害者支援の歴史社会学",
+            "title_collation_key": "ハンザイヒガイシャシエンノレキシシャカイガク",
+            "contributor": "岡村　逸郎",
+            "contributor_collation_key": "オカムラ イツロウ",
+            "imprint": "明石書店",
+            "main_cover": "https://cover.openbd.jp/9784750352718.jpg",
+            "item_url": "https://books.rakuten.co.jp/rb/16901353/",
+            "category": "法律"
+        },
+        {
             "isbn": "9784803724967",
             "title": "判例講座刑事訴訟法　捜査・証拠篇第2版",
             "title_collation_key": "ハンレイ コウザ ケイジ ソショウホウ ソウサ ショウコヘン",
@@ -1596,17 +1607,6 @@
             "imprint": "朝倉書店",
             "main_cover": "https://cover.openbd.jp/9784254180619.jpg",
             "item_url": "https://books.rakuten.co.jp/rb/16837992/",
-            "category": "法律"
-        },
-        {
-            "isbn": "9784797274684",
-            "title": "非訟事件手續法",
-            "title_collation_key": "ヒショウジケンテツヅキホウ",
-            "contributor": "横田 五郎/三宅 徳業",
-            "contributor_collation_key": "ヨコタ ゴロウ/ミヤケ トクナリ",
-            "imprint": "信山社出版",
-            "main_cover": "https://cover.openbd.jp/9784797274684.jpg",
-            "item_url": "https://books.rakuten.co.jp/rb/16925636/",
             "category": "法律"
         },
         {
