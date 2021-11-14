@@ -689,7 +689,7 @@
           if(this.selectedObj.getAttribute('isbn')){
             document.getElementById("rig").dispatchEvent(new CustomEvent("book_select",{detail:{isbn: this.selectedObj.getAttribute('isbn')}}));
           }else{
-            this.selectedObj.dispatchEvent(new Event("click"));
+//            this.selectedObj.dispatchEvent(new Event("click"));
           }
 
         }

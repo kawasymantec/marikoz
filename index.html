@@ -224,7 +224,7 @@
       game_ctrl
       >
         <a-text id="hogetext" position="0 0 0" value="front" rotation="-90 0 0" align="center"></a-text>
-        <a-entity id="ctlL" raycaster="objects: .collidable; far:0.8;" laser-controls="hand: left" input-listener="hand: left" touch-checker></a-entity>
+        <a-entity id="ctlL" raycaster="objects: .collidable; far:0.8; near: 0;" laser-controls="hand: left" input-listener="hand: left" touch-checker></a-entity>
         <a-entity id="camera" camera position="0 1.6 0" look-controls="pointerLockEnabled: false" >
           <a-entity raycaster="objects: .collidable;far:2;" cursor="rayOrigin:mouse; maxDistance: 30; " mouse-listener=""></a-entity>
           <a-text id="debug-text" position="0 -0.05 -0.5" scale= "0.2 0.2 0.2" value="ここは不思議な本屋" align="center" font="font/mplus-msdf.json" font-image="font/mplus-msdf.png" negate="false"></a-text>
