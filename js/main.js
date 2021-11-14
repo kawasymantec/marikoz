@@ -11,6 +11,9 @@
   function debugMessage(message){
     document.getElementById("debug-text").setAttribute("value",message);
   }
+  function showMessage(message){
+    document.getElementById("debug-text").setAttribute("value",message);
+  }
 
   function zoomUp(){
     console.log("zoomUp");
@@ -29,7 +32,7 @@
 
     var base = document.createElement("a-entity");
     base.setAttribute("id","bookdetailview");
-    base.setAttribute("position","0 0 0.05");
+    base.setAttribute("position","0 0 0.2");
 //    base.setAttribute("rotation",rotation);
 
     var backpanel = document.createElement("a-plane");
@@ -101,6 +104,70 @@
       g_selectObject.appendChild(base);
     }
 //    document.getElementById("bookstore").appendChild(base);
+  }
+
+  function showTargetBookDetail(bookdetail){
+
+    var base = document.createElement("a-entity");
+    base.setAttribute("id","bookdetailview");
+    base.setAttribute("position","0 0 0.05");
+    base.setAttribute("scale", "2 2");
+
+    var backpanel = document.createElement("a-plane");
+    backpanel.setAttribute("height",0.2);
+    backpanel.setAttribute("width", 0.5);
+    base.appendChild(backpanel);
+    var bookimage = document.createElement("a-image");
+    bookimage.setAttribute("height",0.12);
+    bookimage.setAttribute("width", 0.08);
+    if(bookdetail.main_cover.length>0){
+      bookimage.setAttribute("src", bookdetail.main_cover);
+    }
+    bookimage.setAttribute("position","-0.19 0 0.002");
+    base.appendChild(bookimage);
+
+    var titletext = document.createElement("a-text");
+    titletext.setAttribute("font", "font/mplus-msdf.json");
+    titletext.setAttribute("font-image", "font/mplus-msdf.png");
+    titletext.setAttribute("negate", "false");
+    titletext.setAttribute("align", "left");
+    titletext.setAttribute("color", "black");
+    titletext.setAttribute("scale", "0.08 0.08");
+    titletext.setAttribute("value",bookdetail.title.replaceAll(' ','　'));
+    titletext.setAttribute("position","-0.14 0.06 0.002");
+    var authortext = titletext.cloneNode();
+    authortext.setAttribute("scale", "0.08 0.08");
+    authortext.setAttribute("value",bookdetail.contributor.replaceAll(' ','　'));
+    authortext.setAttribute("position","-0.14 0.03 0.002");
+    var imprinttext = titletext.cloneNode();
+    imprinttext.setAttribute("scale", "0.08 0.08");
+    imprinttext.setAttribute("value",bookdetail.imprint.replaceAll(' ','　'));
+    imprinttext.setAttribute("position","-0.14 0 0.002");
+    var btnBuyText = titletext.cloneNode();
+    btnBuyText.setAttribute("scale", "0.08 0.08");
+    btnBuyText.setAttribute("value","購入");
+    btnBuyText.setAttribute("position","0 -0.04 0.002");
+    btnBuyText.setAttribute("align", "center");
+    var btnDescText = btnBuyText.cloneNode();
+    btnDescText.setAttribute("scale", "0.08 0.08");
+    btnDescText.setAttribute("value","お題：この本を探して");
+    btnDescText.setAttribute("align", "left");
+    btnDescText.setAttribute("position","-0.24 0.08 0.002");
+    var btnBuy = document.createElement("a-plane");
+    btnBuy.setAttribute("height",0.02);
+    btnBuy.setAttribute("width", 0.05);
+    btnBuy.setAttribute("position","0 -0.04 0.003");
+    btnBuy.classList.add("collidable");
+    btnBuy.addEventListener('click',(event)=>{
+      window.open(bookdetail.item_url);
+    });
+    base.appendChild(btnDescText);
+    base.appendChild(titletext);
+    base.appendChild(authortext);
+    base.appendChild(imprinttext);
+    base.appendChild(btnBuyText);
+    base.appendChild(btnBuy);
+    document.getElementById("searchTarget").appendChild(base);
   }
 
   AFRAME.registerComponent("bookshelf", {
@@ -372,6 +439,8 @@
         console.log("target index:" + index);
         console.log("target isbn:" + keys[index]);
         this.target_book = g_BookDatas[keys[index]];
+        showTargetBookDetail(this.target_book);
+        showMessage("さあ、本を探しましょう！");
 //        showBookDetail(this.target_book,"0 0 0","0 0 0");
         game_state = 1;
 
@@ -380,6 +449,11 @@
       this.el.addEventListener("book_select", (event) => {
         //本情報の表示
         console.log(g_BookDatas[event.detail.isbn]);
+        if(target_book.isbn==event.detail.isbn){
+          console.log("Target Find!");
+          showMessage("素晴らしい！！");
+          setTimeout();
+        }
         showBookDetail(g_BookDatas[event.detail.isbn],event.detail.pos,event.detail.rotation);
       });
 
@@ -390,6 +464,7 @@
       
       this.el.addEventListener("escape", (event) => {
         //トイレ
+        showMessage("素晴らしい！！");
         
       });
       
