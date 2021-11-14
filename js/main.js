@@ -26,7 +26,7 @@
 
     var base = document.createElement("a-entity");
     base.setAttribute("id","bookdetailview");
-    base.setAttribute("position","0 0 -0.38");
+    base.setAttribute("position","0 1.5 -0.4");
 
     var backpanel = document.createElement("a-plane");
     backpanel.setAttribute("height",0.2);
@@ -93,7 +93,7 @@
     base.appendChild(btnCloseText);
     base.appendChild(btnBuy);
     base.appendChild(btnClose);
-    document.getElementById("camera").appendChild(base);
+    document.getElementById("rig").appendChild(base);
   }
 
   AFRAME.registerComponent("bookshelf", {
