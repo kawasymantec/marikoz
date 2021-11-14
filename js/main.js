@@ -109,7 +109,7 @@
   function showTargetBookDetail(bookdetail){
 
     var base = document.createElement("a-entity");
-    base.setAttribute("id","bookdetailview");
+    base.setAttribute("id","targetbookdetailview");
     base.setAttribute("position","0 0 0.05");
     base.setAttribute("scale", "2 2");
 
