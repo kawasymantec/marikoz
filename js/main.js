@@ -664,7 +664,11 @@
       this.el.addEventListener('triggerup',  (event) => {
         if(this.selectedObj&&this.isTriggerd){
           if(this.selectedObj.getAttribute('isbn')){
-            document.getElementById("rig").dispatchEvent(new CustomEvent("book_select",{detail:{isbn: this.selectedObj.getAttribute('isbn')}}));
+            g_selectObject = this.selectedObj;
+            let pos = this.selectedObj.object3D.getWorldPosition(new THREE.Vector3());
+            let direction = this.selectedObj.object3D.getWorldDirection(new THREE.Vector3());
+            let popup_pos = direction.clone().multiplyScalar(0.05).add(pos);
+            document.getElementById("rig").dispatchEvent(new CustomEvent("book_select",{detail:{isbn: this.selectedObj.getAttribute('isbn'),pos: popup_pos.x + " " +popup_pos.y +" " + popup_pos.z,rotation: direction.x + " " + direction.y+ " "+ direction.z} }));
           }else{
 //            this.selectedObj.dispatchEvent(new Event("click"));
           }
