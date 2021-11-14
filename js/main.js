@@ -441,7 +441,8 @@
         this.target_book = g_BookDatas[keys[index]];
         showTargetBookDetail(this.target_book);
         showMessage("さあ、本を探しましょう！");
-//        showBookDetail(this.target_book,"0 0 0","0 0 0");
+        setTimeout(function(){showMessage("")},5000);
+        //        showBookDetail(this.target_book,"0 0 0","0 0 0");
         game_state = 1;
 
       });
@@ -449,10 +450,9 @@
       this.el.addEventListener("book_select", (event) => {
         //本情報の表示
         console.log(g_BookDatas[event.detail.isbn]);
-        if(target_book.isbn==event.detail.isbn){
+        if(this.target_book.isbn==event.detail.isbn){
           console.log("Target Find!");
           showMessage("素晴らしい！！");
-          setTimeout();
         }
         showBookDetail(g_BookDatas[event.detail.isbn],event.detail.pos,event.detail.rotation);
       });
