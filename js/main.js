@@ -768,11 +768,16 @@
   
   AFRAME.registerComponent('touch-checker', {
     init: function () {
+      this.isFirstTrigger = true;
       this.isTriggerd = false;
       this.selectedShelf = null; //選択中の棚
       //Trigger Pressed
       this.el.addEventListener('triggerdown',  (event) => {
         this.isTriggerd = true;
+        if(this.isFirstTrigger){
+          document.getElementById("top_logo").dispatchEvent(new Event("click"));
+          this.isFirstTrigger = false;
+        }
       });
       //Trigger Released
       this.el.addEventListener('triggerup',  (event) => {
