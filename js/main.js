@@ -116,6 +116,7 @@
     var backpanel = document.createElement("a-plane");
     backpanel.setAttribute("height",0.2);
     backpanel.setAttribute("width", 0.5);
+    backpanel.setAttribute("side","double");
     base.appendChild(backpanel);
     var bookimage = document.createElement("a-image");
     bookimage.setAttribute("height",0.12);
@@ -146,7 +147,7 @@
     var btnBuyText = titletext.cloneNode();
     btnBuyText.setAttribute("scale", "0.08 0.08");
     btnBuyText.setAttribute("value","購入");
-    btnBuyText.setAttribute("position","0 -0.04 0.002");
+    btnBuyText.setAttribute("position","0 -0.04 0.003");
     btnBuyText.setAttribute("align", "center");
     var btnDescText = btnBuyText.cloneNode();
     btnDescText.setAttribute("scale", "0.08 0.08");
