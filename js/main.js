@@ -14,10 +14,21 @@
   function showMessage(message){
     document.getElementById("debug-text").setAttribute("value",message);
   }
-
+  function escape(){
+    document.getElementById("rig").dispatchEvent(new CustomEvent("escape"));
+    playSE("wc");
+  }
   function zoomUp(){
     console.log("zoomUp");
     document.getElementById("camera").setAttribute("zoom",5);
+  }
+
+  function playBgm(){
+    let bgm = document.getElementById("sound_bgm");
+    if(bgm.paused){
+      bgm.play();
+    }
+
   }
 
   function zoomDown(){
@@ -149,6 +160,11 @@
     btnBuyText.setAttribute("value","購入");
     btnBuyText.setAttribute("position","0 -0.04 0.003");
     btnBuyText.setAttribute("align", "center");
+    var btnBuyBack = document.createElement("a-plane");
+    btnBuyBack.setAttribute("color","skyblue");
+    btnBuyBack.setAttribute("height",0.02);
+    btnBuyBack.setAttribute("width", 0.05);
+    btnBuyBack.setAttribute("position","0 -0.04 0.003");
     var btnDescText = btnBuyText.cloneNode();
     btnDescText.setAttribute("scale", "0.08 0.08");
     btnDescText.setAttribute("value","お題：この本を探して");
@@ -166,6 +182,7 @@
     base.appendChild(titletext);
     base.appendChild(authortext);
     base.appendChild(imprinttext);
+    base.appendChild(btnBuyBack);
     base.appendChild(btnBuyText);
     base.appendChild(btnBuy);
     document.getElementById("searchTarget").appendChild(base);
@@ -427,8 +444,19 @@
         this.el.appendChild(bottomShelf);
     }
   });
+  AFRAME.registerComponent("clicktoremove",{
+    init: function () {
+      this.bInit = false;
+      window.addEventListener('click',(event)=> {
+        this.bInit = true;
+        playBgm();
+        setTimeout(function(){
+          document.getElementById("top_logo").remove();
+        },3000);
+      });
+    }
 
-
+  });
   AFRAME.registerComponent("game_ctrl",{
     init: function () {
       game_state = 0;
@@ -441,9 +469,9 @@
         console.log("target isbn:" + keys[index]);
         this.target_book = g_BookDatas[keys[index]];
         showTargetBookDetail(this.target_book);
+        //        showBookDetail(this.target_book,"0 0 0","0 0 0");
         showMessage("さあ、本を探しましょう！");
         setTimeout(function(){showMessage("")},5000);
-        //        showBookDetail(this.target_book,"0 0 0","0 0 0");
         game_state = 1;
 
       });
@@ -459,8 +487,7 @@
       });
 
       this.el.addEventListener("answer", (event) => {
-        //回答
-        
+        //回答        
       });
       
       this.el.addEventListener("escape", (event) => {
