@@ -52,7 +52,7 @@
       <a-plane position="3.2 1 -5.94" rotation="0 0 0" height="2" opacity="0" class="collidable" onClick="escape();"></a-plane>
 
       <!-- 出題 -->
-      <a-plane position="3.35 1.5 -1.5" height="0.2" width="0.5" id="searchTarget"></a-plane>
+      <a-entity position="3.35 1.5 -1.5" id="searchTarget"></a-entity>
 
       <!-- 蛍光灯 -->
       <a-entity position="0 2.95 0">
@@ -217,7 +217,7 @@
 
       <a-plane src="#floor" repeat="20 20" position="0 0 0" rotation="-90 0 0" width="8.4" height="12"></a-plane>
       <a-entity id="rig" 
-      position="3.7 0 -0.5"
+      position="3.4 0 -0.8"
       raycaster="objects: .wall; far: 0.6; direction: 0 0 -1;"
       rotation="0 0 0"
       player
