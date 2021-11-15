@@ -49,7 +49,7 @@
 
     var base = document.createElement("a-entity");
     base.setAttribute("id","bookdetailview");
-    base.setAttribute("position","0 0 0.2");
+    base.setAttribute("position","0 0 0.1");
 //    base.setAttribute("rotation",rotation);
 
     var backpanel = document.createElement("a-plane");
@@ -82,6 +82,16 @@
     imprinttext.setAttribute("scale", "0.08 0.08");
     imprinttext.setAttribute("value",bookdetail.imprint.replaceAll(' ','　'));
     imprinttext.setAttribute("position","-0.14 0 0.002");
+    var btnBuyBack = document.createElement("a-plane");
+    btnBuyBack.setAttribute("color","skyblue");
+    btnBuyBack.setAttribute("height",0.022);
+    btnBuyBack.setAttribute("width", 0.05);
+    btnBuyBack.setAttribute("position","0 -0.04 0.001");
+    var btnCloseBack = document.createElement("a-plane");
+    btnCloseBack.setAttribute("color","skyblue");
+    btnCloseBack.setAttribute("height",0.022);
+    btnCloseBack.setAttribute("width", 0.05);
+    btnCloseBack.setAttribute("position","0.2 -0.04 0.001");
 
     var btnBuyText = titletext.cloneNode();
     btnBuyText.setAttribute("scale", "0.08 0.08");
@@ -93,9 +103,10 @@
     btnCloseText.setAttribute("value","閉じる");
     btnCloseText.setAttribute("position","0.2 -0.04 0.002");
     var btnBuy = document.createElement("a-plane");
-    btnBuy.setAttribute("height",0.02);
+    btnBuy.setAttribute("height",0.022);
     btnBuy.setAttribute("width", 0.05);
     btnBuy.setAttribute("position","0 -0.04 0.003");
+    btnBuy.setAttribute("opacity",0);
     btnBuy.classList.add("collidable");
     btnBuy.addEventListener('click',(event)=>{
       window.open(bookdetail.item_url);
@@ -104,6 +115,7 @@
     btnClose.setAttribute("height",0.02);
     btnClose.setAttribute("width", 0.05);
     btnClose.setAttribute("position","0.2 -0.04 0.003");
+    btnClose.setAttribute("opacity",0);
     btnClose.addEventListener('click',(event)=>{
       if(document.getElementById("bookdetailview")){
         document.getElementById("bookdetailview").remove();
@@ -113,6 +125,8 @@
     base.appendChild(titletext);
     base.appendChild(authortext);
     base.appendChild(imprinttext);
+    base.appendChild(btnBuyBack);
+    base.appendChild(btnCloseBack);
     base.appendChild(btnBuyText);
     base.appendChild(btnCloseText);
     base.appendChild(btnBuy);
@@ -164,22 +178,23 @@
     var btnBuyText = titletext.cloneNode();
     btnBuyText.setAttribute("scale", "0.08 0.08");
     btnBuyText.setAttribute("value","購入");
-    btnBuyText.setAttribute("position","0 -0.04 0.003");
+    btnBuyText.setAttribute("position","0 -0.04 0.002");
     btnBuyText.setAttribute("align", "center");
     var btnBuyBack = document.createElement("a-plane");
     btnBuyBack.setAttribute("color","skyblue");
-    btnBuyBack.setAttribute("height",0.02);
+    btnBuyBack.setAttribute("height",0.022);
     btnBuyBack.setAttribute("width", 0.05);
-    btnBuyBack.setAttribute("position","0 -0.04 0.003");
+    btnBuyBack.setAttribute("position","0 -0.04 0.001");
     var btnDescText = btnBuyText.cloneNode();
     btnDescText.setAttribute("scale", "0.08 0.08");
     btnDescText.setAttribute("value","お題：この本を探して");
     btnDescText.setAttribute("align", "left");
     btnDescText.setAttribute("position","-0.24 0.08 0.002");
     var btnBuy = document.createElement("a-plane");
-    btnBuy.setAttribute("height",0.02);
+    btnBuy.setAttribute("height",0.022);
     btnBuy.setAttribute("width", 0.05);
     btnBuy.setAttribute("position","0 -0.04 0.003");
+    btnBuy.setAttribute("opacity",0);
     btnBuy.classList.add("collidable");
     btnBuy.addEventListener('click',(event)=>{
       window.open(bookdetail.item_url);
