@@ -2,7 +2,7 @@
 <html lang="ja">
   <head>
     <meta charset="utf-8">
-    <title>mariko</title> 
+    <title>Vengardel-Z</title> 
     <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
   </head>
   <body>
@@ -228,7 +228,7 @@
         <a-entity id="camera" camera position="0 1.6 0" look-controls="pointerLockEnabled: false" >
           <a-entity raycaster="objects: .collidable;far:2;" cursor="rayOrigin:mouse; maxDistance: 30; " mouse-listener=""></a-entity>
           <a-text id="debug-text" position="0 -0.05 -0.5" scale= "0.2 0.2 0.2" value="ここは不思議な本屋" align="center" font="font/mplus-msdf.json" font-image="font/mplus-msdf.png" negate="false"></a-text>
-          <a-image id="top_logo" src="#logo" position="0 0 -0.49" rotation="0 0 0" width="0.85" height="0.5" clicktoremove></a-image>
+          <a-image id="top_logo" src="#logo" position="0 0 -0.49" rotation="0 0 0" width="0.85" height="0.5" remove-on-window-click></a-image>
         </a-entity>
       </a-entity>
       <a-sky color="#5CE5EC"></a-sky>

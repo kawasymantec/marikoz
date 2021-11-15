@@ -208,6 +208,23 @@
     base.appendChild(btnBuy);
     document.getElementById("searchTarget").appendChild(base);
   }
+  AFRAME.registerComponent('remove-on-window-click', {
+    init: function () {
+      this.onClick = this.onClick.bind(this);
+    },
+    play: function () {
+      window.addEventListener('click', this.onClick);
+    },
+    pause: function () {
+      window.removeEventListener('click', this.onClick);
+    },
+    onClick: function (evt) {
+      setTimeout(function(){
+        document.getElementById("top_logo").remove();
+      },5000);
+      playBgm();
+    }
+  });
 
   AFRAME.registerComponent("bookshelf", {
     schema: { 
