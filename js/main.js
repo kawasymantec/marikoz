@@ -138,6 +138,9 @@
   }
 
   function showTargetBookDetail(bookdetail){
+    if(document.getElementById("targetbookdetailview")){
+      document.getElementById("targetbookdetailview").remove();
+    }
 
     var base = document.createElement("a-entity");
     base.setAttribute("id","targetbookdetailview");
@@ -185,9 +188,20 @@
     btnBuyBack.setAttribute("height",0.022);
     btnBuyBack.setAttribute("width", 0.05);
     btnBuyBack.setAttribute("position","0 -0.04 0.001");
+    var btnStartBack = document.createElement("a-plane");
+    btnStartBack.setAttribute("color","skyblue");
+    btnStartBack.setAttribute("height",0.022);
+    btnStartBack.setAttribute("width", 0.07);
+    btnStartBack.setAttribute("position","0.2 -0.04 0.001");
+
+    var btnStartText = btnBuyText.cloneNode();
+    btnStartText.setAttribute("scale", "0.08 0.08");
+    btnStartText.setAttribute("value","スタート");
+    btnStartText.setAttribute("position","0.2 -0.04 0.002");
+
     var btnDescText = btnBuyText.cloneNode();
     btnDescText.setAttribute("scale", "0.08 0.08");
-    btnDescText.setAttribute("value","お題：この本を探して");
+    btnDescText.setAttribute("value","この本を探して");
     btnDescText.setAttribute("align", "left");
     btnDescText.setAttribute("position","-0.24 0.08 0.002");
     var btnBuy = document.createElement("a-plane");
@@ -199,6 +213,16 @@
     btnBuy.addEventListener('click',(event)=>{
       window.open(bookdetail.item_url);
     });
+    var btnStart = document.createElement("a-plane");
+    btnStart.setAttribute("height",0.02);
+    btnStart.setAttribute("width", 0.07);
+    btnStart.setAttribute("position","0.2 -0.04 0.003");
+    btnStart.setAttribute("opacity",0);
+    btnStart.addEventListener('click',(event)=>{
+      playBgm();
+    });
+    btnStart.classList.add("collidable");
+
     base.appendChild(btnDescText);
     base.appendChild(titletext);
     base.appendChild(authortext);
@@ -206,25 +230,20 @@
     base.appendChild(btnBuyBack);
     base.appendChild(btnBuyText);
     base.appendChild(btnBuy);
+    base.appendChild(btnStartBack);
+    base.appendChild(btnStartText);
+    base.appendChild(btnStart);
     document.getElementById("searchTarget").appendChild(base);
   }
-  AFRAME.registerComponent('remove-on-window-click', {
+  AFRAME.registerComponent('autoremove', {
     init: function () {
-      this.onClick = this.onClick.bind(this);
-    },
-    play: function () {
-      window.addEventListener('click', this.onClick);
-    },
-    pause: function () {
-      window.removeEventListener('click', this.onClick);
-    },
-    onClick: function (evt) {
+      var target = this.data.target;
       setTimeout(function(){
-        document.getElementById("top_logo").remove();
-      },5000);
-      playBgm();
+        document.getElementById(target).remove();
+      },10000);
     }
   });
+
 
   AFRAME.registerComponent("bookshelf", {
     schema: { 
