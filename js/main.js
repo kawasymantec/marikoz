@@ -16,7 +16,6 @@
   }
   function escape(){
     document.getElementById("rig").dispatchEvent(new CustomEvent("escape"));
-    playSE("wc");
   }
   function zoomUp(){
     console.log("zoomUp");
@@ -26,10 +25,17 @@
   function playBgm(){
     let bgm = document.getElementById("sound_bgm");
     if(bgm.paused){
+      bgm.volume=0.3;
       bgm.play();
     }
 
   }
+
+  function playSE(filename){
+    const se = new Audio(filename);
+    se.play();
+  }
+
 
   function zoomDown(){
     console.log("zoomDown");
@@ -481,6 +487,10 @@
         if(this.target_book.isbn==event.detail.isbn){
           console.log("Target Find!");
           showMessage("素晴らしい！！");
+          playSE("sound/clear.mp3");
+          setTimeout(function(){showMessage("")},3000);
+        }else{
+          playSE("sound/select.mp3");
         }
         showBookDetail(g_BookDatas[event.detail.isbn],event.detail.pos,event.detail.rotation);
       });
@@ -491,8 +501,9 @@
       
       this.el.addEventListener("escape", (event) => {
         //トイレ
-        showMessage("素晴らしい！！");
-        
+        showMessage("ナイス便意！！");
+        setTimeout(function(){showMessage("")},3000);
+        playSE("sound/wc_clear.mp3");
       });
       
     },
